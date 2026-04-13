@@ -1,7 +1,7 @@
 # Does AI reward the rich? Evidence from US labour markets
 
 ## Overview
-This project examines whether UK occupations with higher AI exposure show different patterns in wages, employment, and labour demand.
+This project examines whether US occupations with higher AI exposure show different patterns in wages and different employment levels using the AIOE occupation-level AI exposure index and BLS Occupational Employment and Wage Statistics
 
 ## Repository contents
 - `blog.ipynb` or `blog.qmd`: final project write-up
