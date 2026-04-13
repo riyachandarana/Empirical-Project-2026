@@ -1,4 +1,4 @@
-# Does AI Reward High-Skill Work? Evidence from US Labour Markets
+# Does AI reward high-skill work? Evidence from US Labour Markets
 
 ## Overview
 
