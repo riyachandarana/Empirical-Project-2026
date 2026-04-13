@@ -1,36 +1,43 @@
-# Does AI reward the rich? Evidence from US labour markets
+# Does AI Reward the Rich? Evidence from US Labour Markets
 
 ## Overview
-This project examines whether US occupations with higher AI exposure show different patterns in wages and different employment levels using the AIOE occupation-level AI exposure index and BLS Occupational Employment and Wage Statistics
 
-## Repository contents
-- `blog.ipynb` or `blog.qmd`: final project write-up
-- `src/`: cleaning, merging, modelling, and figure scripts
-- `data/`: raw, interim, and processed data
-- `output/`: generated figures and tables
+This project investigates whether artificial intelligence (AI) is reshaping labour market outcomes across occupations.
 
-## Data sources
-Place the raw files in:
-- `data/raw/aioe.csv`
-- `data/raw/employment.csv`
-- `data/raw/earnings.csv`
-- `data/raw/labour_demand.csv`
+Specifically, it examines whether occupations with higher exposure to AI:
+- earn higher wages
+- employ more or fewer workers
 
-## How to replicate
-1. Install dependencies:
-   `pip install -r requirements.txt`
+The analysis combines an occupation-level AI exposure index with US labour market data to explore how AI is associated with wages and employment.
 
-2. Run the scripts in order:
-   `python src/01_clean_aioe.py`
-   `python src/02_clean_employment.py`
-   `python src/03_clean_earnings.py`
-   `python src/04_clean_labour_demand.py`
-   `python src/05_build_crosswalk.py`
-   `python src/06_merge_data.py`
-   `python src/07_features.py`
-   `python src/08_regression.py`
-   `python src/09_ml.py`
-   `python src/10_figures.py`
+---
 
-## Final output
-Include the link to the rendered blog or web version here.
+## Research Question
+
+Does AI exposure increase wages and employment across occupations?
+
+---
+
+## Data Sources
+
+### 1. AI Exposure (AIOE Dataset)
+- Source: AI Occupation Exposure dataset
+- Used: Appendix A (occupation-level scores)
+- Variable:
+  - `ai_exposure`: degree to which occupations are exposed to AI
+
+### 2. Labour Market Data (BLS OEWS)
+- Source: US Bureau of Labor Statistics
+- Variables:
+  - `OCC_CODE` → occupation code
+  - `OCC_TITLE` → occupation name
+  - `TOT_EMP` → employment
+  - `A_MEDIAN` → median annual wage
+
+### Matching
+
+Datasets are merged using **SOC occupation codes**, ensuring consistency across sources.
+
+---
+
+## Project Structure
