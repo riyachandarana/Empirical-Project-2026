@@ -1,4 +1,4 @@
-# Does AI Reward the Rich? Evidence from US Labour Markets
+# Does AI Reward High-Skill Work? Evidence from US Labour Markets
 
 ## Overview
 
