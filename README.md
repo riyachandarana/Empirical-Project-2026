@@ -1,4 +1,4 @@
-# AI Exposure and the UK Labour Market
+# Does AI reward the rich? Evidence from US labour markets
 
 ## Overview
 This project examines whether UK occupations with higher AI exposure show different patterns in wages, employment, and labour demand.
