@@ -33,6 +33,9 @@ Occupations with higher AI exposure are likely to have higher wages on average, 
 These results suggest that AI complements high-skill work and may contribute to wage inequality.
 
 ---
+## Website Link 
+file:///Users/riyachandarana/Desktop/Empirical%20Project%202026/blog.html
+
 
 ## Data Sources
 
