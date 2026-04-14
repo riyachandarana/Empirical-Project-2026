@@ -1,20 +1,28 @@
-# Does AI reward high-skill work? Evidence from US Labour Markets
+# How AI Exposure Relates to Wages, Employment, and Labour Demand in the US Labour Market
+
+## Research Question 
+How is AI exposure associated with wages, employment, and labour demand across occupations in the US labour market?
 
 ## Overview
 
-This project investigates whether artificial intelligence (AI) is reshaping labour market outcomes across occupations.
+Some occupations appear more exposed to AI than others. But does that exposure line up with better pay, fewer workers, or stronger labour demand? By combining occupation-level measures of AI exposure with labour market data, this project examines how AI exposure is related to wages, employment, and job demand in the US.
 
-Specifically, it examines whether occupations with higher exposure to AI:
-- earn higher wages
-- employ more or fewer workers
+Some occupations appear more exposed to AI than others. But does that exposure line up with better pay, fewer workers, or stronger labour demand? By combining occupation-level measures of AI exposure with labour market data, this project examines how AI exposure is related to wages, employment, and job demand in the US.
 
-The analysis combines an occupation-level AI exposure index with US labour market data to explore how AI is associated with wages and employment.
+AI is often discussed as a major force reshaping work, but its relationship with pay, employment, and labour demand may differ sharply across occupations.
 
 ---
 
-## Research Question
+## Research outcome focus
 
-Does AI exposure increase wages and employment across occupations?
+1. Wages - tells us whether highly AI-exposed occupations tend to be better paid
+2. Employment - tells us whether highly AI-exposed occupations are concentrated in larger or smaller occupations
+3. Labour demand - this tells us whether highly AI-exposed occupations appear in stronger or weaker hiring demand.
+
+## Working Hypothesis 
+
+Occupations with higher AI exposure are likely to have higher wages on average, because many AI-exposed roles involve cognitive and professional tasks, but the relationship with employment and labour demand may be more mixed
+
 
 ---
 
