@@ -6,13 +6,6 @@ import pandas as pd
 from config import AIOE_CLEAN, EMPLOYMENT_CLEAN, CROSSWALK
 from utils import save_csv
 
-"""
-Build a title-based crosswalk from AI exposure occupation titles
-to UK occupation titles present in the employment data.
-
-You should manually review the output after running this.
-"""
-
 
 def best_match(title: str, choices: list[str]) -> tuple[str, float]:
     matches = difflib.get_close_matches(title, choices, n=1, cutoff=0.0)
