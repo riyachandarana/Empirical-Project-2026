@@ -1,4 +1,4 @@
-# How AI Exposure Relates to Wages, Employment, and Labour Demand in the US Labour Market
+# AI Exposure and the US Labour Market 
 
 ## Research Question 
 How is AI exposure associated with wages, employment, and labour demand across occupations in the US labour market?
