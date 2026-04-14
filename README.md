@@ -25,6 +25,12 @@ The analysis is conducted at the occupation level and focuses on associations ra
 
 Occupations with higher AI exposure are likely to have higher wages on average, because many AI-exposed roles involve cognitive and professional tasks, but the relationship with employment and labour demand may be more mixed
 
+## Key Findings 
+- AI exposure is strongly positively associated with wages  
+- A one-unit increase in AI exposure increases wages by ~22%  
+- AI exposure has only a weak relationship with employment  
+
+These results suggest that AI complements high-skill work and may contribute to wage inequality.
 
 ---
 
