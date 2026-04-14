@@ -7,9 +7,11 @@ How is AI exposure associated with wages, employment, and labour demand across o
 
 Some occupations appear more exposed to AI than others. But does that exposure line up with better pay, fewer workers, or stronger labour demand? By combining occupation-level measures of AI exposure with labour market data, this project examines how AI exposure is related to wages, employment, and job demand in the US.
 
-Some occupations appear more exposed to AI than others. But does that exposure line up with better pay, fewer workers, or stronger labour demand? By combining occupation-level measures of AI exposure with labour market data, this project examines how AI exposure is related to wages, employment, and job demand in the US.
-
 AI is often discussed as a major force reshaping work, but its relationship with pay, employment, and labour demand may differ sharply across occupations.
+
+AI exposure refers to the extent to which tasks within an occupation are exposed to current AI capabilities, rather than direct measures of firm-level AI adoption.
+
+The analysis is conducted at the occupation level and focuses on associations rather than making causal claims about AI adoption.
 
 ---
 
