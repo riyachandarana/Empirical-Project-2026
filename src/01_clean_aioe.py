@@ -2,20 +2,20 @@ import pandas as pd
 from config import AIOE_RAW, AIOE_CLEAN
 
 def main():
-    df = pd.read_excel(AIOE_RAW)
+    df = pd.read_excel(AIOE_RAW, sheet_name="Appendix A")
 
-    print(df.columns)  # check structure
-
-    # You may need to adjust column names after seeing output
     df = df.rename(columns={
-        "occupation_title": "occupation_title",
-        "ai_exposure": "ai_exposure"
+        "SOC Code": "occupation_code",
+        "Occupation Title": "occupation_title",
+        "AIOE": "ai_exposure"
     })
 
-    # Keep only relevant columns
-    df = df[["occupation_title", "ai_exposure"]].copy()
+    df = df[["occupation_code", "occupation_title", "ai_exposure"]].copy()
 
-    df = df.dropna()
+    df["occupation_code"] = df["occupation_code"].astype(str).str.strip()
+    df["occupation_title"] = df["occupation_title"].astype(str).str.strip()
+
+    df = df.dropna(subset=["occupation_code", "occupation_title", "ai_exposure"])
 
     df.to_csv(AIOE_CLEAN, index=False)
 
