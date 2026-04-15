@@ -1,36 +1,48 @@
 # Does AI exposure reward high-skill work? Evidence from US labour markets
 
 ## Research Question 
-How is occupation level AI exposure associated with wages, employment and labour demand in the US?
+To what extent is occupation level AI exposure associated with wages in the US labour market, after accounting for skill differences and what does this imply about whether AI complements or subsitutes labour?
 
 ## Overview
 
-Some occupations appear more exposed to AI than others. But does that exposure line up with better pay, fewer workers, or stronger labour demand? By combining occupation-level measures of AI exposure with labour market data, this project examines how AI exposure is related to wages, employment, and job demand in the US.
+Recent advances in AI are expected to reshape labour markets, but their impacts may differ across occupations depending on task content. This project examines whether occupations with higher exposure to AI exhibit different wage levels, employment patters and labour demand. 
 
-AI is often discussed as a major force reshaping work, but its relationship with pay, employment, and labour demand may differ sharply across occupations.
+Using occupation level measures of AI exposure combined with US labour market data with analysis focuses on cross sectional relationships between exposure and economic outcomes. Importantly AI exposure reflects the susceptibility of occupational takss to current AI capabilities rather than realised adoption. 
 
-AI exposure refers to the extent to which tasks within an occupation are exposed to current AI capabilities, rather than direct measures of firm-level AI adoption.
-
-The analysis is conducted at the occupation level and focuses on associations rather than making causal claims about AI adoption.
+The empirical approach is descriptive and associative rathaer than causal but aims to provide evidence on whether Ai is more likely to complement high skill labour or subsitute it.
 
 ---
 
 ## Research outcome focus
 
-1. Wages - tells us whether highly AI-exposed occupations tend to be better paid
-2. Employment - tells us whether highly AI-exposed occupations are concentrated in larger or smaller occupations
-3. Labour demand - this tells us whether highly AI-exposed occupations appear in stronger or weaker hiring demand.
+1. Wages - tests whether AI exposure is associated with higher returns to labour consistent with skill biased or task biased technological change
+2. Employment - examines whether AI exposed occupations are relatively larger or smaller providing evidence on potential displacement effects
+3. Labour demand - captures whether AI exposed occupations exhibit stronger hiring demand which may indicate complementarity rather than subsitution
 
 ## Working Hypothesis 
 
-Occupations with higher AI exposure are likely to have higher wages on average, because many AI-exposed roles involve cognitive and professional tasks, but the relationship with employment and labour demand may be more mixed
+Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high skill roles. however the relationship with employment and labour demand is ambigious, as AI may both augment productivity and displace routine labour depending on task composition 
 
 ## Key Findings 
 - AI exposure is strongly positively associated with wages  
-- A one-unit increase in AI exposure increases wages by ~22%  
+- A one-unit increase in AI exposure is associated with increases wages approximately by ~22%  
 - AI exposure has only a weak relationship with employment  
 
-These results suggest that AI complements high-skill work and may contribute to wage inequality.
+These findings are consistent with AI acting as a complement to high skill labour potentially reinforcing existing wage inequality across ocupation 
+
+## Methodology
+The analysis is conducted at the occupation level using cross-sectional regression models. The baseline specification is:
+
+log(wage)_i = β₀ + β₁ AI_exposure_i + ε_i
+
+where AI exposure is measured using occupation-level indices and wages are measured as median annual earnings.
+
+To account for confounding factors, extended specifications include controls for occupation characteristics such as:
+	•	education requirements
+	•	occupational group fixed effects
+	•	employment size
+
+All results are interpreted as associations rather than causal effects
 
 ---
 ## Website Link 
