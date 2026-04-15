@@ -47,6 +47,19 @@ def main() -> None:
         duplicates="drop",
     )
 
+education_map = {
+    "No formal educational credential": 0,
+    "High school diploma or equivalent": 1,
+    "Some college, no degree": 2,
+    "Postsecondary nondegree award": 2,
+    "Associate's degree": 3,
+    "Bachelor's degree": 4,
+    "Master's degree": 5,
+    "Doctoral or professional degree": 6,
+    }
+
+df["skill"] = df["education_required"].map(education_map)
+
     df = df.replace([np.inf, -np.inf], np.nan)
     df = df.dropna(
         subset=[
@@ -57,6 +70,7 @@ def main() -> None:
             "log_pay",
             "employment_growth",
             "advert_intensity",
+            "skill",
         ]
     )
 
