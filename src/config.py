@@ -18,10 +18,10 @@ for folder in [DATA_RAW, DATA_INTERIM, DATA_PROCESSED, FIGURES, TABLES]:
     folder.mkdir(parents=True, exist_ok=True)
 
 # Raw input files
-AIOE_RAW = DATA_RAW / "aioe.csv"
-EMPLOYMENT_RAW = DATA_RAW / "employment.csv"
-EARNINGS_RAW = DATA_RAW / "earnings.csv"
-LABOUR_DEMAND_RAW = DATA_RAW / "labour_demand.csv"
+AIOE_RAW = DATA_RAW / "aioe.xlsx"
+EMPLOYMENT_RAW = DATA_RAW / "employment.xlsx"
+EARNINGS_RAW = DATA_RAW / "earnings.xlsx"
+LABOUR_DEMAND_RAW = DATA_RAW / "labour_demand.xlsx"
 
 # Interim files
 AIOE_CLEAN = DATA_INTERIM / "aioe_clean.csv"
