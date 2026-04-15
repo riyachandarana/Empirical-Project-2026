@@ -1,7 +1,7 @@
-# AI Exposure and the US Labour Market 
+# Does AI exposure reward high-skill work? Evidence from US labour markets
 
 ## Research Question 
-How is AI exposure associated with wages, employment, and labour demand across occupations in the US labour market?
+How is occupation level AI exposure associated with wages, employment and labour demand in the US?
 
 ## Overview
 
