@@ -6,14 +6,15 @@ import statsmodels.api as sm
 from config import FEATURES, TABLES
 
 
-def run_model(df: pd.DataFrame, y_col: str) -> pd.DataFrame:
-    X = df[["ai_exposure"]].copy()
-    X = sm.add_constant(X)
-    y = df[y_col]
+def run_model(df: pd.DataFrame, y_col: str, x_cols: list[str], model_name: str) -> pd.DataFrame:
+    model_df = df[x_cols + [y_col]].dropna().copy()
 
-    model = sm.OLS(y, X, missing="drop").fit(cov_type="HC1")
+    X = sm.add_constant(model_df[x_cols])
+    y = model_df[y_col]
 
-    result = pd.DataFrame(
+    model = sm.OLS(y, X).fit(cov_type="HC1")
+
+    return pd.DataFrame(
         {
             "term": model.params.index,
             "coef": model.params.values,
@@ -22,16 +23,26 @@ def run_model(df: pd.DataFrame, y_col: str) -> pd.DataFrame:
             "r_squared": model.rsquared,
             "n": int(model.nobs),
             "outcome": y_col,
+            "model": model_name,
         }
     )
-    return result
 
 
 def main() -> None:
     df = pd.read_csv(FEATURES)
 
+    specs = [
+        ("baseline", ["ai_exposure"]),
+        ("with_skill", ["ai_exposure", "skill_proxy"]),
+    ]
+
     outcomes = ["log_pay", "employment_growth", "advert_intensity"]
-    results = [run_model(df, outcome) for outcome in outcomes]
+
+    results = []
+    for outcome in outcomes:
+        for model_name, x_cols in specs:
+            results.append(run_model(df, outcome, x_cols, model_name))
+
     out = pd.concat(results, ignore_index=True)
 
     out_path = TABLES / "regression_results.csv"
