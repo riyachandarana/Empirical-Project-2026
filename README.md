@@ -48,6 +48,16 @@ All results are interpreted as associations rather than causal effects
 ## Website Link 
 
 
+## Pipeline
+
+The project follows a sequential occupation-level pipeline:
+
+1. Clean each source dataset
+2. Build and apply the occupation crosswalk
+3. Merge datasets into a unified occupation-level file
+4. Construct derived variables such as log pay, employment growth, and advert intensity
+5. Run regression analysis
+6. Produce figures and final outputs
 
 ## Data Sources
 
