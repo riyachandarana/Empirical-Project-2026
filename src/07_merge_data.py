@@ -19,6 +19,7 @@ def main() -> None:
     earnings = pd.read_csv(EARNINGS_CLEAN)
     labour = pd.read_csv(LABOUR_DEMAND_CLEAN)
     crosswalk = pd.read_csv(CROSSWALK)
+    education = pd.read_csv("data/interim/education_clean.csv")
 
     # Map AIOE titles to occupation codes
     aioe_mapped = aioe.merge(
@@ -63,6 +64,11 @@ def main() -> None:
         labour_latest[["occupation_code", "adverts"]],
         on="occupation_code",
         how="left",
+    )
+    merged = merged.merge(
+    education[["occupation_code", "education_required"]],
+    on="occupation_code",
+    how="left",
     )
 
     save_csv(merged, MERGED)
