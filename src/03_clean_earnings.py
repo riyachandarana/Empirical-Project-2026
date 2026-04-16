@@ -2,7 +2,7 @@ import pandas as pd
 from config import EARNINGS_RAW, EARNINGS_CLEAN
 
 def main():
-    df = pd.read_excel(EARNINGS_RAW, sheet_name="national_M2023_dl")
+    df = pd.read_excel(EARNINGS_RAW, sheet_name="All May 2023 data")
 
     df = df.rename(columns={
         "OCC_CODE": "occupation_code",
