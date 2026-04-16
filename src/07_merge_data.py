@@ -7,7 +7,6 @@ from config import (
     EMPLOYMENT_CLEAN,
     EARNINGS_CLEAN,
     LABOUR_DEMAND_CLEAN,
-    CROSSWALK,
     MERGED,
 )
 from utils import save_csv
@@ -18,15 +17,15 @@ def main() -> None:
     emp = pd.read_csv(EMPLOYMENT_CLEAN)
     earnings = pd.read_csv(EARNINGS_CLEAN)
     labour = pd.read_csv(LABOUR_DEMAND_CLEAN)
-    crosswalk = pd.read_csv(CROSSWALK)
     education = pd.read_csv("data/interim/education_clean.csv")
 
-    # Map AIOE titles to occupation codes
-    aioe_mapped = aioe.merge(
-        crosswalk,
-        left_on="occupation_title",
-        right_on="aioe_occupation_title",
-        how="left",
+    # AIOE is already cleaned to occupation-code level
+    aioe_mapped = aioe[["occupation_code", "occupation_title", "ai_exposure"]].copy()
+
+    aioe_mapped = aioe_mapped.dropna(subset=["occupation_code", "ai_exposure"])
+    aioe_mapped = (
+        aioe_mapped.groupby("occupation_code", as_index=False)["ai_exposure"]
+        .mean()
     )
 
     aioe_mapped = aioe_mapped.dropna(subset=["occupation_code"])
