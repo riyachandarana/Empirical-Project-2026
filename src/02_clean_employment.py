@@ -4,6 +4,9 @@ from config import EMPLOYMENT_RAW, EMPLOYMENT_CLEAN
 def main():
     df = pd.read_excel(EMPLOYMENT_RAW, sheet_name="All May 2023 data")
 
+    # Keep only national U.S. occupation rows
+    df = df[(df["AREA"] == 99) & (df["AREA_TITLE"] == "U.S.")].copy()
+
     df = df.rename(columns={
         "OCC_CODE": "occupation_code",
         "OCC_TITLE": "occupation_name",
@@ -20,6 +23,7 @@ def main():
     df["year"] = 2023
 
     df = df.dropna(subset=["occupation_code", "occupation_name", "employment"])
+    df = df.drop_duplicates(subset=["occupation_code"])
 
     df.to_csv(EMPLOYMENT_CLEAN, index=False)
 
