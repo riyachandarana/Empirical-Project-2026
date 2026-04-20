@@ -51,19 +51,6 @@ To account for confounding factors, extended specifications include controls for
 All results are interpreted as associations rather than causal effects
 
 ---
-## Website Link
-https://riyachandarana.github.io/Empirical-Project-2026/
-
-## Pipeline
-
-The project follows a sequential occupation-level pipeline:
-
-1. Clean each source dataset
-2. Build and apply the occupation crosswalk
-3. Merge datasets into a unified occupation-level file
-4. Construct derived variables such as log pay, employment growth, and advert intensity
-5. Run regression analysis
-6. Produce figures and final outputs
 
 ## Data Sources
 
@@ -136,6 +123,9 @@ python src/09_regression.py
 Then generate the website:
 
 jupyter nbconvert –to html –execute blog.ipynb –output index
+
+## Website Link
+https://riyachandarana.github.io/Empirical-Project-2026/
 
 ### Notes 
 The analysis is cross-sectional and doesn't identify causal effects. AI exposure reflects task susceptibility rather than realisedadoption, and labour demand is measured using projectd openings rather than real time hiring data.
