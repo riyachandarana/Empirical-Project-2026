@@ -1,27 +1,31 @@
-# Does AI exposure reward high-skill work? Evidence from US labour markets
+# Does AI exposure reward high-skill work? 
+### Evidence from US labour markets
 
 ## Research Question 
-To what extent is occupation level AI exposure associated with wages in the US labour market, after accounting for skill differences and what does this imply about whether AI complements or subsitutes labour?
+To what extent is occupation level AI exposure associated with wages in the US labour market, after accounting for skill differences? What does this imply about whether AI complements or subsitutes labour?
 
 ## Overview
 
 Recent advances in AI are expected to reshape labour markets, but their impacts may differ across occupations depending on task content. This project examines whether occupations with higher exposure to AI exhibit different wage levels, employment patters and labour demand. 
 
-Using occupation level measures of AI exposure combined with US labour market data with analysis focuses on cross sectional relationships between exposure and economic outcomes. Importantly AI exposure reflects the susceptibility of occupational takss to current AI capabilities rather than realised adoption. 
+The analysis combines an occupation-level AI exposure index with US labour market data from the Bureau of Labor Statistics and education requirements from the National Employment Matrix. The empirical approach is cross-sectional and focuses on identifying associations rather than causal effects.
 
-The empirical approach is descriptive and associative rathaer than causal but aims to provide evidence on whether Ai is more likely to complement high skill labour or subsitute it.
+Importantly, AI exposure reflects the susceptibility of occupational tasks to current AI capabilities rather than realised adoption. The goal is to assess whether AI is more closely associated with high-skill complementarity or labour substitution.
 
 ---
 
 ## Research outcome focus
 
-1. Wages - tests whether AI exposure is associated with higher returns to labour consistent with skill biased or task biased technological change
-2. Employment - examines whether AI exposed occupations are relatively larger or smaller providing evidence on potential displacement effects
-3. Labour demand - captures whether AI exposed occupations exhibit stronger hiring demand which may indicate complementarity rather than subsitution
+- Wages:
+Tests whether AI exposure is associated with higher returns to labour consistent with skill biased or task biased technological change
+- Employment:
+Examines whether AI exposed occupations are relatively larger or smaller providing evidence on potential displacement effects
+- Labour demand:
+Captures whether AI exposed occupations exhibit stronger hiring demand which may indicate complementarity rather than subsitution
 
 ## Working Hypothesis 
 
-Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high skill roles. however the relationship with employment and labour demand is ambigious, as AI may both augment productivity and displace routine labour depending on task composition 
+Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high skill roles. The relationship with employment and labour demand is ambigious, as AI may both augment productivity and displace routine labour depending on task composition 
 
 ## Key Findings
 
@@ -40,9 +44,9 @@ log(wage)_i = β₀ + β₁ AI_exposure_i + ε_i
 where AI exposure is measured using occupation-level indices and wages are measured as median annual earnings.
 
 To account for confounding factors, extended specifications include controls for occupation characteristics such as:
-	•	education requirements
-	•	occupational group fixed effects
-	•	employment size
+	- education requirements
+	- occupational group fixed effects
+	- employment size
 
 All results are interpreted as associations rather than causal effects
 
@@ -63,23 +67,47 @@ The project follows a sequential occupation-level pipeline:
 
 ## Data Sources
 
-### 1. AI Exposure (AIOE Dataset)
-- Source: AI Occupation Exposure dataset
-- Used: Appendix A (occupation-level scores)
-- Variable:
-  - `ai_exposure`: degree to which occupations are exposed to AI
+1. AI Exposure (AIOE Dataset)
 
-### 2. Labour Market Data (BLS OEWS)
-- Source: US Bureau of Labor Statistics
-- Variables:
-  - `OCC_CODE` → occupation code
-  - `OCC_TITLE` → occupation name
-  - `TOT_EMP` → employment
-  - `A_MEDIAN` → median annual wage
+Source: AI Occupation Exposure dataset
+Variable:
+ai_exposure: degree to which occupations are exposed to AI
 
-### Matching
+2. Labour Market Data (BLS OEWS)
 
-Datasets are merged using **SOC occupation codes**, ensuring consistency across sources.
+Source: US Bureau of Labor Statistics
+Variables:
+OCC_CODE: occupation code
+OCC_TITLE: occupation name
+TOT_EMP: employment
+A_MEDIAN: median annual wage
+
+3. Labour Demand (Employment Projections)
+
+Source: BLS National Employment Matrix
+Variable:
+occupational openings as a proxy for labour demand
+
+4. Education (Skill Proxy)
+
+Source: BLS education requirements
+Variable:
+education_required converted into an ordinal skill measure
+
+### Data Matching
+
+All datasets are harmonised using SOC occupation codes to ensure consistency across sources. 
+
+### Pipeline
+
+The project follows a structured pipeline:
+
+1. Clean each source dataset
+2. Build and apply the occupation crosswalk
+3. Merge datasets into a unified occupation-level file
+4. Construct derived variables such as log pay, employment, and advert intensity
+5. Run regression analysis
+6. Produce figures and final outputs
 
 ---
 ## Project Structure
@@ -91,3 +119,23 @@ Datasets are merged using **SOC occupation codes**, ensuring consistency across 
 - `src/` cleaning, merging, feature construction, and modelling scripts
 - `blog.ipynb` notebook used to generate the website
 - `index.html` rendered website for GitHub Pages
+
+### How to Replicate
+
+Run the following scripts in order:
+
+python src/02_clean_employment.py
+python src/03_clean_earnings.py
+python src/04_clean_labour_demand.py
+python src/05_clean_education.py
+python src/05_build_crosswalk.py
+python src/07_merge_data.py
+python src/08_features.py
+python src/09_regression.py
+
+Then generate the website:
+
+jupyter nbconvert –to html –execute blog.ipynb –output index
+
+### Notes 
+The analysis is cross-sectional and doesn't identify causal effects. AI exposure reflects task susceptibility rather than realisedadoption, and labour demand is measured using projectd openings rather than real time hiring data.
