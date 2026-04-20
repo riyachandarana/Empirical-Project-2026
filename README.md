@@ -2,11 +2,11 @@
 ### Evidence from US labour markets
 
 ## Research Question 
-To what extent is occupation level AI exposure associated with wages in the US labour market, after accounting for skill differences? What does this imply about whether AI complements or subsitutes labour?
+To what extent is occupation-level AI exposure associated with wages in the US labour market, after accounting for skill differences? What does this imply about whether AI complements or substitutes labour?
 
 ## Overview
 
-Recent advances in AI are expected to reshape labour markets, but their impacts may differ across occupations depending on task content. This project examines whether occupations with higher exposure to AI exhibit different wage levels, employment patters and labour demand. 
+Recent advances in AI are expected to reshape labour markets, but their impacts may differ across occupations depending on task content. This project examines whether occupations with higher exposure to AI exhibit different wage levels, employment patterns and labour demand. 
 
 The analysis combines an occupation-level AI exposure index with US labour market data from the Bureau of Labor Statistics and education requirements from the National Employment Matrix. The empirical approach is cross-sectional and focuses on identifying associations rather than causal effects.
 
@@ -16,16 +16,13 @@ Importantly, AI exposure reflects the susceptibility of occupational tasks to cu
 
 ## Research outcome focus
 
-- Wages:
-Tests whether AI exposure is associated with higher returns to labour consistent with skill biased or task biased technological change
-- Employment:
-Examines whether AI exposed occupations are relatively larger or smaller providing evidence on potential displacement effects
-- Labour demand:
-Captures whether AI exposed occupations exhibit stronger hiring demand which may indicate complementarity rather than subsitution
+- Wages:Tests Whether AI exposure is associated with higher returns to labour consistent with skill-biased or task-biased technological change
+- Employment: Examines whether AI-exposed occupations are relatively larger or smaller providing evidence on potential displacement effects
+- Labour demand: Captures whether AI-exposed occupations exhibit stronger hiring demand which may indicate complementarity rather than substitution
 
 ## Working Hypothesis 
 
-Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high skill roles. The relationship with employment and labour demand is ambigious, as AI may both augment productivity and displace routine labour depending on task composition 
+Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high-skill roles. The relationship with employment and labour demand is ambiguous, as AI may both augment productivity and displace routine labour depending on task composition 
 
 ## Key Findings
 
@@ -64,22 +61,22 @@ ai_exposure: degree to which occupations are exposed to AI
 
 Source: US Bureau of Labor Statistics
 Variables:
-OCC_CODE: occupation code
-OCC_TITLE: occupation name
-TOT_EMP: employment
-A_MEDIAN: median annual wage
+- OCC_CODE: occupation code
+- OCC_TITLE: occupation name
+- TOT_EMP: employment
+- A_MEDIAN: median annual wage
 
 3. Labour Demand (Employment Projections)
 
 Source: BLS National Employment Matrix
 Variable:
-occupational openings as a proxy for labour demand
+- occupational openings as a proxy for labour demand
 
 4. Education (Skill Proxy)
 
 Source: BLS education requirements
 Variable:
-education_required converted into an ordinal skill measure
+- education_required converted into an ordinal skill measure
 
 ### Data Matching
 
@@ -122,10 +119,10 @@ python src/09_regression.py
 
 Then generate the website:
 
-jupyter nbconvert –to html –execute blog.ipynb –output index
+jupyter nbconvert --to html --execute blog.ipynb --output index
 
 ## Website Link
 https://riyachandarana.github.io/Empirical-Project-2026/
 
 ### Notes 
-The analysis is cross-sectional and doesn't identify causal effects. AI exposure reflects task susceptibility rather than realisedadoption, and labour demand is measured using projectd openings rather than real time hiring data.
+The analysis is cross-sectional and doesn't identify causal effects. AI exposure reflects task susceptibility rather than realised adoption, and labour demand is measured using projected openings rather than real time hiring data.
