@@ -23,12 +23,14 @@ The empirical approach is descriptive and associative rathaer than causal but ai
 
 Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high skill roles. however the relationship with employment and labour demand is ambigious, as AI may both augment productivity and displace routine labour depending on task composition 
 
-## Key Findings 
-- AI exposure is strongly positively associated with wages  
-- A one-unit increase in AI exposure is associated with increases wages approximately by ~22%  
-- AI exposure has only a weak relationship with employment  
+## Key Findings
 
-These findings are consistent with AI acting as a complement to high skill labour potentially reinforcing existing wage inequality across ocupation 
+- In raw comparisons, occupations with higher AI exposure tend to have higher wages.
+- Once occupational skill is controlled for, the wage effect becomes much smaller and often statistically insignificant.
+- AI exposure remains positively associated with employment levels across occupations.
+- There is no robust relationship between AI exposure and labour demand once controls are included.
+
+These results suggest that AI is concentrated in already high-skill, high-paying occupations rather than independently raising wage returns.
 
 ## Methodology
 The analysis is conducted at the occupation level using cross-sectional regression models. The baseline specification is:
@@ -45,8 +47,8 @@ To account for confounding factors, extended specifications include controls for
 All results are interpreted as associations rather than causal effects
 
 ---
-## Website Link 
-
+## Website Link
+https://riyachandarana.github.io/Empirical-Project-2026/
 
 ## Pipeline
 
@@ -80,5 +82,12 @@ The project follows a sequential occupation-level pipeline:
 Datasets are merged using **SOC occupation codes**, ensuring consistency across sources.
 
 ---
-
 ## Project Structure
+
+- `data/raw/` raw source files
+- `data/interim/` cleaned intermediate files
+- `data/processed/` merged and final datasets
+- `output/tables/` regression outputs
+- `src/` cleaning, merging, feature construction, and modelling scripts
+- `blog.ipynb` notebook used to generate the website
+- `index.html` rendered website for GitHub Pages
