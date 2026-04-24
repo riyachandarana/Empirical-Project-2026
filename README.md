@@ -104,10 +104,13 @@ The project follows a structured pipeline:
 - `blog.ipynb` notebook used to generate the website
 - `index.html` rendered website for GitHub Pages
 
-### How to Replicate
+## How to Replicate
+### Run the data pipeline
 
 Run the following scripts in order:
 
+```bash
+python src/01_clean_aioe.py
 python src/02_clean_employment.py
 python src/03_clean_earnings.py
 python src/04_clean_labour_demand.py
