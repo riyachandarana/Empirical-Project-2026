@@ -105,6 +105,22 @@ The project follows a structured pipeline:
 - `index.html` rendered website for GitHub Pages
 
 ## How to Replicate
+## Data Setup
+
+Raw data files are not included due to size and licensing constraints.
+
+To replicate the analysis, download:
+
+- AI Occupation Exposure dataset (AIOE)
+- BLS OEWS employment and earnings data (May 2023)
+- BLS National Employment Matrix (labour demand and education)
+
+Place all files in:
+
+data/raw/
+
+File names must match those used in the scripts (e.g. aioe.xlsx, employment.xlsx).
+
 ### Run the data pipeline
 
 Run the following scripts in order:
