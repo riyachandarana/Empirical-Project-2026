@@ -109,7 +109,6 @@ The project follows a structured pipeline:
 
 Run the following scripts in order:
 
-```bash
 python src/01_clean_aioe.py
 python src/02_clean_employment.py
 python src/03_clean_earnings.py
