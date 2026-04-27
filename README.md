@@ -123,24 +123,30 @@ File names must match those used in the scripts (e.g. aioe.xlsx, employment.xlsx
 
 ### Run the data pipeline
 
-Run the following scripts in order:
+First install dependencies:
 
-python src/00_check_data.py      
-python src/01_clean_aioe.py
-python src/02_clean_employment.py
-python src/03_clean_earnings.py
-python src/04_clean_labour_demand.py
-python src/05_clean_education.py
-python src/06_build_crosswalk.py
-python src/07_standardise_names.py
-python src/08_merge_data.py
-python src/09_features.py
-python src/10_regression.py
-python src/11_figures.py
+    pip install -r requirements.txt
+
+Then run the following scripts in order:
+
+    python src/00_check_data.py        # Optional: checks raw files are in place
+    python src/01_clean_aioe.py
+    python src/02_clean_employment.py
+    python src/03_clean_earnings.py
+    python src/04_clean_labour_demand.py
+    python src/05_clean_education.py
+    python src/06_build_crosswalk.py
+    python src/07_standardise_names.py
+    python src/08_merge_data.py
+    python src/09_features.py
+    python src/10_regression.py
+    python src/11_random_forest.py
+    python src/12_figures.py
 
 Then generate the website:
 
-jupyter nbconvert --to html --execute blog.ipynb --output index
+    jupyter nbconvert --to html --execute blog.ipynb --output index
+
 
 ## Website Link
 https://riyachandarana.github.io/Empirical-Project-2026/
