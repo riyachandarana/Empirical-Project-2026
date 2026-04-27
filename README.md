@@ -108,18 +108,13 @@ The project follows a structured pipeline:
 ## Data Setup
 
 Raw data files are not included due to size and licensing constraints.
+Download the following files and place them in `data/raw/`:
 
-To replicate the analysis, download:
-
-- AI Occupation Exposure dataset (AIOE)
-- BLS OEWS employment and earnings data (May 2023)
-- BLS National Employment Matrix (labour demand and education)
-
-Place all files in:
-
-data/raw/
-
-File names must match those used in the scripts (e.g. aioe.xlsx, employment.xlsx).
+| AI Occupation Exposure dataset | https://www.nber.org/research/data/ai-occupational-exposure | `aioe.xlsx` |
+| BLS OEWS May 2023 (employment) | https://www.bls.gov/oes/tables.htm | `employment.xlsx` |
+| BLS OEWS May 2023 (earnings) | https://www.bls.gov/oes/tables.htm | `earnings.xlsx` |
+| BLS Employment Projections Table 1.10 | https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm | `labour_demand.xlsx` |
+| BLS Education requirements Table 5.4 | https://www.bls.gov/emp/tables/education-and-training-by-occupation.htm | `education.xlsx` |
 
 ### Run the data pipeline
 
