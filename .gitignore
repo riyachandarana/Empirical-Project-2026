@@ -17,3 +17,5 @@ output/figures/
 
 # Keep regression tables tracked
 # output/tables/ -> tracked
+.ipynb_checkpoints/
+anaconda_projects/
