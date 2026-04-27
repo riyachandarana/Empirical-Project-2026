@@ -19,3 +19,6 @@ output/figures/
 # output/tables/ -> tracked
 .ipynb_checkpoints/
 anaconda_projects/
+.ipynb_checkpoints/
+anaconda_projects/
+empirical project 2026/
