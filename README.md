@@ -110,11 +110,14 @@ The project follows a structured pipeline:
 Raw data files are not included due to size and licensing constraints.
 Download the following files and place them in `data/raw/`:
 
-| AI Occupation Exposure dataset | https://www.nber.org/research/data/ai-occupational-exposure | `aioe.xlsx` |
-| BLS OEWS May 2023 (employment) | https://www.bls.gov/oes/tables.htm | `employment.xlsx` |
-| BLS OEWS May 2023 (earnings) | https://www.bls.gov/oes/tables.htm | `earnings.xlsx` |
-| BLS Employment Projections Table 1.10 | https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm | `labour_demand.xlsx` |
-| BLS Education requirements Table 5.4 | https://www.bls.gov/emp/tables/education-and-training-by-occupation.htm | `education.xlsx` |
+| Dataset | URL | Filename |
+|---|---|---|
+| AI Occupation Exposure | https://www.nber.org/research/data/ai-occupational-exposure | aioe.xlsx |
+| BLS OEWS May 2023 (employment) | https://www.bls.gov/oes/tables.htm | employment.xlsx |
+| BLS OEWS May 2023 (earnings) | https://www.bls.gov/oes/tables.htm | earnings.xlsx |
+| BLS Employment Projections Table 1.10 | https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm | labour_demand.xlsx |
+| BLS Education requirements Table 5.4 | https://www.bls.gov/emp/tables/education-and-training-by-occupation.htm | education.xlsx |
+
 
 ### Run the data pipeline
 
@@ -140,7 +143,7 @@ Then run the following scripts in order:
 
 Then generate the website:
 
-    jupyter nbconvert --to html --execute blog.ipynb --output index
+   jupyter nbconvert --to html --execute blog.ipynb --output index --ExecutePreprocessor.kernel_name=python3 --no-input
 
 
 ## Website Link
