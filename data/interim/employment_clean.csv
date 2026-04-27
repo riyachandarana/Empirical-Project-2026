@@ -1,0 +1,1397 @@
+occupation_code,occupation_name,employment,year,occ_clean
+00-0000,All Occupations,151853870.0,2023,all occupations
+11-0000,Management Occupations,10495770.0,2023,management occupations
+11-1000,Top Executives,3751510.0,2023,top executives
+11-1010,Chief Executives,211230.0,2023,chief executives
+11-1011,Chief Executives,211230.0,2023,chief executives
+11-1020,General and Operations Managers,3507810.0,2023,general operations managers
+11-1021,General and Operations Managers,3507810.0,2023,general operations managers
+11-1030,Legislators,32460.0,2023,legislators
+11-1031,Legislators,32460.0,2023,legislators
+11-2000,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",1070030.0,2023,advertising marketing promotions public relations sales managers
+11-2010,Advertising and Promotions Managers,20630.0,2023,advertising promotions managers
+11-2011,Advertising and Promotions Managers,20630.0,2023,advertising promotions managers
+11-2020,Marketing and Sales Managers,944820.0,2023,marketing sales managers
+11-2021,Marketing Managers,368940.0,2023,marketing managers
+11-2022,Sales Managers,575880.0,2023,sales managers
+11-2030,Public Relations and Fundraising Managers,104570.0,2023,public relations fundraising managers
+11-2032,Public Relations Managers,72760.0,2023,public relations managers
+11-2033,Fundraising Managers,31810.0,2023,fundraising managers
+11-3000,Operations Specialties Managers,2513900.0,2023,operations specialties managers
+11-3010,Administrative Services and Facilities Managers,373920.0,2023,administrative services facilities managers
+11-3012,Administrative Services Managers,242520.0,2023,administrative services managers
+11-3013,Facilities Managers,131400.0,2023,facilities managers
+11-3020,Computer and Information Systems Managers,592600.0,2023,computer information systems managers
+11-3021,Computer and Information Systems Managers,592600.0,2023,computer information systems managers
+11-3030,Financial Managers,787340.0,2023,financial managers
+11-3031,Financial Managers,787340.0,2023,financial managers
+11-3050,Industrial Production Managers,222890.0,2023,industrial production managers
+11-3051,Industrial Production Managers,222890.0,2023,industrial production managers
+11-3060,Purchasing Managers,77530.0,2023,purchasing managers
+11-3061,Purchasing Managers,77530.0,2023,purchasing managers
+11-3070,"Transportation, Storage, and Distribution Managers",198780.0,2023,transportation storage distribution managers
+11-3071,"Transportation, Storage, and Distribution Managers",198780.0,2023,transportation storage distribution managers
+11-3110,Compensation and Benefits Managers,18690.0,2023,compensation benefits managers
+11-3111,Compensation and Benefits Managers,18690.0,2023,compensation benefits managers
+11-3120,Human Resources Managers,200600.0,2023,human resources managers
+11-3121,Human Resources Managers,200600.0,2023,human resources managers
+11-3130,Training and Development Managers,41540.0,2023,training development managers
+11-3131,Training and Development Managers,41540.0,2023,training development managers
+11-9000,Other Management Occupations,3160340.0,2023,other management occupations
+11-9010,"Farmers, Ranchers, and Other Agricultural Managers",6150.0,2023,farmers ranchers other agricultural managers
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",6150.0,2023,farmers ranchers other agricultural managers
+11-9020,Construction Managers,329190.0,2023,construction managers
+11-9021,Construction Managers,329190.0,2023,construction managers
+11-9030,Education and Childcare Administrators,584630.0,2023,education childcare administrators
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",64090.0,2023,education childcare administrators preschool daycare
+11-9032,"Education Administrators, Kindergarten through Secondary",302580.0,2023,education administrators kindergarten through secondary
+11-9033,"Education Administrators, Postsecondary",167270.0,2023,education administrators postsecondary
+11-9039,"Education Administrators, All Other",50690.0,2023,education administrators all other
+11-9040,Architectural and Engineering Managers,207800.0,2023,architectural engineering managers
+11-9041,Architectural and Engineering Managers,207800.0,2023,architectural engineering managers
+11-9050,Food Service Managers,246070.0,2023,food service managers
+11-9051,Food Service Managers,246070.0,2023,food service managers
+11-9070,Entertainment and Recreation Managers,34290.0,2023,entertainment recreation managers
+11-9071,Gambling Managers,4590.0,2023,gambling managers
+11-9072,"Entertainment and Recreation Managers, Except Gambling",29690.0,2023,entertainment recreation managers except gambling
+11-9080,Lodging Managers,41980.0,2023,lodging managers
+11-9081,Lodging Managers,41980.0,2023,lodging managers
+11-9110,Medical and Health Services Managers,515100.0,2023,medical health services managers
+11-9111,Medical and Health Services Managers,515100.0,2023,medical health services managers
+11-9120,Natural Sciences Managers,96520.0,2023,natural sciences managers
+11-9121,Natural Sciences Managers,96520.0,2023,natural sciences managers
+11-9130,Postmasters and Mail Superintendents,13810.0,2023,postmasters mail superintendents
+11-9131,Postmasters and Mail Superintendents,13810.0,2023,postmasters mail superintendents
+11-9140,"Property, Real Estate, and Community Association Managers",284120.0,2023,property real estate community association managers
+11-9141,"Property, Real Estate, and Community Association Managers",284120.0,2023,property real estate community association managers
+11-9150,Social and Community Service Managers,173650.0,2023,social community service managers
+11-9151,Social and Community Service Managers,173650.0,2023,social community service managers
+11-9160,Emergency Management Directors,11910.0,2023,emergency management directors
+11-9161,Emergency Management Directors,11910.0,2023,emergency management directors
+11-9170,Personal Service Managers,25370.0,2023,personal service managers
+11-9171,Funeral Home Managers,14200.0,2023,funeral home managers
+11-9179,"Personal Service Managers, All Other",11170.0,2023,personal service managers all other
+11-9190,Miscellaneous Managers,589750.0,2023,miscellaneous managers
+11-9199,"Managers, All Other",589750.0,2023,managers all other
+13-0000,Business and Financial Operations Occupations,10087830.0,2023,business financial operations occupations
+13-1000,Business Operations Specialists,7048350.0,2023,business operations specialists
+13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",12870.0,2023,agents business managers of artists performers athletes
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",12870.0,2023,agents business managers of artists performers athletes
+13-1020,Buyers and Purchasing Agents,477980.0,2023,buyers purchasing agents
+13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",302450.0,2023,claims adjusters appraisers examiners investigators
+13-1031,"Claims Adjusters, Examiners, and Investigators",293780.0,2023,claims adjusters examiners investigators
+13-1032,"Insurance Appraisers, Auto Damage",8670.0,2023,insurance appraisers auto damage
+13-1040,Compliance Officers,383620.0,2023,compliance officers
+13-1041,Compliance Officers,383620.0,2023,compliance officers
+13-1050,Cost Estimators,220970.0,2023,cost estimators
+13-1051,Cost Estimators,220970.0,2023,cost estimators
+13-1070,Human Resources Workers,959230.0,2023,human resources workers
+13-1071,Human Resources Specialists,895970.0,2023,human resources specialists
+13-1074,Farm Labor Contractors,460.0,2023,farm labor contractors
+13-1075,Labor Relations Specialists,62800.0,2023,labor relations specialists
+13-1080,Logisticians and Project Management Specialists,1176100.0,2023,logisticians project management specialists
+13-1081,Logisticians,228470.0,2023,logisticians
+13-1082,Project Management Specialists,947630.0,2023,project management specialists
+13-1110,Management Analysts,838140.0,2023,management analysts
+13-1111,Management Analysts,838140.0,2023,management analysts
+13-1120,"Meeting, Convention, and Event Planners",122130.0,2023,meeting convention event planners
+13-1121,"Meeting, Convention, and Event Planners",122130.0,2023,meeting convention event planners
+13-1130,Fundraisers,101730.0,2023,fundraisers
+13-1131,Fundraisers,101730.0,2023,fundraisers
+13-1140,"Compensation, Benefits, and Job Analysis Specialists",99850.0,2023,compensation benefits job analysis specialists
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",99850.0,2023,compensation benefits job analysis specialists
+13-1150,Training and Development Specialists,403480.0,2023,training development specialists
+13-1151,Training and Development Specialists,403480.0,2023,training development specialists
+13-1160,Market Research Analysts and Marketing Specialists,846370.0,2023,market research analysts marketing specialists
+13-1161,Market Research Analysts and Marketing Specialists,846370.0,2023,market research analysts marketing specialists
+13-1190,Miscellaneous Business Operations Specialists,1103440.0,2023,miscellaneous business operations specialists
+13-1199,"Business Operations Specialists, All Other",1103440.0,2023,business operations specialists all other
+13-2000,Financial Specialists,3039480.0,2023,financial specialists
+13-2010,Accountants and Auditors,1435770.0,2023,accountants auditors
+13-2011,Accountants and Auditors,1435770.0,2023,accountants auditors
+13-2020,Property Appraisers and Assessors,62090.0,2023,property appraisers assessors
+13-2030,Budget Analysts,47310.0,2023,budget analysts
+13-2031,Budget Analysts,47310.0,2023,budget analysts
+13-2040,Credit Analysts,73200.0,2023,credit analysts
+13-2041,Credit Analysts,73200.0,2023,credit analysts
+13-2050,Financial Analysts and Advisors,753990.0,2023,financial analysts advisors
+13-2051,Financial and Investment Analysts,325220.0,2023,financial investment analysts
+13-2052,Personal Financial Advisors,272190.0,2023,personal financial advisors
+13-2053,Insurance Underwriters,101310.0,2023,insurance underwriters
+13-2054,Financial Risk Specialists,55290.0,2023,financial risk specialists
+13-2060,Financial Examiners,63440.0,2023,financial examiners
+13-2061,Financial Examiners,63440.0,2023,financial examiners
+13-2070,Credit Counselors and Loan Officers,349040.0,2023,credit counselors loan officers
+13-2071,Credit Counselors,27950.0,2023,credit counselors
+13-2072,Loan Officers,321090.0,2023,loan officers
+13-2080,"Tax Examiners, Collectors and Preparers, and Revenue Agents",131910.0,2023,tax examiners collectors preparers revenue agents
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",50250.0,2023,tax examiners collectors revenue agents
+13-2082,Tax Preparers,81650.0,2023,tax preparers
+13-2090,Miscellaneous Financial Specialists,122730.0,2023,miscellaneous financial specialists
+13-2099,"Financial Specialists, All Other",122730.0,2023,financial specialists all other
+15-0000,Computer and Mathematical Occupations,5177400.0,2023,computer mathematical occupations
+15-1200,Computer Occupations,4804840.0,2023,computer occupations
+15-1210,Computer and Information Analysts,674170.0,2023,computer information analysts
+15-1211,Computer Systems Analysts,498810.0,2023,computer systems analysts
+15-1212,Information Security Analysts,175350.0,2023,information security analysts
+15-1220,Computer and Information Research Scientists,35210.0,2023,computer information research scientists
+15-1221,Computer and Information Research Scientists,35210.0,2023,computer information research scientists
+15-1230,Computer Support Specialists,848420.0,2023,computer support specialists
+15-1231,Computer Network Support Specialists,158720.0,2023,computer network support specialists
+15-1232,Computer User Support Specialists,689700.0,2023,computer user support specialists
+15-1240,Database and Network Administrators and Architects,633180.0,2023,database network administrators architects
+15-1241,Computer Network Architects,174100.0,2023,computer network architects
+15-1242,Database Administrators,76140.0,2023,database administrators
+15-1243,Database Architects,59920.0,2023,database architects
+15-1244,Network and Computer Systems Administrators,323020.0,2023,network computer systems administrators
+15-1250,"Software and Web Developers, Programmers, and Testers",2176710.0,2023,software web developers programmers testers
+15-1251,Computer Programmers,120370.0,2023,computer programmers
+15-1252,Software Developers,1656880.0,2023,software developers
+15-1253,Software Quality Assurance Analysts and Testers,203040.0,2023,software quality assurance analysts testers
+15-1254,Web Developers,85350.0,2023,web developers
+15-1255,Web and Digital Interface Designers,111060.0,2023,web digital interface designers
+15-1290,Miscellaneous Computer Occupations,437170.0,2023,miscellaneous computer occupations
+15-1299,"Computer Occupations, All Other",437170.0,2023,computer occupations all other
+15-2000,Mathematical Science Occupations,372550.0,2023,mathematical science occupations
+15-2010,Actuaries,25470.0,2023,actuaries
+15-2011,Actuaries,25470.0,2023,actuaries
+15-2020,Mathematicians,2220.0,2023,mathematicians
+15-2021,Mathematicians,2220.0,2023,mathematicians
+15-2030,Operations Research Analysts,117880.0,2023,operations research analysts
+15-2031,Operations Research Analysts,117880.0,2023,operations research analysts
+15-2040,Statisticians,29950.0,2023,statisticians
+15-2041,Statisticians,29950.0,2023,statisticians
+15-2050,Data Scientists,192710.0,2023,data scientists
+15-2051,Data Scientists,192710.0,2023,data scientists
+15-2090,Miscellaneous Mathematical Science Occupations,4320.0,2023,miscellaneous mathematical science occupations
+15-2099,"Mathematical Science Occupations, All Other",4320.0,2023,mathematical science occupations all other
+17-0000,Architecture and Engineering Occupations,2539660.0,2023,architecture engineering occupations
+17-1000,"Architects, Surveyors, and Cartographers",194610.0,2023,architects surveyors cartographers
+17-1010,"Architects, Except Naval",131540.0,2023,architects except naval
+17-1011,"Architects, Except Landscape and Naval",111170.0,2023,architects except landscape naval
+17-1012,Landscape Architects,20370.0,2023,landscape architects
+17-1020,"Surveyors, Cartographers, and Photogrammetrists",63070.0,2023,surveyors cartographers photogrammetrists
+17-1021,Cartographers and Photogrammetrists,12330.0,2023,cartographers photogrammetrists
+17-1022,Surveyors,50740.0,2023,surveyors
+17-2000,Engineers,1703700.0,2023,engineers
+17-2010,Aerospace Engineers,66660.0,2023,aerospace engineers
+17-2011,Aerospace Engineers,66660.0,2023,aerospace engineers
+17-2020,Agricultural Engineers,1860.0,2023,agricultural engineers
+17-2021,Agricultural Engineers,1860.0,2023,agricultural engineers
+17-2030,Bioengineers and Biomedical Engineers,19320.0,2023,bioengineers biomedical engineers
+17-2031,Bioengineers and Biomedical Engineers,19320.0,2023,bioengineers biomedical engineers
+17-2040,Chemical Engineers,21140.0,2023,chemical engineers
+17-2041,Chemical Engineers,21140.0,2023,chemical engineers
+17-2050,Civil Engineers,327950.0,2023,civil engineers
+17-2051,Civil Engineers,327950.0,2023,civil engineers
+17-2060,Computer Hardware Engineers,82660.0,2023,computer hardware engineers
+17-2061,Computer Hardware Engineers,82660.0,2023,computer hardware engineers
+17-2070,Electrical and Electronics Engineers,281840.0,2023,electrical electronics engineers
+17-2071,Electrical Engineers,185430.0,2023,electrical engineers
+17-2072,"Electronics Engineers, Except Computer",96410.0,2023,electronics engineers except computer
+17-2080,Environmental Engineers,39880.0,2023,environmental engineers
+17-2081,Environmental Engineers,39880.0,2023,environmental engineers
+17-2110,"Industrial Engineers, Including Health and Safety",355380.0,2023,industrial engineers including health safety
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",22510.0,2023,health safety engineers except mining safety engineers inspectors
+17-2112,Industrial Engineers,332870.0,2023,industrial engineers
+17-2120,Marine Engineers and Naval Architects,9960.0,2023,marine engineers naval architects
+17-2121,Marine Engineers and Naval Architects,9960.0,2023,marine engineers naval architects
+17-2130,Materials Engineers,24630.0,2023,materials engineers
+17-2131,Materials Engineers,24630.0,2023,materials engineers
+17-2140,Mechanical Engineers,281290.0,2023,mechanical engineers
+17-2141,Mechanical Engineers,281290.0,2023,mechanical engineers
+17-2150,"Mining and Geological Engineers, Including Mining Safety Engineers",7040.0,2023,mining geological engineers including mining safety engineers
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",7040.0,2023,mining geological engineers including mining safety engineers
+17-2160,Nuclear Engineers,12710.0,2023,nuclear engineers
+17-2161,Nuclear Engineers,12710.0,2023,nuclear engineers
+17-2170,Petroleum Engineers,20390.0,2023,petroleum engineers
+17-2171,Petroleum Engineers,20390.0,2023,petroleum engineers
+17-2190,Miscellaneous Engineers,150990.0,2023,miscellaneous engineers
+17-2199,"Engineers, All Other",150990.0,2023,engineers all other
+17-3000,"Drafters, Engineering Technicians, and Mapping Technicians",641350.0,2023,drafters engineering technicians mapping technicians
+17-3010,Drafters,193180.0,2023,drafters
+17-3011,Architectural and Civil Drafters,111070.0,2023,architectural civil drafters
+17-3012,Electrical and Electronics Drafters,20680.0,2023,electrical electronics drafters
+17-3013,Mechanical Drafters,44850.0,2023,mechanical drafters
+17-3019,"Drafters, All Other",16580.0,2023,drafters all other
+17-3020,"Engineering Technologists and Technicians, Except Drafters",392120.0,2023,engineering technologists technicians except drafters
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,10640.0,2023,aerospace engineering operations technologists technicians
+17-3022,Civil Engineering Technologists and Technicians,63560.0,2023,civil engineering technologists technicians
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,97420.0,2023,electrical electronic engineering technologists technicians
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,15360.0,2023,electro mechanical mechatronics technologists technicians
+17-3025,Environmental Engineering Technologists and Technicians,13780.0,2023,environmental engineering technologists technicians
+17-3026,Industrial Engineering Technologists and Technicians,73020.0,2023,industrial engineering technologists technicians
+17-3027,Mechanical Engineering Technologists and Technicians,38930.0,2023,mechanical engineering technologists technicians
+17-3028,Calibration Technologists and Technicians,13220.0,2023,calibration technologists technicians
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",66200.0,2023,engineering technologists technicians except drafters all other
+17-3030,Surveying and Mapping Technicians,56050.0,2023,surveying mapping technicians
+17-3031,Surveying and Mapping Technicians,56050.0,2023,surveying mapping technicians
+19-0000,"Life, Physical, and Social Science Occupations",1389430.0,2023,life physical social science occupations
+19-1000,Life Scientists,352000.0,2023,life scientists
+19-1010,Agricultural and Food Scientists,32360.0,2023,agricultural food scientists
+19-1011,Animal Scientists,2460.0,2023,animal scientists
+19-1012,Food Scientists and Technologists,14100.0,2023,food scientists technologists
+19-1013,Soil and Plant Scientists,15800.0,2023,soil plant scientists
+19-1020,Biological Scientists,133050.0,2023,biological scientists
+19-1021,Biochemists and Biophysicists,33180.0,2023,biochemists biophysicists
+19-1022,Microbiologists,21540.0,2023,microbiologists
+19-1023,Zoologists and Wildlife Biologists,17100.0,2023,zoologists wildlife biologists
+19-1029,"Biological Scientists, All Other",61220.0,2023,biological scientists all other
+19-1030,Conservation Scientists and Foresters,32240.0,2023,conservation scientists foresters
+19-1031,Conservation Scientists,22790.0,2023,conservation scientists
+19-1032,Foresters,9450.0,2023,foresters
+19-1040,Medical Scientists,146850.0,2023,medical scientists
+19-1041,Epidemiologists,10230.0,2023,epidemiologists
+19-1042,"Medical Scientists, Except Epidemiologists",136620.0,2023,medical scientists except epidemiologists
+19-1090,Miscellaneous Life Scientists,7490.0,2023,miscellaneous life scientists
+19-1099,"Life Scientists, All Other",7490.0,2023,life scientists all other
+19-2000,Physical Scientists,254410.0,2023,physical scientists
+19-2010,Astronomers and Physicists,20430.0,2023,astronomers physicists
+19-2011,Astronomers,2080.0,2023,astronomers
+19-2012,Physicists,18350.0,2023,physicists
+19-2020,Atmospheric and Space Scientists,9310.0,2023,atmospheric space scientists
+19-2021,Atmospheric and Space Scientists,9310.0,2023,atmospheric space scientists
+19-2030,Chemists and Materials Scientists,92350.0,2023,chemists materials scientists
+19-2031,Chemists,83530.0,2023,chemists
+19-2032,Materials Scientists,8810.0,2023,materials scientists
+19-2040,Environmental Scientists and Geoscientists,111500.0,2023,environmental scientists geoscientists
+19-2041,"Environmental Scientists and Specialists, Including Health",80730.0,2023,environmental scientists specialists including health
+19-2042,"Geoscientists, Except Hydrologists and Geographers",24620.0,2023,geoscientists except hydrologists geographers
+19-2043,Hydrologists,6150.0,2023,hydrologists
+19-2090,Miscellaneous Physical Scientists,20820.0,2023,miscellaneous physical scientists
+19-2099,"Physical Scientists, All Other",20820.0,2023,physical scientists all other
+19-3000,Social Scientists and Related Workers,273230.0,2023,social scientists related workers
+19-3010,Economists,16420.0,2023,economists
+19-3011,Economists,16420.0,2023,economists
+19-3020,Survey Researchers,8190.0,2023,survey researchers
+19-3022,Survey Researchers,8190.0,2023,survey researchers
+19-3030,Psychologists,150030.0,2023,psychologists
+19-3032,Industrial-Organizational Psychologists,1030.0,2023,industrial organizational psychologists
+19-3033,Clinical and Counseling Psychologists,71730.0,2023,clinical counseling psychologists
+19-3034,School Psychologists,62790.0,2023,school psychologists
+19-3039,"Psychologists, All Other",14480.0,2023,psychologists all other
+19-3040,Sociologists,2890.0,2023,sociologists
+19-3041,Sociologists,2890.0,2023,sociologists
+19-3050,Urban and Regional Planners,42690.0,2023,urban regional planners
+19-3051,Urban and Regional Planners,42690.0,2023,urban regional planners
+19-3090,Miscellaneous Social Scientists and Related Workers,53010.0,2023,miscellaneous social scientists related workers
+19-3091,Anthropologists and Archeologists,7720.0,2023,anthropologists archeologists
+19-3092,Geographers,1460.0,2023,geographers
+19-3093,Historians,3040.0,2023,historians
+19-3094,Political Scientists,5580.0,2023,political scientists
+19-3099,"Social Scientists and Related Workers, All Other",35210.0,2023,social scientists related workers all other
+19-4000,"Life, Physical, and Social Science Technicians",360210.0,2023,life physical social science technicians
+19-4010,Agricultural and Food Science Technicians,28340.0,2023,agricultural food science technicians
+19-4012,Agricultural Technicians,13150.0,2023,agricultural technicians
+19-4013,Food Science Technicians,15190.0,2023,food science technicians
+19-4020,Biological Technicians,76990.0,2023,biological technicians
+19-4021,Biological Technicians,76990.0,2023,biological technicians
+19-4030,Chemical Technicians,55880.0,2023,chemical technicians
+19-4031,Chemical Technicians,55880.0,2023,chemical technicians
+19-4040,Environmental Science and Geoscience Technicians,44240.0,2023,environmental science geoscience technicians
+19-4042,"Environmental Science and Protection Technicians, Including Health",32390.0,2023,environmental science protection technicians including health
+19-4043,"Geological Technicians, Except Hydrologic Technicians",8860.0,2023,geological technicians except hydrologic technicians
+19-4044,Hydrologic Technicians,3000.0,2023,hydrologic technicians
+19-4050,Nuclear Technicians,5400.0,2023,nuclear technicians
+19-4051,Nuclear Technicians,5400.0,2023,nuclear technicians
+19-4060,Social Science Research Assistants,30890.0,2023,social science research assistants
+19-4061,Social Science Research Assistants,30890.0,2023,social science research assistants
+19-4070,Forest and Conservation Technicians,28740.0,2023,forest conservation technicians
+19-4071,Forest and Conservation Technicians,28740.0,2023,forest conservation technicians
+19-4090,"Miscellaneous Life, Physical, and Social Science Technicians",89740.0,2023,miscellaneous life physical social science technicians
+19-4092,Forensic Science Technicians,17520.0,2023,forensic science technicians
+19-4099,"Life, Physical, and Social Science Technicians, All Other",72230.0,2023,life physical social science technicians all other
+19-5000,Occupational Health and Safety Specialists and Technicians,149570.0,2023,occupational health safety specialists technicians
+19-5010,Occupational Health and Safety Specialists and Technicians,149570.0,2023,occupational health safety specialists technicians
+19-5011,Occupational Health and Safety Specialists,122300.0,2023,occupational health safety specialists
+19-5012,Occupational Health and Safety Technicians,27270.0,2023,occupational health safety technicians
+21-0000,Community and Social Service Occupations,2418130.0,2023,community social service occupations
+21-1000,"Counselors, Social Workers, and Other Community and Social Service Specialists",2326360.0,2023,counselors social workers other community social service specialists
+21-1010,Counselors,909190.0,2023,counselors
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",327660.0,2023,educational guidance career counselors advisors
+21-1013,Marriage and Family Therapists,63340.0,2023,marriage family therapists
+21-1015,Rehabilitation Counselors,84750.0,2023,rehabilitation counselors
+21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",397880.0,2023,substance abuse behavioral disorder mental health counselors
+21-1019,"Counselors, All Other",35580.0,2023,counselors all other
+21-1020,Social Workers,710320.0,2023,social workers
+21-1021,"Child, Family, and School Social Workers",352160.0,2023,child family school social workers
+21-1022,Healthcare Social Workers,185020.0,2023,healthcare social workers
+21-1023,Mental Health and Substance Abuse Social Workers,114680.0,2023,mental health substance abuse social workers
+21-1029,"Social Workers, All Other",58460.0,2023,social workers all other
+21-1090,Miscellaneous Community and Social Service Specialists,706840.0,2023,miscellaneous community social service specialists
+21-1091,Health Education Specialists,57800.0,2023,health education specialists
+21-1092,Probation Officers and Correctional Treatment Specialists,85870.0,2023,probation officers correctional treatment specialists
+21-1093,Social and Human Service Assistants,409310.0,2023,social human service assistants
+21-1094,Community Health Workers,58550.0,2023,community health workers
+21-1099,"Community and Social Service Specialists, All Other",95310.0,2023,community social service specialists all other
+21-2000,Religious Workers,91770.0,2023,religious workers
+21-2010,Clergy,56640.0,2023,clergy
+21-2011,Clergy,56640.0,2023,clergy
+21-2020,"Directors, Religious Activities and Education",23270.0,2023,directors religious activities education
+21-2021,"Directors, Religious Activities and Education",23270.0,2023,directors religious activities education
+21-2090,Miscellaneous Religious Workers,11870.0,2023,miscellaneous religious workers
+21-2099,"Religious Workers, All Other",11870.0,2023,religious workers all other
+23-0000,Legal Occupations,1240630.0,2023,legal occupations
+23-1000,"Lawyers, Judges, and Related Workers",792220.0,2023,lawyers judges related workers
+23-1010,Lawyers and Judicial Law Clerks,746020.0,2023,lawyers judicial law clerks
+23-1011,Lawyers,731340.0,2023,lawyers
+23-1012,Judicial Law Clerks,14680.0,2023,judicial law clerks
+23-1020,"Judges, Magistrates, and Other Judicial Workers",46200.0,2023,judges magistrates other judicial workers
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",14670.0,2023,administrative law judges adjudicators hearing officers
+23-1022,"Arbitrators, Mediators, and Conciliators",7060.0,2023,arbitrators mediators conciliators
+23-1023,"Judges, Magistrate Judges, and Magistrates",24470.0,2023,judges magistrate judges magistrates
+23-2000,Legal Support Workers,448410.0,2023,legal support workers
+23-2010,Paralegals and Legal Assistants,354890.0,2023,paralegals legal assistants
+23-2011,Paralegals and Legal Assistants,354890.0,2023,paralegals legal assistants
+23-2090,Miscellaneous Legal Support Workers,93520.0,2023,miscellaneous legal support workers
+23-2093,"Title Examiners, Abstractors, and Searchers",49760.0,2023,title examiners abstractors searchers
+23-2099,"Legal Support Workers, All Other",43760.0,2023,legal support workers all other
+25-0000,Educational Instruction and Library Occupations,8744560.0,2023,educational instruction library occupations
+25-1000,Postsecondary Teachers,1394110.0,2023,postsecondary teachers
+25-1010,"Business Teachers, Postsecondary",82980.0,2023,business teachers postsecondary
+25-1011,"Business Teachers, Postsecondary",82980.0,2023,business teachers postsecondary
+25-1020,"Math and Computer Science Teachers, Postsecondary",84380.0,2023,math computer science teachers postsecondary
+25-1021,"Computer Science Teachers, Postsecondary",36150.0,2023,computer science teachers postsecondary
+25-1022,"Mathematical Science Teachers, Postsecondary",48230.0,2023,mathematical science teachers postsecondary
+25-1030,"Engineering and Architecture Teachers, Postsecondary",46710.0,2023,engineering architecture teachers postsecondary
+25-1031,"Architecture Teachers, Postsecondary",8350.0,2023,architecture teachers postsecondary
+25-1032,"Engineering Teachers, Postsecondary",38370.0,2023,engineering teachers postsecondary
+25-1040,"Life Sciences Teachers, Postsecondary",60860.0,2023,life sciences teachers postsecondary
+25-1041,"Agricultural Sciences Teachers, Postsecondary",7550.0,2023,agricultural sciences teachers postsecondary
+25-1042,"Biological Science Teachers, Postsecondary",52050.0,2023,biological science teachers postsecondary
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",1260.0,2023,forestry conservation science teachers postsecondary
+25-1050,"Physical Sciences Teachers, Postsecondary",53130.0,2023,physical sciences teachers postsecondary
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",11770.0,2023,atmospheric earth marine space sciences teachers postsecondary
+25-1052,"Chemistry Teachers, Postsecondary",20210.0,2023,chemistry teachers postsecondary
+25-1053,"Environmental Science Teachers, Postsecondary",7120.0,2023,environmental science teachers postsecondary
+25-1054,"Physics Teachers, Postsecondary",14030.0,2023,physics teachers postsecondary
+25-1060,"Social Sciences Teachers, Postsecondary",119750.0,2023,social sciences teachers postsecondary
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",5030.0,2023,anthropology archeology teachers postsecondary
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",11570.0,2023,area ethnic cultural studies teachers postsecondary
+25-1063,"Economics Teachers, Postsecondary",12210.0,2023,economics teachers postsecondary
+25-1064,"Geography Teachers, Postsecondary",3480.0,2023,geography teachers postsecondary
+25-1065,"Political Science Teachers, Postsecondary",17090.0,2023,political science teachers postsecondary
+25-1066,"Psychology Teachers, Postsecondary",40610.0,2023,psychology teachers postsecondary
+25-1067,"Sociology Teachers, Postsecondary",12870.0,2023,sociology teachers postsecondary
+25-1069,"Social Sciences Teachers, Postsecondary, All Other",16900.0,2023,social sciences teachers postsecondary all other
+25-1070,"Health Teachers, Postsecondary",298060.0,2023,health teachers postsecondary
+25-1071,"Health Specialties Teachers, Postsecondary",225360.0,2023,health specialties teachers postsecondary
+25-1072,"Nursing Instructors and Teachers, Postsecondary",72700.0,2023,nursing instructors teachers postsecondary
+25-1080,"Education and Library Science Teachers, Postsecondary",65090.0,2023,education library science teachers postsecondary
+25-1081,"Education Teachers, Postsecondary",60860.0,2023,education teachers postsecondary
+25-1082,"Library Science Teachers, Postsecondary",4220.0,2023,library science teachers postsecondary
+25-1110,"Law, Criminal Justice, and Social Work Teachers, Postsecondary",39700.0,2023,law criminal justice social work teachers postsecondary
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",13390.0,2023,criminal justice law enforcement teachers postsecondary
+25-1112,"Law Teachers, Postsecondary",14570.0,2023,law teachers postsecondary
+25-1113,"Social Work Teachers, Postsecondary",11730.0,2023,social work teachers postsecondary
+25-1120,"Arts, Communications, History, and Humanities Teachers, Postsecondary",249370.0,2023,arts communications history humanities teachers postsecondary
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",101500.0,2023,art drama music teachers postsecondary
+25-1122,"Communications Teachers, Postsecondary",28520.0,2023,communications teachers postsecondary
+25-1123,"English Language and Literature Teachers, Postsecondary",57600.0,2023,english language literature teachers postsecondary
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",20820.0,2023,foreign language literature teachers postsecondary
+25-1125,"History Teachers, Postsecondary",20610.0,2023,history teachers postsecondary
+25-1126,"Philosophy and Religion Teachers, Postsecondary",20320.0,2023,philosophy religion teachers postsecondary
+25-1190,Miscellaneous Postsecondary Teachers,294080.0,2023,miscellaneous postsecondary teachers
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",2660.0,2023,family consumer sciences teachers postsecondary
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",13270.0,2023,recreation fitness studies teachers postsecondary
+25-1194,"Career/Technical Education Teachers, Postsecondary",111180.0,2023,career/technical education teachers postsecondary
+25-1199,"Postsecondary Teachers, All Other",166980.0,2023,postsecondary teachers all other
+25-2000,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",4261430.0,2023,preschool elementary middle secondary special education teachers
+25-2010,Preschool and Kindergarten Teachers,548820.0,2023,preschool kindergarten teachers
+25-2011,"Preschool Teachers, Except Special Education",430240.0,2023,preschool teachers except special education
+25-2012,"Kindergarten Teachers, Except Special Education",118580.0,2023,kindergarten teachers except special education
+25-2020,Elementary and Middle School Teachers,2048970.0,2023,elementary middle school teachers
+25-2021,"Elementary School Teachers, Except Special Education",1410070.0,2023,elementary school teachers except special education
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",626690.0,2023,middle school teachers except special career/technical education
+25-2023,"Career/Technical Education Teachers, Middle School",12210.0,2023,career/technical education teachers middle school
+25-2030,Secondary School Teachers,1135230.0,2023,secondary school teachers
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",1045170.0,2023,secondary school teachers except special career/technical education
+25-2032,"Career/Technical Education Teachers, Secondary School",90070.0,2023,career/technical education teachers secondary school
+25-2050,Special Education Teachers,528400.0,2023,special education teachers
+25-2051,"Special Education Teachers, Preschool",24850.0,2023,special education teachers preschool
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",212850.0,2023,special education teachers kindergarten elementary school
+25-2057,"Special Education Teachers, Middle School",88850.0,2023,special education teachers middle school
+25-2058,"Special Education Teachers, Secondary School",158150.0,2023,special education teachers secondary school
+25-2059,"Special Education Teachers, All Other",43700.0,2023,special education teachers all other
+25-3000,Other Teachers and Instructors,1034120.0,2023,other teachers instructors
+25-3010,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",36890.0,2023,adult basic education adult secondary education english as a second language instructors
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",36890.0,2023,adult basic education adult secondary education english as a second language instructors
+25-3020,Self-Enrichment Teachers,272110.0,2023,self enrichment teachers
+25-3021,Self-Enrichment Teachers,272110.0,2023,self enrichment teachers
+25-3030,"Substitute Teachers, Short-Term",444530.0,2023,substitute teachers short term
+25-3031,"Substitute Teachers, Short-Term",444530.0,2023,substitute teachers short term
+25-3040,Tutors,162300.0,2023,tutors
+25-3041,Tutors,162300.0,2023,tutors
+25-3090,Miscellaneous Teachers and Instructors,118290.0,2023,miscellaneous teachers instructors
+25-3099,"Teachers and Instructors, All Other",118290.0,2023,teachers instructors all other
+25-4000,"Librarians, Curators, and Archivists",242750.0,2023,librarians curators archivists
+25-4010,"Archivists, Curators, and Museum Technicians",32330.0,2023,archivists curators museum technicians
+25-4011,Archivists,7150.0,2023,archivists
+25-4012,Curators,12510.0,2023,curators
+25-4013,Museum Technicians and Conservators,12670.0,2023,museum technicians conservators
+25-4020,Librarians and Media Collections Specialists,133760.0,2023,librarians media collections specialists
+25-4022,Librarians and Media Collections Specialists,133760.0,2023,librarians media collections specialists
+25-4030,Library Technicians,76670.0,2023,library technicians
+25-4031,Library Technicians,76670.0,2023,library technicians
+25-9000,Other Educational Instruction and Library Occupations,1812160.0,2023,other educational instruction library occupations
+25-9020,Farm and Home Management Educators,8110.0,2023,farm home management educators
+25-9021,Farm and Home Management Educators,8110.0,2023,farm home management educators
+25-9030,Instructional Coordinators,207270.0,2023,instructional coordinators
+25-9031,Instructional Coordinators,207270.0,2023,instructional coordinators
+25-9040,Teaching Assistants,1483280.0,2023,teaching assistants
+25-9044,"Teaching Assistants, Postsecondary",145960.0,2023,teaching assistants postsecondary
+25-9045,"Teaching Assistants, Except Postsecondary",1337320.0,2023,teaching assistants except postsecondary
+25-9090,Miscellaneous Educational Instruction and Library Workers,113490.0,2023,miscellaneous educational instruction library workers
+25-9099,"Educational Instruction and Library Workers, All Other",113490.0,2023,educational instruction library workers all other
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",2106490.0,2023,arts design entertainment sports media occupations
+27-1000,Art and Design Workers,675630.0,2023,art design workers
+27-1010,Artists and Related Workers,105300.0,2023,artists related workers
+27-1011,Art Directors,51200.0,2023,art directors
+27-1012,Craft Artists,5830.0,2023,craft artists
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",10910.0,2023,fine artists including painters sculptors illustrators
+27-1014,Special Effects Artists and Animators,29940.0,2023,special effects artists animators
+27-1019,"Artists and Related Workers, All Other",7420.0,2023,artists related workers all other
+27-1020,Designers,570330.0,2023,designers
+27-1021,Commercial and Industrial Designers,30810.0,2023,commercial industrial designers
+27-1022,Fashion Designers,19940.0,2023,fashion designers
+27-1023,Floral Designers,43350.0,2023,floral designers
+27-1024,Graphic Designers,212720.0,2023,graphic designers
+27-1025,Interior Designers,67760.0,2023,interior designers
+27-1026,Merchandise Displayers and Window Trimmers,175790.0,2023,merchandise displayers window trimmers
+27-1027,Set and Exhibit Designers,10090.0,2023,set exhibit designers
+27-1029,"Designers, All Other",9880.0,2023,designers all other
+27-2000,"Entertainers and Performers, Sports and Related Workers",569670.0,2023,entertainers performers sports related workers
+27-2010,"Actors, Producers, and Directors",217020.0,2023,actors producers directors
+27-2011,Actors,62560.0,2023,actors
+27-2012,Producers and Directors,154470.0,2023,producers directors
+27-2020,"Athletes, Coaches, Umpires, and Related Workers",268750.0,2023,athletes coaches umpires related workers
+27-2021,Athletes and Sports Competitors,14930.0,2023,athletes sports competitors
+27-2022,Coaches and Scouts,238980.0,2023,coaches scouts
+27-2023,"Umpires, Referees, and Other Sports Officials",14840.0,2023,umpires referees other sports officials
+27-2030,Dancers and Choreographers,15700.0,2023,dancers choreographers
+27-2031,Dancers,11510.0,2023,dancers
+27-2032,Choreographers,4190.0,2023,choreographers
+27-2040,"Musicians, Singers, and Related Workers",46280.0,2023,musicians singers related workers
+27-2041,Music Directors and Composers,10770.0,2023,music directors composers
+27-2042,Musicians and Singers,35520.0,2023,musicians singers
+27-2090,"Miscellaneous Entertainers and Performers, Sports and Related Workers",21910.0,2023,miscellaneous entertainers performers sports related workers
+27-2091,"Disc Jockeys, Except Radio",7190.0,2023,disc jockeys except radio
+27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",14720.0,2023,entertainers performers sports related workers all other
+27-3000,Media and Communication Workers,625940.0,2023,media communication workers
+27-3010,Broadcast Announcers and Radio Disc Jockeys,25070.0,2023,broadcast announcers radio disc jockeys
+27-3011,Broadcast Announcers and Radio Disc Jockeys,25070.0,2023,broadcast announcers radio disc jockeys
+27-3020,"News Analysts, Reporters and Journalists",45020.0,2023,news analysts reporters journalists
+27-3023,"News Analysts, Reporters, and Journalists",45020.0,2023,news analysts reporters journalists
+27-3030,Public Relations Specialists,275550.0,2023,public relations specialists
+27-3031,Public Relations Specialists,275550.0,2023,public relations specialists
+27-3040,Writers and Editors,193130.0,2023,writers editors
+27-3041,Editors,95700.0,2023,editors
+27-3042,Technical Writers,47970.0,2023,technical writers
+27-3043,Writers and Authors,49450.0,2023,writers authors
+27-3090,Miscellaneous Media and Communication Workers,87180.0,2023,miscellaneous media communication workers
+27-3091,Interpreters and Translators,51560.0,2023,interpreters translators
+27-3092,Court Reporters and Simultaneous Captioners,12390.0,2023,court reporters simultaneous captioners
+27-3099,"Media and Communication Workers, All Other",23230.0,2023,media communication workers all other
+27-4000,Media and Communication Equipment Workers,235240.0,2023,media communication equipment workers
+27-4010,"Broadcast, Sound, and Lighting Technicians",117010.0,2023,broadcast sound lighting technicians
+27-4011,Audio and Video Technicians,66700.0,2023,audio video technicians
+27-4012,Broadcast Technicians,26190.0,2023,broadcast technicians
+27-4014,Sound Engineering Technicians,14600.0,2023,sound engineering technicians
+27-4015,Lighting Technicians,9520.0,2023,lighting technicians
+27-4020,Photographers,53630.0,2023,photographers
+27-4021,Photographers,53630.0,2023,photographers
+27-4030,"Television, Video, and Film Camera Operators and Editors",53180.0,2023,television video film camera operators editors
+27-4031,"Camera Operators, Television, Video, and Film",23940.0,2023,camera operators television video film
+27-4032,Film and Video Editors,29240.0,2023,film video editors
+27-4090,Miscellaneous Media and Communication Equipment Workers,11430.0,2023,miscellaneous media communication equipment workers
+27-4099,"Media and Communication Equipment Workers, All Other",11430.0,2023,media communication equipment workers all other
+29-0000,Healthcare Practitioners and Technical Occupations,9284210.0,2023,healthcare practitioners technical occupations
+29-1000,Healthcare Diagnosing or Treating Practitioners,6151910.0,2023,healthcare diagnosing or treating practitioners
+29-1010,Chiropractors,41480.0,2023,chiropractors
+29-1011,Chiropractors,41480.0,2023,chiropractors
+29-1020,Dentists,138680.0,2023,dentists
+29-1021,"Dentists, General",121640.0,2023,dentists general
+29-1022,Oral and Maxillofacial Surgeons,4160.0,2023,oral maxillofacial surgeons
+29-1023,Orthodontists,6400.0,2023,orthodontists
+29-1024,Prosthodontists,570.0,2023,prosthodontists
+29-1029,"Dentists, All Other Specialists",5920.0,2023,dentists all other specialists
+29-1030,Dietitians and Nutritionists,73860.0,2023,dietitians nutritionists
+29-1031,Dietitians and Nutritionists,73860.0,2023,dietitians nutritionists
+29-1040,Optometrists,41390.0,2023,optometrists
+29-1041,Optometrists,41390.0,2023,optometrists
+29-1050,Pharmacists,331700.0,2023,pharmacists
+29-1051,Pharmacists,331700.0,2023,pharmacists
+29-1070,Physician Assistants,145740.0,2023,physician assistants
+29-1071,Physician Assistants,145740.0,2023,physician assistants
+29-1080,Podiatrists,9470.0,2023,podiatrists
+29-1081,Podiatrists,9470.0,2023,podiatrists
+29-1120,Therapists,744240.0,2023,therapists
+29-1122,Occupational Therapists,144840.0,2023,occupational therapists
+29-1123,Physical Therapists,240820.0,2023,physical therapists
+29-1124,Radiation Therapists,16640.0,2023,radiation therapists
+29-1125,Recreational Therapists,15540.0,2023,recreational therapists
+29-1126,Respiratory Therapists,129750.0,2023,respiratory therapists
+29-1127,Speech-Language Pathologists,172100.0,2023,speech language pathologists
+29-1128,Exercise Physiologists,8060.0,2023,exercise physiologists
+29-1129,"Therapists, All Other",16490.0,2023,therapists all other
+29-1130,Veterinarians,78220.0,2023,veterinarians
+29-1131,Veterinarians,78220.0,2023,veterinarians
+29-1140,Registered Nurses,3175390.0,2023,registered nurses
+29-1141,Registered Nurses,3175390.0,2023,registered nurses
+29-1150,Nurse Anesthetists,47810.0,2023,nurse anesthetists
+29-1151,Nurse Anesthetists,47810.0,2023,nurse anesthetists
+29-1160,Nurse Midwives,6960.0,2023,nurse midwives
+29-1161,Nurse Midwives,6960.0,2023,nurse midwives
+29-1170,Nurse Practitioners,280140.0,2023,nurse practitioners
+29-1171,Nurse Practitioners,280140.0,2023,nurse practitioners
+29-1180,Audiologists,13880.0,2023,audiologists
+29-1181,Audiologists,13880.0,2023,audiologists
+29-1210,Physicians,716950.0,2023,physicians
+29-1211,Anesthesiologists,33470.0,2023,anesthesiologists
+29-1212,Cardiologists,15190.0,2023,cardiologists
+29-1213,Dermatologists,12040.0,2023,dermatologists
+29-1214,Emergency Medicine Physicians,35100.0,2023,emergency medicine physicians
+29-1215,Family Medicine Physicians,112010.0,2023,family medicine physicians
+29-1216,General Internal Medicine Physicians,67210.0,2023,general internal medicine physicians
+29-1217,Neurologists,9350.0,2023,neurologists
+29-1218,Obstetricians and Gynecologists,19820.0,2023,obstetricians gynecologists
+29-1221,"Pediatricians, General",34870.0,2023,pediatricians general
+29-1222,"Physicians, Pathologists",11020.0,2023,physicians pathologists
+29-1223,Psychiatrists,24830.0,2023,psychiatrists
+29-1224,Radiologists,31960.0,2023,radiologists
+29-1229,"Physicians, All Other",310080.0,2023,physicians all other
+29-1240,Surgeons,53900.0,2023,surgeons
+29-1241,"Ophthalmologists, Except Pediatric",11530.0,2023,ophthalmologists except pediatric
+29-1242,"Orthopedic Surgeons, Except Pediatric",14820.0,2023,orthopedic surgeons except pediatric
+29-1243,Pediatric Surgeons,1180.0,2023,pediatric surgeons
+29-1249,"Surgeons, All Other",26370.0,2023,surgeons all other
+29-1290,Miscellaneous Healthcare Diagnosing or Treating Practitioners,252100.0,2023,miscellaneous healthcare diagnosing or treating practitioners
+29-1291,Acupuncturists,9370.0,2023,acupuncturists
+29-1292,Dental Hygienists,211630.0,2023,dental hygienists
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",31100.0,2023,healthcare diagnosing or treating practitioners all other
+29-2000,Health Technologists and Technicians,3010670.0,2023,health technologists technicians
+29-2010,Clinical Laboratory Technologists and Technicians,334380.0,2023,clinical laboratory technologists technicians
+29-2030,Diagnostic Related Technologists and Technicians,421410.0,2023,diagnostic related technologists technicians
+29-2031,Cardiovascular Technologists and Technicians,55660.0,2023,cardiovascular technologists technicians
+29-2032,Diagnostic Medical Sonographers,82780.0,2023,diagnostic medical sonographers
+29-2033,Nuclear Medicine Technologists,16560.0,2023,nuclear medicine technologists
+29-2034,Radiologic Technologists and Technicians,221170.0,2023,radiologic technologists technicians
+29-2035,Magnetic Resonance Imaging Technologists,41340.0,2023,magnetic resonance imaging technologists
+29-2036,Medical Dosimetrists,3900.0,2023,medical dosimetrists
+29-2040,Emergency Medical Technicians and Paramedics,265810.0,2023,emergency medical technicians paramedics
+29-2042,Emergency Medical Technicians,167040.0,2023,emergency medical technicians
+29-2043,Paramedics,98770.0,2023,paramedics
+29-2050,Health Practitioner Support Technologists and Technicians,906180.0,2023,health practitioner support technologists technicians
+29-2051,Dietetic Technicians,24240.0,2023,dietetic technicians
+29-2052,Pharmacy Technicians,460280.0,2023,pharmacy technicians
+29-2053,Psychiatric Technicians,115940.0,2023,psychiatric technicians
+29-2055,Surgical Technologists,110320.0,2023,surgical technologists
+29-2056,Veterinary Technologists and Technicians,122000.0,2023,veterinary technologists technicians
+29-2057,Ophthalmic Medical Technicians,73390.0,2023,ophthalmic medical technicians
+29-2060,Licensed Practical and Licensed Vocational Nurses,630250.0,2023,licensed practical licensed vocational nurses
+29-2061,Licensed Practical and Licensed Vocational Nurses,630250.0,2023,licensed practical licensed vocational nurses
+29-2070,Medical Records Specialists,185690.0,2023,medical records specialists
+29-2072,Medical Records Specialists,185690.0,2023,medical records specialists
+29-2080,"Opticians, Dispensing",76770.0,2023,opticians dispensing
+29-2081,"Opticians, Dispensing",76770.0,2023,opticians dispensing
+29-2090,Miscellaneous Health Technologists and Technicians,190180.0,2023,miscellaneous health technologists technicians
+29-2091,Orthotists and Prosthetists,8820.0,2023,orthotists prosthetists
+29-2092,Hearing Aid Specialists,10250.0,2023,hearing aid specialists
+29-2099,"Health Technologists and Technicians, All Other",171110.0,2023,health technologists technicians all other
+29-9000,Other Healthcare Practitioners and Technical Occupations,121640.0,2023,other healthcare practitioners technical occupations
+29-9020,Health Information Technologists and Medical Registrars,34430.0,2023,health information technologists medical registrars
+29-9021,Health Information Technologists and Medical Registrars,34430.0,2023,health information technologists medical registrars
+29-9090,Miscellaneous Health Practitioners and Technical Workers,87210.0,2023,miscellaneous health practitioners technical workers
+29-9091,Athletic Trainers,28480.0,2023,athletic trainers
+29-9092,Genetic Counselors,3050.0,2023,genetic counselors
+29-9093,Surgical Assistants,18780.0,2023,surgical assistants
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",36900.0,2023,healthcare practitioners technical workers all other
+31-0000,Healthcare Support Occupations,7063530.0,2023,healthcare support occupations
+31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",5122130.0,2023,home health personal care aides; nursing assistants orderlies psychiatric aides
+31-1120,Home Health and Personal Care Aides,3689350.0,2023,home health personal care aides
+31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1432790.0,2023,nursing assistants orderlies psychiatric aides
+31-1131,Nursing Assistants,1351760.0,2023,nursing assistants
+31-1132,Orderlies,48710.0,2023,orderlies
+31-1133,Psychiatric Aides,32310.0,2023,psychiatric aides
+31-2000,Occupational Therapy and Physical Therapist Assistants and Aides,196900.0,2023,occupational therapy physical therapist assistants aides
+31-2010,Occupational Therapy Assistants and Aides,50520.0,2023,occupational therapy assistants aides
+31-2011,Occupational Therapy Assistants,46090.0,2023,occupational therapy assistants
+31-2012,Occupational Therapy Aides,4430.0,2023,occupational therapy aides
+31-2020,Physical Therapist Assistants and Aides,146380.0,2023,physical therapist assistants aides
+31-2021,Physical Therapist Assistants,104000.0,2023,physical therapist assistants
+31-2022,Physical Therapist Aides,42390.0,2023,physical therapist aides
+31-9000,Other Healthcare Support Occupations,1744490.0,2023,other healthcare support occupations
+31-9010,Massage Therapists,92650.0,2023,massage therapists
+31-9011,Massage Therapists,92650.0,2023,massage therapists
+31-9090,Miscellaneous Healthcare Support Occupations,1651840.0,2023,miscellaneous healthcare support occupations
+31-9091,Dental Assistants,370690.0,2023,dental assistants
+31-9092,Medical Assistants,763040.0,2023,medical assistants
+31-9093,Medical Equipment Preparers,66790.0,2023,medical equipment preparers
+31-9094,Medical Transcriptionists,52420.0,2023,medical transcriptionists
+31-9095,Pharmacy Aides,43830.0,2023,pharmacy aides
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,115770.0,2023,veterinary assistants laboratory animal caretakers
+31-9097,Phlebotomists,137080.0,2023,phlebotomists
+31-9099,"Healthcare Support Workers, All Other",102230.0,2023,healthcare support workers all other
+33-0000,Protective Service Occupations,3504330.0,2023,protective service occupations
+33-1000,Supervisors of Protective Service Workers,359050.0,2023,supervisors of protective service workers
+33-1010,First-Line Supervisors of Law Enforcement Workers,190410.0,2023,first line supervisors of law enforcement workers
+33-1011,First-Line Supervisors of Correctional Officers,52280.0,2023,first line supervisors of correctional officers
+33-1012,First-Line Supervisors of Police and Detectives,138140.0,2023,first line supervisors of police detectives
+33-1020,First-Line Supervisors of Firefighting and Prevention Workers,84120.0,2023,first line supervisors of firefighting prevention workers
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,84120.0,2023,first line supervisors of firefighting prevention workers
+33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",84510.0,2023,miscellaneous first line supervisors protective service workers
+33-1091,First-Line Supervisors of Security Workers,64900.0,2023,first line supervisors of security workers
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",19620.0,2023,first line supervisors of protective service workers all other
+33-2000,Firefighting and Prevention Workers,331940.0,2023,firefighting prevention workers
+33-2010,Firefighters,315460.0,2023,firefighters
+33-2011,Firefighters,315460.0,2023,firefighters
+33-2020,Fire Inspectors,16470.0,2023,fire inspectors
+33-2021,Fire Inspectors and Investigators,14200.0,2023,fire inspectors investigators
+33-2022,Forest Fire Inspectors and Prevention Specialists,2270.0,2023,forest fire inspectors prevention specialists
+33-3000,Law Enforcement Workers,1136430.0,2023,law enforcement workers
+33-3010,"Bailiffs, Correctional Officers, and Jailers",367320.0,2023,bailiffs correctional officers jailers
+33-3011,Bailiffs,15900.0,2023,bailiffs
+33-3012,Correctional Officers and Jailers,351420.0,2023,correctional officers jailers
+33-3020,Detectives and Criminal Investigators,106730.0,2023,detectives criminal investigators
+33-3021,Detectives and Criminal Investigators,106730.0,2023,detectives criminal investigators
+33-3030,Fish and Game Wardens,6290.0,2023,fish game wardens
+33-3031,Fish and Game Wardens,6290.0,2023,fish game wardens
+33-3040,Parking Enforcement Workers,7420.0,2023,parking enforcement workers
+33-3041,Parking Enforcement Workers,7420.0,2023,parking enforcement workers
+33-3050,Police Officers,648670.0,2023,police officers
+33-3051,Police and Sheriff's Patrol Officers,646310.0,2023,police sheriff's patrol officers
+33-3052,Transit and Railroad Police,2360.0,2023,transit railroad police
+33-9000,Other Protective Service Workers,1676920.0,2023,other protective service workers
+33-9010,Animal Control Workers,11600.0,2023,animal control workers
+33-9011,Animal Control Workers,11600.0,2023,animal control workers
+33-9020,Private Detectives and Investigators,34600.0,2023,private detectives investigators
+33-9021,Private Detectives and Investigators,34600.0,2023,private detectives investigators
+33-9030,Security Guards and Gambling Surveillance Officers,1213610.0,2023,security guards gambling surveillance officers
+33-9031,Gambling Surveillance Officers and Gambling Investigators,10660.0,2023,gambling surveillance officers gambling investigators
+33-9032,Security Guards,1202940.0,2023,security guards
+33-9090,Miscellaneous Protective Service Workers,417110.0,2023,miscellaneous protective service workers
+33-9091,Crossing Guards and Flaggers,90780.0,2023,crossing guards flaggers
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",123560.0,2023,lifeguards ski patrol other recreational protective service workers
+33-9093,Transportation Security Screeners,47950.0,2023,transportation security screeners
+33-9094,School Bus Monitors,72320.0,2023,school bus monitors
+33-9099,"Protective Service Workers, All Other",82500.0,2023,protective service workers all other
+35-0000,Food Preparation and Serving Related Occupations,13247870.0,2023,food preparation serving related occupations
+35-1000,Supervisors of Food Preparation and Serving Workers,1348910.0,2023,supervisors of food preparation serving workers
+35-1010,Supervisors of Food Preparation and Serving Workers,1348910.0,2023,supervisors of food preparation serving workers
+35-1011,Chefs and Head Cooks,172370.0,2023,chefs head cooks
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,1176540.0,2023,first line supervisors of food preparation serving workers
+35-2000,Cooks and Food Preparation Workers,3546860.0,2023,cooks food preparation workers
+35-2010,Cooks,2667250.0,2023,cooks
+35-2011,"Cooks, Fast Food",673490.0,2023,cooks fast food
+35-2012,"Cooks, Institution and Cafeteria",435640.0,2023,cooks institution cafeteria
+35-2013,"Cooks, Private Household",740.0,2023,cooks private household
+35-2014,"Cooks, Restaurant",1412350.0,2023,cooks restaurant
+35-2015,"Cooks, Short Order",126370.0,2023,cooks short order
+35-2019,"Cooks, All Other",18650.0,2023,cooks all other
+35-2020,Food Preparation Workers,879610.0,2023,food preparation workers
+35-2021,Food Preparation Workers,879610.0,2023,food preparation workers
+35-3000,Food and Beverage Serving Workers,6893410.0,2023,food beverage serving workers
+35-3010,Bartenders,711140.0,2023,bartenders
+35-3011,Bartenders,711140.0,2023,bartenders
+35-3020,Fast Food and Counter Workers,3676580.0,2023,fast food counter workers
+35-3023,Fast Food and Counter Workers,3676580.0,2023,fast food counter workers
+35-3030,Waiters and Waitresses,2237850.0,2023,waiters waitresses
+35-3031,Waiters and Waitresses,2237850.0,2023,waiters waitresses
+35-3040,"Food Servers, Nonrestaurant",267840.0,2023,food servers nonrestaurant
+35-3041,"Food Servers, Nonrestaurant",267840.0,2023,food servers nonrestaurant
+35-9000,Other Food Preparation and Serving Related Workers,1458690.0,2023,other food preparation serving related workers
+35-9010,Dining Room and Cafeteria Attendants and Bartender Helpers,483390.0,2023,dining room cafeteria attendants bartender helpers
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,483390.0,2023,dining room cafeteria attendants bartender helpers
+35-9020,Dishwashers,463940.0,2023,dishwashers
+35-9021,Dishwashers,463940.0,2023,dishwashers
+35-9030,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",425020.0,2023,hosts hostesses restaurant lounge coffee shop
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",425020.0,2023,hosts hostesses restaurant lounge coffee shop
+35-9090,Miscellaneous Food Preparation and Serving Related Workers,86350.0,2023,miscellaneous food preparation serving related workers
+35-9099,"Food Preparation and Serving Related Workers, All Other",86350.0,2023,food preparation serving related workers all other
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,4429070.0,2023,building grounds cleaning maintenance occupations
+37-1000,Supervisors of Building and Grounds Cleaning and Maintenance Workers,297150.0,2023,supervisors of building grounds cleaning maintenance workers
+37-1010,First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers,297150.0,2023,first line supervisors of building grounds cleaning maintenance workers
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,171120.0,2023,first line supervisors of housekeeping janitorial workers
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",126020.0,2023,first line supervisors of landscaping lawn service groundskeeping workers
+37-2000,Building Cleaning and Pest Control Workers,3116220.0,2023,building cleaning pest control workers
+37-2010,Building Cleaning Workers,3022470.0,2023,building cleaning workers
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2172500.0,2023,janitors cleaners except maids housekeeping cleaners
+37-2012,Maids and Housekeeping Cleaners,836230.0,2023,maids housekeeping cleaners
+37-2019,"Building Cleaning Workers, All Other",13740.0,2023,building cleaning workers all other
+37-2020,Pest Control Workers,93760.0,2023,pest control workers
+37-2021,Pest Control Workers,93760.0,2023,pest control workers
+37-3000,Grounds Maintenance Workers,1015700.0,2023,grounds maintenance workers
+37-3010,Grounds Maintenance Workers,1015700.0,2023,grounds maintenance workers
+37-3011,Landscaping and Groundskeeping Workers,929930.0,2023,landscaping groundskeeping workers
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",23520.0,2023,pesticide handlers sprayers applicators vegetation
+37-3013,Tree Trimmers and Pruners,50270.0,2023,tree trimmers pruners
+37-3019,"Grounds Maintenance Workers, All Other",11980.0,2023,grounds maintenance workers all other
+39-0000,Personal Care and Service Occupations,3040630.0,2023,personal care service occupations
+39-1000,Supervisors of Personal Care and Service Workers,219680.0,2023,supervisors of personal care service workers
+39-1010,First-Line Supervisors of Entertainment and Recreation Workers,113230.0,2023,first line supervisors of entertainment recreation workers
+39-1013,First-Line Supervisors of Gambling Services Workers,25100.0,2023,first line supervisors of gambling services workers
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",88140.0,2023,first line supervisors of entertainment recreation workers except gambling services
+39-1020,First-Line Supervisors of Personal Service Workers,106440.0,2023,first line supervisors of personal service workers
+39-1022,First-Line Supervisors of Personal Service Workers,106440.0,2023,first line supervisors of personal service workers
+39-2000,Animal Care and Service Workers,288060.0,2023,animal care service workers
+39-2010,Animal Trainers,19240.0,2023,animal trainers
+39-2011,Animal Trainers,19240.0,2023,animal trainers
+39-2020,Animal Caretakers,268830.0,2023,animal caretakers
+39-2021,Animal Caretakers,268830.0,2023,animal caretakers
+39-3000,Entertainment Attendants and Related Workers,612760.0,2023,entertainment attendants related workers
+39-3010,Gambling Services Workers,102570.0,2023,gambling services workers
+39-3011,Gambling Dealers,80570.0,2023,gambling dealers
+39-3012,Gambling and Sports Book Writers and Runners,8700.0,2023,gambling sports book writers runners
+39-3019,"Gambling Service Workers, All Other",13300.0,2023,gambling service workers all other
+39-3020,Motion Picture Projectionists,2610.0,2023,motion picture projectionists
+39-3021,Motion Picture Projectionists,2610.0,2023,motion picture projectionists
+39-3030,"Ushers, Lobby Attendants, and Ticket Takers",117560.0,2023,ushers lobby attendants ticket takers
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",117560.0,2023,ushers lobby attendants ticket takers
+39-3090,Miscellaneous Entertainment Attendants and Related Workers,390020.0,2023,miscellaneous entertainment attendants related workers
+39-3091,Amusement and Recreation Attendants,361680.0,2023,amusement recreation attendants
+39-3092,Costume Attendants,6300.0,2023,costume attendants
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",14720.0,2023,locker room coatroom dressing room attendants
+39-3099,"Entertainment Attendants and Related Workers, All Other",7320.0,2023,entertainment attendants related workers all other
+39-4000,Funeral Service Workers,63430.0,2023,funeral service workers
+39-4010,Embalmers and Crematory Operators,6600.0,2023,embalmers crematory operators
+39-4011,Embalmers,3380.0,2023,embalmers
+39-4012,Crematory Operators,3220.0,2023,crematory operators
+39-4020,Funeral Attendants,32620.0,2023,funeral attendants
+39-4021,Funeral Attendants,32620.0,2023,funeral attendants
+39-4030,"Morticians, Undertakers, and Funeral Arrangers",24200.0,2023,morticians undertakers funeral arrangers
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",24200.0,2023,morticians undertakers funeral arrangers
+39-5000,Personal Appearance Workers,532400.0,2023,personal appearance workers
+39-5010,"Barbers, Hairdressers, Hairstylists and Cosmetologists",310830.0,2023,barbers hairdressers hairstylists cosmetologists
+39-5011,Barbers,15990.0,2023,barbers
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",294840.0,2023,hairdressers hairstylists cosmetologists
+39-5090,Miscellaneous Personal Appearance Workers,221570.0,2023,miscellaneous personal appearance workers
+39-5091,"Makeup Artists, Theatrical and Performance",4130.0,2023,makeup artists theatrical performance
+39-5092,Manicurists and Pedicurists,144810.0,2023,manicurists pedicurists
+39-5093,Shampooers,7360.0,2023,shampooers
+39-5094,Skincare Specialists,65270.0,2023,skincare specialists
+39-6000,"Baggage Porters, Bellhops, and Concierges",69800.0,2023,baggage porters bellhops concierges
+39-6010,"Baggage Porters, Bellhops, and Concierges",69800.0,2023,baggage porters bellhops concierges
+39-6011,Baggage Porters and Bellhops,28780.0,2023,baggage porters bellhops
+39-6012,Concierges,41020.0,2023,concierges
+39-7000,Tour and Travel Guides,46760.0,2023,tour travel guides
+39-7010,Tour and Travel Guides,46760.0,2023,tour travel guides
+39-9000,Other Personal Care and Service Workers,1207740.0,2023,other personal care service workers
+39-9010,Childcare Workers,497450.0,2023,childcare workers
+39-9011,Childcare Workers,497450.0,2023,childcare workers
+39-9030,Recreation and Fitness Workers,561200.0,2023,recreation fitness workers
+39-9031,Exercise Trainers and Group Fitness Instructors,279450.0,2023,exercise trainers group fitness instructors
+39-9032,Recreation Workers,281750.0,2023,recreation workers
+39-9040,Residential Advisors,88700.0,2023,residential advisors
+39-9041,Residential Advisors,88700.0,2023,residential advisors
+39-9090,Miscellaneous Personal Care and Service Workers,60390.0,2023,miscellaneous personal care service workers
+39-9099,"Personal Care and Service Workers, All Other",60390.0,2023,personal care service workers all other
+41-0000,Sales and Related Occupations,13380660.0,2023,sales related occupations
+41-1000,Supervisors of Sales Workers,1315030.0,2023,supervisors of sales workers
+41-1010,First-Line Supervisors of Sales Workers,1315030.0,2023,first line supervisors of sales workers
+41-1011,First-Line Supervisors of Retail Sales Workers,1087890.0,2023,first line supervisors of retail sales workers
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,227150.0,2023,first line supervisors of non retail sales workers
+41-2000,Retail Sales Workers,7655030.0,2023,retail sales workers
+41-2010,Cashiers,3319210.0,2023,cashiers
+41-2011,Cashiers,3298660.0,2023,cashiers
+41-2012,Gambling Change Persons and Booth Cashiers,20560.0,2023,gambling change persons booth cashiers
+41-2020,Counter and Rental Clerks and Parts Salespersons,651070.0,2023,counter rental clerks parts salespersons
+41-2021,Counter and Rental Clerks,390300.0,2023,counter rental clerks
+41-2022,Parts Salespersons,260770.0,2023,parts salespersons
+41-2030,Retail Salespersons,3684740.0,2023,retail salespersons
+41-2031,Retail Salespersons,3684740.0,2023,retail salespersons
+41-3000,"Sales Representatives, Services",2245510.0,2023,sales representatives services
+41-3010,Advertising Sales Agents,108100.0,2023,advertising sales agents
+41-3011,Advertising Sales Agents,108100.0,2023,advertising sales agents
+41-3020,Insurance Sales Agents,457510.0,2023,insurance sales agents
+41-3021,Insurance Sales Agents,457510.0,2023,insurance sales agents
+41-3030,"Securities, Commodities, and Financial Services Sales Agents",479630.0,2023,securities commodities financial services sales agents
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",479630.0,2023,securities commodities financial services sales agents
+41-3040,Travel Agents,58250.0,2023,travel agents
+41-3041,Travel Agents,58250.0,2023,travel agents
+41-3090,"Miscellaneous Sales Representatives, Services",1142020.0,2023,miscellaneous sales representatives services
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",1142020.0,2023,sales representatives of services except advertising insurance financial services travel
+41-4000,"Sales Representatives, Wholesale and Manufacturing",1600700.0,2023,sales representatives wholesale manufacturing
+41-4010,"Sales Representatives, Wholesale and Manufacturing",1600700.0,2023,sales representatives wholesale manufacturing
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",311780.0,2023,sales representatives wholesale manufacturing technical scientific products
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1288920.0,2023,sales representatives wholesale manufacturing except technical scientific products
+41-9000,Other Sales and Related Workers,564380.0,2023,other sales related workers
+41-9010,"Models, Demonstrators, and Product Promoters",53880.0,2023,models demonstrators product promoters
+41-9011,Demonstrators and Product Promoters,50790.0,2023,demonstrators product promoters
+41-9012,Models,3090.0,2023,models
+41-9020,Real Estate Brokers and Sales Agents,249080.0,2023,real estate brokers sales agents
+41-9021,Real Estate Brokers,51350.0,2023,real estate brokers
+41-9022,Real Estate Sales Agents,197720.0,2023,real estate sales agents
+41-9030,Sales Engineers,59340.0,2023,sales engineers
+41-9031,Sales Engineers,59340.0,2023,sales engineers
+41-9040,Telemarketers,81580.0,2023,telemarketers
+41-9041,Telemarketers,81580.0,2023,telemarketers
+41-9090,Miscellaneous Sales and Related Workers,120500.0,2023,miscellaneous sales related workers
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",6220.0,2023,door to door sales workers news street vendors related workers
+41-9099,"Sales and Related Workers, All Other",114280.0,2023,sales related workers all other
+43-0000,Office and Administrative Support Occupations,18533450.0,2023,office administrative support occupations
+43-1000,Supervisors of Office and Administrative Support Workers,1504570.0,2023,supervisors of office administrative support workers
+43-1010,First-Line Supervisors of Office and Administrative Support Workers,1504570.0,2023,first line supervisors of office administrative support workers
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,1504570.0,2023,first line supervisors of office administrative support workers
+43-2000,Communications Equipment Operators,49810.0,2023,communications equipment operators
+43-2010,"Switchboard Operators, Including Answering Service",43830.0,2023,switchboard operators including answering service
+43-2011,"Switchboard Operators, Including Answering Service",43830.0,2023,switchboard operators including answering service
+43-2020,Telephone Operators,4600.0,2023,telephone operators
+43-2021,Telephone Operators,4600.0,2023,telephone operators
+43-2090,Miscellaneous Communications Equipment Operators,1380.0,2023,miscellaneous communications equipment operators
+43-2099,"Communications Equipment Operators, All Other",1380.0,2023,communications equipment operators all other
+43-3000,Financial Clerks,2739760.0,2023,financial clerks
+43-3010,Bill and Account Collectors,190910.0,2023,bill account collectors
+43-3011,Bill and Account Collectors,190910.0,2023,bill account collectors
+43-3020,Billing and Posting Clerks,430220.0,2023,billing posting clerks
+43-3021,Billing and Posting Clerks,430220.0,2023,billing posting clerks
+43-3030,"Bookkeeping, Accounting, and Auditing Clerks",1501910.0,2023,bookkeeping accounting auditing clerks
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",1501910.0,2023,bookkeeping accounting auditing clerks
+43-3040,Gambling Cage Workers,12560.0,2023,gambling cage workers
+43-3041,Gambling Cage Workers,12560.0,2023,gambling cage workers
+43-3050,Payroll and Timekeeping Clerks,157230.0,2023,payroll timekeeping clerks
+43-3051,Payroll and Timekeeping Clerks,157230.0,2023,payroll timekeeping clerks
+43-3060,Procurement Clerks,61580.0,2023,procurement clerks
+43-3061,Procurement Clerks,61580.0,2023,procurement clerks
+43-3070,Tellers,340820.0,2023,tellers
+43-3071,Tellers,340820.0,2023,tellers
+43-3090,Miscellaneous Financial Clerks,44520.0,2023,miscellaneous financial clerks
+43-3099,"Financial Clerks, All Other",44520.0,2023,financial clerks all other
+43-4000,Information and Record Clerks,5537420.0,2023,information record clerks
+43-4010,Brokerage Clerks,48060.0,2023,brokerage clerks
+43-4011,Brokerage Clerks,48060.0,2023,brokerage clerks
+43-4020,Correspondence Clerks,4650.0,2023,correspondence clerks
+43-4021,Correspondence Clerks,4650.0,2023,correspondence clerks
+43-4030,"Court, Municipal, and License Clerks",157960.0,2023,court municipal license clerks
+43-4031,"Court, Municipal, and License Clerks",157960.0,2023,court municipal license clerks
+43-4040,"Credit Authorizers, Checkers, and Clerks",14290.0,2023,credit authorizers checkers clerks
+43-4041,"Credit Authorizers, Checkers, and Clerks",14290.0,2023,credit authorizers checkers clerks
+43-4050,Customer Service Representatives,2858710.0,2023,customer service representatives
+43-4051,Customer Service Representatives,2858710.0,2023,customer service representatives
+43-4060,"Eligibility Interviewers, Government Programs",150190.0,2023,eligibility interviewers government programs
+43-4061,"Eligibility Interviewers, Government Programs",150190.0,2023,eligibility interviewers government programs
+43-4070,File Clerks,82290.0,2023,file clerks
+43-4071,File Clerks,82290.0,2023,file clerks
+43-4080,"Hotel, Motel, and Resort Desk Clerks",263800.0,2023,hotel motel resort desk clerks
+43-4081,"Hotel, Motel, and Resort Desk Clerks",263800.0,2023,hotel motel resort desk clerks
+43-4110,"Interviewers, Except Eligibility and Loan",160550.0,2023,interviewers except eligibility loan
+43-4111,"Interviewers, Except Eligibility and Loan",160550.0,2023,interviewers except eligibility loan
+43-4120,"Library Assistants, Clerical",83680.0,2023,library assistants clerical
+43-4121,"Library Assistants, Clerical",83680.0,2023,library assistants clerical
+43-4130,Loan Interviewers and Clerks,203940.0,2023,loan interviewers clerks
+43-4131,Loan Interviewers and Clerks,203940.0,2023,loan interviewers clerks
+43-4140,New Accounts Clerks,41180.0,2023,new accounts clerks
+43-4141,New Accounts Clerks,41180.0,2023,new accounts clerks
+43-4150,Order Clerks,91830.0,2023,order clerks
+43-4151,Order Clerks,91830.0,2023,order clerks
+43-4160,"Human Resources Assistants, Except Payroll and Timekeeping",101440.0,2023,human resources assistants except payroll timekeeping
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",101440.0,2023,human resources assistants except payroll timekeeping
+43-4170,Receptionists and Information Clerks,1003820.0,2023,receptionists information clerks
+43-4171,Receptionists and Information Clerks,1003820.0,2023,receptionists information clerks
+43-4180,Reservation and Transportation Ticket Agents and Travel Clerks,119270.0,2023,reservation transportation ticket agents travel clerks
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,119270.0,2023,reservation transportation ticket agents travel clerks
+43-4190,Miscellaneous Information and Record Clerks,151760.0,2023,miscellaneous information record clerks
+43-4199,"Information and Record Clerks, All Other",151760.0,2023,information record clerks all other
+43-5000,"Material Recording, Scheduling, Dispatching, and Distributing Workers",2316650.0,2023,material recording scheduling dispatching distributing workers
+43-5010,Cargo and Freight Agents,105220.0,2023,cargo freight agents
+43-5011,Cargo and Freight Agents,105220.0,2023,cargo freight agents
+43-5020,Couriers and Messengers,72010.0,2023,couriers messengers
+43-5021,Couriers and Messengers,72010.0,2023,couriers messengers
+43-5030,Dispatchers,303910.0,2023,dispatchers
+43-5031,Public Safety Telecommunicators,97820.0,2023,public safety telecommunicators
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",206090.0,2023,dispatchers except police fire ambulance
+43-5040,"Meter Readers, Utilities",19900.0,2023,meter readers utilities
+43-5041,"Meter Readers, Utilities",19900.0,2023,meter readers utilities
+43-5050,Postal Service Workers,526260.0,2023,postal service workers
+43-5051,Postal Service Clerks,78130.0,2023,postal service clerks
+43-5052,Postal Service Mail Carriers,331600.0,2023,postal service mail carriers
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",116540.0,2023,postal service mail sorters processors processing machine operators
+43-5060,"Production, Planning, and Expediting Clerks",393980.0,2023,production planning expediting clerks
+43-5061,"Production, Planning, and Expediting Clerks",393980.0,2023,production planning expediting clerks
+43-5070,"Shipping, Receiving, and Inventory Clerks",844120.0,2023,shipping receiving inventory clerks
+43-5071,"Shipping, Receiving, and Inventory Clerks",844120.0,2023,shipping receiving inventory clerks
+43-5110,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",51250.0,2023,weighers measurers checkers samplers recordkeeping
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",51250.0,2023,weighers measurers checkers samplers recordkeeping
+43-6000,Secretaries and Administrative Assistants,3171290.0,2023,secretaries administrative assistants
+43-6010,Secretaries and Administrative Assistants,3171290.0,2023,secretaries administrative assistants
+43-6011,Executive Secretaries and Executive Administrative Assistants,483570.0,2023,executive secretaries executive administrative assistants
+43-6012,Legal Secretaries and Administrative Assistants,152790.0,2023,legal secretaries administrative assistants
+43-6013,Medical Secretaries and Administrative Assistants,749500.0,2023,medical secretaries administrative assistants
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1785430.0,2023,secretaries administrative assistants except legal medical executive
+43-9000,Other Office and Administrative Support Workers,3213950.0,2023,other office administrative support workers
+43-9020,Data Entry and Information Processing Workers,191430.0,2023,data entry information processing workers
+43-9021,Data Entry Keyers,154230.0,2023,data entry keyers
+43-9022,Word Processors and Typists,37200.0,2023,word processors typists
+43-9030,Desktop Publishers,5220.0,2023,desktop publishers
+43-9031,Desktop Publishers,5220.0,2023,desktop publishers
+43-9040,Insurance Claims and Policy Processing Clerks,241650.0,2023,insurance claims policy processing clerks
+43-9041,Insurance Claims and Policy Processing Clerks,241650.0,2023,insurance claims policy processing clerks
+43-9050,"Mail Clerks and Mail Machine Operators, Except Postal Service",66600.0,2023,mail clerks mail machine operators except postal service
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",66600.0,2023,mail clerks mail machine operators except postal service
+43-9060,"Office Clerks, General",2496370.0,2023,office clerks general
+43-9061,"Office Clerks, General",2496370.0,2023,office clerks general
+43-9070,"Office Machine Operators, Except Computer",27960.0,2023,office machine operators except computer
+43-9071,"Office Machine Operators, Except Computer",27960.0,2023,office machine operators except computer
+43-9080,Proofreaders and Copy Markers,5490.0,2023,proofreaders copy markers
+43-9081,Proofreaders and Copy Markers,5490.0,2023,proofreaders copy markers
+43-9110,Statistical Assistants,7200.0,2023,statistical assistants
+43-9111,Statistical Assistants,7200.0,2023,statistical assistants
+43-9190,Miscellaneous Office and Administrative Support Workers,172020.0,2023,miscellaneous office administrative support workers
+43-9199,"Office and Administrative Support Workers, All Other",172020.0,2023,office administrative support workers all other
+45-0000,"Farming, Fishing, and Forestry Occupations",432200.0,2023,farming fishing forestry occupations
+45-1000,"Supervisors of Farming, Fishing, and Forestry Workers",27150.0,2023,supervisors of farming fishing forestry workers
+45-1010,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",27150.0,2023,first line supervisors of farming fishing forestry workers
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",27150.0,2023,first line supervisors of farming fishing forestry workers
+45-2000,Agricultural Workers,363710.0,2023,agricultural workers
+45-2010,Agricultural Inspectors,12660.0,2023,agricultural inspectors
+45-2011,Agricultural Inspectors,12660.0,2023,agricultural inspectors
+45-2020,Animal Breeders,1360.0,2023,animal breeders
+45-2021,Animal Breeders,1360.0,2023,animal breeders
+45-2040,"Graders and Sorters, Agricultural Products",23430.0,2023,graders sorters agricultural products
+45-2041,"Graders and Sorters, Agricultural Products",23430.0,2023,graders sorters agricultural products
+45-2090,Miscellaneous Agricultural Workers,326260.0,2023,miscellaneous agricultural workers
+45-2091,Agricultural Equipment Operators,28910.0,2023,agricultural equipment operators
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",258730.0,2023,farmworkers laborers crop nursery greenhouse
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",32590.0,2023,farmworkers farm ranch aquacultural animals
+45-2099,"Agricultural Workers, All Other",6040.0,2023,agricultural workers all other
+45-4000,"Forest, Conservation, and Logging Workers",40450.0,2023,forest conservation logging workers
+45-4010,Forest and Conservation Workers,5750.0,2023,forest conservation workers
+45-4011,Forest and Conservation Workers,5750.0,2023,forest conservation workers
+45-4020,Logging Workers,34710.0,2023,logging workers
+45-4021,Fallers,4800.0,2023,fallers
+45-4022,Logging Equipment Operators,23720.0,2023,logging equipment operators
+45-4023,Log Graders and Scalers,3640.0,2023,log graders scalers
+45-4029,"Logging Workers, All Other",2540.0,2023,logging workers all other
+47-0000,Construction and Extraction Occupations,6225630.0,2023,construction extraction occupations
+47-1000,Supervisors of Construction and Extraction Workers,777420.0,2023,supervisors of construction extraction workers
+47-1010,First-Line Supervisors of Construction Trades and Extraction Workers,777420.0,2023,first line supervisors of construction trades extraction workers
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,777420.0,2023,first line supervisors of construction trades extraction workers
+47-2000,Construction Trades Workers,4588620.0,2023,construction trades workers
+47-2010,Boilermakers,11130.0,2023,boilermakers
+47-2011,Boilermakers,11130.0,2023,boilermakers
+47-2020,"Brickmasons, Blockmasons, and Stonemasons",66630.0,2023,brickmasons blockmasons stonemasons
+47-2021,Brickmasons and Blockmasons,56830.0,2023,brickmasons blockmasons
+47-2022,Stonemasons,9790.0,2023,stonemasons
+47-2030,Carpenters,700290.0,2023,carpenters
+47-2031,Carpenters,700290.0,2023,carpenters
+47-2040,"Carpet, Floor, and Tile Installers and Finishers",88200.0,2023,carpet floor tile installers finishers
+47-2041,Carpet Installers,15560.0,2023,carpet installers
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",25150.0,2023,floor layers except carpet wood hard tiles
+47-2043,Floor Sanders and Finishers,5070.0,2023,floor sanders finishers
+47-2044,Tile and Stone Setters,42420.0,2023,tile stone setters
+47-2050,"Cement Masons, Concrete Finishers, and Terrazzo Workers",205010.0,2023,cement masons concrete finishers terrazzo workers
+47-2051,Cement Masons and Concrete Finishers,203560.0,2023,cement masons concrete finishers
+47-2053,Terrazzo Workers and Finishers,1460.0,2023,terrazzo workers finishers
+47-2060,Construction Laborers,1019090.0,2023,construction laborers
+47-2061,Construction Laborers,1019090.0,2023,construction laborers
+47-2070,Construction Equipment Operators,496460.0,2023,construction equipment operators
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",43080.0,2023,paving surfacing tamping equipment operators
+47-2072,Pile Driver Operators,3010.0,2023,pile driver operators
+47-2073,Operating Engineers and Other Construction Equipment Operators,450370.0,2023,operating engineers other construction equipment operators
+47-2080,"Drywall Installers, Ceiling Tile Installers, and Tapers",106420.0,2023,drywall installers ceiling tile installers tapers
+47-2081,Drywall and Ceiling Tile Installers,90860.0,2023,drywall ceiling tile installers
+47-2082,Tapers,15560.0,2023,tapers
+47-2110,Electricians,712580.0,2023,electricians
+47-2111,Electricians,712580.0,2023,electricians
+47-2120,Glaziers,53390.0,2023,glaziers
+47-2121,Glaziers,53390.0,2023,glaziers
+47-2130,Insulation Workers,61360.0,2023,insulation workers
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",38510.0,2023,insulation workers floor ceiling wall
+47-2132,"Insulation Workers, Mechanical",22850.0,2023,insulation workers mechanical
+47-2140,Painters and Paperhangers,217730.0,2023,painters paperhangers
+47-2141,"Painters, Construction and Maintenance",215910.0,2023,painters construction maintenance
+47-2142,Paperhangers,1830.0,2023,paperhangers
+47-2150,"Pipelayers, Plumbers, Pipefitters, and Steamfitters",471000.0,2023,pipelayers plumbers pipefitters steamfitters
+47-2151,Pipelayers,34840.0,2023,pipelayers
+47-2152,"Plumbers, Pipefitters, and Steamfitters",436160.0,2023,plumbers pipefitters steamfitters
+47-2160,Plasterers and Stucco Masons,22310.0,2023,plasterers stucco masons
+47-2161,Plasterers and Stucco Masons,22310.0,2023,plasterers stucco masons
+47-2170,Reinforcing Iron and Rebar Workers,17400.0,2023,reinforcing iron rebar workers
+47-2171,Reinforcing Iron and Rebar Workers,17400.0,2023,reinforcing iron rebar workers
+47-2180,Roofers,135140.0,2023,roofers
+47-2181,Roofers,135140.0,2023,roofers
+47-2210,Sheet Metal Workers,116190.0,2023,sheet metal workers
+47-2211,Sheet Metal Workers,116190.0,2023,sheet metal workers
+47-2220,Structural Iron and Steel Workers,63780.0,2023,structural iron steel workers
+47-2221,Structural Iron and Steel Workers,63780.0,2023,structural iron steel workers
+47-2230,Solar Photovoltaic Installers,24510.0,2023,solar photovoltaic installers
+47-2231,Solar Photovoltaic Installers,24510.0,2023,solar photovoltaic installers
+47-3000,"Helpers, Construction Trades",191670.0,2023,helpers construction trades
+47-3010,"Helpers, Construction Trades",191670.0,2023,helpers construction trades
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",16460.0,2023,helpers  brickmasons blockmasons stonemasons tile marble setters
+47-3012,Helpers--Carpenters,21770.0,2023,helpers  carpenters
+47-3013,Helpers--Electricians,68670.0,2023,helpers  electricians
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",7700.0,2023,helpers  painters paperhangers plasterers stucco masons
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",45300.0,2023,helpers  pipelayers plumbers pipefitters steamfitters
+47-3016,Helpers--Roofers,4540.0,2023,helpers  roofers
+47-3019,"Helpers, Construction Trades, All Other",27250.0,2023,helpers construction trades all other
+47-4000,Other Construction and Related Workers,455520.0,2023,other construction related workers
+47-4010,Construction and Building Inspectors,133640.0,2023,construction building inspectors
+47-4011,Construction and Building Inspectors,133640.0,2023,construction building inspectors
+47-4020,Elevator and Escalator Installers and Repairers,23990.0,2023,elevator escalator installers repairers
+47-4021,Elevator and Escalator Installers and Repairers,23990.0,2023,elevator escalator installers repairers
+47-4030,Fence Erectors,21470.0,2023,fence erectors
+47-4031,Fence Erectors,21470.0,2023,fence erectors
+47-4040,Hazardous Materials Removal Workers,49960.0,2023,hazardous materials removal workers
+47-4041,Hazardous Materials Removal Workers,49960.0,2023,hazardous materials removal workers
+47-4050,Highway Maintenance Workers,150860.0,2023,highway maintenance workers
+47-4051,Highway Maintenance Workers,150860.0,2023,highway maintenance workers
+47-4060,Rail-Track Laying and Maintenance Equipment Operators,18770.0,2023,rail track laying maintenance equipment operators
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,18770.0,2023,rail track laying maintenance equipment operators
+47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,27900.0,2023,septic tank servicers sewer pipe cleaners
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,27900.0,2023,septic tank servicers sewer pipe cleaners
+47-4090,Miscellaneous Construction and Related Workers,28930.0,2023,miscellaneous construction related workers
+47-5000,Extraction Workers,212390.0,2023,extraction workers
+47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",69840.0,2023,derrick rotary drill service unit operators oil gas
+47-5011,"Derrick Operators, Oil and Gas",11510.0,2023,derrick operators oil gas
+47-5012,"Rotary Drill Operators, Oil and Gas",12180.0,2023,rotary drill operators oil gas
+47-5013,"Service Unit Operators, Oil and Gas",46150.0,2023,service unit operators oil gas
+47-5020,Surface Mining Machine Operators and Earth Drillers,50640.0,2023,surface mining machine operators earth drillers
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",32630.0,2023,excavating loading machine dragline operators surface mining
+47-5023,"Earth Drillers, Except Oil and Gas",18010.0,2023,earth drillers except oil gas
+47-5030,"Explosives Workers, Ordnance Handling Experts, and Blasters",4610.0,2023,explosives workers ordnance handling experts blasters
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",4610.0,2023,explosives workers ordnance handling experts blasters
+47-5040,Underground Mining Machine Operators,25390.0,2023,underground mining machine operators
+47-5041,Continuous Mining Machine Operators,15700.0,2023,continuous mining machine operators
+47-5043,"Roof Bolters, Mining",1960.0,2023,roof bolters mining
+47-5044,"Loading and Moving Machine Operators, Underground Mining",5160.0,2023,loading moving machine operators underground mining
+47-5049,"Underground Mining Machine Operators, All Other",2560.0,2023,underground mining machine operators all other
+47-5050,"Rock Splitters, Quarry",3610.0,2023,rock splitters quarry
+47-5051,"Rock Splitters, Quarry",3610.0,2023,rock splitters quarry
+47-5070,"Roustabouts, Oil and Gas",43830.0,2023,roustabouts oil gas
+47-5071,"Roustabouts, Oil and Gas",43830.0,2023,roustabouts oil gas
+47-5080,Helpers--Extraction Workers,7360.0,2023,helpers  extraction workers
+47-5081,Helpers--Extraction Workers,7360.0,2023,helpers  extraction workers
+47-5090,Miscellaneous Extraction Workers,7120.0,2023,miscellaneous extraction workers
+47-5099,"Extraction Workers, All Other",7120.0,2023,extraction workers all other
+49-0000,"Installation, Maintenance, and Repair Occupations",5989460.0,2023,installation maintenance repair occupations
+49-1000,"Supervisors of Installation, Maintenance, and Repair Workers",589880.0,2023,supervisors of installation maintenance repair workers
+49-1010,"First-Line Supervisors of Mechanics, Installers, and Repairers",589880.0,2023,first line supervisors of mechanics installers repairers
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",589880.0,2023,first line supervisors of mechanics installers repairers
+49-2000,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",494550.0,2023,electrical electronic equipment mechanics installers repairers
+49-2010,"Computer, Automated Teller, and Office Machine Repairers",77580.0,2023,computer automated teller office machine repairers
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",77580.0,2023,computer automated teller office machine repairers
+49-2020,Radio and Telecommunications Equipment Installers and Repairers,171480.0,2023,radio telecommunications equipment installers repairers
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",11810.0,2023,radio cellular tower equipment installers repairers
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",159670.0,2023,telecommunications equipment installers repairers except line installers
+49-2090,"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers",245480.0,2023,miscellaneous electrical electronic equipment mechanics installers repairers
+49-2091,Avionics Technicians,21280.0,2023,avionics technicians
+49-2092,"Electric Motor, Power Tool, and Related Repairers",16010.0,2023,electric motor power tool related repairers
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",7920.0,2023,electrical electronics installers repairers transportation equipment
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",58320.0,2023,electrical electronics repairers commercial industrial equipment
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",24790.0,2023,electrical electronics repairers powerhouse substation relay
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",8900.0,2023,electronic equipment installers repairers motor vehicles
+49-2097,Audiovisual Equipment Installers and Repairers,24720.0,2023,audiovisual equipment installers repairers
+49-2098,Security and Fire Alarm Systems Installers,83540.0,2023,security fire alarm systems installers
+49-3000,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",1708100.0,2023,vehicle mobile equipment mechanics installers repairers
+49-3010,Aircraft Mechanics and Service Technicians,137630.0,2023,aircraft mechanics service technicians
+49-3011,Aircraft Mechanics and Service Technicians,137630.0,2023,aircraft mechanics service technicians
+49-3020,Automotive Technicians and Repairers,845360.0,2023,automotive technicians repairers
+49-3021,Automotive Body and Related Repairers,151910.0,2023,automotive body related repairers
+49-3022,Automotive Glass Installers and Repairers,16890.0,2023,automotive glass installers repairers
+49-3023,Automotive Service Technicians and Mechanics,676570.0,2023,automotive service technicians mechanics
+49-3030,Bus and Truck Mechanics and Diesel Engine Specialists,285030.0,2023,bus truck mechanics diesel engine specialists
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,285030.0,2023,bus truck mechanics diesel engine specialists
+49-3040,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,233590.0,2023,heavy vehicle mobile equipment service technicians mechanics
+49-3041,Farm Equipment Mechanics and Service Technicians,36830.0,2023,farm equipment mechanics service technicians
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",177280.0,2023,mobile heavy equipment mechanics except engines
+49-3043,Rail Car Repairers,19480.0,2023,rail car repairers
+49-3050,Small Engine Mechanics,73630.0,2023,small engine mechanics
+49-3051,Motorboat Mechanics and Service Technicians,23230.0,2023,motorboat mechanics service technicians
+49-3052,Motorcycle Mechanics,14330.0,2023,motorcycle mechanics
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,36080.0,2023,outdoor power equipment other small engine mechanics
+49-3090,"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",132860.0,2023,miscellaneous vehicle mobile equipment mechanics installers repairers
+49-3091,Bicycle Repairers,13980.0,2023,bicycle repairers
+49-3092,Recreational Vehicle Service Technicians,17360.0,2023,recreational vehicle service technicians
+49-3093,Tire Repairers and Changers,101520.0,2023,tire repairers changers
+49-9000,"Other Installation, Maintenance, and Repair Occupations",3196930.0,2023,other installation maintenance repair occupations
+49-9010,Control and Valve Installers and Repairers,75570.0,2023,control valve installers repairers
+49-9011,Mechanical Door Repairers,27800.0,2023,mechanical door repairers
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",47780.0,2023,control valve installers repairers except mechanical door
+49-9020,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",397450.0,2023,heating air conditioning refrigeration mechanics installers
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",397450.0,2023,heating air conditioning refrigeration mechanics installers
+49-9030,Home Appliance Repairers,29950.0,2023,home appliance repairers
+49-9031,Home Appliance Repairers,29950.0,2023,home appliance repairers
+49-9040,"Industrial Machinery Installation, Repair, and Maintenance Workers",509160.0,2023,industrial machinery installation repair maintenance workers
+49-9041,Industrial Machinery Mechanics,412650.0,2023,industrial machinery mechanics
+49-9043,"Maintenance Workers, Machinery",58040.0,2023,maintenance workers machinery
+49-9044,Millwrights,37930.0,2023,millwrights
+49-9045,"Refractory Materials Repairers, Except Brickmasons",540.0,2023,refractory materials repairers except brickmasons
+49-9050,Line Installers and Repairers,219120.0,2023,line installers repairers
+49-9051,Electrical Power-Line Installers and Repairers,120170.0,2023,electrical power line installers repairers
+49-9052,Telecommunications Line Installers and Repairers,98950.0,2023,telecommunications line installers repairers
+49-9060,Precision Instrument and Equipment Repairers,85320.0,2023,precision instrument equipment repairers
+49-9061,Camera and Photographic Equipment Repairers,2540.0,2023,camera photographic equipment repairers
+49-9062,Medical Equipment Repairers,64400.0,2023,medical equipment repairers
+49-9063,Musical Instrument Repairers and Tuners,6170.0,2023,musical instrument repairers tuners
+49-9064,Watch and Clock Repairers,1880.0,2023,watch clock repairers
+49-9069,"Precision Instrument and Equipment Repairers, All Other",10330.0,2023,precision instrument equipment repairers all other
+49-9070,"Maintenance and Repair Workers, General",1503150.0,2023,maintenance repair workers general
+49-9071,"Maintenance and Repair Workers, General",1503150.0,2023,maintenance repair workers general
+49-9080,Wind Turbine Service Technicians,9800.0,2023,wind turbine service technicians
+49-9081,Wind Turbine Service Technicians,9800.0,2023,wind turbine service technicians
+49-9090,"Miscellaneous Installation, Maintenance, and Repair Workers",367420.0,2023,miscellaneous installation maintenance repair workers
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",36100.0,2023,coin vending amusement machine servicers repairers
+49-9092,Commercial Divers,2790.0,2023,commercial divers
+49-9094,Locksmiths and Safe Repairers,14790.0,2023,locksmiths safe repairers
+49-9095,Manufactured Building and Mobile Home Installers,2910.0,2023,manufactured building mobile home installers
+49-9096,Riggers,23870.0,2023,riggers
+49-9097,Signal and Track Switch Repairers,9200.0,2023,signal track switch repairers
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",101890.0,2023,helpers  installation maintenance repair workers
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",175860.0,2023,installation maintenance repair workers all other
+51-0000,Production Occupations,8770170.0,2023,production occupations
+51-1000,Supervisors of Production Workers,671160.0,2023,supervisors of production workers
+51-1010,First-Line Supervisors of Production and Operating Workers,671160.0,2023,first line supervisors of production operating workers
+51-1011,First-Line Supervisors of Production and Operating Workers,671160.0,2023,first line supervisors of production operating workers
+51-2000,Assemblers and Fabricators,1924970.0,2023,assemblers fabricators
+51-2010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",29810.0,2023,aircraft structure surfaces rigging systems assemblers
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",29810.0,2023,aircraft structure surfaces rigging systems assemblers
+51-2020,"Electrical, Electronics, and Electromechanical Assemblers",279340.0,2023,electrical electronics electromechanical assemblers
+51-2021,"Coil Winders, Tapers, and Finishers",11900.0,2023,coil winders tapers finishers
+51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",267440.0,2023,electrical electronic electromechanical assemblers except coil winders tapers finishers
+51-2030,Engine and Other Machine Assemblers,47960.0,2023,engine other machine assemblers
+51-2031,Engine and Other Machine Assemblers,47960.0,2023,engine other machine assemblers
+51-2040,Structural Metal Fabricators and Fitters,57810.0,2023,structural metal fabricators fitters
+51-2041,Structural Metal Fabricators and Fitters,57810.0,2023,structural metal fabricators fitters
+51-2050,Fiberglass Laminators and Fabricators,20380.0,2023,fiberglass laminators fabricators
+51-2051,Fiberglass Laminators and Fabricators,20380.0,2023,fiberglass laminators fabricators
+51-2060,Timing Device Assemblers and Adjusters,400.0,2023,timing device assemblers adjusters
+51-2061,Timing Device Assemblers and Adjusters,400.0,2023,timing device assemblers adjusters
+51-2090,Miscellaneous Assemblers and Fabricators,1489280.0,2023,miscellaneous assemblers fabricators
+51-3000,Food Processing Workers,848630.0,2023,food processing workers
+51-3010,Bakers,220230.0,2023,bakers
+51-3011,Bakers,220230.0,2023,bakers
+51-3020,"Butchers and Other Meat, Poultry, and Fish Processing Workers",345940.0,2023,butchers other meat poultry fish processing workers
+51-3021,Butchers and Meat Cutters,136330.0,2023,butchers meat cutters
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",138300.0,2023,meat poultry fish cutters trimmers
+51-3023,Slaughterers and Meat Packers,71310.0,2023,slaughterers meat packers
+51-3090,Miscellaneous Food Processing Workers,282460.0,2023,miscellaneous food processing workers
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",19570.0,2023,food tobacco roasting baking drying machine operators tenders
+51-3092,Food Batchmakers,169190.0,2023,food batchmakers
+51-3093,Food Cooking Machine Operators and Tenders,29730.0,2023,food cooking machine operators tenders
+51-3099,"Food Processing Workers, All Other",63970.0,2023,food processing workers all other
+51-4000,Metal Workers and Plastic Workers,1605180.0,2023,metal workers plastic workers
+51-4020,"Forming Machine Setters, Operators, and Tenders, Metal and Plastic",97290.0,2023,forming machine setters operators tenders metal plastic
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",63370.0,2023,extruding drawing machine setters operators tenders metal plastic
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",9170.0,2023,forging machine setters operators tenders metal plastic
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",24750.0,2023,rolling machine setters operators tenders metal plastic
+51-4030,"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic",293770.0,2023,machine tool cutting setters operators tenders metal plastic
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",179230.0,2023,cutting punching press machine setters operators tenders metal plastic
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",5740.0,2023,drilling boring machine tool setters operators tenders metal plastic
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",75260.0,2023,grinding lapping polishing buffing machine tool setters operators tenders metal plastic
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",19560.0,2023,lathe turning machine tool setters operators tenders metal plastic
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",13990.0,2023,milling planing machine setters operators tenders metal plastic
+51-4040,Machinists,290720.0,2023,machinists
+51-4041,Machinists,290720.0,2023,machinists
+51-4050,"Metal Furnace Operators, Tenders, Pourers, and Casters",26340.0,2023,metal furnace operators tenders pourers casters
+51-4051,Metal-Refining Furnace Operators and Tenders,20870.0,2023,metal refining furnace operators tenders
+51-4052,"Pourers and Casters, Metal",5460.0,2023,pourers casters metal
+51-4060,"Model Makers and Patternmakers, Metal and Plastic",4990.0,2023,model makers patternmakers metal plastic
+51-4061,"Model Makers, Metal and Plastic",2840.0,2023,model makers metal plastic
+51-4062,"Patternmakers, Metal and Plastic",2150.0,2023,patternmakers metal plastic
+51-4070,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",170760.0,2023,molders molding machine setters operators tenders metal plastic
+51-4071,Foundry Mold and Coremakers,11780.0,2023,foundry mold coremakers
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",158980.0,2023,molding coremaking casting machine setters operators tenders metal plastic
+51-4080,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",127790.0,2023,multiple machine tool setters operators tenders metal plastic
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",127790.0,2023,multiple machine tool setters operators tenders metal plastic
+51-4110,Tool and Die Makers,58150.0,2023,tool die makers
+51-4111,Tool and Die Makers,58150.0,2023,tool die makers
+51-4120,"Welding, Soldering, and Brazing Workers",454760.0,2023,welding soldering brazing workers
+51-4121,"Welders, Cutters, Solderers, and Brazers",421730.0,2023,welders cutters solderers brazers
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",33020.0,2023,welding soldering brazing machine setters operators tenders
+51-4190,Miscellaneous Metal Workers and Plastic Workers,80600.0,2023,miscellaneous metal workers plastic workers
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",14950.0,2023,heat treating equipment setters operators tenders metal plastic
+51-4192,"Layout Workers, Metal and Plastic",6660.0,2023,layout workers metal plastic
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",31970.0,2023,plating machine setters operators tenders metal plastic
+51-4194,"Tool Grinders, Filers, and Sharpeners",6660.0,2023,tool grinders filers sharpeners
+51-4199,"Metal Workers and Plastic Workers, All Other",20370.0,2023,metal workers plastic workers all other
+51-5100,Printing Workers,213920.0,2023,printing workers
+51-5110,Printing Workers,213920.0,2023,printing workers
+51-5111,Prepress Technicians and Workers,23590.0,2023,prepress technicians workers
+51-5112,Printing Press Operators,151450.0,2023,printing press operators
+51-5113,Print Binding and Finishing Workers,38880.0,2023,print binding finishing workers
+51-6000,"Textile, Apparel, and Furnishings Workers",473970.0,2023,textile apparel furnishings workers
+51-6010,Laundry and Dry-Cleaning Workers,185000.0,2023,laundry dry cleaning workers
+51-6011,Laundry and Dry-Cleaning Workers,185000.0,2023,laundry dry cleaning workers
+51-6020,"Pressers, Textile, Garment, and Related Materials",28700.0,2023,pressers textile garment related materials
+51-6021,"Pressers, Textile, Garment, and Related Materials",28700.0,2023,pressers textile garment related materials
+51-6030,Sewing Machine Operators,116130.0,2023,sewing machine operators
+51-6031,Sewing Machine Operators,116130.0,2023,sewing machine operators
+51-6040,Shoe and Leather Workers,11850.0,2023,shoe leather workers
+51-6041,Shoe and Leather Workers and Repairers,7230.0,2023,shoe leather workers repairers
+51-6042,Shoe Machine Operators and Tenders,4630.0,2023,shoe machine operators tenders
+51-6050,"Tailors, Dressmakers, and Sewers",18340.0,2023,tailors dressmakers sewers
+51-6051,"Sewers, Hand",3390.0,2023,sewers hand
+51-6052,"Tailors, Dressmakers, and Custom Sewers",14950.0,2023,tailors dressmakers custom sewers
+51-6060,"Textile Machine Setters, Operators, and Tenders",55950.0,2023,textile machine setters operators tenders
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,6650.0,2023,textile bleaching dyeing machine operators tenders
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",9760.0,2023,textile cutting machine setters operators tenders
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",15980.0,2023,textile knitting weaving machine setters operators tenders
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",23550.0,2023,textile winding twisting drawing out machine setters operators tenders
+51-6090,"Miscellaneous Textile, Apparel, and Furnishings Workers",58010.0,2023,miscellaneous textile apparel furnishings workers
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",14520.0,2023,extruding forming machine setters operators tenders synthetic glass fibers
+51-6092,Fabric and Apparel Patternmakers,2670.0,2023,fabric apparel patternmakers
+51-6093,Upholsterers,25740.0,2023,upholsterers
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",15080.0,2023,textile apparel furnishings workers all other
+51-7000,Woodworkers,216330.0,2023,woodworkers
+51-7010,Cabinetmakers and Bench Carpenters,88460.0,2023,cabinetmakers bench carpenters
+51-7011,Cabinetmakers and Bench Carpenters,88460.0,2023,cabinetmakers bench carpenters
+51-7020,Furniture Finishers,14380.0,2023,furniture finishers
+51-7021,Furniture Finishers,14380.0,2023,furniture finishers
+51-7030,"Model Makers and Patternmakers, Wood",850.0,2023,model makers patternmakers wood
+51-7031,"Model Makers, Wood",590.0,2023,model makers wood
+51-7032,"Patternmakers, Wood",260.0,2023,patternmakers wood
+51-7040,"Woodworking Machine Setters, Operators, and Tenders",104820.0,2023,woodworking machine setters operators tenders
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",43570.0,2023,sawing machine setters operators tenders wood
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",61250.0,2023,woodworking machine setters operators tenders except sawing
+51-7090,Miscellaneous Woodworkers,7830.0,2023,miscellaneous woodworkers
+51-7099,"Woodworkers, All Other",7830.0,2023,woodworkers all other
+51-8000,Plant and System Operators,283480.0,2023,plant system operators
+51-8010,"Power Plant Operators, Distributors, and Dispatchers",46300.0,2023,power plant operators distributors dispatchers
+51-8011,Nuclear Power Reactor Operators,5760.0,2023,nuclear power reactor operators
+51-8012,Power Distributors and Dispatchers,9040.0,2023,power distributors dispatchers
+51-8013,Power Plant Operators,31490.0,2023,power plant operators
+51-8020,Stationary Engineers and Boiler Operators,33840.0,2023,stationary engineers boiler operators
+51-8021,Stationary Engineers and Boiler Operators,33840.0,2023,stationary engineers boiler operators
+51-8030,Water and Wastewater Treatment Plant and System Operators,120710.0,2023,water wastewater treatment plant system operators
+51-8031,Water and Wastewater Treatment Plant and System Operators,120710.0,2023,water wastewater treatment plant system operators
+51-8090,Miscellaneous Plant and System Operators,82630.0,2023,miscellaneous plant system operators
+51-8091,Chemical Plant and System Operators,17980.0,2023,chemical plant system operators
+51-8092,Gas Plant Operators,15930.0,2023,gas plant operators
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",33360.0,2023,petroleum pump system operators refinery operators gaugers
+51-8099,"Plant and System Operators, All Other",15370.0,2023,plant system operators all other
+51-9000,Other Production Occupations,2532530.0,2023,other production occupations
+51-9010,"Chemical Processing Machine Setters, Operators, and Tenders",173420.0,2023,chemical processing machine setters operators tenders
+51-9011,Chemical Equipment Operators and Tenders,120260.0,2023,chemical equipment operators tenders
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",53170.0,2023,separating filtering clarifying precipitating still machine setters operators tenders
+51-9020,"Crushing, Grinding, Polishing, Mixing, and Blending Workers",144230.0,2023,crushing grinding polishing mixing blending workers
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",26210.0,2023,crushing grinding polishing machine setters operators tenders
+51-9022,"Grinding and Polishing Workers, Hand",12290.0,2023,grinding polishing workers hand
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",105740.0,2023,mixing blending machine setters operators tenders
+51-9030,Cutting Workers,59950.0,2023,cutting workers
+51-9031,"Cutters and Trimmers, Hand",7220.0,2023,cutters trimmers hand
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",52720.0,2023,cutting slicing machine setters operators tenders
+51-9040,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",57080.0,2023,extruding forming pressing compacting machine setters operators tenders
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",57080.0,2023,extruding forming pressing compacting machine setters operators tenders
+51-9050,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",14820.0,2023,furnace kiln oven drier kettle operators tenders
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",14820.0,2023,furnace kiln oven drier kettle operators tenders
+51-9060,"Inspectors, Testers, Sorters, Samplers, and Weighers",584630.0,2023,inspectors testers sorters samplers weighers
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",584630.0,2023,inspectors testers sorters samplers weighers
+51-9070,Jewelers and Precious Stone and Metal Workers,24060.0,2023,jewelers precious stone metal workers
+51-9071,Jewelers and Precious Stone and Metal Workers,24060.0,2023,jewelers precious stone metal workers
+51-9080,Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians,64970.0,2023,dental ophthalmic laboratory technicians medical appliance technicians
+51-9081,Dental Laboratory Technicians,34190.0,2023,dental laboratory technicians
+51-9082,Medical Appliance Technicians,12550.0,2023,medical appliance technicians
+51-9083,Ophthalmic Laboratory Technicians,18240.0,2023,ophthalmic laboratory technicians
+51-9110,Packaging and Filling Machine Operators and Tenders,371600.0,2023,packaging filling machine operators tenders
+51-9111,Packaging and Filling Machine Operators and Tenders,371600.0,2023,packaging filling machine operators tenders
+51-9120,Painting Workers,166570.0,2023,painting workers
+51-9123,"Painting, Coating, and Decorating Workers",10700.0,2023,painting coating decorating workers
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",155880.0,2023,coating painting spraying machine setters operators tenders
+51-9140,Semiconductor Processing Technicians,26450.0,2023,semiconductor processing technicians
+51-9141,Semiconductor Processing Technicians,26450.0,2023,semiconductor processing technicians
+51-9150,Photographic Process Workers and Processing Machine Operators,5770.0,2023,photographic process workers processing machine operators
+51-9151,Photographic Process Workers and Processing Machine Operators,5770.0,2023,photographic process workers processing machine operators
+51-9160,Computer Numerically Controlled Tool Operators and Programmers,215710.0,2023,computer numerically controlled tool operators programmers
+51-9161,Computer Numerically Controlled Tool Operators,187670.0,2023,computer numerically controlled tool operators
+51-9162,Computer Numerically Controlled Tool Programmers,28030.0,2023,computer numerically controlled tool programmers
+51-9190,Miscellaneous Production Workers,623280.0,2023,miscellaneous production workers
+51-9191,Adhesive Bonding Machine Operators and Tenders,12510.0,2023,adhesive bonding machine operators tenders
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",15210.0,2023,cleaning washing metal pickling equipment operators tenders
+51-9193,Cooling and Freezing Equipment Operators and Tenders,6500.0,2023,cooling freezing equipment operators tenders
+51-9194,Etchers and Engravers,8140.0,2023,etchers engravers
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",38480.0,2023,molders shapers casters except metal plastic
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",96460.0,2023,paper goods machine setters operators tenders
+51-9197,Tire Builders,20660.0,2023,tire builders
+51-9198,Helpers--Production Workers,181810.0,2023,helpers  production workers
+51-9199,"Production Workers, All Other",243500.0,2023,production workers all other
+53-0000,Transportation and Material Moving Occupations,13752760.0,2023,transportation material moving occupations
+53-1000,Supervisors of Transportation and Material Moving Workers,603350.0,2023,supervisors of transportation material moving workers
+53-1040,First-Line Supervisors of Transportation and Material Moving Workers,603350.0,2023,first line supervisors of transportation material moving workers
+53-1041,Aircraft Cargo Handling Supervisors,9020.0,2023,aircraft cargo handling supervisors
+53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",594330.0,2023,first line supervisors of transportation material moving workers except aircraft cargo handling supervisors
+53-2000,Air Transportation Workers,313070.0,2023,air transportation workers
+53-2010,Aircraft Pilots and Flight Engineers,146420.0,2023,aircraft pilots flight engineers
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",93670.0,2023,airline pilots copilots flight engineers
+53-2012,Commercial Pilots,52750.0,2023,commercial pilots
+53-2020,Air Traffic Controllers and Airfield Operations Specialists,40630.0,2023,air traffic controllers airfield operations specialists
+53-2021,Air Traffic Controllers,22310.0,2023,air traffic controllers
+53-2022,Airfield Operations Specialists,18320.0,2023,airfield operations specialists
+53-2030,Flight Attendants,126020.0,2023,flight attendants
+53-2031,Flight Attendants,126020.0,2023,flight attendants
+53-3000,Motor Vehicle Operators,4353340.0,2023,motor vehicle operators
+53-3010,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",11520.0,2023,ambulance drivers attendants except emergency medical technicians
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",11520.0,2023,ambulance drivers attendants except emergency medical technicians
+53-3030,Driver/Sales Workers and Truck Drivers,3511470.0,2023,driver/sales workers truck drivers
+53-3031,Driver/Sales Workers,463120.0,2023,driver/sales workers
+53-3032,Heavy and Tractor-Trailer Truck Drivers,2044400.0,2023,heavy tractor trailer truck drivers
+53-3033,Light Truck Drivers,1003960.0,2023,light truck drivers
+53-3050,Passenger Vehicle Drivers,779210.0,2023,passenger vehicle drivers
+53-3051,"Bus Drivers, School",371530.0,2023,bus drivers school
+53-3052,"Bus Drivers, Transit and Intercity",184990.0,2023,bus drivers transit intercity
+53-3053,Shuttle Drivers and Chauffeurs,204930.0,2023,shuttle drivers chauffeurs
+53-3054,Taxi Drivers,17770.0,2023,taxi drivers
+53-3090,Miscellaneous Motor Vehicle Operators,51140.0,2023,miscellaneous motor vehicle operators
+53-3099,"Motor Vehicle Operators, All Other",51140.0,2023,motor vehicle operators all other
+53-4000,Rail Transportation Workers,111600.0,2023,rail transportation workers
+53-4010,Locomotive Engineers and Operators,34820.0,2023,locomotive engineers operators
+53-4011,Locomotive Engineers,32390.0,2023,locomotive engineers
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",2430.0,2023,rail yard engineers dinkey operators hostlers
+53-4020,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",13610.0,2023,railroad brake signal switch operators locomotive firers
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",13610.0,2023,railroad brake signal switch operators locomotive firers
+53-4030,Railroad Conductors and Yardmasters,46490.0,2023,railroad conductors yardmasters
+53-4031,Railroad Conductors and Yardmasters,46490.0,2023,railroad conductors yardmasters
+53-4040,Subway and Streetcar Operators,14860.0,2023,subway streetcar operators
+53-4041,Subway and Streetcar Operators,14860.0,2023,subway streetcar operators
+53-4090,Miscellaneous Rail Transportation Workers,1830.0,2023,miscellaneous rail transportation workers
+53-4099,"Rail Transportation Workers, All Other",1830.0,2023,rail transportation workers all other
+53-5000,Water Transportation Workers,76040.0,2023,water transportation workers
+53-5010,Sailors and Marine Oilers,29960.0,2023,sailors marine oilers
+53-5011,Sailors and Marine Oilers,29960.0,2023,sailors marine oilers
+53-5020,Ship and Boat Captains and Operators,37220.0,2023,ship boat captains operators
+53-5021,"Captains, Mates, and Pilots of Water Vessels",34520.0,2023,captains mates pilots of water vessels
+53-5022,Motorboat Operators,2710.0,2023,motorboat operators
+53-5030,Ship Engineers,8860.0,2023,ship engineers
+53-5031,Ship Engineers,8860.0,2023,ship engineers
+53-6000,Other Transportation Workers,305390.0,2023,other transportation workers
+53-6010,Bridge and Lock Tenders,3460.0,2023,bridge lock tenders
+53-6011,Bridge and Lock Tenders,3460.0,2023,bridge lock tenders
+53-6020,Parking Attendants,118130.0,2023,parking attendants
+53-6021,Parking Attendants,118130.0,2023,parking attendants
+53-6030,Transportation Service Attendants,117460.0,2023,transportation service attendants
+53-6031,Automotive and Watercraft Service Attendants,92530.0,2023,automotive watercraft service attendants
+53-6032,Aircraft Service Attendants,24940.0,2023,aircraft service attendants
+53-6040,Traffic Technicians,7530.0,2023,traffic technicians
+53-6041,Traffic Technicians,7530.0,2023,traffic technicians
+53-6050,Transportation Inspectors,27670.0,2023,transportation inspectors
+53-6051,Transportation Inspectors,27670.0,2023,transportation inspectors
+53-6060,Passenger Attendants,20190.0,2023,passenger attendants
+53-6061,Passenger Attendants,20190.0,2023,passenger attendants
+53-6090,Miscellaneous Transportation Workers,10940.0,2023,miscellaneous transportation workers
+53-6099,"Transportation Workers, All Other",10940.0,2023,transportation workers all other
+53-7000,Material Moving Workers,7989980.0,2023,material moving workers
+53-7010,Conveyor Operators and Tenders,24660.0,2023,conveyor operators tenders
+53-7011,Conveyor Operators and Tenders,24660.0,2023,conveyor operators tenders
+53-7020,Crane and Tower Operators,42260.0,2023,crane tower operators
+53-7021,Crane and Tower Operators,42260.0,2023,crane tower operators
+53-7030,Dredge Operators,940.0,2023,dredge operators
+53-7031,Dredge Operators,940.0,2023,dredge operators
+53-7040,Hoist and Winch Operators,2230.0,2023,hoist winch operators
+53-7041,Hoist and Winch Operators,2230.0,2023,hoist winch operators
+53-7050,Industrial Truck and Tractor Operators,778920.0,2023,industrial truck tractor operators
+53-7051,Industrial Truck and Tractor Operators,778920.0,2023,industrial truck tractor operators
+53-7060,Laborers and Material Movers,6935980.0,2023,laborers material movers
+53-7061,Cleaners of Vehicles and Equipment,365290.0,2023,cleaners of vehicles equipment
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",3008300.0,2023,laborers freight stock material movers hand
+53-7063,Machine Feeders and Offbearers,44500.0,2023,machine feeders offbearers
+53-7064,"Packers and Packagers, Hand",645210.0,2023,packers packagers hand
+53-7065,Stockers and Order Fillers,2872680.0,2023,stockers order fillers
+53-7070,Pumping Station Operators,34200.0,2023,pumping station operators
+53-7071,Gas Compressor and Gas Pumping Station Operators,4400.0,2023,gas compressor gas pumping station operators
+53-7072,"Pump Operators, Except Wellhead Pumpers",11570.0,2023,pump operators except wellhead pumpers
+53-7073,Wellhead Pumpers,18230.0,2023,wellhead pumpers
+53-7080,Refuse and Recyclable Material Collectors,135430.0,2023,refuse recyclable material collectors
+53-7081,Refuse and Recyclable Material Collectors,135430.0,2023,refuse recyclable material collectors
+53-7120,"Tank Car, Truck, and Ship Loaders",11400.0,2023,tank car truck ship loaders
+53-7121,"Tank Car, Truck, and Ship Loaders",11400.0,2023,tank car truck ship loaders
+53-7190,Miscellaneous Material Moving Workers,23970.0,2023,miscellaneous material moving workers
+53-7199,"Material Moving Workers, All Other",23970.0,2023,material moving workers all other

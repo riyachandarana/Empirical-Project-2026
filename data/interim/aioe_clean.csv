@@ -1,0 +1,775 @@
+occupation_code,occupation_title,ai_exposure,occ_clean
+11-1011,Chief Executives,1.334246,chief executives
+11-1021,General and Operations Managers,0.5748773,general operations managers
+11-2011,Advertising and Promotions Managers,1.294387,advertising promotions managers
+11-2021,Marketing Managers,1.315032,marketing managers
+11-2022,Sales Managers,1.26628,sales managers
+11-2031,Public Relations Managers,1.293689,public relations managers
+11-3011,Administrative Services Managers,0.7398278,administrative services managers
+11-3021,Computer and Information Systems Managers,1.059853,computer information systems managers
+11-3031,Financial Managers,1.446232,financial managers
+11-3051,Industrial Production Managers,0.5086878,industrial production managers
+11-3061,Purchasing Managers,1.423426,purchasing managers
+11-3071,"Transportation, Storage, and Distribution Managers",0.8907923,transportation storage distribution managers
+11-3111,Compensation and Benefits Managers,1.298235,compensation benefits managers
+11-3121,Human Resources Managers,1.320417,human resources managers
+11-3131,Training and Development Managers,1.284423,training development managers
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",-0.1443684,farmers ranchers other agricultural managers
+11-9021,Construction Managers,1.029139,construction managers
+11-9031,"Education Administrators, Preschool and Child Care Center/Program",0.838007,education administrators preschool child care center/program
+11-9032,"Education Administrators, Elementary and Secondary School",1.048811,education administrators elementary secondary school
+11-9033,"Education Administrators, Postsecondary",1.461149,education administrators postsecondary
+11-9039,"Education Administrators, All Other",0.3541265,education administrators all other
+11-9041,Engineering Managers,0.8370105,engineering managers
+11-9051,Food Service Managers,-0.1213112,food service managers
+11-9061,Funeral Directors,0.3719018,funeral directors
+11-9071,Gaming Managers,0.8299207,gaming managers
+11-9081,Lodging Managers,0.4021726,lodging managers
+11-9111,Medical and Health Services Managers,1.260259,medical health services managers
+11-9121,Natural Sciences Managers,1.327906,natural sciences managers
+11-9131,Postmasters and Mail Superintendents,0.8233757,postmasters mail superintendents
+11-9141,"Property, Real Estate, and Community Association Managers",1.215396,property real estate community association managers
+11-9151,Social and Community Service Managers,1.156153,social community service managers
+11-9161,Emergency Management Directors,1.030768,emergency management directors
+11-9199,"Managers, All Other",0.9646872,managers all other
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",1.068559,agents business managers of artists performers athletes
+13-1021,"Purchasing Agents and Buyers, Farm Products",0.7687054,purchasing agents buyers farm products
+13-1022,"Wholesale and Retail Buyers, Except Farm Products",0.8188258,wholesale retail buyers except farm products
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",1.509181,purchasing agents except wholesale retail farm products
+13-1031,"Claims Adjusters, Examiners, and Investigators",1.274024,claims adjusters examiners investigators
+13-1032,"Insurance Appraisers, Auto Damage",0.6634955,insurance appraisers auto damage
+13-1041,"Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation",0.6981205,compliance officers except agriculture construction health safety transportation
+13-1051,Cost Estimators,1.367669,cost estimators
+13-1071,"Employment, Recruitment, and Placement Specialists",1.36005,employment recruitment placement specialists
+13-1074,Farm Labor Contractors,-0.4354025,farm labor contractors
+13-1075,Labor Relations Specialists,1.334834,labor relations specialists
+13-1081,Logisticians,1.297303,logisticians
+13-1111,Management Analysts,1.432417,management analysts
+13-1121,Meeting and Convention Planners,0.3740207,meeting convention planners
+13-1131,Fundraisers,1.242567,fundraisers
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",1.440985,compensation benefits job analysis specialists
+13-1151,Training and Development Specialists,1.198409,training development specialists
+13-1161,Market Research Analysts and Marketing Specialists,1.426757,market research analysts marketing specialists
+13-1199,"Business Operations Specialists, All Other",1.047687,business operations specialists all other
+13-2011,Accountants and Auditors,1.481956,accountants auditors
+13-2021,Appraisers and Assessors of Real Estate,0.8413203,appraisers assessors of real estate
+13-2031,Budget Analysts,1.502988,budget analysts
+13-2041,Credit Analysts,1.345268,credit analysts
+13-2051,Financial Analysts,1.380615,financial analysts
+13-2052,Personal Financial Advisors,1.400749,personal financial advisors
+13-2053,Insurance Underwriters,1.326652,insurance underwriters
+13-2061,Financial Examiners,1.526064,financial examiners
+13-2071,Loan Counselors,1.385381,loan counselors
+13-2072,Loan Officers,1.385739,loan officers
+13-2081,"Tax Examiners, Collectors, and Revenue Agents",1.36682,tax examiners collectors revenue agents
+13-2082,Tax Preparers,1.29371,tax preparers
+13-2099,"Financial Specialists, All Other",1.361362,financial specialists all other
+15-1111,Computer and Information Research Scientists,1.154269,computer information research scientists
+15-1121,Computer Systems Analysts,1.19815,computer systems analysts
+15-1122,Information Security Analysts,1.250146,information security analysts
+15-1131,Computer Programmers,1.271506,computer programmers
+15-1132,"Software Developers, Applications",1.200923,software developers applications
+15-1133,"Software Developers, Systems Software",1.283308,software developers systems software
+15-1134,Web Developers,1.089463,web developers
+15-1141,Database Administrators,1.284863,database administrators
+15-1142,Network and Computer Systems Administrators,0.7895315,network computer systems administrators
+15-1143,Computer Network Architects,0.5803306,computer network architects
+15-1151,Computer User Support Specialists,0.299343,computer user support specialists
+15-1152,Computer Network Support Specialists,0.7860606,computer network support specialists
+15-1199,"Computer Occupations, All Other",1.232705,computer occupations all other
+15-2011,Actuaries,1.516474,actuaries
+15-2021,Mathematicians,1.472319,mathematicians
+15-2031,Operations Research Analysts,1.40002,operations research analysts
+15-2041,Statisticians,1.382724,statisticians
+15-2091,Mathematical Technicians,0.7559803,mathematical technicians
+17-1011,"Architects, Except Landscape and Naval",1.047142,architects except landscape naval
+17-1012,Landscape Architects,1.034388,landscape architects
+17-1021,Cartographers and Photogrammetrists,0.8169979,cartographers photogrammetrists
+17-1022,Surveyors,0.1460606,surveyors
+17-2011,Aerospace Engineers,1.338738,aerospace engineers
+17-2021,Agricultural Engineers,0.9409636,agricultural engineers
+17-2031,Biomedical Engineers,0.9874239,biomedical engineers
+17-2041,Chemical Engineers,1.341336,chemical engineers
+17-2051,Civil Engineers,1.282867,civil engineers
+17-2061,Computer Hardware Engineers,1.141812,computer hardware engineers
+17-2071,Electrical Engineers,1.126725,electrical engineers
+17-2072,"Electronics Engineers, Except Computer",0.6654578,electronics engineers except computer
+17-2081,Environmental Engineers,1.343561,environmental engineers
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.9948935,health safety engineers except mining safety engineers inspectors
+17-2112,Industrial Engineers,1.13787,industrial engineers
+17-2121,Marine Engineers and Naval Architects,0.5472173,marine engineers naval architects
+17-2131,Materials Engineers,1.037278,materials engineers
+17-2141,Mechanical Engineers,1.004709,mechanical engineers
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",1.34695,mining geological engineers including mining safety engineers
+17-2161,Nuclear Engineers,1.303009,nuclear engineers
+17-2171,Petroleum Engineers,1.247779,petroleum engineers
+17-2199,"Engineers, All Other",0.787566,engineers all other
+17-3011,Architectural and Civil Drafters,0.9233925,architectural civil drafters
+17-3012,Electrical and Electronics Drafters,0.910166,electrical electronics drafters
+17-3013,Mechanical Drafters,0.8410071,mechanical drafters
+17-3021,Aerospace Engineering and Operations Technicians,0.3909402,aerospace engineering operations technicians
+17-3022,Civil Engineering Technicians,0.9323219,civil engineering technicians
+17-3023,Electrical and Electronic Engineering Technicians,0.3515252,electrical electronic engineering technicians
+17-3024,Electro-Mechanical Technicians,-0.3040507,electro mechanical technicians
+17-3025,Environmental Engineering Technicians,0.0438054,environmental engineering technicians
+17-3026,Industrial Engineering Technicians,0.6106679,industrial engineering technicians
+17-3027,Mechanical Engineering Technicians,-0.1192367,mechanical engineering technicians
+17-3029,"Engineering Technicians, Except Drafters, All Other",0.1941278,engineering technicians except drafters all other
+17-3031,Surveying and Mapping Technicians,0.0852324,surveying mapping technicians
+19-1011,Animal Scientists,1.041358,animal scientists
+19-1012,Food Scientists and Technologists,0.7943575,food scientists technologists
+19-1013,Soil and Plant Scientists,0.6320696,soil plant scientists
+19-1020,Biologists,0.752081,biologists
+19-1021,Biochemists and Biophysicists,0.9060509,biochemists biophysicists
+19-1022,Microbiologists,0.6955647,microbiologists
+19-1023,Zoologists and Wildlife Biologists,0.3175953,zoologists wildlife biologists
+19-1029,"Biological Scientists, All Other",1.010193,biological scientists all other
+19-1031,Conservation Scientists,0.0690313,conservation scientists
+19-1032,Foresters,-0.184381,foresters
+19-1041,Epidemiologists,1.436287,epidemiologists
+19-1042,"Medical Scientists, Except Epidemiologists",1.279928,medical scientists except epidemiologists
+19-2011,Astronomers,1.373737,astronomers
+19-2012,Physicists,1.345736,physicists
+19-2021,Atmospheric and Space Scientists,1.373917,atmospheric space scientists
+19-2031,Chemists,0.5011251,chemists
+19-2032,Materials Scientists,1.032757,materials scientists
+19-2041,"Environmental Scientists and Specialists, Including Health",1.014113,environmental scientists specialists including health
+19-2042,"Geoscientists, Except Hydrologists and Geographers",0.7143481,geoscientists except hydrologists geographers
+19-2043,Hydrologists,0.6405071,hydrologists
+19-2099,"Physical Scientists, All Other",1.140157,physical scientists all other
+19-3011,Economists,1.403764,economists
+19-3022,Survey Researchers,1.42653,survey researchers
+19-3031,"Clinical, Counseling, and School Psychologists",1.456361,clinical counseling school psychologists
+19-3032,Industrial-Organizational Psychologists,1.402475,industrial organizational psychologists
+19-3039,"Psychologists, All Other",1.389854,psychologists all other
+19-3041,Sociologists,1.411125,sociologists
+19-3051,Urban and Regional Planners,1.227516,urban regional planners
+19-3091,Anthropologists and Archeologists,0.6965665,anthropologists archeologists
+19-3092,Geographers,1.436298,geographers
+19-3093,Historians,1.098921,historians
+19-3094,Political Scientists,1.418863,political scientists
+19-3099,"Social Scientists and Related Workers, All Other",1.328048,social scientists related workers all other
+19-4011,Agricultural and Food Science Technicians,0.095719,agricultural food science technicians
+19-4021,Biological Technicians,0.3012355,biological technicians
+19-4031,Chemical Technicians,0.0628057,chemical technicians
+19-4041,Geological and Petroleum Technicians,0.0832659,geological petroleum technicians
+19-4051,Nuclear Technicians,0.1696743,nuclear technicians
+19-4061,Social Science Research Assistants,1.204652,social science research assistants
+19-4091,"Environmental Science and Protection Technicians, Including Health",0.0169452,environmental science protection technicians including health
+19-4092,Forensic Science Technicians,0.2400518,forensic science technicians
+19-4093,Forest and Conservation Technicians,-0.6672396,forest conservation technicians
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0.4501044,life physical social science technicians all other
+21-1011,Substance Abuse and Behavioral Disorder Counselors,1.030841,substance abuse behavioral disorder counselors
+21-1012,"Educational, Vocational, and School Counselors",0.9739287,educational vocational school counselors
+21-1013,Marriage and Family Therapists,1.367434,marriage family therapists
+21-1014,Mental Health Counselors,1.34239,mental health counselors
+21-1015,Rehabilitation Counselors,0.5025014,rehabilitation counselors
+21-1021,"Child, Family, and School Social Workers",0.7761707,child family school social workers
+21-1022,Medical and Public Health Social Workers,0.9339648,medical public health social workers
+21-1023,Mental Health and Substance Abuse Social Workers,1.119216,mental health substance abuse social workers
+21-1091,Health Educators,0.691658,health educators
+21-1092,Probation Officers and Correctional Treatment Specialists,0.5272448,probation officers correctional treatment specialists
+21-1093,Social and Human Service Assistants,0.4652255,social human service assistants
+21-1094,Community Health Workers,0.0371229,community health workers
+21-2011,Clergy,1.282559,clergy
+21-2021,"Directors, Religious Activities and Education",1.210922,directors religious activities education
+23-1011,Lawyers,1.328783,lawyers
+23-1012,Judicial Law Clerks,1.462973,judicial law clerks
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",1.374714,administrative law judges adjudicators hearing officers
+23-1022,"Arbitrators, Mediators, and Conciliators",1.431593,arbitrators mediators conciliators
+23-1023,"Judges, Magistrate Judges, and Magistrates",1.496494,judges magistrate judges magistrates
+23-2011,Paralegals and Legal Assistants,1.292055,paralegals legal assistants
+23-2091,Court Reporters,0.835246,court reporters
+23-2093,"Title Examiners, Abstractors, and Searchers",1.279954,title examiners abstractors searchers
+25-1011,"Business Teachers, Postsecondary",1.349314,business teachers postsecondary
+25-1021,"Computer Science Teachers, Postsecondary",1.277778,computer science teachers postsecondary
+25-1022,"Mathematical Science Teachers, Postsecondary",1.338676,mathematical science teachers postsecondary
+25-1031,"Architecture Teachers, Postsecondary",1.222022,architecture teachers postsecondary
+25-1032,"Engineering Teachers, Postsecondary",1.351133,engineering teachers postsecondary
+25-1041,"Agricultural Sciences Teachers, Postsecondary",0.7546685,agricultural sciences teachers postsecondary
+25-1042,"Biological Science Teachers, Postsecondary",1.227677,biological science teachers postsecondary
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",1.260278,forestry conservation science teachers postsecondary
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",1.306156,atmospheric earth marine space sciences teachers postsecondary
+25-1052,"Chemistry Teachers, Postsecondary",1.333947,chemistry teachers postsecondary
+25-1053,"Environmental Science Teachers, Postsecondary",1.347519,environmental science teachers postsecondary
+25-1054,"Physics Teachers, Postsecondary",1.044191,physics teachers postsecondary
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",1.321694,anthropology archeology teachers postsecondary
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",1.308699,area ethnic cultural studies teachers postsecondary
+25-1063,"Economics Teachers, Postsecondary",1.319012,economics teachers postsecondary
+25-1064,"Geography Teachers, Postsecondary",1.318899,geography teachers postsecondary
+25-1065,"Political Science Teachers, Postsecondary",1.368397,political science teachers postsecondary
+25-1066,"Psychology Teachers, Postsecondary",1.33366,psychology teachers postsecondary
+25-1067,"Sociology Teachers, Postsecondary",1.349229,sociology teachers postsecondary
+25-1071,"Health Specialties Teachers, Postsecondary",0.924754,health specialties teachers postsecondary
+25-1072,"Nursing Instructors and Teachers, Postsecondary",0.5170682,nursing instructors teachers postsecondary
+25-1081,"Education Teachers, Postsecondary",1.192988,education teachers postsecondary
+25-1082,"Library Science Teachers, Postsecondary",1.386292,library science teachers postsecondary
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1.389999,criminal justice law enforcement teachers postsecondary
+25-1112,"Law Teachers, Postsecondary",1.35645,law teachers postsecondary
+25-1113,"Social Work Teachers, Postsecondary",1.347327,social work teachers postsecondary
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",0.7582769,art drama music teachers postsecondary
+25-1122,"Communications Teachers, Postsecondary",1.347435,communications teachers postsecondary
+25-1123,"English Language and Literature Teachers, Postsecondary",1.417833,english language literature teachers postsecondary
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",1.33412,foreign language literature teachers postsecondary
+25-1125,"History Teachers, Postsecondary",1.43749,history teachers postsecondary
+25-1126,"Philosophy and Religion Teachers, Postsecondary",1.363522,philosophy religion teachers postsecondary
+25-1191,Graduate Teaching Assistants,1.111356,graduate teaching assistants
+25-1192,"Home Economics Teachers, Postsecondary",1.211652,home economics teachers postsecondary
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",1.16489,recreation fitness studies teachers postsecondary
+25-1194,"Vocational Education Teachers, Postsecondary",0.1622185,vocational education teachers postsecondary
+25-2011,"Preschool Teachers, Except Special Education",0.0306372,preschool teachers except special education
+25-2012,"Kindergarten Teachers, Except Special Education",0.3644047,kindergarten teachers except special education
+25-2021,"Elementary School Teachers, Except Special Education",0.8869491,elementary school teachers except special education
+25-2022,"Middle School Teachers, Except Special and Vocational Education",1.286445,middle school teachers except special vocational education
+25-2023,"Vocational Education Teachers, Middle School",0.5199191,vocational education teachers middle school
+25-2031,"Secondary School Teachers, Except Special and Vocational Education",1.191325,secondary school teachers except special vocational education
+25-2032,"Vocational Education Teachers, Secondary School",0.3734505,vocational education teachers secondary school
+25-2051,"Special Education Teachers, Preschool",0.3750564,special education teachers preschool
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",0.7357486,special education teachers kindergarten elementary school
+25-2053,"Special Education Teachers, Middle School",1.296072,special education teachers middle school
+25-2054,"Special Education Teachers, Secondary School",0.9587653,special education teachers secondary school
+25-2059,"Special Education Teachers, All Other",-0.6632917,special education teachers all other
+25-3011,"Adult Literacy, Remedial Education, and GED Teachers and Instructors",1.348951,adult literacy remedial education ged teachers instructors
+25-3021,Self-Enrichment Education Teachers,0.526352,self enrichment education teachers
+25-3099,"Teachers and Instructors, All Other",1.32533,teachers instructors all other
+25-4011,Archivists,0.6765602,archivists
+25-4012,Curators,0.7366658,curators
+25-4013,Museum Technicians and Conservators,-0.0912107,museum technicians conservators
+25-4021,Librarians,1.037039,librarians
+25-4031,Library Technicians,0.037965,library technicians
+25-9011,Audio-Visual Collections Specialists,0.4508702,audio visual collections specialists
+25-9021,Farm and Home Management Advisors,0.8604031,farm home management advisors
+25-9031,Instructional Coordinators,1.301855,instructional coordinators
+25-9041,Teacher Assistants,0.4516636,teacher assistants
+27-1011,Art Directors,1.02251,art directors
+27-1012,Craft Artists,-0.9295284,craft artists
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",-0.5690498,fine artists including painters sculptors illustrators
+27-1014,Multi-Media Artists and Animators,0.7058651,multi media artists animators
+27-1021,Commercial and Industrial Designers,0.867039,commercial industrial designers
+27-1022,Fashion Designers,0.5801539,fashion designers
+27-1023,Floral Designers,-0.2718452,floral designers
+27-1024,Graphic Designers,0.7156958,graphic designers
+27-1025,Interior Designers,1.12168,interior designers
+27-1026,Merchandise Displayers and Window Trimmers,-1.001413,merchandise displayers window trimmers
+27-1027,Set and Exhibit Designers,-0.0519323,set exhibit designers
+27-2011,Actors,0.1590935,actors
+27-2012,Producers and Directors,0.9388108,producers directors
+27-2021,Athletes and Sports Competitors,-1.814336,athletes sports competitors
+27-2022,Coaches and Scouts,0.1168668,coaches scouts
+27-2023,"Umpires, Referees, and Other Sports Officials",-0.0325617,umpires referees other sports officials
+27-2031,Dancers,-2.669758,dancers
+27-2032,Choreographers,-1.575769,choreographers
+27-2041,Music Directors and Composers,0.8829641,music directors composers
+27-2042,Musicians and Singers,-0.0040058,musicians singers
+27-3011,Radio and Television Announcers,0.8493547,radio television announcers
+27-3012,Public Address System and Other Announcers,0.6650665,public address system other announcers
+27-3021,Broadcast News Analysts,1.163517,broadcast news analysts
+27-3022,Reporters and Correspondents,1.186679,reporters correspondents
+27-3031,Public Relations Specialists,1.284927,public relations specialists
+27-3041,Editors,1.128221,editors
+27-3042,Technical Writers,1.184001,technical writers
+27-3043,Writers and Authors,0.9879274,writers authors
+27-3091,Interpreters and Translators,1.111319,interpreters translators
+27-4011,Audio and Video Equipment Technicians,-0.0117747,audio video equipment technicians
+27-4012,Broadcast Technicians,0.1222249,broadcast technicians
+27-4013,Radio Operators,0.926126,radio operators
+27-4014,Sound Engineering Technicians,0.4715462,sound engineering technicians
+27-4021,Photographers,-0.1680973,photographers
+27-4031,"Camera Operators, Television, Video, and Motion Picture",-0.4470009,camera operators television video motion picture
+27-4032,Film and Video Editors,0.985707,film video editors
+29-1011,Chiropractors,-0.1911757,chiropractors
+29-1021,"Dentists, General",-0.1813301,dentists general
+29-1022,Oral and Maxillofacial Surgeons,-0.2389668,oral maxillofacial surgeons
+29-1023,Orthodontists,0.1616631,orthodontists
+29-1024,Prosthodontists,-0.1561403,prosthodontists
+29-1031,Dietitians and Nutritionists,1.342809,dietitians nutritionists
+29-1041,Optometrists,0.5040194,optometrists
+29-1051,Pharmacists,0.6058705,pharmacists
+29-1061,Anesthesiologists,0.2349698,anesthesiologists
+29-1062,Family and General Practitioners,1.031925,family general practitioners
+29-1063,"Internists, General",1.046167,internists general
+29-1064,Obstetricians and Gynecologists,0.2803215,obstetricians gynecologists
+29-1065,"Pediatricians, General",1.126144,pediatricians general
+29-1066,Psychiatrists,1.280753,psychiatrists
+29-1067,Surgeons,-0.0504534,surgeons
+29-1069,"Physicians and Surgeons, All Other",0.7086123,physicians surgeons all other
+29-1071,Physician Assistants,0.1059147,physician assistants
+29-1081,Podiatrists,0.6279185,podiatrists
+29-1122,Occupational Therapists,0.1151615,occupational therapists
+29-1123,Physical Therapists,-0.3581922,physical therapists
+29-1124,Radiation Therapists,-0.2189393,radiation therapists
+29-1125,Recreational Therapists,0.2190109,recreational therapists
+29-1126,Respiratory Therapists,-0.1880507,respiratory therapists
+29-1127,Speech-Language Pathologists,1.146267,speech language pathologists
+29-1128,Exercise Physiologists,-0.0331901,exercise physiologists
+29-1131,Veterinarians,-0.0749958,veterinarians
+29-1141,Registered Nurses,0.2294097,registered nurses
+29-1151,Nurse Anesthetists,0.2413191,nurse anesthetists
+29-1161,Nurse Midwives,0.1966265,nurse midwives
+29-1171,Nurse Practitioners,0.1900572,nurse practitioners
+29-1181,Audiologists,0.6329063,audiologists
+29-1199,"Health Diagnosing and Treating Practitioners, All Other",0.7109566,health diagnosing treating practitioners all other
+29-2011,Medical and Clinical Laboratory Technologists,0.2818067,medical clinical laboratory technologists
+29-2012,Medical and Clinical Laboratory Technicians,-0.1273315,medical clinical laboratory technicians
+29-2021,Dental Hygienists,-0.416508,dental hygienists
+29-2031,Cardiovascular Technologists and Technicians,-0.0909526,cardiovascular technologists technicians
+29-2032,Diagnostic Medical Sonographers,-0.264054,diagnostic medical sonographers
+29-2033,Nuclear Medicine Technologists,0.0855276,nuclear medicine technologists
+29-2034,Radiologic Technologists and Technicians,-0.5559037,radiologic technologists technicians
+29-2035,Magnetic Resonance Imaging Technologists,-0.0727627,magnetic resonance imaging technologists
+29-2041,Emergency Medical Technicians and Paramedics,-0.6863446,emergency medical technicians paramedics
+29-2051,Dietetic Technicians,-0.1260282,dietetic technicians
+29-2052,Pharmacy Technicians,0.0070256,pharmacy technicians
+29-2053,Psychiatric Technicians,-0.2203484,psychiatric technicians
+29-2054,Respiratory Therapy Technicians,-0.1060473,respiratory therapy technicians
+29-2055,Surgical Technologists,-0.4830476,surgical technologists
+29-2056,Veterinary Technologists and Technicians,-0.3623179,veterinary technologists technicians
+29-2057,Ophthalmic Medical Technicians,0.078734,ophthalmic medical technicians
+29-2061,Licensed Practical and Licensed Vocational Nurses,-0.5137373,licensed practical licensed vocational nurses
+29-2071,Medical Records and Health Information Technicians,0.5738765,medical records health information technicians
+29-2081,"Opticians, Dispensing",0.1013966,opticians dispensing
+29-2091,Orthotists and Prosthetists,0.066577,orthotists prosthetists
+29-2092,Hearing Aid Specialists,0.5648953,hearing aid specialists
+29-2099,"Health Technologists and Technicians, All Other",-0.283854,health technologists technicians all other
+29-9011,Occupational Health and Safety Specialists,0.8349371,occupational health safety specialists
+29-9012,Occupational Health and Safety Technicians,0.3996866,occupational health safety technicians
+29-9091,Athletic Trainers,-0.3311363,athletic trainers
+29-9092,Genetic Counselors,1.527667,genetic counselors
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",0.2295568,healthcare practitioners technical workers all other
+31-1011,Home Health Aides,-0.644942,home health aides
+31-1013,Psychiatric Aides,-0.496565,psychiatric aides
+31-1014,Nursing Assistants,-0.9040212,nursing assistants
+31-1015,Orderlies,-1.679232,orderlies
+31-2011,Occupational Therapist Assistants,-0.3153762,occupational therapist assistants
+31-2012,Occupational Therapist Aides,-0.7734322,occupational therapist aides
+31-2021,Physical Therapist Assistants,-0.5308535,physical therapist assistants
+31-2022,Physical Therapist Aides,-0.8823265,physical therapist aides
+31-9011,Massage Therapists,-1.410233,massage therapists
+31-9091,Dental Assistants,-0.5268759,dental assistants
+31-9092,Medical Assistants,0.1497917,medical assistants
+31-9093,Medical Equipment Preparers,-0.7308648,medical equipment preparers
+31-9094,Medical Transcriptionists,1.06259,medical transcriptionists
+31-9095,Pharmacy Aides,-0.1552654,pharmacy aides
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,-0.7735824,veterinary assistants laboratory animal caretakers
+31-9097,Phlebotomists,-0.2778475,phlebotomists
+31-9099,"Healthcare Support Workers, All Other",0.1660077,healthcare support workers all other
+33-1011,First-Line Supervisors/Managers of Correctional Officers,-0.5584278,first line supervisors/managers of correctional officers
+33-1012,First-Line Supervisors/Managers of Police and Detectives,-0.1923298,first line supervisors/managers of police detectives
+33-1021,First-Line Supervisors/Managers of Fire Fighting and Prevention Workers,-0.593021,first line supervisors/managers of fire fighting prevention workers
+33-2011,Fire Fighters,-1.320232,fire fighters
+33-2021,Fire Inspectors and Investigators,0.062793,fire inspectors investigators
+33-2022,Forest Fire Inspectors and Prevention Specialists,-0.2144127,forest fire inspectors prevention specialists
+33-3011,Bailiffs,-0.5103183,bailiffs
+33-3012,Correctional Officers and Jailers,-0.8875365,correctional officers jailers
+33-3021,Detectives and Criminal Investigators,0.2257696,detectives criminal investigators
+33-3031,Fish and Game Wardens,-0.4585168,fish game wardens
+33-3041,Parking Enforcement Workers,-0.6239931,parking enforcement workers
+33-3051,Police and Sheriff's Patrol Officers,-0.6681123,police sheriff's patrol officers
+33-3052,Transit and Railroad Police,-0.8205515,transit railroad police
+33-9011,Animal Control Workers,-0.5946321,animal control workers
+33-9021,Private Detectives and Investigators,0.7483108,private detectives investigators
+33-9031,Gaming Surveillance Officers and Gaming Investigators,0.7283933,gaming surveillance officers gaming investigators
+33-9032,Security Guards,-0.3908421,security guards
+33-9091,Crossing Guards,-0.5699511,crossing guards
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",-0.4718385,lifeguards ski patrol other recreational protective service workers
+33-9093,Transportation Security Screeners,-0.5068558,transportation security screeners
+33-9099,"Protective Service Workers, All Other",0.0764088,protective service workers all other
+35-1011,Chefs and Head Cooks,-0.2676433,chefs head cooks
+35-1012,First-Line Supervisors/Managers of Food Preparation and Serving Workers,-0.2575492,first line supervisors/managers of food preparation serving workers
+35-2011,"Cooks, Fast Food",-0.7131837,cooks fast food
+35-2012,"Cooks, Institution and Cafeteria",-0.6360813,cooks institution cafeteria
+35-2013,"Cooks, Private Household",-0.7867444,cooks private household
+35-2014,"Cooks, Restaurant",-0.7418264,cooks restaurant
+35-2015,"Cooks, Short Order",-0.5933817,cooks short order
+35-2021,Food Preparation Workers,-1.226416,food preparation workers
+35-3011,Bartenders,-0.6159883,bartenders
+35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food",-0.5305266,combined food preparation serving workers including fast food
+35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",-0.4850956,counter attendants cafeteria food concession coffee shop
+35-3031,Waiters and Waitresses,-0.9481003,waiters waitresses
+35-3041,"Food Servers, Nonrestaurant",-0.7270206,food servers nonrestaurant
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,-1.927078,dining room cafeteria attendants bartender helpers
+35-9021,Dishwashers,-1.738612,dishwashers
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",-0.0565477,hosts hostesses restaurant lounge coffee shop
+37-1011,First-Line Supervisors/Managers of Housekeeping and Janitorial Workers,-0.5854128,first line supervisors/managers of housekeeping janitorial workers
+37-1012,"First-Line Supervisors/Managers of Landscaping, Lawn Service, and Groundskeeping Workers",-0.5548871,first line supervisors/managers of landscaping lawn service groundskeeping workers
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",-1.436201,janitors cleaners except maids housekeeping cleaners
+37-2012,Maids and Housekeeping Cleaners,-1.480657,maids housekeeping cleaners
+37-2021,Pest Control Workers,-0.7255374,pest control workers
+37-3011,Landscaping and Groundskeeping Workers,-1.824293,landscaping groundskeeping workers
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",-0.8847935,pesticide handlers sprayers applicators vegetation
+37-3013,Tree Trimmers and Pruners,-1.727035,tree trimmers pruners
+39-1011,Gaming Supervisors,1.128203,gaming supervisors
+39-1012,Slot Key Persons,-0.1370162,slot key persons
+39-1021,First-Line Supervisors/Managers of Personal Service Workers,0.4303075,first line supervisors/managers of personal service workers
+39-2011,Animal Trainers,-0.9167759,animal trainers
+39-2021,Nonfarm Animal Caretakers,-0.8890408,nonfarm animal caretakers
+39-3011,Gaming Dealers,0.0605832,gaming dealers
+39-3012,Gaming and Sports Book Writers and Runners,0.4652752,gaming sports book writers runners
+39-3021,Motion Picture Projectionists,-0.3786598,motion picture projectionists
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",-0.2420959,ushers lobby attendants ticket takers
+39-3091,Amusement and Recreation Attendants,-0.5246153,amusement recreation attendants
+39-3092,Costume Attendants,-0.4533608,costume attendants
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",-0.3454376,locker room coatroom dressing room attendants
+39-4011,Embalmers,-0.7311451,embalmers
+39-4021,Funeral Attendants,-0.5445412,funeral attendants
+39-4031,"Morticians, Undertakers, and Funeral Directors",-0.1903759,morticians undertakers funeral directors
+39-5011,Barbers,-0.7294621,barbers
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",-0.6824517,hairdressers hairstylists cosmetologists
+39-5091,"Makeup Artists, Theatrical and Performance",-0.4596138,makeup artists theatrical performance
+39-5092,Manicurists and Pedicurists,0.0335124,manicurists pedicurists
+39-5093,Shampooers,-0.905371,shampooers
+39-5094,Skin Care Specialists,-0.2628396,skin care specialists
+39-6011,Baggage Porters and Bellhops,-1.272015,baggage porters bellhops
+39-6012,Concierges,0.855832,concierges
+39-7011,Tour Guides and Escorts,0.357096,tour guides escorts
+39-7012,Travel Guides,0.6083829,travel guides
+39-9011,Child Care Workers,-0.3834794,child care workers
+39-9021,Personal and Home Care Aides,-0.5737774,personal home care aides
+39-9031,Fitness Trainers and Aerobics Instructors,-2.111948,fitness trainers aerobics instructors
+39-9032,Recreation Workers,-0.2441154,recreation workers
+39-9041,Residential Advisors,0.4746119,residential advisors
+41-1011,First-Line Supervisors/Managers of Retail Sales Workers,0.0191826,first line supervisors/managers of retail sales workers
+41-1012,First-Line Supervisors/Managers of Non-Retail Sales Workers,1.316195,first line supervisors/managers of non retail sales workers
+41-2011,Cashiers,-0.2480887,cashiers
+41-2012,Gaming Change Persons and Booth Cashiers,-0.0500926,gaming change persons booth cashiers
+41-2021,Counter and Rental Clerks,0.0784367,counter rental clerks
+41-2022,Parts Salespersons,-0.1184909,parts salespersons
+41-2031,Retail Salespersons,0.0873069,retail salespersons
+41-3011,Advertising Sales Agents,1.162588,advertising sales agents
+41-3021,Insurance Sales Agents,1.341258,insurance sales agents
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",1.256298,securities commodities financial services sales agents
+41-3041,Travel Agents,1.133598,travel agents
+41-3099,"Sales Representatives, Services, All Other",1.302674,sales representatives services all other
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.8911985,sales representatives wholesale manufacturing technical scientific products
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.8224681,sales representatives wholesale manufacturing except technical scientific products
+41-9011,Demonstrators and Product Promoters,0.1235652,demonstrators product promoters
+41-9012,Models,-1.122021,models
+41-9021,Real Estate Brokers,1.149681,real estate brokers
+41-9022,Real Estate Sales Agents,0.8649445,real estate sales agents
+41-9031,Sales Engineers,1.145416,sales engineers
+41-9041,Telemarketers,1.118129,telemarketers
+41-9091,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",1.107101,door to door sales workers news street vendors related workers
+43-1011,First-Line Supervisors/Managers of Office and Administrative Support Workers,1.038688,first line supervisors/managers of office administrative support workers
+43-2011,"Switchboard Operators, Including Answering Service",0.9832644,switchboard operators including answering service
+43-2021,Telephone Operators,1.019712,telephone operators
+43-3011,Bill and Account Collectors,1.271991,bill account collectors
+43-3021,Billing and Posting Clerks and Machine Operators,1.333455,billing posting clerks machine operators
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",1.039749,bookkeeping accounting auditing clerks
+43-3041,Gaming Cage Workers,0.4026518,gaming cage workers
+43-3051,Payroll and Timekeeping Clerks,1.257632,payroll timekeeping clerks
+43-3061,Procurement Clerks,1.487838,procurement clerks
+43-3071,Tellers,0.4727723,tellers
+43-4011,Brokerage Clerks,1.144877,brokerage clerks
+43-4021,Correspondence Clerks,1.149758,correspondence clerks
+43-4031,"Court, Municipal, and License Clerks",1.166267,court municipal license clerks
+43-4041,"Credit Authorizers, Checkers, and Clerks",1.440296,credit authorizers checkers clerks
+43-4051,Customer Service Representatives,0.9562519,customer service representatives
+43-4061,"Eligibility Interviewers, Government Programs",1.226286,eligibility interviewers government programs
+43-4071,File Clerks,0.2839743,file clerks
+43-4081,"Hotel, Motel, and Resort Desk Clerks",0.6063127,hotel motel resort desk clerks
+43-4111,"Interviewers, Except Eligibility and Loan",1.297031,interviewers except eligibility loan
+43-4121,"Library Assistants, Clerical",0.2038919,library assistants clerical
+43-4131,Loan Interviewers and Clerks,1.364395,loan interviewers clerks
+43-4141,New Accounts Clerks,1.174998,new accounts clerks
+43-4151,Order Clerks,0.8388861,order clerks
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",1.353098,human resources assistants except payroll timekeeping
+43-4171,Receptionists and Information Clerks,1.013186,receptionists information clerks
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,0.227312,reservation transportation ticket agents travel clerks
+43-5011,Cargo and Freight Agents,1.405415,cargo freight agents
+43-5021,Couriers and Messengers,-0.9591126,couriers messengers
+43-5031,"Police, Fire, and Ambulance Dispatchers",0.9074452,police fire ambulance dispatchers
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",1.234523,dispatchers except police fire ambulance
+43-5041,"Meter Readers, Utilities",-0.9723772,meter readers utilities
+43-5051,Postal Service Clerks,-0.5186997,postal service clerks
+43-5052,Postal Service Mail Carriers,-1.064715,postal service mail carriers
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",-1.185001,postal service mail sorters processors processing machine operators
+43-5061,"Production, Planning, and Expediting Clerks",0.6999103,production planning expediting clerks
+43-5071,"Shipping, Receiving, and Traffic Clerks",-0.7463213,shipping receiving traffic clerks
+43-5081,Stock Clerks and Order Fillers,-0.7892948,stock clerks order fillers
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",-0.1860789,weighers measurers checkers samplers recordkeeping
+43-6011,Executive Secretaries and Administrative Assistants,1.079643,executive secretaries administrative assistants
+43-6012,Legal Secretaries,1.014541,legal secretaries
+43-6013,Medical Secretaries,1.217982,medical secretaries
+43-6014,"Secretaries, Except Legal, Medical, and Executive",1.099056,secretaries except legal medical executive
+43-9011,Computer Operators,0.7040519,computer operators
+43-9021,Data Entry Keyers,0.3108081,data entry keyers
+43-9022,Word Processors and Typists,0.6219606,word processors typists
+43-9031,Desktop Publishers,0.3437743,desktop publishers
+43-9041,Insurance Claims and Policy Processing Clerks,1.240201,insurance claims policy processing clerks
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",-0.8184676,mail clerks mail machine operators except postal service
+43-9061,"Office Clerks, General",0.9888986,office clerks general
+43-9071,"Office Machine Operators, Except Computer",-0.5171404,office machine operators except computer
+43-9081,Proofreaders and Copy Markers,1.288375,proofreaders copy markers
+43-9111,Statistical Assistants,1.389965,statistical assistants
+45-1011,"First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers",-0.4791843,first line supervisors/managers of farming fishing forestry workers
+45-2011,Agricultural Inspectors,0.1704867,agricultural inspectors
+45-2021,Animal Breeders,-1.044292,animal breeders
+45-2041,"Graders and Sorters, Agricultural Products",-1.370968,graders sorters agricultural products
+45-2091,Agricultural Equipment Operators,-1.145156,agricultural equipment operators
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",-1.601349,farmworkers laborers crop nursery greenhouse
+45-2093,"Farmworkers, Farm and Ranch Animals",-1.108432,farmworkers farm ranch animals
+45-3011,Fishers and Related Fishing Workers,-1.513249,fishers related fishing workers
+45-3021,Hunters and Trappers,-1.304797,hunters trappers
+45-4011,Forest and Conservation Workers,-1.064205,forest conservation workers
+45-4021,Fallers,-1.795407,fallers
+45-4022,Logging Equipment Operators,-1.003702,logging equipment operators
+45-4023,Log Graders and Scalers,-0.4768305,log graders scalers
+47-1011,First-Line Supervisors/Managers of Construction Trades and Extraction Workers,-0.3054048,first line supervisors/managers of construction trades extraction workers
+47-2011,Boilermakers,-1.097532,boilermakers
+47-2021,Brickmasons and Blockmasons,-1.75434,brickmasons blockmasons
+47-2022,Stonemasons,-1.714759,stonemasons
+47-2031,Carpenters,-1.323631,carpenters
+47-2041,Carpet Installers,-1.564577,carpet installers
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",-1.301024,floor layers except carpet wood hard tiles
+47-2043,Floor Sanders and Finishers,-1.748722,floor sanders finishers
+47-2044,Tile and Marble Setters,-1.22543,tile marble setters
+47-2051,Cement Masons and Concrete Finishers,-1.777407,cement masons concrete finishers
+47-2053,Terrazzo Workers and Finishers,-1.776065,terrazzo workers finishers
+47-2061,Construction Laborers,-1.622988,construction laborers
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",-1.184739,paving surfacing tamping equipment operators
+47-2072,Pile-Driver Operators,-1.220009,pile driver operators
+47-2073,Operating Engineers and Other Construction Equipment Operators,-0.8815078,operating engineers other construction equipment operators
+47-2081,Drywall and Ceiling Tile Installers,-1.647971,drywall ceiling tile installers
+47-2082,Tapers,-1.540774,tapers
+47-2111,Electricians,-0.7796905,electricians
+47-2121,Glaziers,-1.388901,glaziers
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",-1.618772,insulation workers floor ceiling wall
+47-2132,"Insulation Workers, Mechanical",-1.268615,insulation workers mechanical
+47-2141,"Painters, Construction and Maintenance",-1.58799,painters construction maintenance
+47-2142,Paperhangers,-1.72753,paperhangers
+47-2151,Pipelayers,-1.225611,pipelayers
+47-2152,"Plumbers, Pipefitters, and Steamfitters",-1.121219,plumbers pipefitters steamfitters
+47-2161,Plasterers and Stucco Masons,-1.755588,plasterers stucco masons
+47-2171,Reinforcing Iron and Rebar Workers,-1.970997,reinforcing iron rebar workers
+47-2181,Roofers,-1.752941,roofers
+47-2211,Sheet Metal Workers,-1.174972,sheet metal workers
+47-2221,Structural Iron and Steel Workers,-1.780065,structural iron steel workers
+47-2231,Solar Photovoltaic Installers,-0.9441692,solar photovoltaic installers
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",-1.94229,helpers  brickmasons blockmasons stonemasons tile marble setters
+47-3012,Helpers--Carpenters,-1.425282,helpers  carpenters
+47-3013,Helpers--Electricians,-1.506896,helpers  electricians
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",-2.04484,helpers  painters paperhangers plasterers stucco masons
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",-1.678876,helpers  pipelayers plumbers pipefitters steamfitters
+47-3016,Helpers--Roofers,-1.89822,helpers  roofers
+47-4011,Construction and Building Inspectors,0.2860245,construction building inspectors
+47-4021,Elevator Installers and Repairers,-0.8604742,elevator installers repairers
+47-4031,Fence Erectors,-1.902113,fence erectors
+47-4041,Hazardous Materials Removal Workers,-0.6887439,hazardous materials removal workers
+47-4051,Highway Maintenance Workers,-1.27909,highway maintenance workers
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,-1.39906,rail track laying maintenance equipment operators
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,-1.210591,septic tank servicers sewer pipe cleaners
+47-4091,Segmental Pavers,-0.9827304,segmental pavers
+47-4099,"Construction and Related Workers, All Other",-0.8728439,construction related workers all other
+47-5011,"Derrick Operators, Oil and Gas",-1.415002,derrick operators oil gas
+47-5012,"Rotary Drill Operators, Oil and Gas",-0.7737326,rotary drill operators oil gas
+47-5013,"Service Unit Operators, Oil, Gas, and Mining",-0.971916,service unit operators oil gas mining
+47-5021,"Earth Drillers, Except Oil and Gas",-0.7018391,earth drillers except oil gas
+47-5031,"Explosives Workers, Ordnance Handling Experts, and Blasters",-0.773027,explosives workers ordnance handling experts blasters
+47-5041,Continuous Mining Machine Operators,-1.165492,continuous mining machine operators
+47-5042,Mine Cutting and Channeling Machine Operators,-1.200425,mine cutting channeling machine operators
+47-5051,"Rock Splitters, Quarry",-1.763494,rock splitters quarry
+47-5061,"Roof Bolters, Mining",-1.618518,roof bolters mining
+47-5071,"Roustabouts, Oil and Gas",-1.518977,roustabouts oil gas
+47-5081,Helpers--Extraction Workers,-1.543154,helpers  extraction workers
+49-1011,"First-Line Supervisors/Managers of Mechanics, Installers, and Repairers",-0.0205169,first line supervisors/managers of mechanics installers repairers
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",-0.3458247,computer automated teller office machine repairers
+49-2021,Radio Mechanics,-0.6335382,radio mechanics
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",-0.853048,telecommunications equipment installers repairers except line installers
+49-2091,Avionics Technicians,-0.1728535,avionics technicians
+49-2092,"Electric Motor, Power Tool, and Related Repairers",-0.8106341,electric motor power tool related repairers
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",-0.8303875,electrical electronics installers repairers transportation equipment
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",-0.4632031,electrical electronics repairers commercial industrial equipment
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",-0.5522636,electrical electronics repairers powerhouse substation relay
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",-0.7915968,electronic equipment installers repairers motor vehicles
+49-2097,Electronic Home Entertainment Equipment Installers and Repairers,-0.571284,electronic home entertainment equipment installers repairers
+49-2098,Security and Fire Alarm Systems Installers,-0.6926484,security fire alarm systems installers
+49-3011,Aircraft Mechanics and Service Technicians,-0.6551197,aircraft mechanics service technicians
+49-3021,Automotive Body and Related Repairers,-1.180589,automotive body related repairers
+49-3022,Automotive Glass Installers and Repairers,-1.202285,automotive glass installers repairers
+49-3023,Automotive Service Technicians and Mechanics,-0.9547055,automotive service technicians mechanics
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,-1.010472,bus truck mechanics diesel engine specialists
+49-3041,Farm Equipment Mechanics,-1.20703,farm equipment mechanics
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",-1.169815,mobile heavy equipment mechanics except engines
+49-3043,Rail Car Repairers,-1.448102,rail car repairers
+49-3051,Motorboat Mechanics,-0.8863602,motorboat mechanics
+49-3052,Motorcycle Mechanics,-0.763721,motorcycle mechanics
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,-0.8941408,outdoor power equipment other small engine mechanics
+49-3091,Bicycle Repairers,-0.9226068,bicycle repairers
+49-3092,Recreational Vehicle Service Technicians,-0.9244052,recreational vehicle service technicians
+49-3093,Tire Repairers and Changers,-1.550724,tire repairers changers
+49-9011,Mechanical Door Repairers,-1.383152,mechanical door repairers
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",-0.7606913,control valve installers repairers except mechanical door
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",-0.8491117,heating air conditioning refrigeration mechanics installers
+49-9031,Home Appliance Repairers,-0.9703799,home appliance repairers
+49-9041,Industrial Machinery Mechanics,-1.133177,industrial machinery mechanics
+49-9043,"Maintenance Workers, Machinery",-0.9735492,maintenance workers machinery
+49-9044,Millwrights,-1.266085,millwrights
+49-9045,"Refractory Materials Repairers, Except Brickmasons",-1.237463,refractory materials repairers except brickmasons
+49-9051,Electrical Power-Line Installers and Repairers,-1.081398,electrical power line installers repairers
+49-9052,Telecommunications Line Installers and Repairers,-1.083883,telecommunications line installers repairers
+49-9061,Camera and Photographic Equipment Repairers,0.0546422,camera photographic equipment repairers
+49-9062,Medical Equipment Repairers,-0.2768838,medical equipment repairers
+49-9063,Musical Instrument Repairers and Tuners,-0.5306271,musical instrument repairers tuners
+49-9064,Watch Repairers,-0.2123996,watch repairers
+49-9071,"Maintenance and Repair Workers, General",-1.014408,maintenance repair workers general
+49-9081,Wind Turbine Service Technicians,-0.9709935,wind turbine service technicians
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",-0.7233995,coin vending amusement machine servicers repairers
+49-9092,Commercial Divers,-1.102728,commercial divers
+49-9093,"Fabric Menders, Except Garment",-1.372839,fabric menders except garment
+49-9094,Locksmiths and Safe Repairers,-0.8657498,locksmiths safe repairers
+49-9095,Manufactured Building and Mobile Home Installers,-1.414062,manufactured building mobile home installers
+49-9096,Riggers,-1.221519,riggers
+49-9097,Signal and Track Switch Repairers,-0.858221,signal track switch repairers
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",-1.346555,helpers  installation maintenance repair workers
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",-0.5900791,installation maintenance repair workers all other
+51-1011,First-Line Supervisors/Managers of Production and Operating Workers,-0.0845282,first line supervisors/managers of production operating workers
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",-0.8684706,aircraft structure surfaces rigging systems assemblers
+51-2021,"Coil Winders, Tapers, and Finishers",-0.8289722,coil winders tapers finishers
+51-2022,Electrical and Electronic Equipment Assemblers,-0.6248807,electrical electronic equipment assemblers
+51-2023,Electromechanical Equipment Assemblers,-0.4977276,electromechanical equipment assemblers
+51-2031,Engine and Other Machine Assemblers,-0.9561453,engine other machine assemblers
+51-2041,Structural Metal Fabricators and Fitters,-1.076307,structural metal fabricators fitters
+51-2091,Fiberglass Laminators and Fabricators,-1.216496,fiberglass laminators fabricators
+51-2092,Team Assemblers,-0.8305441,team assemblers
+51-2093,"Timing Device Assemblers, Adjusters, and Calibrators",-0.2552991,timing device assemblers adjusters calibrators
+51-3011,Bakers,-0.3852989,bakers
+51-3021,Butchers and Meat Cutters,-0.9709924,butchers meat cutters
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",-1.10563,meat poultry fish cutters trimmers
+51-3023,Slaughterers and Meat Packers,-1.834668,slaughterers meat packers
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",-0.758859,food tobacco roasting baking drying machine operators tenders
+51-3092,Food Batchmakers,-0.3791114,food batchmakers
+51-3093,Food Cooking Machine Operators and Tenders,-0.5559894,food cooking machine operators tenders
+51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic",-0.6737444,computer controlled machine tool operators metal plastic
+51-4012,Numerical Tool and Process Control Programmers,-0.0241824,numerical tool process control programmers
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",-1.234352,extruding drawing machine setters operators tenders metal plastic
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",-0.8046677,forging machine setters operators tenders metal plastic
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",-1.08921,rolling machine setters operators tenders metal plastic
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",-1.036569,cutting punching press machine setters operators tenders metal plastic
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-0.7598132,drilling boring machine tool setters operators tenders metal plastic
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-0.9901662,grinding lapping polishing buffing machine tool setters operators tenders metal plastic
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-1.06734,lathe turning machine tool setters operators tenders metal plastic
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",-0.8703219,milling planing machine setters operators tenders metal plastic
+51-4041,Machinists,-0.8675535,machinists
+51-4051,Metal-Refining Furnace Operators and Tenders,-1.167465,metal refining furnace operators tenders
+51-4052,"Pourers and Casters, Metal",-1.00914,pourers casters metal
+51-4061,"Model Makers, Metal and Plastic",-0.7421977,model makers metal plastic
+51-4062,"Patternmakers, Metal and Plastic",-0.6131331,patternmakers metal plastic
+51-4071,Foundry Mold and Coremakers,-1.740349,foundry mold coremakers
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",-1.146139,molding coremaking casting machine setters operators tenders metal plastic
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-0.74266,multiple machine tool setters operators tenders metal plastic
+51-4111,Tool and Die Makers,-0.5317897,tool die makers
+51-4121,"Welders, Cutters, Solderers, and Brazers",-1.197596,welders cutters solderers brazers
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",-1.002411,welding soldering brazing machine setters operators tenders
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",-1.092486,heat treating equipment setters operators tenders metal plastic
+51-4192,"Lay-Out Workers, Metal and Plastic",-0.7221353,lay out workers metal plastic
+51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",-0.8999876,plating coating machine setters operators tenders metal plastic
+51-4194,"Tool Grinders, Filers, and Sharpeners",-0.8809238,tool grinders filers sharpeners
+51-5111,Prepress Technicians and Workers,0.4107973,prepress technicians workers
+51-5112,Printing Press Operators,-0.7093881,printing press operators
+51-5113,Print Binding and Finishing Workers,-0.9062089,print binding finishing workers
+51-6011,Laundry and Dry-Cleaning Workers,-1.054399,laundry dry cleaning workers
+51-6021,"Pressers, Textile, Garment, and Related Materials",-1.950063,pressers textile garment related materials
+51-6031,Sewing Machine Operators,-0.9639661,sewing machine operators
+51-6041,Shoe and Leather Workers and Repairers,-0.990912,shoe leather workers repairers
+51-6042,Shoe Machine Operators and Tenders,-1.029855,shoe machine operators tenders
+51-6051,"Sewers, Hand",-0.5987218,sewers hand
+51-6052,"Tailors, Dressmakers, and Custom Sewers",-0.4305268,tailors dressmakers custom sewers
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,-0.8609312,textile bleaching dyeing machine operators tenders
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",-1.022949,textile cutting machine setters operators tenders
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",-1.241662,textile knitting weaving machine setters operators tenders
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",-1.392929,textile winding twisting drawing out machine setters operators tenders
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",-0.8596925,extruding forming machine setters operators tenders synthetic glass fibers
+51-6092,Fabric and Apparel Patternmakers,-0.0831096,fabric apparel patternmakers
+51-6093,Upholsterers,-1.313735,upholsterers
+51-7011,Cabinetmakers and Bench Carpenters,-1.327489,cabinetmakers bench carpenters
+51-7021,Furniture Finishers,-1.197727,furniture finishers
+51-7031,"Model Makers, Wood",-0.7278869,model makers wood
+51-7032,"Patternmakers, Wood",-1.057897,patternmakers wood
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",-1.165031,sawing machine setters operators tenders wood
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",-1.130357,woodworking machine setters operators tenders except sawing
+51-8011,Nuclear Power Reactor Operators,0.7705302,nuclear power reactor operators
+51-8012,Power Distributors and Dispatchers,0.5012214,power distributors dispatchers
+51-8013,Power Plant Operators,-0.3482779,power plant operators
+51-8021,Stationary Engineers and Boiler Operators,-0.5032496,stationary engineers boiler operators
+51-8031,Water and Liquid Waste Treatment Plant and System Operators,-0.44501,water liquid waste treatment plant system operators
+51-8091,Chemical Plant and System Operators,-0.3831282,chemical plant system operators
+51-8092,Gas Plant Operators,-0.2982082,gas plant operators
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",-0.370036,petroleum pump system operators refinery operators gaugers
+51-8099,"Plant and System Operators, All Other",-0.6702387,plant system operators all other
+51-9011,Chemical Equipment Operators and Tenders,-0.511521,chemical equipment operators tenders
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",-0.9379141,separating filtering clarifying precipitating still machine setters operators tenders
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",-1.043476,crushing grinding polishing machine setters operators tenders
+51-9022,"Grinding and Polishing Workers, Hand",-1.146524,grinding polishing workers hand
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",-0.819664,mixing blending machine setters operators tenders
+51-9031,"Cutters and Trimmers, Hand",-0.9479839,cutters trimmers hand
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",-1.079282,cutting slicing machine setters operators tenders
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",-1.042151,extruding forming pressing compacting machine setters operators tenders
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",-0.9582346,furnace kiln oven drier kettle operators tenders
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",-0.0293395,inspectors testers sorters samplers weighers
+51-9071,Jewelers and Precious Stone and Metal Workers,-0.1560197,jewelers precious stone metal workers
+51-9081,Dental Laboratory Technicians,0.0013206,dental laboratory technicians
+51-9082,Medical Appliance Technicians,-0.4949538,medical appliance technicians
+51-9083,Ophthalmic Laboratory Technicians,-0.5966759,ophthalmic laboratory technicians
+51-9111,Packaging and Filling Machine Operators and Tenders,-0.978608,packaging filling machine operators tenders
+51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",-1.121331,coating painting spraying machine setters operators tenders
+51-9122,"Painters, Transportation Equipment",-1.447553,painters transportation equipment
+51-9123,"Painting, Coating, and Decorating Workers",-0.9705587,painting coating decorating workers
+51-9141,Semiconductor Processors,-0.6372312,semiconductor processors
+51-9151,Photographic Process Workers and Processing Machine Operators,-0.3615806,photographic process workers processing machine operators
+51-9191,Cementing and Gluing Machine Operators and Tenders,-1.311418,cementing gluing machine operators tenders
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",-1.141885,cleaning washing metal pickling equipment operators tenders
+51-9193,Cooling and Freezing Equipment Operators and Tenders,-0.9604952,cooling freezing equipment operators tenders
+51-9194,Etchers and Engravers,-0.6395226,etchers engravers
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",-1.183408,molders shapers casters except metal plastic
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",-0.8740445,paper goods machine setters operators tenders
+51-9197,Tire Builders,-1.610915,tire builders
+51-9198,Helpers--Production Workers,-1.411304,helpers  production workers
+51-9199,"Production Workers, All Other",-1.290964,production workers all other
+53-1011,Aircraft Cargo Handling Supervisors,-0.7091902,aircraft cargo handling supervisors
+53-1021,"First-Line Supervisors/Managers of Helpers, Laborers, and Material Movers, Hand",0.1160332,first line supervisors/managers of helpers laborers material movers hand
+53-1031,First-Line Supervisors/Managers of Transportation and Material-Moving Machine and Vehicle Operators,0.1466245,first line supervisors/managers of transportation material moving machine vehicle operators
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",-0.2070626,airline pilots copilots flight engineers
+53-2012,Commercial Pilots,-0.1817332,commercial pilots
+53-2021,Air Traffic Controllers,1.152798,air traffic controllers
+53-2022,Airfield Operations Specialists,0.4845738,airfield operations specialists
+53-2031,Flight Attendants,-0.7621183,flight attendants
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",-0.8298703,ambulance drivers attendants except emergency medical technicians
+53-3021,"Bus Drivers, Transit and Intercity",-0.605453,bus drivers transit intercity
+53-3022,"Bus Drivers, School",-0.2977046,bus drivers school
+53-3031,Driver/Sales Workers,-0.7293087,driver/sales workers
+53-3032,"Truck Drivers, Heavy and Tractor-Trailer",-1.149057,truck drivers heavy tractor trailer
+53-3033,"Truck Drivers, Light or Delivery Services",-1.120501,truck drivers light or delivery services
+53-3041,Taxi Drivers and Chauffeurs,-0.6322603,taxi drivers chauffeurs
+53-4011,Locomotive Engineers,-0.4977403,locomotive engineers
+53-4012,Locomotive Firers,-0.771071,locomotive firers
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",-0.8320907,rail yard engineers dinkey operators hostlers
+53-4021,"Railroad Brake, Signal, and Switch Operators",-1.217647,railroad brake signal switch operators
+53-4031,Railroad Conductors and Yardmasters,-0.4662731,railroad conductors yardmasters
+53-4041,Subway and Streetcar Operators,-0.6155429,subway streetcar operators
+53-5011,Sailors and Marine Oilers,-1.150001,sailors marine oilers
+53-5021,"Captains, Mates, and Pilots of Water Vessels",-0.4281868,captains mates pilots of water vessels
+53-5022,Motorboat Operators,-0.8871186,motorboat operators
+53-5031,Ship Engineers,-0.5264951,ship engineers
+53-6011,Bridge and Lock Tenders,-0.6322159,bridge lock tenders
+53-6021,Parking Lot Attendants,-0.8353891,parking lot attendants
+53-6031,Service Station Attendants,-1.221489,service station attendants
+53-6041,Traffic Technicians,0.3995872,traffic technicians
+53-6051,Transportation Inspectors,-0.18376,transportation inspectors
+53-6061,"Transportation Attendants, Except Flight Attendants",-0.3752249,transportation attendants except flight attendants
+53-7011,Conveyor Operators and Tenders,-0.7554432,conveyor operators tenders
+53-7021,Crane and Tower Operators,-1.030619,crane tower operators
+53-7031,Dredge Operators,-1.016648,dredge operators
+53-7032,Excavating and Loading Machine and Dragline Operators,-1.144356,excavating loading machine dragline operators
+53-7033,"Loading Machine Operators, Underground Mining",-1.262688,loading machine operators underground mining
+53-7041,Hoist and Winch Operators,-0.9781997,hoist winch operators
+53-7051,Industrial Truck and Tractor Operators,-1.39869,industrial truck tractor operators
+53-7061,Cleaners of Vehicles and Equipment,-1.629897,cleaners of vehicles equipment
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",-1.709183,laborers freight stock material movers hand
+53-7063,Machine Feeders and Offbearers,-1.037413,machine feeders offbearers
+53-7064,"Packers and Packagers, Hand",-1.51362,packers packagers hand
+53-7071,Gas Compressor and Gas Pumping Station Operators,-0.6909992,gas compressor gas pumping station operators
+53-7072,"Pump Operators, Except Wellhead Pumpers",-0.8422927,pump operators except wellhead pumpers
+53-7073,Wellhead Pumpers,-1.091197,wellhead pumpers
+53-7081,Refuse and Recyclable Material Collectors,-1.283373,refuse recyclable material collectors
+53-7111,Shuttle Car Operators,-1.351998,shuttle car operators
+53-7121,"Tank Car, Truck, and Ship Loaders",-1.38776,tank car truck ship loaders

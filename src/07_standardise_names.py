@@ -12,7 +12,7 @@ aioe = pd.read_csv("data/interim/aioe_clean.csv")
 emp = pd.read_csv("data/interim/employment_clean.csv")
 earn = pd.read_csv("data/interim/earnings_clean.csv")
 
-aioe["occ_clean"] = aioe["occupation_title_us"].apply(clean)
+aioe["occ_clean"] = aioe["occupation_title"].apply(clean)
 emp["occ_clean"] = emp["occupation_name"].apply(clean)
 earn["occ_clean"] = earn["occupation_name"].apply(clean)
 

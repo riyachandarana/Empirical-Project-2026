@@ -1,0 +1,1114 @@
+occupation_code,occupation_name,adverts,year
+00-0000,"Total, all occupations",18863.3,2024
+11-0000,Management occupations,1147.9,2024
+11-1000,Top executives,333.1,2024
+11-1011,Chief executives,22.2,2024
+11-1021,General and operations managers,308.7,2024
+11-1031,Legislators,2.2,2024
+11-2000,"Advertising, marketing, promotions, public relations, and sales managers",95.6,2024
+11-2011,Advertising and promotions managers,2.1,2024
+11-2020,Marketing and sales managers,83.3,2024
+11-2021,Marketing managers,34.3,2024
+11-2022,Sales managers,49.0,2024
+11-2030,Public relations and fundraising managers,10.2,2024
+11-2032,Public relations managers,6.6,2024
+11-2033,Fundraising managers,3.6,2024
+11-3000,Operations specialties managers,231.7,2024
+11-3010,Administrative services and facilities managers,36.4,2024
+11-3012,Administrative services managers,23.2,2024
+11-3013,Facilities managers,13.2,2024
+11-3021,Computer and information systems managers,55.6,2024
+11-3031,Financial managers,74.6,2024
+11-3051,Industrial production managers,17.1,2024
+11-3061,Purchasing managers,6.4,2024
+11-3071,"Transportation, storage, and distribution managers",18.5,2024
+11-3111,Compensation and benefits managers,1.5,2024
+11-3121,Human resources managers,17.9,2024
+11-3131,Training and development managers,3.8,2024
+11-9000,Other management occupations,487.4,2024
+11-9013,"Farmers, ranchers, and other agricultural managers",85.5,2024
+11-9021,Construction managers,46.8,2024
+11-9030,Education and childcare administrators,45.6,2024
+11-9031,"Education and childcare administrators, preschool and daycare",5.5,2024
+11-9032,"Education administrators, kindergarten through secondary",20.8,2024
+11-9033,"Education administrators, postsecondary",15.1,2024
+11-9039,"Education administrators, all other",4.1,2024
+11-9041,Architectural and engineering managers,14.5,2024
+11-9051,Food service managers,42.0,2024
+11-9070,Entertainment and recreation managers,6.1,2024
+11-9071,Gambling managers,0.6,2024
+11-9072,"Entertainment and recreation managers, except gambling",5.5,2024
+11-9081,Lodging managers,5.4,2024
+11-9111,Medical and health services managers,62.1,2024
+11-9121,Natural sciences managers,8.5,2024
+11-9131,Postmasters and mail superintendents,0.9,2024
+11-9141,"Property, real estate, and community association managers",39.0,2024
+11-9151,Social and community service managers,18.6,2024
+11-9161,Emergency management directors,1.0,2024
+11-9170,Personal service managers,4.6,2024
+11-9171,Funeral home managers,2.6,2024
+11-9179,"Personal service managers, all other",2.1,2024
+11-9199,"Managers, all other",106.7,2024
+13-0000,Business and financial operations occupations,942.5,2024
+13-1000,Business operations specialists,689.9,2024
+13-1011,"Agents and business managers of artists, performers, and athletes",2.2,2024
+13-1020,Buyers and purchasing agents,52.2,2024
+13-1030,"Claims adjusters, appraisers, examiners, and investigators",21.6,2024
+13-1031,"Claims adjusters, examiners, and investigators",21.1,2024
+13-1032,"Insurance appraisers, auto damage",0.5,2024
+13-1041,Compliance officers,33.3,2024
+13-1051,Cost estimators,16.9,2024
+13-1070,Human resources workers,87.2,2024
+13-1071,Human resources specialists,81.8,2024
+13-1074,Farm labor contractors,0.3,2024
+13-1075,Labor relations specialists,5.1,2024
+13-1080,Logisticians and project management specialists,104.7,2024
+13-1081,Logisticians,26.4,2024
+13-1082,Project management specialists,78.2,2024
+13-1111,Management analysts,98.1,2024
+13-1121,"Meeting, convention, and event planners",15.5,2024
+13-1131,Fundraisers,10.2,2024
+13-1141,"Compensation, benefits, and job analysis specialists",8.5,2024
+13-1151,Training and development specialists,43.9,2024
+13-1161,Market research analysts and marketing specialists,87.2,2024
+13-1199,"Business operations specialists, all other",108.2,2024
+13-2000,Financial specialists,252.6,2024
+13-2011,Accountants and auditors,124.2,2024
+13-2020,Property appraisers and assessors,6.3,2024
+13-2031,Budget analysts,3.1,2024
+13-2041,Credit analysts,3.7,2024
+13-2050,Financial analysts and advisors,62.3,2024
+13-2051,Financial and investment analysts,25.1,2024
+13-2052,Personal financial advisors,24.1,2024
+13-2053,Insurance underwriters,8.2,2024
+13-2054,Financial risk specialists,4.8,2024
+13-2061,Financial examiners,5.7,2024
+13-2070,Credit counselors and loan officers,22.5,2024
+13-2071,Credit counselors,2.2,2024
+13-2072,Loan officers,20.3,2024
+13-2080,"Tax examiners, collectors and preparers, and revenue agents",14.7,2024
+13-2081,"Tax examiners and collectors, and revenue agents",4.3,2024
+13-2082,Tax preparers,10.4,2024
+13-2099,"Financial specialists, all other",10.3,2024
+15-0000,Computer and mathematical occupations,355.4,2024
+15-1200,Computer occupations,317.7,2024
+15-1210,Computer and information analysts,50.2,2024
+15-1211,Computer systems analysts,34.2,2024
+15-1212,Information security analysts,16.0,2024
+15-1221,Computer and information research scientists,3.2,2024
+15-1230,Computer support specialists,50.5,2024
+15-1231,Computer network support specialists,9.6,2024
+15-1232,Computer user support specialists,40.8,2024
+15-1240,Database and network administrators and architects,33.3,2024
+15-1241,Computer network architects,11.2,2024
+15-1242,Database administrators,3.8,2024
+15-1243,Database architects,4.0,2024
+15-1244,Network and computer systems administrators,14.3,2024
+15-1250,"Software and web developers, programmers, and testers",149.2,2024
+15-1251,Computer programmers,5.5,2024
+15-1252,Software developers,115.2,2024
+15-1253,Software quality assurance analysts and testers,14.0,2024
+15-1254,Web developers,5.4,2024
+15-1255,Web and digital interface designers,9.1,2024
+15-1299,"Computer occupations, all other",31.3,2024
+15-2000,Mathematical science occupations,37.7,2024
+15-2011,Actuaries,2.4,2024
+15-2021,Mathematicians,0.1,2024
+15-2031,Operations research analysts,9.6,2024
+15-2041,Statisticians,2.0,2024
+15-2051,Data scientists,23.4,2024
+15-2099,"Mathematical science occupations, all other",0.3,2024
+17-0000,Architecture and engineering occupations,186.5,2024
+17-1000,"Architects, surveyors, and cartographers",14.4,2024
+17-1010,"Architects, except naval",9.5,2024
+17-1011,"Architects, except landscape and naval",7.8,2024
+17-1012,Landscape architects,1.7,2024
+17-1020,"Surveyors, cartographers, and photogrammetrists",4.9,2024
+17-1021,Cartographers and photogrammetrists,1.0,2024
+17-1022,Surveyors,3.9,2024
+17-2000,Engineers,114.6,2024
+17-2011,Aerospace engineers,4.5,2024
+17-2021,Agricultural engineers,0.1,2024
+17-2031,Bioengineers and biomedical engineers,1.3,2024
+17-2041,Chemical engineers,1.1,2024
+17-2051,Civil engineers,23.6,2024
+17-2061,Computer hardware engineers,4.7,2024
+17-2070,Electrical and electronics engineers,17.5,2024
+17-2071,Electrical engineers,11.7,2024
+17-2072,"Electronics engineers, except computer",5.7,2024
+17-2081,Environmental engineers,3.0,2024
+17-2110,"Industrial engineers, including health and safety",26.8,2024
+17-2111,"Health and safety engineers, except mining safety engineers and inspectors",1.5,2024
+17-2112,Industrial engineers,25.2,2024
+17-2121,Marine engineers and naval architects,0.6,2024
+17-2131,Materials engineers,1.5,2024
+17-2141,Mechanical engineers,18.1,2024
+17-2151,"Mining and geological engineers, including mining safety engineers",0.4,2024
+17-2161,Nuclear engineers,0.8,2024
+17-2171,Petroleum engineers,1.2,2024
+17-2199,"Engineers, all other",9.3,2024
+17-3000,"Drafters, engineering technicians, and mapping technicians",57.5,2024
+17-3010,Drafters,16.2,2024
+17-3011,Architectural and civil drafters,10.0,2024
+17-3012,Electrical and electronics drafters,1.7,2024
+17-3013,Mechanical drafters,3.3,2024
+17-3019,"Drafters, all other",1.3,2024
+17-3020,"Engineering technologists and technicians, except drafters",33.7,2024
+17-3021,Aerospace engineering and operations technologists and technicians,0.9,2024
+17-3022,Civil engineering technologists and technicians,5.5,2024
+17-3023,Electrical and electronic engineering technologists and technicians,8.4,2024
+17-3024,Electro-mechanical and mechatronics technologists and technicians,1.3,2024
+17-3025,Environmental engineering technologists and technicians,1.1,2024
+17-3026,Industrial engineering technologists and technicians,6.3,2024
+17-3027,Mechanical engineering technologists and technicians,3.2,2024
+17-3028,Calibration technologists and technicians,1.4,2024
+17-3029,"Engineering technologists and technicians, except drafters, all other",5.7,2024
+17-3031,Surveying and mapping technicians,7.6,2024
+19-0000,"Life, physical, and social science occupations",144.7,2024
+19-1000,Life scientists,28.4,2024
+19-1010,Agricultural and food scientists,3.1,2024
+19-1011,Animal scientists,0.2,2024
+19-1012,Food scientists and technologists,1.2,2024
+19-1013,Soil and plant scientists,1.7,2024
+19-1020,Biological scientists,10.8,2024
+19-1021,Biochemists and biophysicists,2.9,2024
+19-1022,Microbiologists,1.7,2024
+19-1023,Zoologists and wildlife biologists,1.4,2024
+19-1029,"Biological scientists, all other",4.8,2024
+19-1030,Conservation scientists and foresters,3.6,2024
+19-1031,Conservation scientists,2.5,2024
+19-1032,Foresters,1.1,2024
+19-1040,Medical scientists,10.4,2024
+19-1041,Epidemiologists,0.8,2024
+19-1042,"Medical scientists, except epidemiologists",9.6,2024
+19-1099,"Life scientists, all other",0.4,2024
+19-2000,Physical scientists,22.4,2024
+19-2010,Astronomers and physicists,1.8,2024
+19-2011,Astronomers,0.1,2024
+19-2012,Physicists,1.7,2024
+19-2021,Atmospheric and space scientists,0.7,2024
+19-2030,Chemists and materials scientists,7.0,2024
+19-2031,Chemists,6.3,2024
+19-2032,Materials scientists,0.6,2024
+19-2040,Environmental scientists and geoscientists,11.0,2024
+19-2041,"Environmental scientists and specialists, including health",8.5,2024
+19-2042,"Geoscientists, except hydrologists and geographers",2.0,2024
+19-2043,Hydrologists,0.5,2024
+19-2099,"Physical scientists, all other",2.0,2024
+19-3000,Social scientists and related workers,23.1,2024
+19-3011,Economists,0.9,2024
+19-3022,Survey researchers,0.7,2024
+19-3030,Psychologists,12.9,2024
+19-3032,Industrial-organizational psychologists,0.4,2024
+19-3033,Clinical and counseling psychologists,4.8,2024
+19-3034,School psychologists,3.8,2024
+19-3039,"Psychologists, all other",3.9,2024
+19-3041,Sociologists,0.3,2024
+19-3051,Urban and regional planners,3.4,2024
+19-3090,Miscellaneous social scientists and related workers,4.9,2024
+19-3091,Anthropologists and archeologists,0.8,2024
+19-3092,Geographers,0.1,2024
+19-3093,Historians,0.3,2024
+19-3094,Political scientists,0.5,2024
+19-3099,"Social scientists and related workers, all other",3.2,2024
+19-4000,"Life, physical, and social science technicians",52.6,2024
+19-4010,Agricultural and food science technicians,6.1,2024
+19-4012,Agricultural technicians,2.9,2024
+19-4013,Food science technicians,3.2,2024
+19-4021,Biological technicians,9.1,2024
+19-4031,Chemical technicians,6.7,2024
+19-4040,Environmental science and geoscience technicians,7.3,2024
+19-4042,"Environmental science and protection technicians, including health",5.6,2024
+19-4043,"Geological technicians, except hydrologic technicians",1.3,2024
+19-4044,Hydrologic technicians,0.4,2024
+19-4051,Nuclear technicians,0.7,2024
+19-4061,Social science research assistants,5.2,2024
+19-4071,Forest and conservation technicians,3.9,2024
+19-4090,"Miscellaneous life, physical, and social science technicians",13.5,2024
+19-4092,Forensic science technicians,2.9,2024
+19-4099,"Life, physical, and social science technicians, all other",10.6,2024
+19-5000,Occupational health and safety specialists and technicians,18.3,2024
+19-5011,Occupational health and safety specialists,14.9,2024
+19-5012,Occupational health and safety technicians,3.4,2024
+21-0000,Community and social service occupations,313.7,2024
+21-1000,"Counselors, social workers, and other community and social service specialists",265.8,2024
+21-1010,Counselors,104.4,2024
+21-1012,"Educational, guidance, and career counselors and advisors",31.0,2024
+21-1013,Marriage and family therapists,7.7,2024
+21-1015,Rehabilitation counselors,10.0,2024
+21-1018,"Substance abuse, behavioral disorder, and mental health counselors",48.3,2024
+21-1019,"Counselors, all other",7.4,2024
+21-1020,Social workers,74.0,2024
+21-1021,"Child, family, and school social workers",35.1,2024
+21-1022,Healthcare social workers,18.4,2024
+21-1023,Mental health and substance abuse social workers,13.5,2024
+21-1029,"Social workers, all other",7.0,2024
+21-1090,Miscellaneous community and social service specialists,87.4,2024
+21-1091,Health education specialists,7.9,2024
+21-1092,Probation officers and correctional treatment specialists,7.9,2024
+21-1093,Social and human service assistants,50.6,2024
+21-1094,Community health workers,7.8,2024
+21-1099,"Community and social service specialists, all other",13.1,2024
+21-2000,Religious workers,47.9,2024
+21-2011,Clergy,23.0,2024
+21-2021,"Directors, religious activities and education",13.8,2024
+21-2099,"Religious workers, all other",11.1,2024
+23-0000,Legal occupations,83.8,2024
+23-1000,"Lawyers, judges, and related workers",34.4,2024
+23-1010,Lawyers and judicial law clerks,32.5,2024
+23-1011,Lawyers,31.5,2024
+23-1012,Judicial law clerks,1.0,2024
+23-1020,"Judges, magistrates, and other judicial workers",1.8,2024
+23-1021,"Administrative law judges, adjudicators, and hearing officers",0.5,2024
+23-1022,"Arbitrators, mediators, and conciliators",0.3,2024
+23-1023,"Judges, magistrate judges, and magistrates",0.9,2024
+23-2000,Legal support workers,49.4,2024
+23-2011,Paralegals and legal assistants,39.3,2024
+23-2090,Miscellaneous legal support workers,10.2,2024
+23-2093,"Title examiners, abstractors, and searchers",5.4,2024
+23-2099,"Legal support workers, all other",4.7,2024
+25-0000,Educational instruction and library occupations,890.3,2024
+25-1000,Postsecondary teachers,136.4,2024
+25-1011,"Business teachers, postsecondary",8.1,2024
+25-1020,"Math and computer science teachers, postsecondary",7.9,2024
+25-1021,"Computer science teachers, postsecondary",3.5,2024
+25-1022,"Mathematical science teachers, postsecondary",4.4,2024
+25-1030,"Engineering and architecture teachers, postsecondary",5.0,2024
+25-1031,"Architecture teachers, postsecondary",0.9,2024
+25-1032,"Engineering teachers, postsecondary",4.1,2024
+25-1040,"Life sciences teachers, postsecondary",6.3,2024
+25-1041,"Agricultural sciences teachers, postsecondary",0.8,2024
+25-1042,"Biological science teachers, postsecondary",5.4,2024
+25-1043,"Forestry and conservation science teachers, postsecondary",0.1,2024
+25-1050,"Physical sciences teachers, postsecondary",4.9,2024
+25-1051,"Atmospheric, earth, marine, and space sciences teachers, postsecondary",1.0,2024
+25-1052,"Chemistry teachers, postsecondary",1.9,2024
+25-1053,"Environmental science teachers, postsecondary",0.7,2024
+25-1054,"Physics teachers, postsecondary",1.3,2024
+25-1060,"Social sciences teachers, postsecondary",11.3,2024
+25-1061,"Anthropology and archeology teachers, postsecondary",0.5,2024
+25-1062,"Area, ethnic, and cultural studies teachers, postsecondary",1.1,2024
+25-1063,"Economics teachers, postsecondary",1.2,2024
+25-1064,"Geography teachers, postsecondary",0.3,2024
+25-1065,"Political science teachers, postsecondary",1.6,2024
+25-1066,"Psychology teachers, postsecondary",4.0,2024
+25-1067,"Sociology teachers, postsecondary",1.1,2024
+25-1069,"Social sciences teachers, postsecondary, all other",1.5,2024
+25-1070,"Health teachers, postsecondary",36.0,2024
+25-1071,"Health specialties teachers, postsecondary",27.4,2024
+25-1072,"Nursing instructors and teachers, postsecondary",8.6,2024
+25-1080,"Education and library science teachers, postsecondary",5.9,2024
+25-1081,"Education teachers, postsecondary",5.6,2024
+25-1082,"Library science teachers, postsecondary",0.4,2024
+25-1110,"Law, criminal justice, and social work teachers, postsecondary",4.7,2024
+25-1111,"Criminal justice and law enforcement teachers, postsecondary",1.2,2024
+25-1112,"Law teachers, postsecondary",2.2,2024
+25-1113,"Social work teachers, postsecondary",1.3,2024
+25-1120,"Arts, communications, history, and humanities teachers, postsecondary",22.4,2024
+25-1121,"Art, drama, and music teachers, postsecondary",9.0,2024
+25-1122,"Communications teachers, postsecondary",2.7,2024
+25-1123,"English language and literature teachers, postsecondary",5.1,2024
+25-1124,"Foreign language and literature teachers, postsecondary",1.9,2024
+25-1125,"History teachers, postsecondary",1.7,2024
+25-1126,"Philosophy and religion teachers, postsecondary",2.0,2024
+25-1190,Miscellaneous postsecondary teachers,23.7,2024
+25-1192,"Family and consumer sciences teachers, postsecondary",0.2,2024
+25-1193,"Recreation and fitness studies teachers, postsecondary",1.1,2024
+25-1194,"Career/technical education teachers, postsecondary",8.8,2024
+25-1199,"Postsecondary teachers, all other",13.5,2024
+25-2000,"Preschool, elementary, middle, secondary, and special education teachers",320.9,2024
+25-2010,Preschool and kindergarten teachers,78.2,2024
+25-2011,"Preschool teachers, except special education",65.5,2024
+25-2012,"Kindergarten teachers, except special education",12.8,2024
+25-2020,Elementary and middle school teachers,132.4,2024
+25-2021,"Elementary school teachers, except special education",91.0,2024
+25-2022,"Middle school teachers, except special and career/technical education",40.5,2024
+25-2023,"Career/technical education teachers, middle school",0.9,2024
+25-2030,Secondary school teachers,72.4,2024
+25-2031,"Secondary school teachers, except special and career/technical education",66.2,2024
+25-2032,"Career/technical education teachers, secondary school",6.2,2024
+25-2050,Special education teachers,37.8,2024
+25-2051,"Special education teachers, preschool",2.1,2024
+25-2052,"Special education teachers, kindergarten and elementary school",15.4,2024
+25-2057,"Special education teachers, middle school",6.3,2024
+25-2058,"Special education teachers, secondary school",11.1,2024
+25-2059,"Special education teachers, all other",2.9,2024
+25-3000,Other teachers and instructors,171.4,2024
+25-3011,"Adult basic education, adult secondary education, and english as a second language instructors",3.9,2024
+25-3021,Self-enrichment teachers,51.4,2024
+25-3031,"Substitute teachers, short-term",61.1,2024
+25-3041,Tutors,37.1,2024
+25-3099,"Teachers and instructors, all other",18.0,2024
+25-4000,"Librarians, curators, and archivists",31.2,2024
+25-4010,"Archivists, curators, and museum technicians",4.8,2024
+25-4011,Archivists,1.1,2024
+25-4012,Curators,1.8,2024
+25-4013,Museum technicians and conservators,1.9,2024
+25-4022,Librarians and media collections specialists,13.5,2024
+25-4031,Library technicians,13.0,2024
+25-9000,Other educational instruction and library occupations,230.4,2024
+25-9021,Farm and home management educators,1.1,2024
+25-9031,Instructional coordinators,21.9,2024
+25-9040,Teaching assistants,195.0,2024
+25-9044,"Teaching assistants, postsecondary",24.6,2024
+25-9045,"Teaching assistants, except postsecondary",170.4,2024
+25-9099,"Educational instruction and library workers, all other",12.5,2024
+27-0000,"Arts, design, entertainment, sports, and media occupations",289.4,2024
+27-1000,Art and design workers,84.9,2024
+27-1010,Artists and related workers,21.7,2024
+27-1011,Art directors,12.3,2024
+27-1012,Craft artists,1.0,2024
+27-1013,"Fine artists, including painters, sculptors, and illustrators",2.2,2024
+27-1014,Special effects artists and animators,5.0,2024
+27-1019,"Artists and related workers, all other",1.2,2024
+27-1020,Designers,63.2,2024
+27-1021,Commercial and industrial designers,2.5,2024
+27-1022,Fashion designers,2.3,2024
+27-1023,Floral designers,5.1,2024
+27-1024,Graphic designers,20.0,2024
+27-1025,Interior designers,7.8,2024
+27-1026,Merchandise displayers and window trimmers,20.8,2024
+27-1027,Set and exhibit designers,2.5,2024
+27-1029,"Designers, all other",2.2,2024
+27-2000,"Entertainers and performers, sports and related workers",99.7,2024
+27-2010,"Actors, producers, and directors",19.1,2024
+27-2011,Actors,6.3,2024
+27-2012,Producers and directors,12.8,2024
+27-2020,"Athletes, coaches, umpires, and related workers",48.5,2024
+27-2021,Athletes and sports competitors,2.1,2024
+27-2022,Coaches and scouts,41.8,2024
+27-2023,"Umpires, referees, and other sports officials",4.6,2024
+27-2030,Dancers and choreographers,2.5,2024
+27-2031,Dancers,1.8,2024
+27-2032,Choreographers,0.7,2024
+27-2040,"Musicians, singers, and related workers",23.7,2024
+27-2041,Music directors and composers,4.3,2024
+27-2042,Musicians and singers,19.4,2024
+27-2090,"Miscellaneous entertainers and performers, sports and related workers",5.8,2024
+27-2091,"Disc jockeys, except radio",1.5,2024
+27-2099,"Entertainers and performers, sports and related workers, all other",4.4,2024
+27-3000,Media and communication workers,73.4,2024
+27-3011,Broadcast announcers and radio disc jockeys,2.3,2024
+27-3023,"News analysts, reporters, and journalists",4.1,2024
+27-3031,Public relations specialists,27.6,2024
+27-3040,Writers and editors,27.7,2024
+27-3041,Editors,9.8,2024
+27-3042,Technical writers,4.5,2024
+27-3043,Writers and authors,13.4,2024
+27-3090,Miscellaneous media and communication workers,11.6,2024
+27-3091,Interpreters and translators,6.9,2024
+27-3092,Court reporters and simultaneous captioners,1.7,2024
+27-3099,"Media and communication workers, all other",3.0,2024
+27-4000,Media and communication equipment workers,31.4,2024
+27-4010,"Broadcast, sound, and lighting technicians",11.1,2024
+27-4011,Audio and video technicians,7.3,2024
+27-4012,Broadcast technicians,1.8,2024
+27-4014,Sound engineering technicians,1.2,2024
+27-4015,Lighting technicians,0.8,2024
+27-4021,Photographers,12.7,2024
+27-4030,"Television, video, and film camera operators and editors",6.4,2024
+27-4031,"Camera operators, television, video, and film",2.9,2024
+27-4032,Film and video editors,3.6,2024
+27-4099,"Media and communication equipment workers, all other",1.1,2024
+29-0000,Healthcare practitioners and technical occupations,634.9,2024
+29-1000,Healthcare diagnosing or treating practitioners,363.3,2024
+29-1011,Chiropractors,2.8,2024
+29-1020,Dentists,4.5,2024
+29-1021,"Dentists, general",3.9,2024
+29-1022,Oral and maxillofacial surgeons,0.2,2024
+29-1023,Orthodontists,0.2,2024
+29-1024,Prosthodontists,0.0,2024
+29-1029,"Dentists, all other specialists",0.2,2024
+29-1031,Dietitians and nutritionists,6.2,2024
+29-1041,Optometrists,2.4,2024
+29-1051,Pharmacists,14.2,2024
+29-1071,Physician assistants,12.0,2024
+29-1081,Podiatrists,0.3,2024
+29-1120,Therapists,53.5,2024
+29-1122,Occupational therapists,10.2,2024
+29-1123,Physical therapists,13.2,2024
+29-1124,Radiation therapists,0.9,2024
+29-1125,Recreational therapists,1.3,2024
+29-1126,Respiratory therapists,8.8,2024
+29-1127,Speech-language pathologists,13.3,2024
+29-1128,Exercise physiologists,1.7,2024
+29-1129,"Therapists, all other",4.1,2024
+29-1131,Veterinarians,3.0,2024
+29-1141,Registered nurses,189.1,2024
+29-1151,Nurse anesthetists,2.7,2024
+29-1161,Nurse midwives,0.5,2024
+29-1171,Nurse practitioners,29.5,2024
+29-1181,Audiologists,0.7,2024
+29-1210,Physicians,22.3,2024
+29-1211,Anesthesiologists,1.3,2024
+29-1212,Cardiologists,0.6,2024
+29-1213,Dermatologists,0.4,2024
+29-1214,Emergency medicine physicians,1.0,2024
+29-1215,Family medicine physicians,3.3,2024
+29-1216,General internal medicine physicians,2.1,2024
+29-1217,Neurologists,0.3,2024
+29-1218,Obstetricians and gynecologists,0.6,2024
+29-1221,"Pediatricians, general",1.2,2024
+29-1222,"Physicians, pathologists",0.4,2024
+29-1223,Psychiatrists,0.9,2024
+29-1224,Radiologists,0.8,2024
+29-1229,"Physicians, all other",9.6,2024
+29-1240,Surgeons,1.3,2024
+29-1241,"Ophthalmologists, except pediatric",0.3,2024
+29-1242,"Orthopedic surgeons, except pediatric",0.4,2024
+29-1243,Pediatric surgeons,0.0,2024
+29-1249,"Surgeons, all other",0.6,2024
+29-1290,Miscellaneous healthcare diagnosing or treating practitioners,18.5,2024
+29-1291,Acupuncturists,0.9,2024
+29-1292,Dental hygienists,15.3,2024
+29-1299,"Healthcare diagnosing or treating practitioners, all other",2.4,2024
+29-2000,Health technologists and technicians,261.4,2024
+29-2010,Clinical laboratory technologists and technicians,22.6,2024
+29-2030,Diagnostic related technologists and technicians,26.1,2024
+29-2031,Cardiovascular technologists and technicians,3.8,2024
+29-2032,Diagnostic medical sonographers,5.8,2024
+29-2033,Nuclear medicine technologists,0.9,2024
+29-2034,Radiologic technologists and technicians,12.9,2024
+29-2035,Magnetic resonance imaging technologists,2.6,2024
+29-2036,Medical dosimetrists,0.2,2024
+29-2040,Emergency medical technicians and paramedics,19.0,2024
+29-2042,Emergency medical technicians,14.1,2024
+29-2043,Paramedics,4.9,2024
+29-2050,Health practitioner support technologists and technicians,102.8,2024
+29-2051,Dietetic technicians,4.0,2024
+29-2052,Pharmacy technicians,49.0,2024
+29-2053,Psychiatric technicians,15.9,2024
+29-2055,Surgical technologists,7.0,2024
+29-2056,Veterinary technologists and technicians,14.3,2024
+29-2057,Ophthalmic medical technicians,12.5,2024
+29-2061,Licensed practical and licensed vocational nurses,54.4,2024
+29-2072,Medical records specialists,14.2,2024
+29-2081,"Opticians, dispensing",6.8,2024
+29-2090,Miscellaneous health technologists and technicians,15.4,2024
+29-2091,Orthotists and prosthetists,0.9,2024
+29-2092,Hearing aid specialists,1.0,2024
+29-2099,"Health technologists and technicians, all other",13.6,2024
+29-9000,Other healthcare practitioners and technical occupations,10.2,2024
+29-9021,Health information technologists and medical registrars,3.2,2024
+29-9090,Miscellaneous health practitioners and technical workers,7.0,2024
+29-9091,Athletic trainers,2.4,2024
+29-9092,Genetic counselors,0.3,2024
+29-9093,Surgical assistants,1.6,2024
+29-9099,"Healthcare practitioners and technical workers, all other",2.6,2024
+31-0000,Healthcare support occupations,1286.7,2024
+31-1100,"Home health and personal care aides; and nursing assistants, orderlies, and psychiatric aides",983.0,2024
+31-1120,Home health and personal care aides,765.8,2024
+31-1130,"Nursing assistants, orderlies, and psychiatric aides",217.1,2024
+31-1131,Nursing assistants,204.1,2024
+31-1132,Orderlies,7.8,2024
+31-1133,Psychiatric aides,5.3,2024
+31-2000,Occupational therapy and physical therapist assistants and aides,34.3,2024
+31-2010,Occupational therapy assistants and aides,7.9,2024
+31-2011,Occupational therapy assistants,7.2,2024
+31-2012,Occupational therapy aides,0.6,2024
+31-2020,Physical therapist assistants and aides,26.4,2024
+31-2021,Physical therapist assistants,19.8,2024
+31-2022,Physical therapist aides,6.6,2024
+31-9000,Other healthcare support occupations,269.4,2024
+31-9011,Massage therapists,24.7,2024
+31-9090,Miscellaneous healthcare support occupations,244.7,2024
+31-9091,Dental assistants,52.9,2024
+31-9092,Medical assistants,112.3,2024
+31-9093,Medical equipment preparers,10.9,2024
+31-9094,Medical transcriptionists,7.4,2024
+31-9095,Pharmacy aides,6.1,2024
+31-9096,Veterinary assistants and laboratory animal caretakers,22.2,2024
+31-9097,Phlebotomists,18.4,2024
+31-9099,"Healthcare support workers, all other",14.4,2024
+33-0000,Protective service occupations,423.6,2024
+33-1000,Supervisors of protective service workers,30.8,2024
+33-1010,First-line supervisors of law enforcement workers,15.2,2024
+33-1011,First-line supervisors of correctional officers,4.3,2024
+33-1012,First-line supervisors of police and detectives,10.9,2024
+33-1021,First-line supervisors of firefighting and prevention workers,6.5,2024
+33-1090,"Miscellaneous first-line supervisors, protective service workers",9.1,2024
+33-1091,First-line supervisors of security workers,7.0,2024
+33-1099,"First-line supervisors of protective service workers, all other",2.1,2024
+33-2000,Firefighting and prevention workers,28.9,2024
+33-2011,Firefighters,27.1,2024
+33-2020,Fire inspectors,1.8,2024
+33-2021,Fire inspectors and investigators,1.5,2024
+33-2022,Forest fire inspectors and prevention specialists,0.3,2024
+33-3000,Law enforcement workers,94.8,2024
+33-3010,"Bailiffs, correctional officers, and jailers",31.9,2024
+33-3011,Bailiffs,1.8,2024
+33-3012,Correctional officers and jailers,30.1,2024
+33-3021,Detectives and criminal investigators,7.8,2024
+33-3031,Fish and game wardens,0.5,2024
+33-3041,Parking enforcement workers,0.7,2024
+33-3050,Police officers,53.9,2024
+33-3051,Police and sheriff's patrol officers,53.7,2024
+33-3052,Transit and railroad police,0.2,2024
+33-9000,Other protective service workers,269.0,2024
+33-9011,Animal control workers,1.3,2024
+33-9021,Private detectives and investigators,3.9,2024
+33-9030,Security guards and gambling surveillance officers,162.3,2024
+33-9031,Gambling surveillance officers and gambling investigators,1.3,2024
+33-9032,Security guards,161.0,2024
+33-9090,Miscellaneous protective service workers,101.4,2024
+33-9091,Crossing guards and flaggers,18.0,2024
+33-9092,"Lifeguards, ski patrol, and other recreational protective service workers",42.7,2024
+33-9093,Transportation security screeners,4.7,2024
+33-9094,School bus monitors,12.6,2024
+33-9099,"Protective service workers, all other",23.3,2024
+35-0000,Food preparation and serving related occupations,2625.8,2024
+35-1000,Supervisors of food preparation and serving workers,208.3,2024
+35-1011,Chefs and head cooks,24.4,2024
+35-1012,First-line supervisors of food preparation and serving workers,183.9,2024
+35-2000,Cooks and food preparation workers,580.2,2024
+35-2010,Cooks,432.2,2024
+35-2011,"Cooks, fast food",82.1,2024
+35-2012,"Cooks, institution and cafeteria",69.7,2024
+35-2013,"Cooks, private household",5.3,2024
+35-2014,"Cooks, restaurant",250.7,2024
+35-2015,"Cooks, short order",20.6,2024
+35-2019,"Cooks, all other",3.7,2024
+35-2021,Food preparation workers,148.0,2024
+35-3000,Food and beverage serving workers,1538.6,2024
+35-3011,Bartenders,129.6,2024
+35-3023,Fast food and counter workers,904.3,2024
+35-3031,Waiters and waitresses,456.7,2024
+35-3041,"Food servers, nonrestaurant",48.0,2024
+35-9000,Other food preparation and serving related workers,298.7,2024
+35-9011,Dining room and cafeteria attendants and bartender helpers,99.6,2024
+35-9021,Dishwashers,76.8,2024
+35-9031,"Hosts and hostesses, restaurant, lounge, and coffee shop",107.7,2024
+35-9099,"Food preparation and serving related workers, all other",14.6,2024
+37-0000,Building and grounds cleaning and maintenance occupations,788.7,2024
+37-1000,Supervisors of building and grounds cleaning and maintenance workers,56.3,2024
+37-1011,First-line supervisors of housekeeping and janitorial workers,33.0,2024
+37-1012,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",23.2,2024
+37-2000,Building cleaning and pest control workers,560.8,2024
+37-2010,Building cleaning workers,547.4,2024
+37-2011,"Janitors and cleaners, except maids and housekeeping cleaners",351.3,2024
+37-2012,Maids and housekeeping cleaners,193.5,2024
+37-2019,"Building cleaning workers, all other",2.6,2024
+37-2021,Pest control workers,13.4,2024
+37-3000,Grounds maintenance workers,171.6,2024
+37-3011,Landscaping and groundskeeping workers,158.2,2024
+37-3012,"Pesticide handlers, sprayers, and applicators, vegetation",4.1,2024
+37-3013,Tree trimmers and pruners,7.4,2024
+37-3019,"Grounds maintenance workers, all other",1.9,2024
+39-0000,Personal care and service occupations,772.4,2024
+39-1000,Supervisors of personal care and service workers,33.1,2024
+39-1010,First-line supervisors of entertainment and recreation workers,16.8,2024
+39-1013,First-line supervisors of gambling services workers,3.3,2024
+39-1014,"First-line supervisors of entertainment and recreation workers, except gambling services",13.4,2024
+39-1022,First-line supervisors of personal service workers,16.3,2024
+39-2000,Animal care and service workers,81.7,2024
+39-2011,Animal trainers,7.1,2024
+39-2021,Animal caretakers,74.6,2024
+39-3000,Entertainment attendants and related workers,159.8,2024
+39-3010,Gambling services workers,17.9,2024
+39-3011,Gambling dealers,14.1,2024
+39-3012,Gambling and sports book writers and runners,1.2,2024
+39-3019,"Gambling service workers, all other",2.6,2024
+39-3021,Motion picture projectionists,0.5,2024
+39-3031,"Ushers, lobby attendants, and ticket takers",30.8,2024
+39-3090,Miscellaneous entertainment attendants and related workers,110.6,2024
+39-3091,Amusement and recreation attendants,102.4,2024
+39-3092,Costume attendants,1.8,2024
+39-3093,"Locker room, coatroom, and dressing room attendants",4.2,2024
+39-3099,"Entertainment attendants and related workers, all other",2.2,2024
+39-4000,Funeral service workers,10.1,2024
+39-4010,Embalmers and crematory operators,1.2,2024
+39-4011,Embalmers,0.6,2024
+39-4012,Crematory operators,0.6,2024
+39-4021,Funeral attendants,5.7,2024
+39-4031,"Morticians, undertakers, and funeral arrangers",3.2,2024
+39-5000,Personal appearance workers,127.3,2024
+39-5010,"Barbers, hairdressers, hairstylists and cosmetologists",84.2,2024
+39-5011,Barbers,8.4,2024
+39-5012,"Hairdressers, hairstylists, and cosmetologists",75.8,2024
+39-5090,Miscellaneous personal appearance workers,43.1,2024
+39-5091,"Makeup artists, theatrical and performance",1.1,2024
+39-5092,Manicurists and pedicurists,24.8,2024
+39-5093,Shampooers,2.7,2024
+39-5094,Skincare specialists,14.5,2024
+39-6000,"Baggage porters, bellhops, and concierges",11.5,2024
+39-6011,Baggage porters and bellhops,4.6,2024
+39-6012,Concierges,6.8,2024
+39-7000,Tour and travel guides,13.0,2024
+39-7010,Tour and travel guides,13.0,2024
+39-9000,Other personal care and service workers,336.0,2024
+39-9011,Childcare workers,160.2,2024
+39-9030,Recreation and fitness workers,142.2,2024
+39-9031,Exercise trainers and group fitness instructors,74.2,2024
+39-9032,Recreation workers,68.1,2024
+39-9041,Residential advisors,17.4,2024
+39-9099,"Personal care and service workers, all other",16.1,2024
+41-0000,Sales and related occupations,1786.8,2024
+41-1000,Supervisors of sales workers,149.9,2024
+41-1011,First-line supervisors of retail sales workers,125.1,2024
+41-1012,First-line supervisors of non-retail sales workers,24.8,2024
+41-2000,Retail sales workers,1178.6,2024
+41-2010,Cashiers,546.7,2024
+41-2011,Cashiers,542.6,2024
+41-2012,Gambling change persons and booth cashiers,4.0,2024
+41-2020,Counter and rental clerks and parts salespersons,76.1,2024
+41-2021,Counter and rental clerks,45.9,2024
+41-2022,Parts salespersons,30.2,2024
+41-2031,Retail salespersons,555.8,2024
+41-3000,"Sales representatives, services",224.6,2024
+41-3011,Advertising sales agents,9.3,2024
+41-3021,Insurance sales agents,47.0,2024
+41-3031,"Securities, commodities, and financial services sales agents",38.1,2024
+41-3041,Travel agents,7.1,2024
+41-3091,"Sales representatives of services, except advertising, insurance, financial services, and travel",123.0,2024
+41-4000,"Sales representatives, wholesale and manufacturing",142.1,2024
+41-4011,"Sales representatives, wholesale and manufacturing, technical and scientific products",27.2,2024
+41-4012,"Sales representatives, wholesale and manufacturing, except technical and scientific products",114.8,2024
+41-9000,Other sales and related workers,91.6,2024
+41-9010,"Models, demonstrators, and product promoters",15.2,2024
+41-9011,Demonstrators and product promoters,14.0,2024
+41-9012,Models,1.2,2024
+41-9020,Real estate brokers and sales agents,46.3,2024
+41-9021,Real estate brokers,9.7,2024
+41-9022,Real estate sales agents,36.6,2024
+41-9031,Sales engineers,5.0,2024
+41-9041,Telemarketers,6.5,2024
+41-9090,Miscellaneous sales and related workers,18.7,2024
+41-9091,"Door-to-door sales workers, news and street vendors, and related workers",2.7,2024
+41-9099,"Sales and related workers, all other",16.0,2024
+43-0000,Office and administrative support occupations,1996.8,2024
+43-1000,Supervisors of office and administrative support workers,144.5,2024
+43-1011,First-line supervisors of office and administrative support workers,144.5,2024
+43-2000,Communications equipment operators,3.2,2024
+43-2011,"Switchboard operators, including answering service",2.8,2024
+43-2021,Telephone operators,0.3,2024
+43-2099,"Communications equipment operators, all other",0.1,2024
+43-3000,Financial clerks,278.6,2024
+43-3011,Bill and account collectors,13.7,2024
+43-3021,Billing and posting clerks,42.2,2024
+43-3031,"Bookkeeping, accounting, and auditing clerks",170.0,2024
+43-3041,Gambling cage workers,1.3,2024
+43-3051,Payroll and timekeeping clerks,13.0,2024
+43-3061,Procurement clerks,4.6,2024
+43-3071,Tellers,29.8,2024
+43-3099,"Financial clerks, all other",4.0,2024
+43-4000,Information and record clerks,653.0,2024
+43-4011,Brokerage clerks,4.1,2024
+43-4021,Correspondence clerks,0.7,2024
+43-4031,"Court, municipal, and license clerks",18.5,2024
+43-4041,"Credit authorizers, checkers, and clerks",1.0,2024
+43-4051,Customer service representatives,341.7,2024
+43-4061,"Eligibility interviewers, government programs",14.0,2024
+43-4071,File clerks,7.3,2024
+43-4081,"Hotel, motel, and resort desk clerks",43.6,2024
+43-4111,"Interviewers, except eligibility and loan",15.8,2024
+43-4121,"Library assistants, clerical",12.8,2024
+43-4131,Loan interviewers and clerks,13.3,2024
+43-4141,New accounts clerks,2.3,2024
+43-4151,Order clerks,8.0,2024
+43-4161,"Human resources assistants, except payroll and timekeeping",9.0,2024
+43-4171,Receptionists and information clerks,128.5,2024
+43-4181,Reservation and transportation ticket agents and travel clerks,14.4,2024
+43-4199,"Information and record clerks, all other",17.8,2024
+43-5000,"Material recording, scheduling, dispatching, and distributing workers",210.5,2024
+43-5011,Cargo and freight agents,8.8,2024
+43-5021,Couriers and messengers,27.9,2024
+43-5030,Dispatchers,29.2,2024
+43-5031,Public safety telecommunicators,10.7,2024
+43-5032,"Dispatchers, except police, fire, and ambulance",18.5,2024
+43-5041,"Meter readers, utilities",1.3,2024
+43-5050,Postal service workers,34.5,2024
+43-5051,Postal service clerks,6.1,2024
+43-5052,Postal service mail carriers,20.6,2024
+43-5053,"Postal service mail sorters, processors, and processing machine operators",7.8,2024
+43-5061,"Production, planning, and expediting clerks",34.1,2024
+43-5071,"Shipping, receiving, and inventory clerks",69.3,2024
+43-5111,"Weighers, measurers, checkers, and samplers, recordkeeping",5.3,2024
+43-6000,Secretaries and administrative assistants,358.3,2024
+43-6011,Executive secretaries and executive administrative assistants,50.0,2024
+43-6012,Legal secretaries and administrative assistants,19.6,2024
+43-6013,Medical secretaries and administrative assistants,85.9,2024
+43-6014,"Secretaries and administrative assistants, except legal, medical, and executive",202.8,2024
+43-9000,Other office and administrative support workers,348.7,2024
+43-9020,Data entry and information processing workers,11.8,2024
+43-9021,Data entry keyers,9.5,2024
+43-9022,Word processors and typists,2.2,2024
+43-9031,Desktop publishers,0.4,2024
+43-9041,Insurance claims and policy processing clerks,20.3,2024
+43-9051,"Mail clerks and mail machine operators, except postal service",6.9,2024
+43-9061,"Office clerks, general",282.4,2024
+43-9071,"Office machine operators, except computer",2.8,2024
+43-9081,Proofreaders and copy markers,1.9,2024
+43-9111,Statistical assistants,0.8,2024
+43-9199,"Office and administrative support workers, all other",21.3,2024
+45-0000,"Farming, fishing, and forestry occupations",142.8,2024
+45-1000,"Supervisors of farming, fishing, and forestry workers",8.5,2024
+45-1011,"First-line supervisors of farming, fishing, and forestry workers",8.5,2024
+45-2000,Agricultural workers,123.5,2024
+45-2011,Agricultural inspectors,2.2,2024
+45-2021,Animal breeders,1.2,2024
+45-2041,"Graders and sorters, agricultural products",5.1,2024
+45-2090,Miscellaneous agricultural workers,115.0,2024
+45-2091,Agricultural equipment operators,10.5,2024
+45-2092,"Farmworkers and laborers, crop, nursery, and greenhouse",71.7,2024
+45-2093,"Farmworkers, farm, ranch, and aquacultural animals",31.2,2024
+45-2099,"Agricultural workers, all other",1.5,2024
+45-3000,Fishing and hunting workers,2.8,2024
+45-3031,Fishing and hunting workers,2.8,2024
+45-4000,"Forest, conservation, and logging workers",8.0,2024
+45-4011,Forest and conservation workers,2.0,2024
+45-4020,Logging workers,6.0,2024
+45-4021,Fallers,0.7,2024
+45-4022,Logging equipment operators,4.2,2024
+45-4023,Log graders and scalers,0.6,2024
+45-4029,"Logging workers, all other",0.4,2024
+47-0000,Construction and extraction occupations,649.3,2024
+47-1000,Supervisors of construction and extraction workers,74.4,2024
+47-1011,First-line supervisors of construction trades and extraction workers,74.4,2024
+47-2000,Construction trades workers,491.2,2024
+47-2011,Boilermakers,0.8,2024
+47-2020,"Brickmasons, blockmasons, and stonemasons",6.4,2024
+47-2021,Brickmasons and blockmasons,5.6,2024
+47-2022,Stonemasons,0.8,2024
+47-2031,Carpenters,74.1,2024
+47-2040,"Carpet, floor, and tile installers and finishers",8.4,2024
+47-2041,Carpet installers,1.1,2024
+47-2042,"Floor layers, except carpet, wood, and hard tiles",2.7,2024
+47-2043,Floor sanders and finishers,0.4,2024
+47-2044,Tile and stone setters,4.2,2024
+47-2050,"Cement masons, concrete finishers, and terrazzo workers",14.3,2024
+47-2051,Cement masons and concrete finishers,14.3,2024
+47-2053,Terrazzo workers and finishers,0.1,2024
+47-2061,Construction laborers,129.4,2024
+47-2070,Construction equipment operators,46.2,2024
+47-2071,"Paving, surfacing, and tamping equipment operators",4.0,2024
+47-2072,Pile driver operators,0.3,2024
+47-2073,Operating engineers and other construction equipment operators,41.9,2024
+47-2080,"Drywall installers, ceiling tile installers, and tapers",8.8,2024
+47-2081,Drywall and ceiling tile installers,7.7,2024
+47-2082,Tapers,1.1,2024
+47-2111,Electricians,81.0,2024
+47-2121,Glaziers,5.1,2024
+47-2130,Insulation workers,5.7,2024
+47-2131,"Insulation workers, floor, ceiling, and wall",3.4,2024
+47-2132,"Insulation workers, mechanical",2.3,2024
+47-2140,Painters and paperhangers,28.3,2024
+47-2141,"Painters, construction and maintenance",28.1,2024
+47-2142,Paperhangers,0.2,2024
+47-2150,"Pipelayers, plumbers, pipefitters, and steamfitters",46.4,2024
+47-2151,Pipelayers,2.4,2024
+47-2152,"Plumbers, pipefitters, and steamfitters",44.0,2024
+47-2161,Plasterers and stucco masons,1.9,2024
+47-2171,Reinforcing iron and rebar workers,1.5,2024
+47-2181,Roofers,12.7,2024
+47-2211,Sheet metal workers,10.6,2024
+47-2221,Structural iron and steel workers,5.5,2024
+47-2231,Solar photovoltaic installers,4.1,2024
+47-3000,"Helpers, construction trades",20.0,2024
+47-3011,"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",1.4,2024
+47-3012,Helpers--carpenters,2.7,2024
+47-3013,Helpers--electricians,6.8,2024
+47-3014,"Helpers--painters, paperhangers, plasterers, and stucco masons",0.8,2024
+47-3015,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",4.9,2024
+47-3016,Helpers--roofers,0.6,2024
+47-3019,"Helpers, construction trades, all other",2.8,2024
+47-4000,Other construction and related workers,43.5,2024
+47-4011,Construction and building inspectors,14.8,2024
+47-4021,Elevator and escalator installers and repairers,2.0,2024
+47-4031,Fence erectors,2.3,2024
+47-4041,Hazardous materials removal workers,5.0,2024
+47-4051,Highway maintenance workers,12.3,2024
+47-4061,Rail-track laying and maintenance equipment operators,1.1,2024
+47-4071,Septic tank servicers and sewer pipe cleaners,2.9,2024
+47-4090,Miscellaneous construction and related workers,3.1,2024
+47-5000,Extraction workers,20.2,2024
+47-5010,"Derrick, rotary drill, and service unit operators, oil and gas",6.3,2024
+47-5011,"Derrick operators, oil and gas",1.0,2024
+47-5012,"Rotary drill operators, oil and gas",1.2,2024
+47-5013,"Service unit operators, oil and gas",4.1,2024
+47-5020,Surface mining machine operators and earth drillers,4.7,2024
+47-5022,"Excavating and loading machine and dragline operators, surface mining",3.1,2024
+47-5023,"Earth drillers, except oil and gas",1.7,2024
+47-5032,"Explosives workers, ordnance handling experts, and blasters",0.5,2024
+47-5040,Underground mining machine operators,2.6,2024
+47-5041,Continuous mining machine operators,1.6,2024
+47-5043,"Roof bolters, mining",0.1,2024
+47-5044,"Loading and moving machine operators, underground mining",0.5,2024
+47-5049,"Underground mining machine operators, all other",0.4,2024
+47-5051,"Rock splitters, quarry",0.4,2024
+47-5071,"Roustabouts, oil and gas",4.3,2024
+47-5081,Helpers--extraction workers,0.7,2024
+47-5099,"Extraction workers, all other",0.7,2024
+49-0000,"Installation, maintenance, and repair occupations",608.1,2024
+49-1000,"Supervisors of installation, maintenance, and repair workers",52.4,2024
+49-1011,"First-line supervisors of mechanics, installers, and repairers",52.4,2024
+49-2000,"Electrical and electronic equipment mechanics, installers, and repairers",45.4,2024
+49-2011,"Computer, automated teller, and office machine repairers",7.6,2024
+49-2020,Radio and telecommunications equipment installers and repairers,14.3,2024
+49-2021,"Radio, cellular, and tower equipment installers and repairers",1.2,2024
+49-2022,"Telecommunications equipment installers and repairers, except line installers",13.2,2024
+49-2090,"Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",23.4,2024
+49-2091,Avionics technicians,1.8,2024
+49-2092,"Electric motor, power tool, and related repairers",1.7,2024
+49-2093,"Electrical and electronics installers and repairers, transportation equipment",0.6,2024
+49-2094,"Electrical and electronics repairers, commercial and industrial equipment",4.7,2024
+49-2095,"Electrical and electronics repairers, powerhouse, substation, and relay",2.0,2024
+49-2096,"Electronic equipment installers and repairers, motor vehicles",0.6,2024
+49-2097,Audiovisual equipment installers and repairers,2.6,2024
+49-2098,Security and fire alarm systems installers,9.4,2024
+49-3000,"Vehicle and mobile equipment mechanics, installers, and repairers",172.9,2024
+49-3011,Aircraft mechanics and service technicians,11.3,2024
+49-3020,Automotive technicians and repairers,86.0,2024
+49-3021,Automotive body and related repairers,14.6,2024
+49-3022,Automotive glass installers and repairers,1.4,2024
+49-3023,Automotive service technicians and mechanics,70.0,2024
+49-3031,Bus and truck mechanics and diesel engine specialists,26.5,2024
+49-3040,Heavy vehicle and mobile equipment service technicians and mechanics,21.7,2024
+49-3041,Farm equipment mechanics and service technicians,3.7,2024
+49-3042,"Mobile heavy equipment mechanics, except engines",16.5,2024
+49-3043,Rail car repairers,1.5,2024
+49-3050,Small engine mechanics,7.6,2024
+49-3051,Motorboat mechanics and service technicians,2.6,2024
+49-3052,Motorcycle mechanics,1.5,2024
+49-3053,Outdoor power equipment and other small engine mechanics,3.5,2024
+49-3090,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",19.7,2024
+49-3091,Bicycle repairers,1.6,2024
+49-3092,Recreational vehicle service technicians,2.8,2024
+49-3093,Tire repairers and changers,15.3,2024
+49-9000,"Other installation, maintenance, and repair occupations",337.4,2024
+49-9010,Control and valve installers and repairers,6.6,2024
+49-9011,Mechanical door repairers,2.7,2024
+49-9012,"Control and valve installers and repairers, except mechanical door",3.9,2024
+49-9021,"Heating, air conditioning, and refrigeration mechanics and installers",40.1,2024
+49-9031,Home appliance repairers,3.1,2024
+49-9040,"Industrial machinery installation, repair, and maintenance workers",54.2,2024
+49-9041,Industrial machinery mechanics,45.7,2024
+49-9043,"Maintenance workers, machinery",4.8,2024
+49-9044,Millwrights,3.6,2024
+49-9045,"Refractory materials repairers, except brickmasons",0.1,2024
+49-9050,Line installers and repairers,19.6,2024
+49-9051,Electrical power-line installers and repairers,10.7,2024
+49-9052,Telecommunications line installers and repairers,8.9,2024
+49-9060,Precision instrument and equipment repairers,9.1,2024
+49-9061,Camera and photographic equipment repairers,0.2,2024
+49-9062,Medical equipment repairers,7.3,2024
+49-9063,Musical instrument repairers and tuners,0.6,2024
+49-9064,Watch and clock repairers,0.1,2024
+49-9069,"Precision instrument and equipment repairers, all other",1.0,2024
+49-9071,"Maintenance and repair workers, general",159.8,2024
+49-9081,Wind turbine service technicians,2.3,2024
+49-9090,"Miscellaneous installation, maintenance, and repair workers",42.6,2024
+49-9091,"Coin, vending, and amusement machine servicers and repairers",3.5,2024
+49-9092,Commercial divers,0.4,2024
+49-9094,Locksmiths and safe repairers,1.7,2024
+49-9095,Manufactured building and mobile home installers,0.3,2024
+49-9096,Riggers,2.5,2024
+49-9097,Signal and track switch repairers,0.8,2024
+49-9098,"Helpers--installation, maintenance, and repair workers",11.8,2024
+49-9099,"Installation, maintenance, and repair workers, all other",21.5,2024
+51-0000,Production occupations,963.4,2024
+51-1000,Supervisors of production workers,67.7,2024
+51-1011,First-line supervisors of production and operating workers,67.7,2024
+51-2000,Assemblers and fabricators,198.8,2024
+51-2011,"Aircraft structure, surfaces, rigging, and systems assemblers",2.8,2024
+51-2020,"Electrical, electronics, and electromechanical assemblers",30.7,2024
+51-2021,"Coil winders, tapers, and finishers",1.2,2024
+51-2028,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",29.6,2024
+51-2031,Engine and other machine assemblers,2.8,2024
+51-2041,Structural metal fabricators and fitters,4.1,2024
+51-2051,Fiberglass laminators and fabricators,2.1,2024
+51-2061,Timing device assemblers and adjusters,0.0,2024
+51-2090,Miscellaneous assemblers and fabricators,156.3,2024
+51-3000,Food processing workers,121.0,2024
+51-3011,Bakers,39.9,2024
+51-3020,"Butchers and other meat, poultry, and fish processing workers",43.6,2024
+51-3021,Butchers and meat cutters,16.9,2024
+51-3022,"Meat, poultry, and fish cutters and trimmers",18.4,2024
+51-3023,Slaughterers and meat packers,8.4,2024
+51-3090,Miscellaneous food processing workers,37.5,2024
+51-3091,"Food and tobacco roasting, baking, and drying machine operators and tenders",2.4,2024
+51-3092,Food batchmakers,24.2,2024
+51-3093,Food cooking machine operators and tenders,4.4,2024
+51-3099,"Food processing workers, all other",6.5,2024
+51-4000,Metal workers and plastic workers,153.8,2024
+51-4020,"Forming machine setters, operators, and tenders, metal and plastic",9.0,2024
+51-4021,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",6.5,2024
+51-4022,"Forging machine setters, operators, and tenders, metal and plastic",0.6,2024
+51-4023,"Rolling machine setters, operators, and tenders, metal and plastic",1.9,2024
+51-4030,"Machine tool cutting setters, operators, and tenders, metal and plastic",22.9,2024
+51-4031,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",14.4,2024
+51-4032,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",0.4,2024
+51-4033,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",5.5,2024
+51-4034,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",1.5,2024
+51-4035,"Milling and planing machine setters, operators, and tenders, metal and plastic",1.1,2024
+51-4041,Machinists,29.5,2024
+51-4050,"Metal furnace operators, tenders, pourers, and casters",2.6,2024
+51-4051,Metal-refining furnace operators and tenders,2.0,2024
+51-4052,"Pourers and casters, metal",0.6,2024
+51-4060,"Model makers and patternmakers, metal and plastic",0.4,2024
+51-4061,"Model makers, metal and plastic",0.3,2024
+51-4062,"Patternmakers, metal and plastic",0.1,2024
+51-4070,"Molders and molding machine setters, operators, and tenders, metal and plastic",16.8,2024
+51-4071,Foundry mold and coremakers,0.9,2024
+51-4072,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",15.9,2024
+51-4081,"Multiple machine tool setters, operators, and tenders, metal and plastic",12.8,2024
+51-4111,Tool and die makers,4.7,2024
+51-4120,"Welding, soldering, and brazing workers",48.8,2024
+51-4121,"Welders, cutters, solderers, and brazers",45.6,2024
+51-4122,"Welding, soldering, and brazing machine setters, operators, and tenders",3.2,2024
+51-4190,Miscellaneous metal workers and plastic workers,6.4,2024
+51-4191,"Heat treating equipment setters, operators, and tenders, metal and plastic",1.2,2024
+51-4192,"Layout workers, metal and plastic",0.5,2024
+51-4193,"Plating machine setters, operators, and tenders, metal and plastic",2.5,2024
+51-4194,"Tool grinders, filers, and sharpeners",0.5,2024
+51-4199,"Metal workers and plastic workers, all other",1.7,2024
+51-5100,Printing workers,19.3,2024
+51-5111,Prepress technicians and workers,2.8,2024
+51-5112,Printing press operators,13.7,2024
+51-5113,Print binding and finishing workers,2.8,2024
+51-6000,"Textile, apparel, and furnishings workers",66.8,2024
+51-6011,Laundry and dry-cleaning workers,31.9,2024
+51-6021,"Pressers, textile, garment, and related materials",2.8,2024
+51-6031,Sewing machine operators,13.0,2024
+51-6040,Shoe and leather workers,1.3,2024
+51-6041,Shoe and leather workers and repairers,0.9,2024
+51-6042,Shoe machine operators and tenders,0.4,2024
+51-6050,"Tailors, dressmakers, and sewers",5.6,2024
+51-6051,"Sewers, hand",0.7,2024
+51-6052,"Tailors, dressmakers, and custom sewers",5.0,2024
+51-6060,"Textile machine setters, operators, and tenders",5.9,2024
+51-6061,Textile bleaching and dyeing machine operators and tenders,0.7,2024
+51-6062,"Textile cutting machine setters, operators, and tenders",1.0,2024
+51-6063,"Textile knitting and weaving machine setters, operators, and tenders",1.7,2024
+51-6064,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",2.5,2024
+51-6090,"Miscellaneous textile, apparel, and furnishings workers",6.3,2024
+51-6091,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",2.0,2024
+51-6092,Fabric and apparel patternmakers,0.3,2024
+51-6093,Upholsterers,2.2,2024
+51-6099,"Textile, apparel, and furnishings workers, all other",1.7,2024
+51-7000,Woodworkers,23.3,2024
+51-7011,Cabinetmakers and bench carpenters,8.1,2024
+51-7021,Furniture finishers,2.0,2024
+51-7030,"Model makers and patternmakers, wood",0.1,2024
+51-7031,"Model makers, wood",0.1,2024
+51-7032,"Patternmakers, wood",0.0,2024
+51-7040,"Woodworking machine setters, operators, and tenders",11.2,2024
+51-7041,"Sawing machine setters, operators, and tenders, wood",4.8,2024
+51-7042,"Woodworking machine setters, operators, and tenders, except sawing",6.4,2024
+51-7099,"Woodworkers, all other",1.8,2024
+51-8000,Plant and system operators,25.8,2024
+51-8010,"Power plant operators, distributors, and dispatchers",3.8,2024
+51-8011,Nuclear power reactor operators,0.4,2024
+51-8012,Power distributors and dispatchers,0.8,2024
+51-8013,Power plant operators,2.5,2024
+51-8021,Stationary engineers and boiler operators,3.8,2024
+51-8031,Water and wastewater treatment plant and system operators,10.7,2024
+51-8090,Miscellaneous plant and system operators,7.6,2024
+51-8091,Chemical plant and system operators,1.6,2024
+51-8092,Gas plant operators,1.3,2024
+51-8093,"Petroleum pump system operators, refinery operators, and gaugers",3.2,2024
+51-8099,"Plant and system operators, all other",1.6,2024
+51-9000,Other production occupations,286.9,2024
+51-9010,"Chemical processing machine setters, operators, and tenders",19.8,2024
+51-9011,Chemical equipment operators and tenders,14.4,2024
+51-9012,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",5.4,2024
+51-9020,"Crushing, grinding, polishing, mixing, and blending workers",12.3,2024
+51-9021,"Crushing, grinding, and polishing machine setters, operators, and tenders",2.7,2024
+51-9022,"Grinding and polishing workers, hand",0.8,2024
+51-9023,"Mixing and blending machine setters, operators, and tenders",8.8,2024
+51-9030,Cutting workers,5.9,2024
+51-9031,"Cutters and trimmers, hand",0.6,2024
+51-9032,"Cutting and slicing machine setters, operators, and tenders",5.3,2024
+51-9041,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",5.2,2024
+51-9051,"Furnace, kiln, oven, drier, and kettle operators and tenders",1.9,2024
+51-9061,"Inspectors, testers, sorters, samplers, and weighers",69.9,2024
+51-9071,Jewelers and precious stone and metal workers,4.0,2024
+51-9080,Dental and ophthalmic laboratory technicians and medical appliance technicians,7.7,2024
+51-9081,Dental laboratory technicians,3.9,2024
+51-9082,Medical appliance technicians,1.5,2024
+51-9083,Ophthalmic laboratory technicians,2.4,2024
+51-9111,Packaging and filling machine operators and tenders,45.3,2024
+51-9120,Painting workers,16.7,2024
+51-9123,"Painting, coating, and decorating workers",0.8,2024
+51-9124,"Coating, painting, and spraying machine setters, operators, and tenders",15.8,2024
+51-9141,Semiconductor processing technicians,3.9,2024
+51-9151,Photographic process workers and processing machine operators,1.5,2024
+51-9160,Computer numerically controlled tool operators and programmers,16.6,2024
+51-9161,Computer numerically controlled tool operators,13.5,2024
+51-9162,Computer numerically controlled tool programmers,3.1,2024
+51-9190,Miscellaneous production workers,76.0,2024
+51-9191,Adhesive bonding machine operators and tenders,1.3,2024
+51-9192,"Cleaning, washing, and metal pickling equipment operators and tenders",1.6,2024
+51-9193,Cooling and freezing equipment operators and tenders,0.8,2024
+51-9194,Etchers and engravers,0.9,2024
+51-9195,"Molders, shapers, and casters, except metal and plastic",5.5,2024
+51-9196,"Paper goods machine setters, operators, and tenders",8.1,2024
+51-9197,Tire builders,2.5,2024
+51-9198,Helpers--production workers,23.6,2024
+51-9199,"Production workers, all other",31.6,2024
+53-0000,Transportation and material moving occupations,1830.0,2024
+53-1000,Supervisors of transportation and material moving workers,62.4,2024
+53-1041,Aircraft cargo handling supervisors,1.1,2024
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",61.3,2024
+53-2000,Air transportation workers,41.8,2024
+53-2010,Aircraft pilots and flight engineers,18.2,2024
+53-2011,"Airline pilots, copilots, and flight engineers",11.7,2024
+53-2012,Commercial pilots,6.6,2024
+53-2020,Air traffic controllers and airfield operations specialists,3.8,2024
+53-2021,Air traffic controllers,2.2,2024
+53-2022,Airfield operations specialists,1.6,2024
+53-2031,Flight attendants,19.8,2024
+53-3000,Motor vehicle operators,562.2,2024
+53-3011,"Ambulance drivers and attendants, except emergency medical technicians",1.4,2024
+53-3030,Driver/sales workers and truck drivers,409.1,2024
+53-3031,Driver/sales workers,51.3,2024
+53-3032,Heavy and tractor-trailer truck drivers,237.6,2024
+53-3033,Light truck drivers,120.2,2024
+53-3050,Passenger vehicle drivers,140.6,2024
+53-3051,"Bus drivers, school",61.0,2024
+53-3052,"Bus drivers, transit and intercity",20.9,2024
+53-3053,Shuttle drivers and chauffeurs,36.3,2024
+53-3054,Taxi drivers,22.6,2024
+53-3099,"Motor vehicle operators, all other",11.1,2024
+53-4000,Rail transportation workers,7.7,2024
+53-4010,Locomotive engineers and operators,2.5,2024
+53-4011,Locomotive engineers,2.2,2024
+53-4013,"Rail yard engineers, dinkey operators, and hostlers",0.2,2024
+53-4022,"Railroad brake, signal, and switch operators and locomotive firers",1.0,2024
+53-4031,Railroad conductors and yardmasters,3.1,2024
+53-4041,Subway and streetcar operators,0.9,2024
+53-4099,"Rail transportation workers, all other",0.2,2024
+53-5000,Water transportation workers,9.5,2024
+53-5011,Sailors and marine oilers,3.9,2024
+53-5020,Ship and boat captains and operators,4.6,2024
+53-5021,"Captains, mates, and pilots of water vessels",4.3,2024
+53-5022,Motorboat operators,0.3,2024
+53-5031,Ship engineers,1.1,2024
+53-6000,Other transportation workers,46.2,2024
+53-6011,Bridge and lock tenders,0.3,2024
+53-6021,Parking attendants,18.5,2024
+53-6030,Transportation service attendants,18.8,2024
+53-6031,Automotive and watercraft service attendants,14.4,2024
+53-6032,Aircraft service attendants,4.3,2024
+53-6041,Traffic technicians,0.8,2024
+53-6051,Transportation inspectors,2.5,2024
+53-6061,Passenger attendants,4.1,2024
+53-6099,"Transportation workers, all other",1.2,2024
+53-7000,Material moving workers,1100.1,2024
+53-7011,Conveyor operators and tenders,2.6,2024
+53-7021,Crane and tower operators,3.8,2024
+53-7031,Dredge operators,0.1,2024
+53-7041,Hoist and winch operators,0.3,2024
+53-7051,Industrial truck and tractor operators,76.4,2024
+53-7060,Laborers and material movers,991.4,2024
+53-7061,Cleaners of vehicles and equipment,56.2,2024
+53-7062,"Laborers and freight, stock, and material movers, hand",384.3,2024
+53-7063,Machine feeders and offbearers,4.7,2024
+53-7064,"Packers and packagers, hand",74.0,2024
+53-7065,Stockers and order fillers,472.3,2024
+53-7070,Pumping station operators,4.1,2024
+53-7071,Gas compressor and gas pumping station operators,0.6,2024
+53-7072,"Pump operators, except wellhead pumpers",1.5,2024
+53-7073,Wellhead pumpers,2.0,2024
+53-7081,Refuse and recyclable material collectors,16.9,2024
+53-7121,"Tank car, truck, and ship loaders",1.3,2024
+53-7199,"Material moving workers, all other",3.1,2024

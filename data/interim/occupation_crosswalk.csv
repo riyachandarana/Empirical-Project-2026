@@ -1,0 +1,1027 @@
+aioe_occupation_title,matched_occupation_title,occupation_code,match_score,manual_review
+Chief Executives,Chief Executives,11-1010,1.0,False
+Chief Executives,Chief Executives,11-1011,1.0,False
+General and Operations Managers,General and Operations Managers,11-1020,1.0,False
+General and Operations Managers,General and Operations Managers,11-1021,1.0,False
+Advertising and Promotions Managers,Advertising and Promotions Managers,11-2010,1.0,False
+Advertising and Promotions Managers,Advertising and Promotions Managers,11-2011,1.0,False
+Marketing Managers,Marketing Managers,11-2021,1.0,False
+Sales Managers,Sales Managers,11-2022,1.0,False
+Public Relations Managers,Public Relations Managers,11-2032,1.0,False
+Administrative Services Managers,Administrative Services Managers,11-3012,1.0,False
+Computer and Information Systems Managers,Computer and Information Systems Managers,11-3020,1.0,False
+Computer and Information Systems Managers,Computer and Information Systems Managers,11-3021,1.0,False
+Financial Managers,Financial Managers,11-3030,1.0,False
+Financial Managers,Financial Managers,11-3031,1.0,False
+Industrial Production Managers,Industrial Production Managers,11-3050,1.0,False
+Industrial Production Managers,Industrial Production Managers,11-3051,1.0,False
+Purchasing Managers,Purchasing Managers,11-3060,1.0,False
+Purchasing Managers,Purchasing Managers,11-3061,1.0,False
+"Transportation, Storage, and Distribution Managers","Transportation, Storage, and Distribution Managers",11-3070,1.0,False
+"Transportation, Storage, and Distribution Managers","Transportation, Storage, and Distribution Managers",11-3071,1.0,False
+Compensation and Benefits Managers,Compensation and Benefits Managers,11-3110,1.0,False
+Compensation and Benefits Managers,Compensation and Benefits Managers,11-3111,1.0,False
+Human Resources Managers,Human Resources Managers,11-3120,1.0,False
+Human Resources Managers,Human Resources Managers,11-3121,1.0,False
+Training and Development Managers,Training and Development Managers,11-3130,1.0,False
+Training and Development Managers,Training and Development Managers,11-3131,1.0,False
+"Farmers, Ranchers, and Other Agricultural Managers","Farmers, Ranchers, and Other Agricultural Managers",11-9010,1.0,False
+"Farmers, Ranchers, and Other Agricultural Managers","Farmers, Ranchers, and Other Agricultural Managers",11-9013,1.0,False
+Construction Managers,Construction Managers,11-9020,1.0,False
+Construction Managers,Construction Managers,11-9021,1.0,False
+"Education Administrators, Preschool and Child Care Center/Program","Education and Childcare Administrators, Preschool and Daycare",11-9031,0.6825396825396826,True
+"Education Administrators, Elementary and Secondary School","Education Administrators, Postsecondary",11-9033,0.7291666666666666,True
+"Education Administrators, Postsecondary","Education Administrators, Postsecondary",11-9033,1.0,False
+"Education Administrators, All Other","Education Administrators, All Other",11-9039,1.0,False
+Engineering Managers,Lodging Managers,11-9080,0.7222222222222222,True
+Engineering Managers,Lodging Managers,11-9081,0.7222222222222222,True
+Food Service Managers,Food Service Managers,11-9050,1.0,False
+Food Service Managers,Food Service Managers,11-9051,1.0,False
+Funeral Directors,Art Directors,27-1011,0.7333333333333333,True
+Gaming Managers,Gambling Managers,11-9071,0.9375,False
+Lodging Managers,Lodging Managers,11-9080,1.0,False
+Lodging Managers,Lodging Managers,11-9081,1.0,False
+Medical and Health Services Managers,Medical and Health Services Managers,11-9110,1.0,False
+Medical and Health Services Managers,Medical and Health Services Managers,11-9111,1.0,False
+Natural Sciences Managers,Natural Sciences Managers,11-9120,1.0,False
+Natural Sciences Managers,Natural Sciences Managers,11-9121,1.0,False
+Postmasters and Mail Superintendents,Postmasters and Mail Superintendents,11-9130,1.0,False
+Postmasters and Mail Superintendents,Postmasters and Mail Superintendents,11-9131,1.0,False
+"Property, Real Estate, and Community Association Managers","Property, Real Estate, and Community Association Managers",11-9140,1.0,False
+"Property, Real Estate, and Community Association Managers","Property, Real Estate, and Community Association Managers",11-9141,1.0,False
+Social and Community Service Managers,Social and Community Service Managers,11-9150,1.0,False
+Social and Community Service Managers,Social and Community Service Managers,11-9151,1.0,False
+Emergency Management Directors,Emergency Management Directors,11-9160,1.0,False
+Emergency Management Directors,Emergency Management Directors,11-9161,1.0,False
+"Managers, All Other","Managers, All Other",11-9199,1.0,False
+"Agents and Business Managers of Artists, Performers, and Athletes","Agents and Business Managers of Artists, Performers, and Athletes",13-1010,1.0,False
+"Agents and Business Managers of Artists, Performers, and Athletes","Agents and Business Managers of Artists, Performers, and Athletes",13-1011,1.0,False
+"Purchasing Agents and Buyers, Farm Products","Graders and Sorters, Agricultural Products",45-2040,0.5647058823529412,True
+"Purchasing Agents and Buyers, Farm Products","Graders and Sorters, Agricultural Products",45-2041,0.5647058823529412,True
+"Wholesale and Retail Buyers, Except Farm Products","Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,0.5384615384615384,True
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Dispatchers, Except Police, Fire, and Ambulance",43-5032,0.4954128440366973,True
+"Claims Adjusters, Examiners, and Investigators","Claims Adjusters, Examiners, and Investigators",13-1031,1.0,False
+"Insurance Appraisers, Auto Damage","Insurance Appraisers, Auto Damage",13-1032,1.0,False
+"Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation",Occupational Health and Safety Specialists and Technicians,19-5000,0.4533333333333333,True
+"Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation",Occupational Health and Safety Specialists and Technicians,19-5010,0.4533333333333333,True
+Cost Estimators,Cost Estimators,13-1050,1.0,False
+Cost Estimators,Cost Estimators,13-1051,1.0,False
+"Employment, Recruitment, and Placement Specialists",Project Management Specialists,13-1082,0.625,True
+Farm Labor Contractors,Farm Labor Contractors,13-1074,1.0,False
+Labor Relations Specialists,Labor Relations Specialists,13-1075,1.0,False
+Logisticians,Logisticians,13-1081,1.0,False
+Management Analysts,Management Analysts,13-1110,1.0,False
+Management Analysts,Management Analysts,13-1111,1.0,False
+Meeting and Convention Planners,"Meeting, Convention, and Event Planners",13-1120,0.7714285714285715,False
+Meeting and Convention Planners,"Meeting, Convention, and Event Planners",13-1121,0.7714285714285715,False
+Fundraisers,Fundraisers,13-1130,1.0,False
+Fundraisers,Fundraisers,13-1131,1.0,False
+"Compensation, Benefits, and Job Analysis Specialists","Compensation, Benefits, and Job Analysis Specialists",13-1140,1.0,False
+"Compensation, Benefits, and Job Analysis Specialists","Compensation, Benefits, and Job Analysis Specialists",13-1141,1.0,False
+Training and Development Specialists,Training and Development Specialists,13-1150,1.0,False
+Training and Development Specialists,Training and Development Specialists,13-1151,1.0,False
+Market Research Analysts and Marketing Specialists,Market Research Analysts and Marketing Specialists,13-1160,1.0,False
+Market Research Analysts and Marketing Specialists,Market Research Analysts and Marketing Specialists,13-1161,1.0,False
+"Business Operations Specialists, All Other","Business Operations Specialists, All Other",13-1199,1.0,False
+Accountants and Auditors,Accountants and Auditors,13-2010,1.0,False
+Accountants and Auditors,Accountants and Auditors,13-2011,1.0,False
+Appraisers and Assessors of Real Estate,Property Appraisers and Assessors,13-2020,0.6666666666666666,True
+Budget Analysts,Budget Analysts,13-2030,1.0,False
+Budget Analysts,Budget Analysts,13-2031,1.0,False
+Credit Analysts,Credit Analysts,13-2040,1.0,False
+Credit Analysts,Credit Analysts,13-2041,1.0,False
+Financial Analysts,Financial Specialists,13-2000,0.7692307692307693,False
+Personal Financial Advisors,Personal Financial Advisors,13-2052,1.0,False
+Insurance Underwriters,Insurance Underwriters,13-2053,1.0,False
+Financial Examiners,Financial Examiners,13-2060,1.0,False
+Financial Examiners,Financial Examiners,13-2061,1.0,False
+Loan Counselors,Counselors,21-1010,0.8,False
+Loan Officers,Loan Officers,13-2072,1.0,False
+"Tax Examiners, Collectors, and Revenue Agents","Tax Examiners and Collectors, and Revenue Agents",13-2081,0.946236559139785,False
+Tax Preparers,Tax Preparers,13-2082,1.0,False
+"Financial Specialists, All Other","Financial Specialists, All Other",13-2099,1.0,False
+Computer and Information Research Scientists,Computer and Information Research Scientists,15-1220,1.0,False
+Computer and Information Research Scientists,Computer and Information Research Scientists,15-1221,1.0,False
+Computer Systems Analysts,Computer Systems Analysts,15-1211,1.0,False
+Information Security Analysts,Information Security Analysts,15-1212,1.0,False
+Computer Programmers,Computer Programmers,15-1251,1.0,False
+"Software Developers, Applications",Software Developers,15-1252,0.7307692307692307,True
+"Software Developers, Systems Software",Software Developers,15-1252,0.6785714285714286,True
+Web Developers,Web Developers,15-1254,1.0,False
+Database Administrators,Database Administrators,15-1242,1.0,False
+Network and Computer Systems Administrators,Network and Computer Systems Administrators,15-1244,1.0,False
+Computer Network Architects,Computer Network Architects,15-1241,1.0,False
+Computer User Support Specialists,Computer User Support Specialists,15-1232,1.0,False
+Computer Network Support Specialists,Computer Network Support Specialists,15-1231,1.0,False
+"Computer Occupations, All Other","Computer Occupations, All Other",15-1299,1.0,False
+Actuaries,Actuaries,15-2010,1.0,False
+Actuaries,Actuaries,15-2011,1.0,False
+Mathematicians,Mathematicians,15-2020,1.0,False
+Mathematicians,Mathematicians,15-2021,1.0,False
+Operations Research Analysts,Operations Research Analysts,15-2030,1.0,False
+Operations Research Analysts,Operations Research Analysts,15-2031,1.0,False
+Statisticians,Statisticians,15-2040,1.0,False
+Statisticians,Statisticians,15-2041,1.0,False
+Mathematical Technicians,Chemical Technicians,19-4030,0.8636363636363636,False
+Mathematical Technicians,Chemical Technicians,19-4031,0.8636363636363636,False
+"Architects, Except Landscape and Naval","Architects, Except Landscape and Naval",17-1011,1.0,False
+Landscape Architects,Landscape Architects,17-1012,1.0,False
+Cartographers and Photogrammetrists,Cartographers and Photogrammetrists,17-1021,1.0,False
+Surveyors,Surveyors,17-1022,1.0,False
+Aerospace Engineers,Aerospace Engineers,17-2010,1.0,False
+Aerospace Engineers,Aerospace Engineers,17-2011,1.0,False
+Agricultural Engineers,Agricultural Engineers,17-2020,1.0,False
+Agricultural Engineers,Agricultural Engineers,17-2021,1.0,False
+Biomedical Engineers,Chemical Engineers,17-2040,0.7894736842105263,False
+Biomedical Engineers,Chemical Engineers,17-2041,0.7894736842105263,False
+Chemical Engineers,Chemical Engineers,17-2040,1.0,False
+Chemical Engineers,Chemical Engineers,17-2041,1.0,False
+Civil Engineers,Civil Engineers,17-2050,1.0,False
+Civil Engineers,Civil Engineers,17-2051,1.0,False
+Computer Hardware Engineers,Computer Hardware Engineers,17-2060,1.0,False
+Computer Hardware Engineers,Computer Hardware Engineers,17-2061,1.0,False
+Electrical Engineers,Electrical Engineers,17-2071,1.0,False
+"Electronics Engineers, Except Computer","Electronics Engineers, Except Computer",17-2072,1.0,False
+Environmental Engineers,Environmental Engineers,17-2080,1.0,False
+Environmental Engineers,Environmental Engineers,17-2081,1.0,False
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,1.0,False
+Industrial Engineers,Industrial Engineers,17-2112,1.0,False
+Marine Engineers and Naval Architects,Marine Engineers and Naval Architects,17-2120,1.0,False
+Marine Engineers and Naval Architects,Marine Engineers and Naval Architects,17-2121,1.0,False
+Materials Engineers,Materials Engineers,17-2130,1.0,False
+Materials Engineers,Materials Engineers,17-2131,1.0,False
+Mechanical Engineers,Mechanical Engineers,17-2140,1.0,False
+Mechanical Engineers,Mechanical Engineers,17-2141,1.0,False
+"Mining and Geological Engineers, Including Mining Safety Engineers","Mining and Geological Engineers, Including Mining Safety Engineers",17-2150,1.0,False
+"Mining and Geological Engineers, Including Mining Safety Engineers","Mining and Geological Engineers, Including Mining Safety Engineers",17-2151,1.0,False
+Nuclear Engineers,Nuclear Engineers,17-2160,1.0,False
+Nuclear Engineers,Nuclear Engineers,17-2161,1.0,False
+Petroleum Engineers,Petroleum Engineers,17-2170,1.0,False
+Petroleum Engineers,Petroleum Engineers,17-2171,1.0,False
+"Engineers, All Other","Engineers, All Other",17-2199,1.0,False
+Architectural and Civil Drafters,Architectural and Civil Drafters,17-3011,1.0,False
+Electrical and Electronics Drafters,Electrical and Electronics Drafters,17-3012,1.0,False
+Mechanical Drafters,Mechanical Drafters,17-3013,1.0,False
+Aerospace Engineering and Operations Technicians,Aerospace Engineering and Operations Technologists and Technicians,17-3021,0.8421052631578947,False
+Civil Engineering Technicians,Sound Engineering Technicians,27-4014,0.8275862068965517,False
+Electrical and Electronic Engineering Technicians,Electrical and Electronic Engineering Technologists and Technicians,17-3023,0.8448275862068966,False
+Electro-Mechanical Technicians,Emergency Medical Technicians,29-2042,0.711864406779661,True
+Environmental Engineering Technicians,Environmental Engineering Technologists and Technicians,17-3025,0.8043478260869565,False
+Industrial Engineering Technicians,Sound Engineering Technicians,27-4014,0.8253968253968254,False
+Mechanical Engineering Technicians,Sound Engineering Technicians,27-4014,0.7936507936507936,False
+"Engineering Technicians, Except Drafters, All Other","Engineering Technologists and Technicians, Except Drafters, All Other",17-3029,0.85,False
+Surveying and Mapping Technicians,Surveying and Mapping Technicians,17-3030,1.0,False
+Surveying and Mapping Technicians,Surveying and Mapping Technicians,17-3031,1.0,False
+Animal Scientists,Animal Scientists,19-1011,1.0,False
+Food Scientists and Technologists,Food Scientists and Technologists,19-1012,1.0,False
+Soil and Plant Scientists,Soil and Plant Scientists,19-1013,1.0,False
+Biologists,Sociologists,19-3040,0.8181818181818182,False
+Biologists,Sociologists,19-3041,0.8181818181818182,False
+Biochemists and Biophysicists,Biochemists and Biophysicists,19-1021,1.0,False
+Microbiologists,Microbiologists,19-1022,1.0,False
+Zoologists and Wildlife Biologists,Zoologists and Wildlife Biologists,19-1023,1.0,False
+"Biological Scientists, All Other","Biological Scientists, All Other",19-1029,1.0,False
+Conservation Scientists,Conservation Scientists,19-1031,1.0,False
+Foresters,Foresters,19-1032,1.0,False
+Epidemiologists,Epidemiologists,19-1041,1.0,False
+"Medical Scientists, Except Epidemiologists","Medical Scientists, Except Epidemiologists",19-1042,1.0,False
+Astronomers,Astronomers,19-2011,1.0,False
+Physicists,Physicists,19-2012,1.0,False
+Atmospheric and Space Scientists,Atmospheric and Space Scientists,19-2020,1.0,False
+Atmospheric and Space Scientists,Atmospheric and Space Scientists,19-2021,1.0,False
+Chemists,Chemists,19-2031,1.0,False
+Materials Scientists,Materials Scientists,19-2032,1.0,False
+"Environmental Scientists and Specialists, Including Health","Environmental Scientists and Specialists, Including Health",19-2041,1.0,False
+"Geoscientists, Except Hydrologists and Geographers","Geoscientists, Except Hydrologists and Geographers",19-2042,1.0,False
+Hydrologists,Hydrologists,19-2043,1.0,False
+"Physical Scientists, All Other","Physical Scientists, All Other",19-2099,1.0,False
+Economists,Economists,19-3010,1.0,False
+Economists,Economists,19-3011,1.0,False
+Survey Researchers,Survey Researchers,19-3020,1.0,False
+Survey Researchers,Survey Researchers,19-3022,1.0,False
+"Clinical, Counseling, and School Psychologists",Clinical and Counseling Psychologists,19-3033,0.7951807228915663,False
+Industrial-Organizational Psychologists,Industrial-Organizational Psychologists,19-3032,1.0,False
+"Psychologists, All Other","Psychologists, All Other",19-3039,1.0,False
+Sociologists,Sociologists,19-3040,1.0,False
+Sociologists,Sociologists,19-3041,1.0,False
+Urban and Regional Planners,Urban and Regional Planners,19-3050,1.0,False
+Urban and Regional Planners,Urban and Regional Planners,19-3051,1.0,False
+Anthropologists and Archeologists,Anthropologists and Archeologists,19-3091,1.0,False
+Geographers,Geographers,19-3092,1.0,False
+Historians,Historians,19-3093,1.0,False
+Political Scientists,Political Scientists,19-3094,1.0,False
+"Social Scientists and Related Workers, All Other","Social Scientists and Related Workers, All Other",19-3099,1.0,False
+Agricultural and Food Science Technicians,Agricultural and Food Science Technicians,19-4010,1.0,False
+Biological Technicians,Biological Technicians,19-4020,1.0,False
+Biological Technicians,Biological Technicians,19-4021,1.0,False
+Chemical Technicians,Chemical Technicians,19-4030,1.0,False
+Chemical Technicians,Chemical Technicians,19-4031,1.0,False
+Geological and Petroleum Technicians,Biological Technicians,19-4020,0.6896551724137931,True
+Geological and Petroleum Technicians,Biological Technicians,19-4021,0.6896551724137931,True
+Nuclear Technicians,Nuclear Technicians,19-4050,1.0,False
+Nuclear Technicians,Nuclear Technicians,19-4051,1.0,False
+Social Science Research Assistants,Social Science Research Assistants,19-4060,1.0,False
+Social Science Research Assistants,Social Science Research Assistants,19-4061,1.0,False
+"Environmental Science and Protection Technicians, Including Health","Environmental Science and Protection Technicians, Including Health",19-4042,1.0,False
+Forensic Science Technicians,Forensic Science Technicians,19-4092,1.0,False
+Forest and Conservation Technicians,Forest and Conservation Technicians,19-4070,1.0,False
+Forest and Conservation Technicians,Forest and Conservation Technicians,19-4071,1.0,False
+"Life, Physical, and Social Science Technicians, All Other","Life, Physical, and Social Science Technicians, All Other",19-4099,1.0,False
+Substance Abuse and Behavioral Disorder Counselors,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",21-1018,0.7931034482758621,False
+"Educational, Vocational, and School Counselors","Educational, Guidance, and Career Counselors and Advisors",21-1012,0.6019417475728155,True
+Marriage and Family Therapists,Marriage and Family Therapists,21-1013,1.0,False
+Mental Health Counselors,Genetic Counselors,29-9092,0.6666666666666666,True
+Rehabilitation Counselors,Rehabilitation Counselors,21-1015,1.0,False
+"Child, Family, and School Social Workers","Child, Family, and School Social Workers",21-1021,1.0,False
+Medical and Public Health Social Workers,Media and Communication Workers,27-3000,0.676056338028169,True
+Mental Health and Substance Abuse Social Workers,Mental Health and Substance Abuse Social Workers,21-1023,1.0,False
+Health Educators,Health Education Specialists,21-1091,0.6818181818181818,True
+Probation Officers and Correctional Treatment Specialists,Probation Officers and Correctional Treatment Specialists,21-1092,1.0,False
+Social and Human Service Assistants,Social and Human Service Assistants,21-1093,1.0,False
+Community Health Workers,Community Health Workers,21-1094,1.0,False
+Clergy,Clergy,21-2010,1.0,False
+Clergy,Clergy,21-2011,1.0,False
+"Directors, Religious Activities and Education","Directors, Religious Activities and Education",21-2020,1.0,False
+"Directors, Religious Activities and Education","Directors, Religious Activities and Education",21-2021,1.0,False
+Lawyers,Lawyers,23-1011,1.0,False
+Judicial Law Clerks,Judicial Law Clerks,23-1012,1.0,False
+"Administrative Law Judges, Adjudicators, and Hearing Officers","Administrative Law Judges, Adjudicators, and Hearing Officers",23-1021,1.0,False
+"Arbitrators, Mediators, and Conciliators","Arbitrators, Mediators, and Conciliators",23-1022,1.0,False
+"Judges, Magistrate Judges, and Magistrates","Judges, Magistrate Judges, and Magistrates",23-1023,1.0,False
+Paralegals and Legal Assistants,Paralegals and Legal Assistants,23-2010,1.0,False
+Paralegals and Legal Assistants,Paralegals and Legal Assistants,23-2011,1.0,False
+Court Reporters,Curators,25-4012,0.6086956521739131,True
+"Title Examiners, Abstractors, and Searchers","Title Examiners, Abstractors, and Searchers",23-2093,1.0,False
+"Business Teachers, Postsecondary","Business Teachers, Postsecondary",25-1010,1.0,False
+"Business Teachers, Postsecondary","Business Teachers, Postsecondary",25-1011,1.0,False
+"Computer Science Teachers, Postsecondary","Computer Science Teachers, Postsecondary",25-1021,1.0,False
+"Mathematical Science Teachers, Postsecondary","Mathematical Science Teachers, Postsecondary",25-1022,1.0,False
+"Architecture Teachers, Postsecondary","Architecture Teachers, Postsecondary",25-1031,1.0,False
+"Engineering Teachers, Postsecondary","Engineering Teachers, Postsecondary",25-1032,1.0,False
+"Agricultural Sciences Teachers, Postsecondary","Agricultural Sciences Teachers, Postsecondary",25-1041,1.0,False
+"Biological Science Teachers, Postsecondary","Biological Science Teachers, Postsecondary",25-1042,1.0,False
+"Forestry and Conservation Science Teachers, Postsecondary","Forestry and Conservation Science Teachers, Postsecondary",25-1043,1.0,False
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",25-1051,1.0,False
+"Chemistry Teachers, Postsecondary","Chemistry Teachers, Postsecondary",25-1052,1.0,False
+"Environmental Science Teachers, Postsecondary","Environmental Science Teachers, Postsecondary",25-1053,1.0,False
+"Physics Teachers, Postsecondary","Physics Teachers, Postsecondary",25-1054,1.0,False
+"Anthropology and Archeology Teachers, Postsecondary","Anthropology and Archeology Teachers, Postsecondary",25-1061,1.0,False
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Area, Ethnic, and Cultural Studies Teachers, Postsecondary",25-1062,1.0,False
+"Economics Teachers, Postsecondary","Economics Teachers, Postsecondary",25-1063,1.0,False
+"Geography Teachers, Postsecondary","Geography Teachers, Postsecondary",25-1064,1.0,False
+"Political Science Teachers, Postsecondary","Political Science Teachers, Postsecondary",25-1065,1.0,False
+"Psychology Teachers, Postsecondary","Psychology Teachers, Postsecondary",25-1066,1.0,False
+"Sociology Teachers, Postsecondary","Sociology Teachers, Postsecondary",25-1067,1.0,False
+"Health Specialties Teachers, Postsecondary","Health Specialties Teachers, Postsecondary",25-1071,1.0,False
+"Nursing Instructors and Teachers, Postsecondary","Nursing Instructors and Teachers, Postsecondary",25-1072,1.0,False
+"Education Teachers, Postsecondary","Education Teachers, Postsecondary",25-1081,1.0,False
+"Library Science Teachers, Postsecondary","Library Science Teachers, Postsecondary",25-1082,1.0,False
+"Criminal Justice and Law Enforcement Teachers, Postsecondary","Criminal Justice and Law Enforcement Teachers, Postsecondary",25-1111,1.0,False
+"Law Teachers, Postsecondary","Law Teachers, Postsecondary",25-1112,1.0,False
+"Social Work Teachers, Postsecondary","Social Work Teachers, Postsecondary",25-1113,1.0,False
+"Art, Drama, and Music Teachers, Postsecondary","Art, Drama, and Music Teachers, Postsecondary",25-1121,1.0,False
+"Communications Teachers, Postsecondary","Communications Teachers, Postsecondary",25-1122,1.0,False
+"English Language and Literature Teachers, Postsecondary","English Language and Literature Teachers, Postsecondary",25-1123,1.0,False
+"Foreign Language and Literature Teachers, Postsecondary","Foreign Language and Literature Teachers, Postsecondary",25-1124,1.0,False
+"History Teachers, Postsecondary","History Teachers, Postsecondary",25-1125,1.0,False
+"Philosophy and Religion Teachers, Postsecondary","Philosophy and Religion Teachers, Postsecondary",25-1126,1.0,False
+Graduate Teaching Assistants,Teaching Assistants,25-9040,0.8085106382978723,False
+"Home Economics Teachers, Postsecondary","Economics Teachers, Postsecondary",25-1063,0.9295774647887324,False
+"Recreation and Fitness Studies Teachers, Postsecondary","Recreation and Fitness Studies Teachers, Postsecondary",25-1193,1.0,False
+"Vocational Education Teachers, Postsecondary","Education Teachers, Postsecondary",25-1081,0.8571428571428571,False
+"Preschool Teachers, Except Special Education","Preschool Teachers, Except Special Education",25-2011,1.0,False
+"Kindergarten Teachers, Except Special Education","Kindergarten Teachers, Except Special Education",25-2012,1.0,False
+"Elementary School Teachers, Except Special Education","Elementary School Teachers, Except Special Education",25-2021,1.0,False
+"Middle School Teachers, Except Special and Vocational Education","Middle School Teachers, Except Special and Career/Technical Education",25-2022,0.8636363636363636,False
+"Vocational Education Teachers, Middle School","Special Education Teachers, Middle School",25-2057,0.8941176470588236,False
+"Secondary School Teachers, Except Special and Vocational Education","Secondary School Teachers, Except Special and Career/Technical Education",25-2031,0.8695652173913043,False
+"Vocational Education Teachers, Secondary School","Special Education Teachers, Secondary School",25-2058,0.9010989010989011,False
+"Special Education Teachers, Preschool","Special Education Teachers, Preschool",25-2051,1.0,False
+"Special Education Teachers, Kindergarten and Elementary School","Special Education Teachers, Kindergarten and Elementary School",25-2052,1.0,False
+"Special Education Teachers, Middle School","Special Education Teachers, Middle School",25-2057,1.0,False
+"Special Education Teachers, Secondary School","Special Education Teachers, Secondary School",25-2058,1.0,False
+"Special Education Teachers, All Other","Special Education Teachers, All Other",25-2059,1.0,False
+"Adult Literacy, Remedial Education, and GED Teachers and Instructors",Miscellaneous Teachers and Instructors,25-3090,0.5471698113207547,True
+Self-Enrichment Education Teachers,Self-Enrichment Teachers,25-3020,0.8275862068965517,False
+Self-Enrichment Education Teachers,Self-Enrichment Teachers,25-3021,0.8275862068965517,False
+"Teachers and Instructors, All Other","Teachers and Instructors, All Other",25-3099,1.0,False
+Archivists,Archivists,25-4011,1.0,False
+Curators,Curators,25-4012,1.0,False
+Museum Technicians and Conservators,Museum Technicians and Conservators,25-4013,1.0,False
+Librarians,Library Technicians,25-4030,0.6896551724137931,True
+Librarians,Library Technicians,25-4031,0.6896551724137931,True
+Library Technicians,Library Technicians,25-4030,1.0,False
+Library Technicians,Library Technicians,25-4031,1.0,False
+Audio-Visual Collections Specialists,Librarians and Media Collections Specialists,25-4020,0.675,True
+Audio-Visual Collections Specialists,Librarians and Media Collections Specialists,25-4022,0.675,True
+Farm and Home Management Advisors,Farm and Home Management Educators,25-9020,0.8656716417910447,False
+Farm and Home Management Advisors,Farm and Home Management Educators,25-9021,0.8656716417910447,False
+Instructional Coordinators,Instructional Coordinators,25-9030,1.0,False
+Instructional Coordinators,Instructional Coordinators,25-9031,1.0,False
+Teacher Assistants,Teaching Assistants,25-9040,0.8648648648648649,False
+Art Directors,Art Directors,27-1011,1.0,False
+Craft Artists,Craft Artists,27-1012,1.0,False
+"Fine Artists, Including Painters, Sculptors, and Illustrators","Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013,1.0,False
+Multi-Media Artists and Animators,Special Effects Artists and Animators,27-1014,0.7142857142857143,True
+Commercial and Industrial Designers,Commercial and Industrial Designers,27-1021,1.0,False
+Fashion Designers,Fashion Designers,27-1022,1.0,False
+Floral Designers,Floral Designers,27-1023,1.0,False
+Graphic Designers,Graphic Designers,27-1024,1.0,False
+Interior Designers,Interior Designers,27-1025,1.0,False
+Merchandise Displayers and Window Trimmers,Merchandise Displayers and Window Trimmers,27-1026,1.0,False
+Set and Exhibit Designers,Set and Exhibit Designers,27-1027,1.0,False
+Actors,Actors,27-2011,1.0,False
+Producers and Directors,Producers and Directors,27-2012,1.0,False
+Athletes and Sports Competitors,Athletes and Sports Competitors,27-2021,1.0,False
+Coaches and Scouts,Coaches and Scouts,27-2022,1.0,False
+"Umpires, Referees, and Other Sports Officials","Umpires, Referees, and Other Sports Officials",27-2023,1.0,False
+Dancers,Dancers,27-2031,1.0,False
+Choreographers,Choreographers,27-2032,1.0,False
+Music Directors and Composers,Music Directors and Composers,27-2041,1.0,False
+Musicians and Singers,Musicians and Singers,27-2042,1.0,False
+Radio and Television Announcers,Urban and Regional Planners,19-3050,0.5517241379310345,True
+Radio and Television Announcers,Urban and Regional Planners,19-3051,0.5517241379310345,True
+Public Address System and Other Announcers,"Judges, Magistrates, and Other Judicial Workers",23-1020,0.5168539325842697,True
+Broadcast News Analysts,Broadcast Technicians,27-4012,0.5454545454545454,True
+Reporters and Correspondents,Court Reporters and Simultaneous Captioners,27-3092,0.5633802816901409,True
+Public Relations Specialists,Public Relations Specialists,27-3030,1.0,False
+Public Relations Specialists,Public Relations Specialists,27-3031,1.0,False
+Editors,Editors,27-3041,1.0,False
+Technical Writers,Technical Writers,27-3042,1.0,False
+Writers and Authors,Writers and Authors,27-3043,1.0,False
+Interpreters and Translators,Interpreters and Translators,27-3091,1.0,False
+Audio and Video Equipment Technicians,Audio and Video Technicians,27-4011,0.84375,False
+Broadcast Technicians,Broadcast Technicians,27-4012,1.0,False
+Radio Operators,Dredge Operators,53-7030,0.7096774193548387,True
+Radio Operators,Dredge Operators,53-7031,0.7096774193548387,True
+Sound Engineering Technicians,Sound Engineering Technicians,27-4014,1.0,False
+Photographers,Photographers,27-4020,1.0,False
+Photographers,Photographers,27-4021,1.0,False
+"Camera Operators, Television, Video, and Motion Picture","Camera Operators, Television, Video, and Film",27-4031,0.84,False
+Film and Video Editors,Film and Video Editors,27-4032,1.0,False
+Chiropractors,Chiropractors,29-1010,1.0,False
+Chiropractors,Chiropractors,29-1011,1.0,False
+"Dentists, General","Dentists, General",29-1021,1.0,False
+Oral and Maxillofacial Surgeons,Oral and Maxillofacial Surgeons,29-1022,1.0,False
+Orthodontists,Orthodontists,29-1023,1.0,False
+Prosthodontists,Prosthodontists,29-1024,1.0,False
+Dietitians and Nutritionists,Dietitians and Nutritionists,29-1030,1.0,False
+Dietitians and Nutritionists,Dietitians and Nutritionists,29-1031,1.0,False
+Optometrists,Optometrists,29-1040,1.0,False
+Optometrists,Optometrists,29-1041,1.0,False
+Pharmacists,Pharmacists,29-1050,1.0,False
+Pharmacists,Pharmacists,29-1051,1.0,False
+Anesthesiologists,Anesthesiologists,29-1211,1.0,False
+Family and General Practitioners,Fabric and Apparel Patternmakers,51-6092,0.53125,True
+"Internists, General","Dentists, General",29-1021,0.8333333333333334,False
+Obstetricians and Gynecologists,Obstetricians and Gynecologists,29-1218,1.0,False
+"Pediatricians, General","Pediatricians, General",29-1221,1.0,False
+Psychiatrists,Psychiatrists,29-1223,1.0,False
+Surgeons,Surgeons,29-1240,1.0,False
+"Physicians and Surgeons, All Other","Physicians, All Other",29-1229,0.7636363636363637,False
+Physician Assistants,Physician Assistants,29-1070,1.0,False
+Physician Assistants,Physician Assistants,29-1071,1.0,False
+Podiatrists,Podiatrists,29-1080,1.0,False
+Podiatrists,Podiatrists,29-1081,1.0,False
+Occupational Therapists,Occupational Therapists,29-1122,1.0,False
+Physical Therapists,Physical Therapists,29-1123,1.0,False
+Radiation Therapists,Radiation Therapists,29-1124,1.0,False
+Recreational Therapists,Recreational Therapists,29-1125,1.0,False
+Respiratory Therapists,Respiratory Therapists,29-1126,1.0,False
+Speech-Language Pathologists,Speech-Language Pathologists,29-1127,1.0,False
+Exercise Physiologists,Exercise Physiologists,29-1128,1.0,False
+Veterinarians,Veterinarians,29-1130,1.0,False
+Veterinarians,Veterinarians,29-1131,1.0,False
+Registered Nurses,Registered Nurses,29-1140,1.0,False
+Registered Nurses,Registered Nurses,29-1141,1.0,False
+Nurse Anesthetists,Nurse Anesthetists,29-1150,1.0,False
+Nurse Anesthetists,Nurse Anesthetists,29-1151,1.0,False
+Nurse Midwives,Nurse Midwives,29-1160,1.0,False
+Nurse Midwives,Nurse Midwives,29-1161,1.0,False
+Nurse Practitioners,Nurse Practitioners,29-1170,1.0,False
+Nurse Practitioners,Nurse Practitioners,29-1171,1.0,False
+Audiologists,Audiologists,29-1180,1.0,False
+Audiologists,Audiologists,29-1181,1.0,False
+"Health Diagnosing and Treating Practitioners, All Other","Healthcare Diagnosing or Treating Practitioners, All Other",29-1299,0.9203539823008849,False
+Medical and Clinical Laboratory Technologists,Clinical Laboratory Technologists and Technicians,29-2010,0.7021276595744681,True
+Medical and Clinical Laboratory Technicians,Dental Laboratory Technicians,51-9081,0.75,False
+Dental Hygienists,Dental Hygienists,29-1292,1.0,False
+Cardiovascular Technologists and Technicians,Cardiovascular Technologists and Technicians,29-2031,1.0,False
+Diagnostic Medical Sonographers,Diagnostic Medical Sonographers,29-2032,1.0,False
+Nuclear Medicine Technologists,Nuclear Medicine Technologists,29-2033,1.0,False
+Radiologic Technologists and Technicians,Radiologic Technologists and Technicians,29-2034,1.0,False
+Magnetic Resonance Imaging Technologists,Magnetic Resonance Imaging Technologists,29-2035,1.0,False
+Emergency Medical Technicians and Paramedics,Emergency Medical Technicians and Paramedics,29-2040,1.0,False
+Dietetic Technicians,Dietetic Technicians,29-2051,1.0,False
+Pharmacy Technicians,Pharmacy Technicians,29-2052,1.0,False
+Psychiatric Technicians,Psychiatric Technicians,29-2053,1.0,False
+Respiratory Therapy Technicians,Respiratory Therapists,29-1126,0.7547169811320755,False
+Surgical Technologists,Surgical Technologists,29-2055,1.0,False
+Veterinary Technologists and Technicians,Veterinary Technologists and Technicians,29-2056,1.0,False
+Ophthalmic Medical Technicians,Ophthalmic Medical Technicians,29-2057,1.0,False
+Licensed Practical and Licensed Vocational Nurses,Licensed Practical and Licensed Vocational Nurses,29-2060,1.0,False
+Licensed Practical and Licensed Vocational Nurses,Licensed Practical and Licensed Vocational Nurses,29-2061,1.0,False
+Medical Records and Health Information Technicians,Forest and Conservation Technicians,19-4070,0.6352941176470588,True
+Medical Records and Health Information Technicians,Forest and Conservation Technicians,19-4071,0.6352941176470588,True
+"Opticians, Dispensing","Opticians, Dispensing",29-2080,1.0,False
+"Opticians, Dispensing","Opticians, Dispensing",29-2081,1.0,False
+Orthotists and Prosthetists,Orthotists and Prosthetists,29-2091,1.0,False
+Hearing Aid Specialists,Hearing Aid Specialists,29-2092,1.0,False
+"Health Technologists and Technicians, All Other","Health Technologists and Technicians, All Other",29-2099,1.0,False
+Occupational Health and Safety Specialists,Occupational Health and Safety Specialists,19-5011,1.0,False
+Occupational Health and Safety Technicians,Occupational Health and Safety Technicians,19-5012,1.0,False
+Athletic Trainers,Athletic Trainers,29-9091,1.0,False
+Genetic Counselors,Genetic Counselors,29-9092,1.0,False
+"Healthcare Practitioners and Technical Workers, All Other","Healthcare Practitioners and Technical Workers, All Other",29-9099,1.0,False
+Home Health Aides,Home Health and Personal Care Aides,31-1120,0.6538461538461539,True
+Psychiatric Aides,Psychiatric Aides,31-1133,1.0,False
+Nursing Assistants,Nursing Assistants,31-1131,1.0,False
+Orderlies,Orderlies,31-1132,1.0,False
+Occupational Therapist Assistants,Occupational Therapy Assistants,31-2011,0.9375,False
+Occupational Therapist Aides,Occupational Therapy Aides,31-2012,0.9259259259259259,False
+Physical Therapist Assistants,Physical Therapist Assistants,31-2021,1.0,False
+Physical Therapist Aides,Physical Therapist Aides,31-2022,1.0,False
+Massage Therapists,Massage Therapists,31-9010,1.0,False
+Massage Therapists,Massage Therapists,31-9011,1.0,False
+Dental Assistants,Dental Assistants,31-9091,1.0,False
+Medical Assistants,Medical Assistants,31-9092,1.0,False
+Medical Equipment Preparers,Medical Equipment Preparers,31-9093,1.0,False
+Medical Transcriptionists,Medical Transcriptionists,31-9094,1.0,False
+Pharmacy Aides,Pharmacy Aides,31-9095,1.0,False
+Veterinary Assistants and Laboratory Animal Caretakers,Veterinary Assistants and Laboratory Animal Caretakers,31-9096,1.0,False
+Phlebotomists,Phlebotomists,31-9097,1.0,False
+"Healthcare Support Workers, All Other","Healthcare Support Workers, All Other",31-9099,1.0,False
+First-Line Supervisors/Managers of Correctional Officers,First-Line Supervisors of Correctional Officers,33-1011,0.912621359223301,False
+First-Line Supervisors/Managers of Police and Detectives,First-Line Supervisors of Police and Detectives,33-1012,0.912621359223301,False
+First-Line Supervisors/Managers of Fire Fighting and Prevention Workers,First-Line Supervisors of Firefighting and Prevention Workers,33-1020,0.9090909090909091,False
+First-Line Supervisors/Managers of Fire Fighting and Prevention Workers,First-Line Supervisors of Firefighting and Prevention Workers,33-1021,0.9090909090909091,False
+Fire Fighters,Firefighters,33-2010,0.88,False
+Fire Fighters,Firefighters,33-2011,0.88,False
+Fire Inspectors and Investigators,Fire Inspectors and Investigators,33-2021,1.0,False
+Forest Fire Inspectors and Prevention Specialists,Forest Fire Inspectors and Prevention Specialists,33-2022,1.0,False
+Bailiffs,Bailiffs,33-3011,1.0,False
+Correctional Officers and Jailers,Correctional Officers and Jailers,33-3012,1.0,False
+Detectives and Criminal Investigators,Detectives and Criminal Investigators,33-3020,1.0,False
+Detectives and Criminal Investigators,Detectives and Criminal Investigators,33-3021,1.0,False
+Fish and Game Wardens,Fish and Game Wardens,33-3030,1.0,False
+Fish and Game Wardens,Fish and Game Wardens,33-3031,1.0,False
+Parking Enforcement Workers,Parking Enforcement Workers,33-3040,1.0,False
+Parking Enforcement Workers,Parking Enforcement Workers,33-3041,1.0,False
+Police and Sheriff's Patrol Officers,Police and Sheriff's Patrol Officers,33-3051,1.0,False
+Transit and Railroad Police,Transit and Railroad Police,33-3052,1.0,False
+Animal Control Workers,Animal Control Workers,33-9010,1.0,False
+Animal Control Workers,Animal Control Workers,33-9011,1.0,False
+Private Detectives and Investigators,Private Detectives and Investigators,33-9020,1.0,False
+Private Detectives and Investigators,Private Detectives and Investigators,33-9021,1.0,False
+Gaming Surveillance Officers and Gaming Investigators,Gambling Surveillance Officers and Gambling Investigators,33-9031,0.9636363636363636,False
+Security Guards,Security Guards,33-9032,1.0,False
+Crossing Guards,Crossing Guards and Flaggers,33-9091,0.6976744186046512,True
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",33-9092,1.0,False
+Transportation Security Screeners,Transportation Security Screeners,33-9093,1.0,False
+"Protective Service Workers, All Other","Protective Service Workers, All Other",33-9099,1.0,False
+Chefs and Head Cooks,Chefs and Head Cooks,35-1011,1.0,False
+First-Line Supervisors/Managers of Food Preparation and Serving Workers,First-Line Supervisors of Food Preparation and Serving Workers,35-1012,0.9323308270676691,False
+"Cooks, Fast Food","Cooks, Fast Food",35-2011,1.0,False
+"Cooks, Institution and Cafeteria","Cooks, Institution and Cafeteria",35-2012,1.0,False
+"Cooks, Private Household","Cooks, Private Household",35-2013,1.0,False
+"Cooks, Restaurant","Cooks, Restaurant",35-2014,1.0,False
+"Cooks, Short Order","Cooks, Short Order",35-2015,1.0,False
+Food Preparation Workers,Food Preparation Workers,35-2020,1.0,False
+Food Preparation Workers,Food Preparation Workers,35-2021,1.0,False
+Bartenders,Bartenders,35-3010,1.0,False
+Bartenders,Bartenders,35-3011,1.0,False
+"Combined Food Preparation and Serving Workers, Including Fast Food","Food Preparation and Serving Related Workers, All Other",35-9099,0.6776859504132231,True
+"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9030,0.35294117647058826,True
+"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031,0.35294117647058826,True
+Waiters and Waitresses,Waiters and Waitresses,35-3030,1.0,False
+Waiters and Waitresses,Waiters and Waitresses,35-3031,1.0,False
+"Food Servers, Nonrestaurant","Food Servers, Nonrestaurant",35-3040,1.0,False
+"Food Servers, Nonrestaurant","Food Servers, Nonrestaurant",35-3041,1.0,False
+Dining Room and Cafeteria Attendants and Bartender Helpers,Dining Room and Cafeteria Attendants and Bartender Helpers,35-9010,1.0,False
+Dining Room and Cafeteria Attendants and Bartender Helpers,Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011,1.0,False
+Dishwashers,Dishwashers,35-9020,1.0,False
+Dishwashers,Dishwashers,35-9021,1.0,False
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9030,1.0,False
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031,1.0,False
+First-Line Supervisors/Managers of Housekeeping and Janitorial Workers,First-Line Supervisors of Housekeeping and Janitorial Workers,37-1011,0.9312977099236641,False
+"First-Line Supervisors/Managers of Landscaping, Lawn Service, and Groundskeeping Workers","First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",37-1012,0.9461077844311377,False
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,1.0,False
+Maids and Housekeeping Cleaners,Maids and Housekeeping Cleaners,37-2012,1.0,False
+Pest Control Workers,Pest Control Workers,37-2020,1.0,False
+Pest Control Workers,Pest Control Workers,37-2021,1.0,False
+Landscaping and Groundskeeping Workers,Landscaping and Groundskeeping Workers,37-3011,1.0,False
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Pesticide Handlers, Sprayers, and Applicators, Vegetation",37-3012,1.0,False
+Tree Trimmers and Pruners,Tree Trimmers and Pruners,37-3013,1.0,False
+Gaming Supervisors,Gambling Services Workers,39-3010,0.7441860465116279,True
+Slot Key Persons,Stonemasons,47-2022,0.5185185185185185,True
+First-Line Supervisors/Managers of Personal Service Workers,First-Line Supervisors of Personal Service Workers,39-1020,0.9174311926605505,False
+First-Line Supervisors/Managers of Personal Service Workers,First-Line Supervisors of Personal Service Workers,39-1022,0.9174311926605505,False
+Animal Trainers,Animal Trainers,39-2010,1.0,False
+Animal Trainers,Animal Trainers,39-2011,1.0,False
+Nonfarm Animal Caretakers,Animal Caretakers,39-2020,0.8095238095238095,False
+Nonfarm Animal Caretakers,Animal Caretakers,39-2021,0.8095238095238095,False
+Gaming Dealers,Gambling Dealers,39-3011,0.9333333333333333,False
+Gaming and Sports Book Writers and Runners,Gambling and Sports Book Writers and Runners,39-3012,0.9767441860465116,False
+Motion Picture Projectionists,Motion Picture Projectionists,39-3020,1.0,False
+Motion Picture Projectionists,Motion Picture Projectionists,39-3021,1.0,False
+"Ushers, Lobby Attendants, and Ticket Takers","Ushers, Lobby Attendants, and Ticket Takers",39-3030,1.0,False
+"Ushers, Lobby Attendants, and Ticket Takers","Ushers, Lobby Attendants, and Ticket Takers",39-3031,1.0,False
+Amusement and Recreation Attendants,Amusement and Recreation Attendants,39-3091,1.0,False
+Costume Attendants,Costume Attendants,39-3092,1.0,False
+"Locker Room, Coatroom, and Dressing Room Attendants","Locker Room, Coatroom, and Dressing Room Attendants",39-3093,1.0,False
+Embalmers,Embalmers,39-4011,1.0,False
+Funeral Attendants,Funeral Attendants,39-4020,1.0,False
+Funeral Attendants,Funeral Attendants,39-4021,1.0,False
+"Morticians, Undertakers, and Funeral Directors","Morticians, Undertakers, and Funeral Arrangers",39-4030,0.8913043478260869,False
+"Morticians, Undertakers, and Funeral Directors","Morticians, Undertakers, and Funeral Arrangers",39-4031,0.8913043478260869,False
+Barbers,Barbers,39-5011,1.0,False
+"Hairdressers, Hairstylists, and Cosmetologists","Hairdressers, Hairstylists, and Cosmetologists",39-5012,1.0,False
+"Makeup Artists, Theatrical and Performance","Makeup Artists, Theatrical and Performance",39-5091,1.0,False
+Manicurists and Pedicurists,Manicurists and Pedicurists,39-5092,1.0,False
+Shampooers,Shampooers,39-5093,1.0,False
+Skin Care Specialists,Skincare Specialists,39-5094,0.926829268292683,False
+Baggage Porters and Bellhops,Baggage Porters and Bellhops,39-6011,1.0,False
+Concierges,Concierges,39-6012,1.0,False
+Tour Guides and Escorts,Writers and Editors,27-3040,0.6190476190476191,True
+Travel Guides,Tour and Travel Guides,39-7000,0.7428571428571429,True
+Travel Guides,Tour and Travel Guides,39-7010,0.7428571428571429,True
+Child Care Workers,Childcare Workers,39-9010,0.9142857142857143,False
+Child Care Workers,Childcare Workers,39-9011,0.9142857142857143,False
+Personal and Home Care Aides,Home Health and Personal Care Aides,31-1120,0.6031746031746031,True
+Fitness Trainers and Aerobics Instructors,Exercise Trainers and Group Fitness Instructors,39-9031,0.7272727272727273,True
+Recreation Workers,Recreation Workers,39-9032,1.0,False
+Residential Advisors,Residential Advisors,39-9040,1.0,False
+Residential Advisors,Residential Advisors,39-9041,1.0,False
+First-Line Supervisors/Managers of Retail Sales Workers,First-Line Supervisors of Retail Sales Workers,41-1011,0.9108910891089109,False
+First-Line Supervisors/Managers of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,41-1012,0.9174311926605505,False
+Cashiers,Cashiers,41-2010,1.0,False
+Cashiers,Cashiers,41-2011,1.0,False
+Gaming Change Persons and Booth Cashiers,Gambling Change Persons and Booth Cashiers,41-2012,0.975609756097561,False
+Counter and Rental Clerks,Counter and Rental Clerks,41-2021,1.0,False
+Parts Salespersons,Parts Salespersons,41-2022,1.0,False
+Retail Salespersons,Retail Salespersons,41-2030,1.0,False
+Retail Salespersons,Retail Salespersons,41-2031,1.0,False
+Advertising Sales Agents,Advertising Sales Agents,41-3010,1.0,False
+Advertising Sales Agents,Advertising Sales Agents,41-3011,1.0,False
+Insurance Sales Agents,Insurance Sales Agents,41-3020,1.0,False
+Insurance Sales Agents,Insurance Sales Agents,41-3021,1.0,False
+"Securities, Commodities, and Financial Services Sales Agents","Securities, Commodities, and Financial Services Sales Agents",41-3030,1.0,False
+"Securities, Commodities, and Financial Services Sales Agents","Securities, Commodities, and Financial Services Sales Agents",41-3031,1.0,False
+Travel Agents,Travel Agents,41-3040,1.0,False
+Travel Agents,Travel Agents,41-3041,1.0,False
+"Sales Representatives, Services, All Other","Sales Representatives, Services",41-3000,0.8493150684931506,False
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011,1.0,False
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41-4012,1.0,False
+Demonstrators and Product Promoters,Demonstrators and Product Promoters,41-9011,1.0,False
+Models,Models,41-9012,1.0,False
+Real Estate Brokers,Real Estate Brokers,41-9021,1.0,False
+Real Estate Sales Agents,Real Estate Sales Agents,41-9022,1.0,False
+Sales Engineers,Sales Engineers,41-9030,1.0,False
+Sales Engineers,Sales Engineers,41-9031,1.0,False
+Telemarketers,Telemarketers,41-9040,1.0,False
+Telemarketers,Telemarketers,41-9041,1.0,False
+"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers","Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",41-9091,0.9861111111111112,False
+First-Line Supervisors/Managers of Office and Administrative Support Workers,First-Line Supervisors of Office and Administrative Support Workers,43-1010,0.9370629370629371,False
+First-Line Supervisors/Managers of Office and Administrative Support Workers,First-Line Supervisors of Office and Administrative Support Workers,43-1011,0.9370629370629371,False
+"Switchboard Operators, Including Answering Service","Switchboard Operators, Including Answering Service",43-2010,1.0,False
+"Switchboard Operators, Including Answering Service","Switchboard Operators, Including Answering Service",43-2011,1.0,False
+Telephone Operators,Telephone Operators,43-2020,1.0,False
+Telephone Operators,Telephone Operators,43-2021,1.0,False
+Bill and Account Collectors,Bill and Account Collectors,43-3010,1.0,False
+Bill and Account Collectors,Bill and Account Collectors,43-3011,1.0,False
+Billing and Posting Clerks and Machine Operators,Billing and Posting Clerks,43-3020,0.7027027027027027,True
+Billing and Posting Clerks and Machine Operators,Billing and Posting Clerks,43-3021,0.7027027027027027,True
+"Bookkeeping, Accounting, and Auditing Clerks","Bookkeeping, Accounting, and Auditing Clerks",43-3030,1.0,False
+"Bookkeeping, Accounting, and Auditing Clerks","Bookkeeping, Accounting, and Auditing Clerks",43-3031,1.0,False
+Gaming Cage Workers,Gambling Cage Workers,43-3040,0.95,False
+Gaming Cage Workers,Gambling Cage Workers,43-3041,0.95,False
+Payroll and Timekeeping Clerks,Payroll and Timekeeping Clerks,43-3050,1.0,False
+Payroll and Timekeeping Clerks,Payroll and Timekeeping Clerks,43-3051,1.0,False
+Procurement Clerks,Procurement Clerks,43-3060,1.0,False
+Procurement Clerks,Procurement Clerks,43-3061,1.0,False
+Tellers,Tellers,43-3070,1.0,False
+Tellers,Tellers,43-3071,1.0,False
+Brokerage Clerks,Brokerage Clerks,43-4010,1.0,False
+Brokerage Clerks,Brokerage Clerks,43-4011,1.0,False
+Correspondence Clerks,Correspondence Clerks,43-4020,1.0,False
+Correspondence Clerks,Correspondence Clerks,43-4021,1.0,False
+"Court, Municipal, and License Clerks","Court, Municipal, and License Clerks",43-4030,1.0,False
+"Court, Municipal, and License Clerks","Court, Municipal, and License Clerks",43-4031,1.0,False
+"Credit Authorizers, Checkers, and Clerks","Credit Authorizers, Checkers, and Clerks",43-4040,1.0,False
+"Credit Authorizers, Checkers, and Clerks","Credit Authorizers, Checkers, and Clerks",43-4041,1.0,False
+Customer Service Representatives,Customer Service Representatives,43-4050,1.0,False
+Customer Service Representatives,Customer Service Representatives,43-4051,1.0,False
+"Eligibility Interviewers, Government Programs","Eligibility Interviewers, Government Programs",43-4060,1.0,False
+"Eligibility Interviewers, Government Programs","Eligibility Interviewers, Government Programs",43-4061,1.0,False
+File Clerks,File Clerks,43-4070,1.0,False
+File Clerks,File Clerks,43-4071,1.0,False
+"Hotel, Motel, and Resort Desk Clerks","Hotel, Motel, and Resort Desk Clerks",43-4080,1.0,False
+"Hotel, Motel, and Resort Desk Clerks","Hotel, Motel, and Resort Desk Clerks",43-4081,1.0,False
+"Interviewers, Except Eligibility and Loan","Interviewers, Except Eligibility and Loan",43-4110,1.0,False
+"Interviewers, Except Eligibility and Loan","Interviewers, Except Eligibility and Loan",43-4111,1.0,False
+"Library Assistants, Clerical","Library Assistants, Clerical",43-4120,1.0,False
+"Library Assistants, Clerical","Library Assistants, Clerical",43-4121,1.0,False
+Loan Interviewers and Clerks,Loan Interviewers and Clerks,43-4130,1.0,False
+Loan Interviewers and Clerks,Loan Interviewers and Clerks,43-4131,1.0,False
+New Accounts Clerks,New Accounts Clerks,43-4140,1.0,False
+New Accounts Clerks,New Accounts Clerks,43-4141,1.0,False
+Order Clerks,Order Clerks,43-4150,1.0,False
+Order Clerks,Order Clerks,43-4151,1.0,False
+"Human Resources Assistants, Except Payroll and Timekeeping","Human Resources Assistants, Except Payroll and Timekeeping",43-4160,1.0,False
+"Human Resources Assistants, Except Payroll and Timekeeping","Human Resources Assistants, Except Payroll and Timekeeping",43-4161,1.0,False
+Receptionists and Information Clerks,Receptionists and Information Clerks,43-4170,1.0,False
+Receptionists and Information Clerks,Receptionists and Information Clerks,43-4171,1.0,False
+Reservation and Transportation Ticket Agents and Travel Clerks,Reservation and Transportation Ticket Agents and Travel Clerks,43-4180,1.0,False
+Reservation and Transportation Ticket Agents and Travel Clerks,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181,1.0,False
+Cargo and Freight Agents,Cargo and Freight Agents,43-5010,1.0,False
+Cargo and Freight Agents,Cargo and Freight Agents,43-5011,1.0,False
+Couriers and Messengers,Couriers and Messengers,43-5020,1.0,False
+Couriers and Messengers,Couriers and Messengers,43-5021,1.0,False
+"Police, Fire, and Ambulance Dispatchers","Dispatchers, Except Police, Fire, and Ambulance",43-5032,0.627906976744186,True
+"Dispatchers, Except Police, Fire, and Ambulance","Dispatchers, Except Police, Fire, and Ambulance",43-5032,1.0,False
+"Meter Readers, Utilities","Meter Readers, Utilities",43-5040,1.0,False
+"Meter Readers, Utilities","Meter Readers, Utilities",43-5041,1.0,False
+Postal Service Clerks,Postal Service Clerks,43-5051,1.0,False
+Postal Service Mail Carriers,Postal Service Mail Carriers,43-5052,1.0,False
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators","Postal Service Mail Sorters, Processors, and Processing Machine Operators",43-5053,1.0,False
+"Production, Planning, and Expediting Clerks","Production, Planning, and Expediting Clerks",43-5060,1.0,False
+"Production, Planning, and Expediting Clerks","Production, Planning, and Expediting Clerks",43-5061,1.0,False
+"Shipping, Receiving, and Traffic Clerks","Shipping, Receiving, and Inventory Clerks",43-5070,0.825,False
+"Shipping, Receiving, and Traffic Clerks","Shipping, Receiving, and Inventory Clerks",43-5071,0.825,False
+Stock Clerks and Order Fillers,Stockers and Order Fillers,53-7065,0.9285714285714286,False
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-5110,1.0,False
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-5111,1.0,False
+Executive Secretaries and Administrative Assistants,Executive Secretaries and Executive Administrative Assistants,43-6011,0.9107142857142857,False
+Legal Secretaries,Legal Support Workers,23-2000,0.5263157894736842,True
+Medical Secretaries,Medical Scientists,19-1040,0.7027027027027027,True
+"Secretaries, Except Legal, Medical, and Executive","Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43-6014,0.765625,False
+Computer Operators,Computer Occupations,15-1200,0.7894736842105263,False
+Data Entry Keyers,Data Entry Keyers,43-9021,1.0,False
+Word Processors and Typists,Word Processors and Typists,43-9022,1.0,False
+Desktop Publishers,Desktop Publishers,43-9030,1.0,False
+Desktop Publishers,Desktop Publishers,43-9031,1.0,False
+Insurance Claims and Policy Processing Clerks,Insurance Claims and Policy Processing Clerks,43-9040,1.0,False
+Insurance Claims and Policy Processing Clerks,Insurance Claims and Policy Processing Clerks,43-9041,1.0,False
+"Mail Clerks and Mail Machine Operators, Except Postal Service","Mail Clerks and Mail Machine Operators, Except Postal Service",43-9050,1.0,False
+"Mail Clerks and Mail Machine Operators, Except Postal Service","Mail Clerks and Mail Machine Operators, Except Postal Service",43-9051,1.0,False
+"Office Clerks, General","Office Clerks, General",43-9060,1.0,False
+"Office Clerks, General","Office Clerks, General",43-9061,1.0,False
+"Office Machine Operators, Except Computer","Office Machine Operators, Except Computer",43-9070,1.0,False
+"Office Machine Operators, Except Computer","Office Machine Operators, Except Computer",43-9071,1.0,False
+Proofreaders and Copy Markers,Proofreaders and Copy Markers,43-9080,1.0,False
+Proofreaders and Copy Markers,Proofreaders and Copy Markers,43-9081,1.0,False
+Statistical Assistants,Statistical Assistants,43-9110,1.0,False
+Statistical Assistants,Statistical Assistants,43-9111,1.0,False
+"First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-1010,0.9343065693430657,False
+"First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-1011,0.9343065693430657,False
+Agricultural Inspectors,Agricultural Inspectors,45-2010,1.0,False
+Agricultural Inspectors,Agricultural Inspectors,45-2011,1.0,False
+Animal Breeders,Animal Breeders,45-2020,1.0,False
+Animal Breeders,Animal Breeders,45-2021,1.0,False
+"Graders and Sorters, Agricultural Products","Graders and Sorters, Agricultural Products",45-2040,1.0,False
+"Graders and Sorters, Agricultural Products","Graders and Sorters, Agricultural Products",45-2041,1.0,False
+Agricultural Equipment Operators,Agricultural Equipment Operators,45-2091,1.0,False
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092,1.0,False
+"Farmworkers, Farm and Ranch Animals","Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093,0.7294117647058823,True
+Fishers and Related Fishing Workers,Artists and Related Workers,27-1010,0.7419354838709677,True
+Hunters and Trappers,Etchers and Engravers,51-9194,0.6829268292682927,True
+Forest and Conservation Workers,Forest and Conservation Workers,45-4010,1.0,False
+Forest and Conservation Workers,Forest and Conservation Workers,45-4011,1.0,False
+Fallers,Fallers,45-4021,1.0,False
+Logging Equipment Operators,Logging Equipment Operators,45-4022,1.0,False
+Log Graders and Scalers,Log Graders and Scalers,45-4023,1.0,False
+First-Line Supervisors/Managers of Construction Trades and Extraction Workers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1010,0.9379310344827586,False
+First-Line Supervisors/Managers of Construction Trades and Extraction Workers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,0.9379310344827586,False
+Boilermakers,Boilermakers,47-2010,1.0,False
+Boilermakers,Boilermakers,47-2011,1.0,False
+Brickmasons and Blockmasons,Brickmasons and Blockmasons,47-2021,1.0,False
+Stonemasons,Stonemasons,47-2022,1.0,False
+Carpenters,Carpenters,47-2030,1.0,False
+Carpenters,Carpenters,47-2031,1.0,False
+Carpet Installers,Carpet Installers,47-2041,1.0,False
+"Floor Layers, Except Carpet, Wood, and Hard Tiles","Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042,1.0,False
+Floor Sanders and Finishers,Floor Sanders and Finishers,47-2043,1.0,False
+Tile and Marble Setters,Tile and Stone Setters,47-2044,0.8,False
+Cement Masons and Concrete Finishers,Cement Masons and Concrete Finishers,47-2051,1.0,False
+Terrazzo Workers and Finishers,Terrazzo Workers and Finishers,47-2053,1.0,False
+Construction Laborers,Construction Laborers,47-2060,1.0,False
+Construction Laborers,Construction Laborers,47-2061,1.0,False
+"Paving, Surfacing, and Tamping Equipment Operators","Paving, Surfacing, and Tamping Equipment Operators",47-2071,1.0,False
+Pile-Driver Operators,Pile Driver Operators,47-2072,0.9523809523809523,False
+Operating Engineers and Other Construction Equipment Operators,Operating Engineers and Other Construction Equipment Operators,47-2073,1.0,False
+Drywall and Ceiling Tile Installers,Drywall and Ceiling Tile Installers,47-2081,1.0,False
+Tapers,Tapers,47-2082,1.0,False
+Electricians,Electricians,47-2110,1.0,False
+Electricians,Electricians,47-2111,1.0,False
+Glaziers,Glaziers,47-2120,1.0,False
+Glaziers,Glaziers,47-2121,1.0,False
+"Insulation Workers, Floor, Ceiling, and Wall","Insulation Workers, Floor, Ceiling, and Wall",47-2131,1.0,False
+"Insulation Workers, Mechanical","Insulation Workers, Mechanical",47-2132,1.0,False
+"Painters, Construction and Maintenance","Painters, Construction and Maintenance",47-2141,1.0,False
+Paperhangers,Paperhangers,47-2142,1.0,False
+Pipelayers,Pipelayers,47-2151,1.0,False
+"Plumbers, Pipefitters, and Steamfitters","Plumbers, Pipefitters, and Steamfitters",47-2152,1.0,False
+Plasterers and Stucco Masons,Plasterers and Stucco Masons,47-2160,1.0,False
+Plasterers and Stucco Masons,Plasterers and Stucco Masons,47-2161,1.0,False
+Reinforcing Iron and Rebar Workers,Reinforcing Iron and Rebar Workers,47-2170,1.0,False
+Reinforcing Iron and Rebar Workers,Reinforcing Iron and Rebar Workers,47-2171,1.0,False
+Roofers,Roofers,47-2180,1.0,False
+Roofers,Roofers,47-2181,1.0,False
+Sheet Metal Workers,Sheet Metal Workers,47-2210,1.0,False
+Sheet Metal Workers,Sheet Metal Workers,47-2211,1.0,False
+Structural Iron and Steel Workers,Structural Iron and Steel Workers,47-2220,1.0,False
+Structural Iron and Steel Workers,Structural Iron and Steel Workers,47-2221,1.0,False
+Solar Photovoltaic Installers,Solar Photovoltaic Installers,47-2230,1.0,False
+Solar Photovoltaic Installers,Solar Photovoltaic Installers,47-2231,1.0,False
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",47-3011,1.0,False
+Helpers--Carpenters,Helpers--Carpenters,47-3012,1.0,False
+Helpers--Electricians,Helpers--Electricians,47-3013,1.0,False
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",47-3014,1.0,False
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",47-3015,1.0,False
+Helpers--Roofers,Helpers--Roofers,47-3016,1.0,False
+Construction and Building Inspectors,Construction and Building Inspectors,47-4010,1.0,False
+Construction and Building Inspectors,Construction and Building Inspectors,47-4011,1.0,False
+Elevator Installers and Repairers,Line Installers and Repairers,49-9050,0.8387096774193549,False
+Fence Erectors,Fence Erectors,47-4030,1.0,False
+Fence Erectors,Fence Erectors,47-4031,1.0,False
+Hazardous Materials Removal Workers,Hazardous Materials Removal Workers,47-4040,1.0,False
+Hazardous Materials Removal Workers,Hazardous Materials Removal Workers,47-4041,1.0,False
+Highway Maintenance Workers,Highway Maintenance Workers,47-4050,1.0,False
+Highway Maintenance Workers,Highway Maintenance Workers,47-4051,1.0,False
+Rail-Track Laying and Maintenance Equipment Operators,Rail-Track Laying and Maintenance Equipment Operators,47-4060,1.0,False
+Rail-Track Laying and Maintenance Equipment Operators,Rail-Track Laying and Maintenance Equipment Operators,47-4061,1.0,False
+Septic Tank Servicers and Sewer Pipe Cleaners,Septic Tank Servicers and Sewer Pipe Cleaners,47-4070,1.0,False
+Septic Tank Servicers and Sewer Pipe Cleaners,Septic Tank Servicers and Sewer Pipe Cleaners,47-4071,1.0,False
+Segmental Pavers,Sheet Metal Workers,47-2210,0.5714285714285714,True
+Segmental Pavers,Sheet Metal Workers,47-2211,0.5714285714285714,True
+"Construction and Related Workers, All Other","Artists and Related Workers, All Other",27-1019,0.8148148148148148,False
+"Derrick Operators, Oil and Gas","Derrick Operators, Oil and Gas",47-5011,1.0,False
+"Rotary Drill Operators, Oil and Gas","Rotary Drill Operators, Oil and Gas",47-5012,1.0,False
+"Service Unit Operators, Oil, Gas, and Mining","Service Unit Operators, Oil and Gas",47-5013,0.810126582278481,False
+"Earth Drillers, Except Oil and Gas","Earth Drillers, Except Oil and Gas",47-5023,1.0,False
+"Explosives Workers, Ordnance Handling Experts, and Blasters","Explosives Workers, Ordnance Handling Experts, and Blasters",47-5030,1.0,False
+"Explosives Workers, Ordnance Handling Experts, and Blasters","Explosives Workers, Ordnance Handling Experts, and Blasters",47-5032,1.0,False
+Continuous Mining Machine Operators,Continuous Mining Machine Operators,47-5041,1.0,False
+Mine Cutting and Channeling Machine Operators,Underground Mining Machine Operators,47-5040,0.5925925925925926,True
+"Rock Splitters, Quarry","Rock Splitters, Quarry",47-5050,1.0,False
+"Rock Splitters, Quarry","Rock Splitters, Quarry",47-5051,1.0,False
+"Roof Bolters, Mining","Roof Bolters, Mining",47-5043,1.0,False
+"Roustabouts, Oil and Gas","Roustabouts, Oil and Gas",47-5070,1.0,False
+"Roustabouts, Oil and Gas","Roustabouts, Oil and Gas",47-5071,1.0,False
+Helpers--Extraction Workers,Helpers--Extraction Workers,47-5080,1.0,False
+Helpers--Extraction Workers,Helpers--Extraction Workers,47-5081,1.0,False
+"First-Line Supervisors/Managers of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",49-1010,0.9323308270676691,False
+"First-Line Supervisors/Managers of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",49-1011,0.9323308270676691,False
+"Computer, Automated Teller, and Office Machine Repairers","Computer, Automated Teller, and Office Machine Repairers",49-2010,1.0,False
+"Computer, Automated Teller, and Office Machine Repairers","Computer, Automated Teller, and Office Machine Repairers",49-2011,1.0,False
+Radio Mechanics,Small Engine Mechanics,49-3050,0.6486486486486487,True
+"Telecommunications Equipment Installers and Repairers, Except Line Installers","Telecommunications Equipment Installers and Repairers, Except Line Installers",49-2022,1.0,False
+Avionics Technicians,Avionics Technicians,49-2091,1.0,False
+"Electric Motor, Power Tool, and Related Repairers","Electric Motor, Power Tool, and Related Repairers",49-2092,1.0,False
+"Electrical and Electronics Installers and Repairers, Transportation Equipment","Electrical and Electronics Installers and Repairers, Transportation Equipment",49-2093,1.0,False
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094,1.0,False
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",49-2095,1.0,False
+"Electronic Equipment Installers and Repairers, Motor Vehicles","Electronic Equipment Installers and Repairers, Motor Vehicles",49-2096,1.0,False
+Electronic Home Entertainment Equipment Installers and Repairers,Electrical Power-Line Installers and Repairers,49-9051,0.7272727272727273,True
+Security and Fire Alarm Systems Installers,Security and Fire Alarm Systems Installers,49-2098,1.0,False
+Aircraft Mechanics and Service Technicians,Aircraft Mechanics and Service Technicians,49-3010,1.0,False
+Aircraft Mechanics and Service Technicians,Aircraft Mechanics and Service Technicians,49-3011,1.0,False
+Automotive Body and Related Repairers,Automotive Body and Related Repairers,49-3021,1.0,False
+Automotive Glass Installers and Repairers,Automotive Glass Installers and Repairers,49-3022,1.0,False
+Automotive Service Technicians and Mechanics,Automotive Service Technicians and Mechanics,49-3023,1.0,False
+Bus and Truck Mechanics and Diesel Engine Specialists,Bus and Truck Mechanics and Diesel Engine Specialists,49-3030,1.0,False
+Bus and Truck Mechanics and Diesel Engine Specialists,Bus and Truck Mechanics and Diesel Engine Specialists,49-3031,1.0,False
+Farm Equipment Mechanics,Farm Equipment Mechanics and Service Technicians,49-3041,0.6666666666666666,True
+"Mobile Heavy Equipment Mechanics, Except Engines","Mobile Heavy Equipment Mechanics, Except Engines",49-3042,1.0,False
+Rail Car Repairers,Rail Car Repairers,49-3043,1.0,False
+Motorboat Mechanics,Motorcycle Mechanics,49-3052,0.7692307692307693,False
+Motorcycle Mechanics,Motorcycle Mechanics,49-3052,1.0,False
+Outdoor Power Equipment and Other Small Engine Mechanics,Outdoor Power Equipment and Other Small Engine Mechanics,49-3053,1.0,False
+Bicycle Repairers,Bicycle Repairers,49-3091,1.0,False
+Recreational Vehicle Service Technicians,Recreational Vehicle Service Technicians,49-3092,1.0,False
+Tire Repairers and Changers,Tire Repairers and Changers,49-3093,1.0,False
+Mechanical Door Repairers,Mechanical Door Repairers,49-9011,1.0,False
+"Control and Valve Installers and Repairers, Except Mechanical Door","Control and Valve Installers and Repairers, Except Mechanical Door",49-9012,1.0,False
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9020,1.0,False
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021,1.0,False
+Home Appliance Repairers,Home Appliance Repairers,49-9030,1.0,False
+Home Appliance Repairers,Home Appliance Repairers,49-9031,1.0,False
+Industrial Machinery Mechanics,Industrial Machinery Mechanics,49-9041,1.0,False
+"Maintenance Workers, Machinery","Maintenance Workers, Machinery",49-9043,1.0,False
+Millwrights,Millwrights,49-9044,1.0,False
+"Refractory Materials Repairers, Except Brickmasons","Refractory Materials Repairers, Except Brickmasons",49-9045,1.0,False
+Electrical Power-Line Installers and Repairers,Electrical Power-Line Installers and Repairers,49-9051,1.0,False
+Telecommunications Line Installers and Repairers,Telecommunications Line Installers and Repairers,49-9052,1.0,False
+Camera and Photographic Equipment Repairers,Camera and Photographic Equipment Repairers,49-9061,1.0,False
+Medical Equipment Repairers,Medical Equipment Repairers,49-9062,1.0,False
+Musical Instrument Repairers and Tuners,Musical Instrument Repairers and Tuners,49-9063,1.0,False
+Watch Repairers,Watch and Clock Repairers,49-9064,0.75,False
+"Maintenance and Repair Workers, General","Maintenance and Repair Workers, General",49-9070,1.0,False
+"Maintenance and Repair Workers, General","Maintenance and Repair Workers, General",49-9071,1.0,False
+Wind Turbine Service Technicians,Wind Turbine Service Technicians,49-9080,1.0,False
+Wind Turbine Service Technicians,Wind Turbine Service Technicians,49-9081,1.0,False
+"Coin, Vending, and Amusement Machine Servicers and Repairers","Coin, Vending, and Amusement Machine Servicers and Repairers",49-9091,1.0,False
+Commercial Divers,Commercial Divers,49-9092,1.0,False
+"Fabric Menders, Except Garment","Electronics Engineers, Except Computer",17-2072,0.5294117647058824,True
+Locksmiths and Safe Repairers,Locksmiths and Safe Repairers,49-9094,1.0,False
+Manufactured Building and Mobile Home Installers,Manufactured Building and Mobile Home Installers,49-9095,1.0,False
+Riggers,Riggers,49-9096,1.0,False
+Signal and Track Switch Repairers,Signal and Track Switch Repairers,49-9097,1.0,False
+"Helpers--Installation, Maintenance, and Repair Workers","Helpers--Installation, Maintenance, and Repair Workers",49-9098,1.0,False
+"Installation, Maintenance, and Repair Workers, All Other","Installation, Maintenance, and Repair Workers, All Other",49-9099,1.0,False
+First-Line Supervisors/Managers of Production and Operating Workers,First-Line Supervisors of Production and Operating Workers,51-1010,0.928,False
+First-Line Supervisors/Managers of Production and Operating Workers,First-Line Supervisors of Production and Operating Workers,51-1011,0.928,False
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",51-2010,1.0,False
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",51-2011,1.0,False
+"Coil Winders, Tapers, and Finishers","Coil Winders, Tapers, and Finishers",51-2021,1.0,False
+Electrical and Electronic Equipment Assemblers,Electrical and Electronics Engineers,17-2070,0.7804878048780488,False
+Electromechanical Equipment Assemblers,Medical Equipment Repairers,49-9062,0.6153846153846154,True
+Engine and Other Machine Assemblers,Engine and Other Machine Assemblers,51-2030,1.0,False
+Engine and Other Machine Assemblers,Engine and Other Machine Assemblers,51-2031,1.0,False
+Structural Metal Fabricators and Fitters,Structural Metal Fabricators and Fitters,51-2040,1.0,False
+Structural Metal Fabricators and Fitters,Structural Metal Fabricators and Fitters,51-2041,1.0,False
+Fiberglass Laminators and Fabricators,Fiberglass Laminators and Fabricators,51-2050,1.0,False
+Fiberglass Laminators and Fabricators,Fiberglass Laminators and Fabricators,51-2051,1.0,False
+Team Assemblers,Tellers,43-3070,0.5454545454545454,True
+Team Assemblers,Tellers,43-3071,0.5454545454545454,True
+"Timing Device Assemblers, Adjusters, and Calibrators",Timing Device Assemblers and Adjusters,51-2060,0.7555555555555555,False
+"Timing Device Assemblers, Adjusters, and Calibrators",Timing Device Assemblers and Adjusters,51-2061,0.7555555555555555,False
+Bakers,Bakers,51-3010,1.0,False
+Bakers,Bakers,51-3011,1.0,False
+Butchers and Meat Cutters,Butchers and Meat Cutters,51-3021,1.0,False
+"Meat, Poultry, and Fish Cutters and Trimmers","Meat, Poultry, and Fish Cutters and Trimmers",51-3022,1.0,False
+Slaughterers and Meat Packers,Slaughterers and Meat Packers,51-3023,1.0,False
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",51-3091,1.0,False
+Food Batchmakers,Food Batchmakers,51-3092,1.0,False
+Food Cooking Machine Operators and Tenders,Food Cooking Machine Operators and Tenders,51-3093,1.0,False
+"Computer-Controlled Machine Tool Operators, Metal and Plastic","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4080,0.6766917293233082,True
+"Computer-Controlled Machine Tool Operators, Metal and Plastic","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081,0.6766917293233082,True
+Numerical Tool and Process Control Programmers,Computer Numerically Controlled Tool Programmers,51-9162,0.6382978723404256,True
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4021,1.0,False
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic","Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51-4022,1.0,False
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",51-4023,1.0,False
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51-4031,1.0,False
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4032,1.0,False
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4033,1.0,False
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4034,1.0,False
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4035,1.0,False
+Machinists,Machinists,51-4040,1.0,False
+Machinists,Machinists,51-4041,1.0,False
+Metal-Refining Furnace Operators and Tenders,Metal-Refining Furnace Operators and Tenders,51-4051,1.0,False
+"Pourers and Casters, Metal","Pourers and Casters, Metal",51-4052,1.0,False
+"Model Makers, Metal and Plastic","Model Makers, Metal and Plastic",51-4061,1.0,False
+"Patternmakers, Metal and Plastic","Patternmakers, Metal and Plastic",51-4062,1.0,False
+Foundry Mold and Coremakers,Foundry Mold and Coremakers,51-4071,1.0,False
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",51-4072,1.0,False
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4080,1.0,False
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081,1.0,False
+Tool and Die Makers,Tool and Die Makers,51-4110,1.0,False
+Tool and Die Makers,Tool and Die Makers,51-4111,1.0,False
+"Welders, Cutters, Solderers, and Brazers","Welders, Cutters, Solderers, and Brazers",51-4121,1.0,False
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",51-4122,1.0,False
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",51-4191,1.0,False
+"Lay-Out Workers, Metal and Plastic","Layout Workers, Metal and Plastic",51-4192,0.9552238805970149,False
+"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic","Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4035,0.9230769230769231,False
+"Tool Grinders, Filers, and Sharpeners","Tool Grinders, Filers, and Sharpeners",51-4194,1.0,False
+Prepress Technicians and Workers,Prepress Technicians and Workers,51-5111,1.0,False
+Printing Press Operators,Printing Press Operators,51-5112,1.0,False
+Print Binding and Finishing Workers,Print Binding and Finishing Workers,51-5113,1.0,False
+Laundry and Dry-Cleaning Workers,Laundry and Dry-Cleaning Workers,51-6010,1.0,False
+Laundry and Dry-Cleaning Workers,Laundry and Dry-Cleaning Workers,51-6011,1.0,False
+"Pressers, Textile, Garment, and Related Materials","Pressers, Textile, Garment, and Related Materials",51-6020,1.0,False
+"Pressers, Textile, Garment, and Related Materials","Pressers, Textile, Garment, and Related Materials",51-6021,1.0,False
+Sewing Machine Operators,Sewing Machine Operators,51-6030,1.0,False
+Sewing Machine Operators,Sewing Machine Operators,51-6031,1.0,False
+Shoe and Leather Workers and Repairers,Shoe and Leather Workers and Repairers,51-6041,1.0,False
+Shoe Machine Operators and Tenders,Shoe Machine Operators and Tenders,51-6042,1.0,False
+"Sewers, Hand","Sewers, Hand",51-6051,1.0,False
+"Tailors, Dressmakers, and Custom Sewers","Tailors, Dressmakers, and Custom Sewers",51-6052,1.0,False
+Textile Bleaching and Dyeing Machine Operators and Tenders,Textile Bleaching and Dyeing Machine Operators and Tenders,51-6061,1.0,False
+"Textile Cutting Machine Setters, Operators, and Tenders","Textile Cutting Machine Setters, Operators, and Tenders",51-6062,1.0,False
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063,1.0,False
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",51-6064,1.0,False
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",51-6091,1.0,False
+Fabric and Apparel Patternmakers,Fabric and Apparel Patternmakers,51-6092,1.0,False
+Upholsterers,Upholsterers,51-6093,1.0,False
+Cabinetmakers and Bench Carpenters,Cabinetmakers and Bench Carpenters,51-7010,1.0,False
+Cabinetmakers and Bench Carpenters,Cabinetmakers and Bench Carpenters,51-7011,1.0,False
+Furniture Finishers,Furniture Finishers,51-7020,1.0,False
+Furniture Finishers,Furniture Finishers,51-7021,1.0,False
+"Model Makers, Wood","Model Makers, Wood",51-7031,1.0,False
+"Patternmakers, Wood","Patternmakers, Wood",51-7032,1.0,False
+"Sawing Machine Setters, Operators, and Tenders, Wood","Sawing Machine Setters, Operators, and Tenders, Wood",51-7041,1.0,False
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Woodworking Machine Setters, Operators, and Tenders, Except Sawing",51-7042,1.0,False
+Nuclear Power Reactor Operators,Nuclear Power Reactor Operators,51-8011,1.0,False
+Power Distributors and Dispatchers,Power Distributors and Dispatchers,51-8012,1.0,False
+Power Plant Operators,Power Plant Operators,51-8013,1.0,False
+Stationary Engineers and Boiler Operators,Stationary Engineers and Boiler Operators,51-8020,1.0,False
+Stationary Engineers and Boiler Operators,Stationary Engineers and Boiler Operators,51-8021,1.0,False
+Water and Liquid Waste Treatment Plant and System Operators,Water and Wastewater Treatment Plant and System Operators,51-8030,0.896551724137931,False
+Water and Liquid Waste Treatment Plant and System Operators,Water and Wastewater Treatment Plant and System Operators,51-8031,0.896551724137931,False
+Chemical Plant and System Operators,Chemical Plant and System Operators,51-8091,1.0,False
+Gas Plant Operators,Gas Plant Operators,51-8092,1.0,False
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Petroleum Pump System Operators, Refinery Operators, and Gaugers",51-8093,1.0,False
+"Plant and System Operators, All Other","Plant and System Operators, All Other",51-8099,1.0,False
+Chemical Equipment Operators and Tenders,Chemical Equipment Operators and Tenders,51-9011,1.0,False
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",51-9012,1.0,False
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",51-9021,1.0,False
+"Grinding and Polishing Workers, Hand","Grinding and Polishing Workers, Hand",51-9022,1.0,False
+"Mixing and Blending Machine Setters, Operators, and Tenders","Mixing and Blending Machine Setters, Operators, and Tenders",51-9023,1.0,False
+"Cutters and Trimmers, Hand","Cutters and Trimmers, Hand",51-9031,1.0,False
+"Cutting and Slicing Machine Setters, Operators, and Tenders","Cutting and Slicing Machine Setters, Operators, and Tenders",51-9032,1.0,False
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51-9040,1.0,False
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51-9041,1.0,False
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51-9050,1.0,False
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51-9051,1.0,False
+"Inspectors, Testers, Sorters, Samplers, and Weighers","Inspectors, Testers, Sorters, Samplers, and Weighers",51-9060,1.0,False
+"Inspectors, Testers, Sorters, Samplers, and Weighers","Inspectors, Testers, Sorters, Samplers, and Weighers",51-9061,1.0,False
+Jewelers and Precious Stone and Metal Workers,Jewelers and Precious Stone and Metal Workers,51-9070,1.0,False
+Jewelers and Precious Stone and Metal Workers,Jewelers and Precious Stone and Metal Workers,51-9071,1.0,False
+Dental Laboratory Technicians,Dental Laboratory Technicians,51-9081,1.0,False
+Medical Appliance Technicians,Medical Appliance Technicians,51-9082,1.0,False
+Ophthalmic Laboratory Technicians,Ophthalmic Laboratory Technicians,51-9083,1.0,False
+Packaging and Filling Machine Operators and Tenders,Packaging and Filling Machine Operators and Tenders,51-9110,1.0,False
+Packaging and Filling Machine Operators and Tenders,Packaging and Filling Machine Operators and Tenders,51-9111,1.0,False
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51-9124,1.0,False
+"Painters, Transportation Equipment",Water Transportation Workers,53-5000,0.6774193548387096,True
+"Painting, Coating, and Decorating Workers","Painting, Coating, and Decorating Workers",51-9123,1.0,False
+Semiconductor Processors,Semiconductor Processing Technicians,51-9140,0.7333333333333333,True
+Semiconductor Processors,Semiconductor Processing Technicians,51-9141,0.7333333333333333,True
+Photographic Process Workers and Processing Machine Operators,Photographic Process Workers and Processing Machine Operators,51-9150,1.0,False
+Photographic Process Workers and Processing Machine Operators,Photographic Process Workers and Processing Machine Operators,51-9151,1.0,False
+Cementing and Gluing Machine Operators and Tenders,Packaging and Filling Machine Operators and Tenders,51-9110,0.8316831683168316,False
+Cementing and Gluing Machine Operators and Tenders,Packaging and Filling Machine Operators and Tenders,51-9111,0.8316831683168316,False
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",51-9192,1.0,False
+Cooling and Freezing Equipment Operators and Tenders,Cooling and Freezing Equipment Operators and Tenders,51-9193,1.0,False
+Etchers and Engravers,Etchers and Engravers,51-9194,1.0,False
+"Molders, Shapers, and Casters, Except Metal and Plastic","Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,1.0,False
+"Paper Goods Machine Setters, Operators, and Tenders","Paper Goods Machine Setters, Operators, and Tenders",51-9196,1.0,False
+Tire Builders,Tire Builders,51-9197,1.0,False
+Helpers--Production Workers,Helpers--Production Workers,51-9198,1.0,False
+"Production Workers, All Other","Production Workers, All Other",51-9199,1.0,False
+Aircraft Cargo Handling Supervisors,Aircraft Cargo Handling Supervisors,53-1041,1.0,False
+"First-Line Supervisors/Managers of Helpers, Laborers, and Material Movers, Hand",First-Line Supervisors of Transportation and Material Moving Workers,53-1040,0.6666666666666666,True
+First-Line Supervisors/Managers of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material Moving Workers,53-1040,0.7544910179640718,False
+"Airline Pilots, Copilots, and Flight Engineers","Airline Pilots, Copilots, and Flight Engineers",53-2011,1.0,False
+Commercial Pilots,Commercial Pilots,53-2012,1.0,False
+Air Traffic Controllers,Air Traffic Controllers,53-2021,1.0,False
+Airfield Operations Specialists,Airfield Operations Specialists,53-2022,1.0,False
+Flight Attendants,Flight Attendants,53-2030,1.0,False
+Flight Attendants,Flight Attendants,53-2031,1.0,False
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3010,1.0,False
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3011,1.0,False
+"Bus Drivers, Transit and Intercity","Bus Drivers, Transit and Intercity",53-3052,1.0,False
+"Bus Drivers, School","Bus Drivers, School",53-3051,1.0,False
+Driver/Sales Workers,Driver/Sales Workers,53-3031,1.0,False
+"Truck Drivers, Heavy and Tractor-Trailer",Heavy and Tractor-Trailer Truck Drivers,53-3032,0.6329113924050633,True
+"Truck Drivers, Light or Delivery Services","Bus Drivers, Transit and Intercity",53-3052,0.48,True
+Taxi Drivers and Chauffeurs,Shuttle Drivers and Chauffeurs,53-3053,0.8070175438596491,False
+Locomotive Engineers,Locomotive Engineers,53-4011,1.0,False
+Locomotive Firers,Locomotive Engineers,53-4011,0.8108108108108109,False
+"Rail Yard Engineers, Dinkey Operators, and Hostlers","Rail Yard Engineers, Dinkey Operators, and Hostlers",53-4013,1.0,False
+"Railroad Brake, Signal, and Switch Operators","Railroad Brake, Signal, and Switch Operators and Locomotive Firers",53-4020,0.8,False
+"Railroad Brake, Signal, and Switch Operators","Railroad Brake, Signal, and Switch Operators and Locomotive Firers",53-4022,0.8,False
+Railroad Conductors and Yardmasters,Railroad Conductors and Yardmasters,53-4030,1.0,False
+Railroad Conductors and Yardmasters,Railroad Conductors and Yardmasters,53-4031,1.0,False
+Subway and Streetcar Operators,Subway and Streetcar Operators,53-4040,1.0,False
+Subway and Streetcar Operators,Subway and Streetcar Operators,53-4041,1.0,False
+Sailors and Marine Oilers,Sailors and Marine Oilers,53-5010,1.0,False
+Sailors and Marine Oilers,Sailors and Marine Oilers,53-5011,1.0,False
+"Captains, Mates, and Pilots of Water Vessels","Captains, Mates, and Pilots of Water Vessels",53-5021,1.0,False
+Motorboat Operators,Motorboat Operators,53-5022,1.0,False
+Ship Engineers,Ship Engineers,53-5030,1.0,False
+Ship Engineers,Ship Engineers,53-5031,1.0,False
+Bridge and Lock Tenders,Bridge and Lock Tenders,53-6010,1.0,False
+Bridge and Lock Tenders,Bridge and Lock Tenders,53-6011,1.0,False
+Parking Lot Attendants,Parking Attendants,53-6020,0.9,False
+Parking Lot Attendants,Parking Attendants,53-6021,0.9,False
+Service Station Attendants,Aircraft Service Attendants,53-6032,0.6792452830188679,True
+Traffic Technicians,Traffic Technicians,53-6040,1.0,False
+Traffic Technicians,Traffic Technicians,53-6041,1.0,False
+Transportation Inspectors,Transportation Inspectors,53-6050,1.0,False
+Transportation Inspectors,Transportation Inspectors,53-6051,1.0,False
+"Transportation Attendants, Except Flight Attendants",Transportation Service Attendants,53-6030,0.6904761904761905,True
+Conveyor Operators and Tenders,Conveyor Operators and Tenders,53-7010,1.0,False
+Conveyor Operators and Tenders,Conveyor Operators and Tenders,53-7011,1.0,False
+Crane and Tower Operators,Crane and Tower Operators,53-7020,1.0,False
+Crane and Tower Operators,Crane and Tower Operators,53-7021,1.0,False
+Dredge Operators,Dredge Operators,53-7030,1.0,False
+Dredge Operators,Dredge Operators,53-7031,1.0,False
+Excavating and Loading Machine and Dragline Operators,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-5022,0.8688524590163934,False
+"Loading Machine Operators, Underground Mining","Loading and Moving Machine Operators, Underground Mining",47-5044,0.8910891089108911,False
+Hoist and Winch Operators,Hoist and Winch Operators,53-7040,1.0,False
+Hoist and Winch Operators,Hoist and Winch Operators,53-7041,1.0,False
+Industrial Truck and Tractor Operators,Industrial Truck and Tractor Operators,53-7050,1.0,False
+Industrial Truck and Tractor Operators,Industrial Truck and Tractor Operators,53-7051,1.0,False
+Cleaners of Vehicles and Equipment,Cleaners of Vehicles and Equipment,53-7061,1.0,False
+"Laborers and Freight, Stock, and Material Movers, Hand","Laborers and Freight, Stock, and Material Movers, Hand",53-7062,1.0,False
+Machine Feeders and Offbearers,Machine Feeders and Offbearers,53-7063,1.0,False
+"Packers and Packagers, Hand","Packers and Packagers, Hand",53-7064,1.0,False
+Gas Compressor and Gas Pumping Station Operators,Gas Compressor and Gas Pumping Station Operators,53-7071,1.0,False
+"Pump Operators, Except Wellhead Pumpers","Pump Operators, Except Wellhead Pumpers",53-7072,1.0,False
+Wellhead Pumpers,Wellhead Pumpers,53-7073,1.0,False
+Refuse and Recyclable Material Collectors,Refuse and Recyclable Material Collectors,53-7080,1.0,False
+Refuse and Recyclable Material Collectors,Refuse and Recyclable Material Collectors,53-7081,1.0,False
+Shuttle Car Operators,Pile Driver Operators,47-2072,0.6666666666666666,True
+"Tank Car, Truck, and Ship Loaders","Tank Car, Truck, and Ship Loaders",53-7120,1.0,False
+"Tank Car, Truck, and Ship Loaders","Tank Car, Truck, and Ship Loaders",53-7121,1.0,False

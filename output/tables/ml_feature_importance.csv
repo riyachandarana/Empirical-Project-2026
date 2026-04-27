@@ -1,0 +1,6 @@
+feature,importance,feature_label
+skill,0.7218492724428649,Education Level
+advert_intensity,0.19185830440656917,Job Advert Intensity
+ai_exposure,0.04786364682087051,AI Exposure
+ai_skill_interaction,0.021237847020489142,AI x Skill Interaction
+log_employment,0.017190929309206304,Log Employment
