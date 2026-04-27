@@ -1,0 +1,675 @@
+occupation_code,ai_exposure,occupation_name,employment_2023_x,employment_2023_y,weekly_pay,adverts,education_required
+11-1011,1.334246,Chief Executives,211230.0,211230.0,206680.0,22.2,Bachelor's degree
+11-1021,0.5748773,General and Operations Managers,3507810.0,3507810.0,101280.0,308.7,Bachelor's degree
+11-2011,1.294387,Advertising and Promotions Managers,20630.0,20630.0,131870.0,2.1,Bachelor's degree
+11-2021,1.315032,Marketing Managers,368940.0,368940.0,157620.0,34.3,Bachelor's degree
+11-2022,1.26628,Sales Managers,575880.0,575880.0,135160.0,49.0,Bachelor's degree
+11-3021,1.059853,Computer and Information Systems Managers,592600.0,592600.0,169510.0,55.6,Bachelor's degree
+11-3031,1.446232,Financial Managers,787340.0,787340.0,156100.0,74.6,Bachelor's degree
+11-3051,0.5086878,Industrial Production Managers,222890.0,222890.0,116970.0,17.1,Bachelor's degree
+11-3061,1.423426,Purchasing Managers,77530.0,77530.0,136380.0,6.4,Bachelor's degree
+11-3071,0.8907923,"Transportation, Storage, and Distribution Managers",198780.0,198780.0,99200.0,18.5,High school diploma or equivalent
+11-3111,1.298235,Compensation and Benefits Managers,18690.0,18690.0,136380.0,1.5,Bachelor's degree
+11-3121,1.320417,Human Resources Managers,200600.0,200600.0,136350.0,17.9,Bachelor's degree
+11-3131,1.284423,Training and Development Managers,41540.0,41540.0,125040.0,3.8,Bachelor's degree
+11-9013,-0.1443684,"Farmers, Ranchers, and Other Agricultural Managers",6150.0,6150.0,83770.0,85.5,High school diploma or equivalent
+11-9021,1.029139,Construction Managers,329190.0,329190.0,104900.0,46.8,Bachelor's degree
+11-9031,0.838007,"Education and Childcare Administrators, Preschool and Daycare",64090.0,64090.0,54290.0,5.5,Bachelor's degree
+11-9032,1.048811,"Education Administrators, Kindergarten through Secondary",302580.0,302580.0,103460.0,20.8,Master's degree
+11-9033,1.461149,"Education Administrators, Postsecondary",167270.0,167270.0,102610.0,15.1,Master's degree
+11-9039,0.3541265,"Education Administrators, All Other",50690.0,50690.0,88460.0,4.1,Bachelor's degree
+11-9041,0.8370105,Architectural and Engineering Managers,207800.0,207800.0,165370.0,14.5,Bachelor's degree
+11-9051,-0.1213112,Food Service Managers,246070.0,246070.0,63060.0,42.0,High school diploma or equivalent
+11-9071,0.8299207,Gambling Managers,4590.0,4590.0,82380.0,0.6,High school diploma or equivalent
+11-9081,0.4021726,Lodging Managers,41980.0,41980.0,65360.0,5.4,High school diploma or equivalent
+11-9111,1.260259,Medical and Health Services Managers,515100.0,515100.0,110680.0,62.1,Bachelor's degree
+11-9121,1.327906,Natural Sciences Managers,96520.0,96520.0,157740.0,8.5,Bachelor's degree
+11-9131,0.8233757,Postmasters and Mail Superintendents,13810.0,13810.0,88670.0,0.9,High school diploma or equivalent
+11-9141,1.215396,"Property, Real Estate, and Community Association Managers",284120.0,284120.0,62850.0,39.0,High school diploma or equivalent
+11-9151,1.156153,Social and Community Service Managers,173650.0,173650.0,77030.0,18.6,Bachelor's degree
+11-9161,1.030768,Emergency Management Directors,11910.0,11910.0,83960.0,1.0,Bachelor's degree
+11-9199,0.9646872,"Managers, All Other",589750.0,589750.0,133560.0,106.7,Bachelor's degree
+13-1011,1.068559,"Agents and Business Managers of Artists, Performers, and Athletes",12870.0,12870.0,84900.0,2.2,Bachelor's degree
+13-1031,1.274024,"Claims Adjusters, Examiners, and Investigators",293780.0,293780.0,75050.0,21.1,High school diploma or equivalent
+13-1032,0.6634955,"Insurance Appraisers, Auto Damage",8670.0,8670.0,74520.0,0.5,Postsecondary nondegree award
+13-1041,0.6981205,Compliance Officers,383620.0,383620.0,75670.0,33.3,Bachelor's degree
+13-1051,1.367669,Cost Estimators,220970.0,220970.0,74740.0,16.9,Bachelor's degree
+13-1071,1.36005,Human Resources Specialists,895970.0,895970.0,67650.0,81.8,Bachelor's degree
+13-1074,-0.4354025,Farm Labor Contractors,460.0,460.0,45730.0,0.3,No formal educational credential
+13-1075,1.334834,Labor Relations Specialists,62800.0,62800.0,89980.0,5.1,Bachelor's degree
+13-1081,1.297303,Logisticians,228470.0,228470.0,79400.0,26.4,Bachelor's degree
+13-1111,1.432417,Management Analysts,838140.0,838140.0,99410.0,98.1,Bachelor's degree
+13-1121,0.3740207,"Meeting, Convention, and Event Planners",122130.0,122130.0,56920.0,15.5,Bachelor's degree
+13-1131,1.242567,Fundraisers,101730.0,101730.0,64160.0,10.2,Bachelor's degree
+13-1141,1.440985,"Compensation, Benefits, and Job Analysis Specialists",99850.0,99850.0,74530.0,8.5,Bachelor's degree
+13-1151,1.198409,Training and Development Specialists,403480.0,403480.0,64340.0,43.9,Bachelor's degree
+13-1161,1.426757,Market Research Analysts and Marketing Specialists,846370.0,846370.0,74680.0,87.2,Bachelor's degree
+13-1199,1.047687,"Business Operations Specialists, All Other",1103440.0,1103440.0,79590.0,108.2,Bachelor's degree
+13-2011,1.481956,Accountants and Auditors,1435770.0,1435770.0,79880.0,124.2,Bachelor's degree
+13-2031,1.502988,Budget Analysts,47310.0,47310.0,84940.0,3.1,Bachelor's degree
+13-2041,1.345268,Credit Analysts,73200.0,73200.0,79420.0,3.7,Bachelor's degree
+13-2051,1.380615,Financial and Investment Analysts,325220.0,325220.0,99010.0,25.1,Bachelor's degree
+13-2052,1.400749,Personal Financial Advisors,272190.0,272190.0,99580.0,24.1,Bachelor's degree
+13-2053,1.326652,Insurance Underwriters,101310.0,101310.0,77860.0,8.2,Bachelor's degree
+13-2061,1.526064,Financial Examiners,63440.0,63440.0,84300.0,5.7,Bachelor's degree
+13-2071,1.385381,Credit Counselors,27950.0,27950.0,48570.0,2.2,Bachelor's degree
+13-2072,1.385739,Loan Officers,321090.0,321090.0,69990.0,20.3,Bachelor's degree
+13-2081,1.36682,"Tax Examiners and Collectors, and Revenue Agents",50250.0,50250.0,58530.0,4.3,Bachelor's degree
+13-2082,1.29371,Tax Preparers,81650.0,81650.0,49010.0,10.4,High school diploma or equivalent
+13-2099,1.361362,"Financial Specialists, All Other",122730.0,122730.0,78310.0,10.3,Bachelor's degree
+15-2011,1.516474,Actuaries,25470.0,25470.0,120000.0,2.4,Bachelor's degree
+15-2021,1.472319,Mathematicians,2220.0,2220.0,116440.0,0.1,Master's degree
+15-2031,1.40002,Operations Research Analysts,117880.0,117880.0,83640.0,9.6,Bachelor's degree
+15-2041,1.382724,Statisticians,29950.0,29950.0,104110.0,2.0,Master's degree
+17-1011,1.047142,"Architects, Except Landscape and Naval",111170.0,111170.0,93310.0,7.8,Bachelor's degree
+17-1012,1.034388,Landscape Architects,20370.0,20370.0,79320.0,1.7,Bachelor's degree
+17-1021,0.8169979,Cartographers and Photogrammetrists,12330.0,12330.0,76210.0,1.0,Bachelor's degree
+17-1022,0.1460606,Surveyors,50740.0,50740.0,68540.0,3.9,Bachelor's degree
+17-2011,1.338738,Aerospace Engineers,66660.0,66660.0,130720.0,4.5,Bachelor's degree
+17-2021,0.9409636,Agricultural Engineers,1860.0,1860.0,88750.0,0.1,Bachelor's degree
+17-2031,0.9874239,Bioengineers and Biomedical Engineers,19320.0,19320.0,100730.0,1.3,Bachelor's degree
+17-2041,1.341336,Chemical Engineers,21140.0,21140.0,112100.0,1.1,Bachelor's degree
+17-2051,1.282867,Civil Engineers,327950.0,327950.0,95890.0,23.6,Bachelor's degree
+17-2061,1.141812,Computer Hardware Engineers,82660.0,82660.0,138080.0,4.7,Bachelor's degree
+17-2071,1.126725,Electrical Engineers,185430.0,185430.0,106950.0,11.7,Bachelor's degree
+17-2072,0.6654578,"Electronics Engineers, Except Computer",96410.0,96410.0,119200.0,5.7,Bachelor's degree
+17-2081,1.343561,Environmental Engineers,39880.0,39880.0,100090.0,3.0,Bachelor's degree
+17-2111,0.9948935,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",22510.0,22510.0,103690.0,1.5,Bachelor's degree
+17-2112,1.13787,Industrial Engineers,332870.0,332870.0,99380.0,25.2,Bachelor's degree
+17-2121,0.5472173,Marine Engineers and Naval Architects,9960.0,9960.0,100270.0,0.6,Bachelor's degree
+17-2131,1.037278,Materials Engineers,24630.0,24630.0,104100.0,1.5,Bachelor's degree
+17-2141,1.004709,Mechanical Engineers,281290.0,281290.0,99510.0,18.1,Bachelor's degree
+17-2151,1.34695,"Mining and Geological Engineers, Including Mining Safety Engineers",7040.0,7040.0,100640.0,0.4,Bachelor's degree
+17-2161,1.303009,Nuclear Engineers,12710.0,12710.0,125460.0,0.8,Bachelor's degree
+17-2171,1.247779,Petroleum Engineers,20390.0,20390.0,135690.0,1.2,Bachelor's degree
+17-2199,0.787566,"Engineers, All Other",150990.0,150990.0,111970.0,9.3,Bachelor's degree
+17-3011,0.9233925,Architectural and Civil Drafters,111070.0,111070.0,61820.0,10.0,Associate's degree
+17-3012,0.910166,Electrical and Electronics Drafters,20680.0,20680.0,69260.0,1.7,Associate's degree
+17-3013,0.8410071,Mechanical Drafters,44850.0,44850.0,64060.0,3.3,Associate's degree
+17-3021,0.3909402,Aerospace Engineering and Operations Technologists and Technicians,10640.0,10640.0,77830.0,0.9,Associate's degree
+17-3022,0.9323219,Civil Engineering Technologists and Technicians,63560.0,63560.0,60700.0,5.5,Associate's degree
+17-3023,0.3515252,Electrical and Electronic Engineering Technologists and Technicians,97420.0,97420.0,72800.0,8.4,Associate's degree
+17-3024,-0.3040507,Electro-Mechanical and Mechatronics Technologists and Technicians,15360.0,15360.0,65080.0,1.3,Associate's degree
+17-3025,0.0438054,Environmental Engineering Technologists and Technicians,13780.0,13780.0,54000.0,1.1,Associate's degree
+17-3026,0.6106679,Industrial Engineering Technologists and Technicians,73020.0,73020.0,62610.0,6.3,Associate's degree
+17-3027,-0.1192367,Mechanical Engineering Technologists and Technicians,38930.0,38930.0,64020.0,3.2,Associate's degree
+17-3029,0.1941278,"Engineering Technologists and Technicians, Except Drafters, All Other",66200.0,66200.0,73500.0,5.7,Associate's degree
+17-3031,0.0852324,Surveying and Mapping Technicians,56050.0,56050.0,48940.0,7.6,High school diploma or equivalent
+19-1011,1.041358,Animal Scientists,2460.0,2460.0,70140.0,0.2,Bachelor's degree
+19-1012,0.7943575,Food Scientists and Technologists,14100.0,14100.0,82090.0,1.2,Bachelor's degree
+19-1013,0.6320696,Soil and Plant Scientists,15800.0,15800.0,68240.0,1.7,Bachelor's degree
+19-1020,0.752081,Biological Scientists,133050.0,133050.0,91790.0,10.8,
+19-1021,0.9060509,Biochemists and Biophysicists,33180.0,33180.0,107460.0,2.9,Doctoral or professional degree
+19-1022,0.6955647,Microbiologists,21540.0,21540.0,85470.0,1.7,Bachelor's degree
+19-1023,0.3175953,Zoologists and Wildlife Biologists,17100.0,17100.0,70600.0,1.4,Bachelor's degree
+19-1029,1.010193,"Biological Scientists, All Other",61220.0,61220.0,91100.0,4.8,Bachelor's degree
+19-1031,0.0690313,Conservation Scientists,22790.0,22790.0,68750.0,2.5,Bachelor's degree
+19-1032,-0.184381,Foresters,9450.0,9450.0,67330.0,1.1,Bachelor's degree
+19-1041,1.436287,Epidemiologists,10230.0,10230.0,81390.0,0.8,Master's degree
+19-1042,1.279928,"Medical Scientists, Except Epidemiologists",136620.0,136620.0,100890.0,9.6,Doctoral or professional degree
+19-2011,1.373737,Astronomers,2080.0,2080.0,127930.0,0.1,Doctoral or professional degree
+19-2012,1.345736,Physicists,18350.0,18350.0,155680.0,1.7,Doctoral or professional degree
+19-2021,1.373917,Atmospheric and Space Scientists,9310.0,9310.0,92860.0,0.7,Bachelor's degree
+19-2031,0.5011251,Chemists,83530.0,83530.0,84680.0,6.3,Bachelor's degree
+19-2032,1.032757,Materials Scientists,8810.0,8810.0,106160.0,0.6,Bachelor's degree
+19-2041,1.014113,"Environmental Scientists and Specialists, Including Health",80730.0,80730.0,78980.0,8.5,Bachelor's degree
+19-2042,0.7143481,"Geoscientists, Except Hydrologists and Geographers",24620.0,24620.0,92580.0,2.0,Bachelor's degree
+19-2043,0.6405071,Hydrologists,6150.0,6150.0,88770.0,0.5,Bachelor's degree
+19-2099,1.140157,"Physical Scientists, All Other",20820.0,20820.0,112280.0,2.0,Bachelor's degree
+19-3011,1.403764,Economists,16420.0,16420.0,115730.0,0.9,Master's degree
+19-3022,1.42653,Survey Researchers,8190.0,8190.0,60960.0,0.7,Master's degree
+19-3032,1.402475,Industrial-Organizational Psychologists,1030.0,1030.0,147420.0,0.4,Master's degree
+19-3039,1.389854,"Psychologists, All Other",14480.0,14480.0,117750.0,3.9,Master's degree
+19-3041,1.411125,Sociologists,2890.0,2890.0,101770.0,0.3,Master's degree
+19-3051,1.227516,Urban and Regional Planners,42690.0,42690.0,81800.0,3.4,Master's degree
+19-3091,0.6965665,Anthropologists and Archeologists,7720.0,7720.0,63800.0,0.8,Master's degree
+19-3092,1.436298,Geographers,1460.0,1460.0,90880.0,0.1,Bachelor's degree
+19-3093,1.098921,Historians,3040.0,3040.0,72890.0,0.3,Master's degree
+19-3094,1.418863,Political Scientists,5580.0,5580.0,132350.0,0.5,Master's degree
+19-3099,1.328048,"Social Scientists and Related Workers, All Other",35210.0,35210.0,95890.0,3.2,Bachelor's degree
+19-4021,0.3012355,Biological Technicians,76990.0,76990.0,51430.0,9.1,Bachelor's degree
+19-4031,0.0628057,Chemical Technicians,55880.0,55880.0,56750.0,6.7,Associate's degree
+19-4051,0.1696743,Nuclear Technicians,5400.0,5400.0,101740.0,0.7,Associate's degree
+19-4061,1.204652,Social Science Research Assistants,30890.0,30890.0,56400.0,5.2,Bachelor's degree
+19-4092,0.2400518,Forensic Science Technicians,17520.0,17520.0,64940.0,2.9,Bachelor's degree
+19-4099,0.4501044,"Life, Physical, and Social Science Technicians, All Other",72230.0,72230.0,58350.0,10.6,Associate's degree
+21-1012,0.9739287,"Educational, Guidance, and Career Counselors and Advisors",327660.0,327660.0,61710.0,31.0,Master's degree
+21-1013,1.367434,Marriage and Family Therapists,63340.0,63340.0,58510.0,7.7,Master's degree
+21-1015,0.5025014,Rehabilitation Counselors,84750.0,84750.0,44040.0,10.0,Master's degree
+21-1021,0.7761707,"Child, Family, and School Social Workers",352160.0,352160.0,53940.0,35.1,Bachelor's degree
+21-1022,0.9339648,Healthcare Social Workers,185020.0,185020.0,62940.0,18.4,Master's degree
+21-1023,1.119216,Mental Health and Substance Abuse Social Workers,114680.0,114680.0,55960.0,13.5,Master's degree
+21-1091,0.691658,Health Education Specialists,57800.0,57800.0,62860.0,7.9,Bachelor's degree
+21-1092,0.5272448,Probation Officers and Correctional Treatment Specialists,85870.0,85870.0,61800.0,7.9,Bachelor's degree
+21-1093,0.4652255,Social and Human Service Assistants,409310.0,409310.0,41410.0,50.6,High school diploma or equivalent
+21-1094,0.0371229,Community Health Workers,58550.0,58550.0,48200.0,7.8,High school diploma or equivalent
+21-2011,1.282559,Clergy,56640.0,56640.0,58920.0,23.0,Bachelor's degree
+21-2021,1.210922,"Directors, Religious Activities and Education",23270.0,23270.0,50140.0,13.8,Bachelor's degree
+23-1011,1.328783,Lawyers,731340.0,731340.0,145760.0,31.5,Doctoral or professional degree
+23-1012,1.462973,Judicial Law Clerks,14680.0,14680.0,57490.0,1.0,Doctoral or professional degree
+23-1021,1.374714,"Administrative Law Judges, Adjudicators, and Hearing Officers",14670.0,14670.0,111090.0,0.5,Doctoral or professional degree
+23-1022,1.431593,"Arbitrators, Mediators, and Conciliators",7060.0,7060.0,71540.0,0.3,Bachelor's degree
+23-1023,1.496494,"Judges, Magistrate Judges, and Magistrates",24470.0,24470.0,148910.0,0.9,Doctoral or professional degree
+23-2011,1.292055,Paralegals and Legal Assistants,354890.0,354890.0,60970.0,39.3,Associate's degree
+23-2093,1.279954,"Title Examiners, Abstractors, and Searchers",49760.0,49760.0,53550.0,5.4,High school diploma or equivalent
+25-1011,1.349314,"Business Teachers, Postsecondary",82980.0,82980.0,97130.0,8.1,Doctoral or professional degree
+25-1021,1.277778,"Computer Science Teachers, Postsecondary",36150.0,36150.0,96430.0,3.5,Doctoral or professional degree
+25-1022,1.338676,"Mathematical Science Teachers, Postsecondary",48230.0,48230.0,81020.0,4.4,Doctoral or professional degree
+25-1031,1.222022,"Architecture Teachers, Postsecondary",8350.0,8350.0,105770.0,0.9,Doctoral or professional degree
+25-1032,1.351133,"Engineering Teachers, Postsecondary",38370.0,38370.0,106910.0,4.1,Doctoral or professional degree
+25-1041,0.7546685,"Agricultural Sciences Teachers, Postsecondary",7550.0,7550.0,85260.0,0.8,Doctoral or professional degree
+25-1042,1.227677,"Biological Science Teachers, Postsecondary",52050.0,52050.0,83920.0,5.4,Doctoral or professional degree
+25-1043,1.260278,"Forestry and Conservation Science Teachers, Postsecondary",1260.0,1260.0,101650.0,0.1,Doctoral or professional degree
+25-1051,1.306156,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",11770.0,11770.0,100690.0,1.0,Doctoral or professional degree
+25-1052,1.333947,"Chemistry Teachers, Postsecondary",20210.0,20210.0,85810.0,1.9,Doctoral or professional degree
+25-1053,1.347519,"Environmental Science Teachers, Postsecondary",7120.0,7120.0,88410.0,0.7,Doctoral or professional degree
+25-1054,1.044191,"Physics Teachers, Postsecondary",14030.0,14030.0,98020.0,1.3,Doctoral or professional degree
+25-1061,1.321694,"Anthropology and Archeology Teachers, Postsecondary",5030.0,5030.0,93650.0,0.5,Doctoral or professional degree
+25-1062,1.308699,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",11570.0,11570.0,86030.0,1.1,Doctoral or professional degree
+25-1063,1.319012,"Economics Teachers, Postsecondary",12210.0,12210.0,115300.0,1.2,Doctoral or professional degree
+25-1064,1.318899,"Geography Teachers, Postsecondary",3480.0,3480.0,85600.0,0.3,Doctoral or professional degree
+25-1065,1.368397,"Political Science Teachers, Postsecondary",17090.0,17090.0,93810.0,1.6,Doctoral or professional degree
+25-1066,1.33366,"Psychology Teachers, Postsecondary",40610.0,40610.0,82140.0,4.0,Doctoral or professional degree
+25-1067,1.349229,"Sociology Teachers, Postsecondary",12870.0,12870.0,82670.0,1.1,Doctoral or professional degree
+25-1071,0.924754,"Health Specialties Teachers, Postsecondary",225360.0,225360.0,105650.0,27.4,Doctoral or professional degree
+25-1072,0.5170682,"Nursing Instructors and Teachers, Postsecondary",72700.0,72700.0,80780.0,8.6,Doctoral or professional degree
+25-1081,1.192988,"Education Teachers, Postsecondary",60860.0,60860.0,73240.0,5.6,Doctoral or professional degree
+25-1082,1.386292,"Library Science Teachers, Postsecondary",4220.0,4220.0,80310.0,0.4,Doctoral or professional degree
+25-1111,1.389999,"Criminal Justice and Law Enforcement Teachers, Postsecondary",13390.0,13390.0,69030.0,1.2,Doctoral or professional degree
+25-1112,1.35645,"Law Teachers, Postsecondary",14570.0,14570.0,127360.0,2.2,Doctoral or professional degree
+25-1113,1.347327,"Social Work Teachers, Postsecondary",11730.0,11730.0,75020.0,1.3,Doctoral or professional degree
+25-1121,0.7582769,"Art, Drama, and Music Teachers, Postsecondary",101500.0,101500.0,80360.0,9.0,Master's degree
+25-1122,1.347435,"Communications Teachers, Postsecondary",28520.0,28520.0,79910.0,2.7,Doctoral or professional degree
+25-1123,1.417833,"English Language and Literature Teachers, Postsecondary",57600.0,57600.0,78130.0,5.1,Doctoral or professional degree
+25-1124,1.33412,"Foreign Language and Literature Teachers, Postsecondary",20820.0,20820.0,78760.0,1.9,Doctoral or professional degree
+25-1125,1.43749,"History Teachers, Postsecondary",20610.0,20610.0,82140.0,1.7,Doctoral or professional degree
+25-1126,1.363522,"Philosophy and Religion Teachers, Postsecondary",20320.0,20320.0,79930.0,2.0,Doctoral or professional degree
+25-1192,1.211652,"Family and Consumer Sciences Teachers, Postsecondary",2660.0,2660.0,78410.0,0.2,Doctoral or professional degree
+25-1193,1.16489,"Recreation and Fitness Studies Teachers, Postsecondary",13270.0,13270.0,75770.0,1.1,Doctoral or professional degree
+25-1194,0.1622185,"Career/Technical Education Teachers, Postsecondary",111180.0,111180.0,62060.0,8.8,Bachelor's degree
+25-2011,0.0306372,"Preschool Teachers, Except Special Education",430240.0,430240.0,37130.0,65.5,Associate's degree
+25-2012,0.3644047,"Kindergarten Teachers, Except Special Education",118580.0,118580.0,62690.0,12.8,Bachelor's degree
+25-2021,0.8869491,"Elementary School Teachers, Except Special Education",1410070.0,1410070.0,63680.0,91.0,Bachelor's degree
+25-2022,1.286445,"Middle School Teachers, Except Special and Career/Technical Education",626690.0,626690.0,64290.0,40.5,Bachelor's degree
+25-2023,0.5199191,"Career/Technical Education Teachers, Middle School",12210.0,12210.0,63860.0,0.9,Bachelor's degree
+25-2031,1.191325,"Secondary School Teachers, Except Special and Career/Technical Education",1045170.0,1045170.0,65220.0,66.2,Bachelor's degree
+25-2032,0.3734505,"Career/Technical Education Teachers, Secondary School",90070.0,90070.0,65130.0,6.2,Bachelor's degree
+25-2051,0.3750564,"Special Education Teachers, Preschool",24850.0,24850.0,65270.0,2.1,Bachelor's degree
+25-2052,0.7357486,"Special Education Teachers, Kindergarten and Elementary School",212850.0,212850.0,64910.0,15.4,Bachelor's degree
+25-2059,-0.6632917,"Special Education Teachers, All Other",43700.0,43700.0,67190.0,2.9,Bachelor's degree
+25-3011,1.348951,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",36890.0,36890.0,60560.0,3.9,Bachelor's degree
+25-3021,0.526352,Self-Enrichment Teachers,272110.0,272110.0,45330.0,51.4,High school diploma or equivalent
+25-3099,1.32533,"Teachers and Instructors, All Other",118290.0,118290.0,64390.0,18.0,Bachelor's degree
+25-4011,0.6765602,Archivists,7150.0,7150.0,59910.0,1.1,Master's degree
+25-4012,0.7366658,Curators,12510.0,12510.0,61750.0,1.8,Master's degree
+25-4013,-0.0912107,Museum Technicians and Conservators,12670.0,12670.0,48670.0,1.9,Bachelor's degree
+25-4031,0.037965,Library Technicians,76670.0,76670.0,39310.0,13.0,Postsecondary nondegree award
+25-9021,0.8604031,Farm and Home Management Educators,8110.0,8110.0,59770.0,1.1,Master's degree
+25-9031,1.301855,Instructional Coordinators,207270.0,207270.0,74620.0,21.9,Master's degree
+27-1011,1.02251,Art Directors,51200.0,51200.0,106500.0,12.3,Bachelor's degree
+27-1012,-0.9295284,Craft Artists,5830.0,5830.0,36600.0,1.0,No formal educational credential
+27-1013,-0.5690498,"Fine Artists, Including Painters, Sculptors, and Illustrators",10910.0,10910.0,59300.0,2.2,Bachelor's degree
+27-1014,0.7058651,Special Effects Artists and Animators,29940.0,29940.0,99060.0,5.0,Bachelor's degree
+27-1021,0.867039,Commercial and Industrial Designers,30810.0,30810.0,76250.0,2.5,Bachelor's degree
+27-1022,0.5801539,Fashion Designers,19940.0,19940.0,79290.0,2.3,Bachelor's degree
+27-1023,-0.2718452,Floral Designers,43350.0,43350.0,34690.0,5.1,High school diploma or equivalent
+27-1024,0.7156958,Graphic Designers,212720.0,212720.0,58910.0,20.0,Bachelor's degree
+27-1025,1.12168,Interior Designers,67760.0,67760.0,62510.0,7.8,Bachelor's degree
+27-1026,-1.001413,Merchandise Displayers and Window Trimmers,175790.0,175790.0,36230.0,20.8,High school diploma or equivalent
+27-1027,-0.0519323,Set and Exhibit Designers,10090.0,10090.0,59490.0,2.5,Bachelor's degree
+27-2011,0.1590935,Actors,62560.0,62560.0,,6.3,"Some college, no degree"
+27-2012,0.9388108,Producers and Directors,154470.0,154470.0,82510.0,12.8,Bachelor's degree
+27-2021,-1.814336,Athletes and Sports Competitors,14930.0,14930.0,70280.0,2.1,No formal educational credential
+27-2022,0.1168668,Coaches and Scouts,238980.0,238980.0,45910.0,41.8,Bachelor's degree
+27-2023,-0.0325617,"Umpires, Referees, and Other Sports Officials",14840.0,14840.0,35820.0,4.6,High school diploma or equivalent
+27-2031,-2.669758,Dancers,11510.0,11510.0,,1.8,No formal educational credential
+27-2032,-1.575769,Choreographers,4190.0,4190.0,52000.0,0.7,High school diploma or equivalent
+27-2041,0.8829641,Music Directors and Composers,10770.0,10770.0,62590.0,4.3,Bachelor's degree
+27-2042,-0.0040058,Musicians and Singers,35520.0,35520.0,,19.4,No formal educational credential
+27-3011,0.8493547,Broadcast Announcers and Radio Disc Jockeys,25070.0,25070.0,44890.0,2.3,Bachelor's degree
+27-3031,1.284927,Public Relations Specialists,275550.0,275550.0,66750.0,27.6,Bachelor's degree
+27-3041,1.128221,Editors,95700.0,95700.0,75020.0,9.8,Bachelor's degree
+27-3042,1.184001,Technical Writers,47970.0,47970.0,80050.0,4.5,Bachelor's degree
+27-3043,0.9879274,Writers and Authors,49450.0,49450.0,73690.0,13.4,Bachelor's degree
+27-3091,1.111319,Interpreters and Translators,51560.0,51560.0,57090.0,6.9,Bachelor's degree
+27-4011,-0.0117747,Audio and Video Technicians,66700.0,66700.0,51640.0,7.3,Postsecondary nondegree award
+27-4012,0.1222249,Broadcast Technicians,26190.0,26190.0,57690.0,1.8,Associate's degree
+27-4014,0.4715462,Sound Engineering Technicians,14600.0,14600.0,59430.0,1.2,Postsecondary nondegree award
+27-4021,-0.1680973,Photographers,53630.0,53630.0,40760.0,12.7,High school diploma or equivalent
+27-4031,-0.4470009,"Camera Operators, Television, Video, and Film",23940.0,23940.0,61800.0,2.9,Bachelor's degree
+27-4032,0.985707,Film and Video Editors,29240.0,29240.0,66600.0,3.6,Bachelor's degree
+29-1011,-0.1911757,Chiropractors,41480.0,41480.0,76530.0,2.8,Doctoral or professional degree
+29-1021,-0.1813301,"Dentists, General",121640.0,121640.0,166300.0,3.9,Doctoral or professional degree
+29-1022,-0.2389668,Oral and Maxillofacial Surgeons,4160.0,4160.0,205380.0,0.2,Doctoral or professional degree
+29-1023,0.1616631,Orthodontists,6400.0,6400.0,91420.0,0.2,Doctoral or professional degree
+29-1024,-0.1561403,Prosthodontists,570.0,570.0,234000.0,0.0,Doctoral or professional degree
+29-1031,1.342809,Dietitians and Nutritionists,73860.0,73860.0,69680.0,6.2,Bachelor's degree
+29-1041,0.5040194,Optometrists,41390.0,41390.0,131860.0,2.4,Doctoral or professional degree
+29-1051,0.6058705,Pharmacists,331700.0,331700.0,136030.0,14.2,Doctoral or professional degree
+29-1071,0.1059147,Physician Assistants,145740.0,145740.0,130020.0,12.0,Master's degree
+29-1081,0.6279185,Podiatrists,9470.0,9470.0,141650.0,0.3,Doctoral or professional degree
+29-1122,0.1151615,Occupational Therapists,144840.0,144840.0,96370.0,10.2,Master's degree
+29-1123,-0.3581922,Physical Therapists,240820.0,240820.0,99710.0,13.2,Doctoral or professional degree
+29-1124,-0.2189393,Radiation Therapists,16640.0,16640.0,98300.0,0.9,Associate's degree
+29-1125,0.2190109,Recreational Therapists,15540.0,15540.0,57120.0,1.3,Bachelor's degree
+29-1126,-0.1880507,Respiratory Therapists,129750.0,129750.0,77960.0,8.8,Associate's degree
+29-1127,1.146267,Speech-Language Pathologists,172100.0,172100.0,89290.0,13.3,Master's degree
+29-1128,-0.0331901,Exercise Physiologists,8060.0,8060.0,54860.0,1.7,Bachelor's degree
+29-1131,-0.0749958,Veterinarians,78220.0,78220.0,119100.0,3.0,Doctoral or professional degree
+29-1141,0.2294097,Registered Nurses,3175390.0,3175390.0,86070.0,189.1,Bachelor's degree
+29-1151,0.2413191,Nurse Anesthetists,47810.0,47810.0,212650.0,2.7,Master's degree
+29-1161,0.1966265,Nurse Midwives,6960.0,6960.0,129650.0,0.5,Master's degree
+29-1171,0.1900572,Nurse Practitioners,280140.0,280140.0,126260.0,29.5,Master's degree
+29-1181,0.6329063,Audiologists,13880.0,13880.0,87740.0,0.7,Doctoral or professional degree
+29-2031,-0.0909526,Cardiovascular Technologists and Technicians,55660.0,55660.0,66170.0,3.8,Associate's degree
+29-2032,-0.264054,Diagnostic Medical Sonographers,82780.0,82780.0,84470.0,5.8,Associate's degree
+29-2033,0.0855276,Nuclear Medicine Technologists,16560.0,16560.0,92500.0,0.9,Associate's degree
+29-2034,-0.5559037,Radiologic Technologists and Technicians,221170.0,221170.0,73410.0,12.9,Associate's degree
+29-2035,-0.0727627,Magnetic Resonance Imaging Technologists,41340.0,41340.0,83740.0,2.6,Associate's degree
+29-2051,-0.1260282,Dietetic Technicians,24240.0,24240.0,36520.0,4.0,Associate's degree
+29-2052,0.0070256,Pharmacy Technicians,460280.0,460280.0,40300.0,49.0,High school diploma or equivalent
+29-2053,-0.2203484,Psychiatric Technicians,115940.0,115940.0,39700.0,15.9,Postsecondary nondegree award
+29-2055,-0.4830476,Surgical Technologists,110320.0,110320.0,60610.0,7.0,Postsecondary nondegree award
+29-2056,-0.3623179,Veterinary Technologists and Technicians,122000.0,122000.0,43740.0,14.3,Associate's degree
+29-2057,0.078734,Ophthalmic Medical Technicians,73390.0,73390.0,41780.0,12.5,Postsecondary nondegree award
+29-2061,-0.5137373,Licensed Practical and Licensed Vocational Nurses,630250.0,630250.0,59730.0,54.4,Postsecondary nondegree award
+29-2081,0.1013966,"Opticians, Dispensing",76770.0,76770.0,44170.0,6.8,High school diploma or equivalent
+29-2091,0.066577,Orthotists and Prosthetists,8820.0,8820.0,78100.0,0.9,Master's degree
+29-2092,0.5648953,Hearing Aid Specialists,10250.0,10250.0,58670.0,1.0,High school diploma or equivalent
+29-2099,-0.283854,"Health Technologists and Technicians, All Other",171110.0,171110.0,47470.0,13.6,Postsecondary nondegree award
+29-9091,-0.3311363,Athletic Trainers,28480.0,28480.0,57930.0,2.4,Master's degree
+29-9092,1.527667,Genetic Counselors,3050.0,3050.0,95770.0,0.3,Master's degree
+29-9099,0.2295568,"Healthcare Practitioners and Technical Workers, All Other",36900.0,36900.0,63630.0,2.6,Postsecondary nondegree award
+31-2011,-0.3153762,Occupational Therapy Assistants,46090.0,46090.0,67010.0,7.2,Associate's degree
+31-2012,-0.7734322,Occupational Therapy Aides,4430.0,4430.0,36970.0,0.6,High school diploma or equivalent
+31-2021,-0.5308535,Physical Therapist Assistants,104000.0,104000.0,64080.0,19.8,Associate's degree
+31-2022,-0.8823265,Physical Therapist Aides,42390.0,42390.0,33520.0,6.6,High school diploma or equivalent
+31-9011,-1.410233,Massage Therapists,92650.0,92650.0,55310.0,24.7,Postsecondary nondegree award
+31-9091,-0.5268759,Dental Assistants,370690.0,370690.0,46540.0,52.9,Postsecondary nondegree award
+31-9092,0.1497917,Medical Assistants,763040.0,763040.0,42000.0,112.3,Postsecondary nondegree award
+31-9093,-0.7308648,Medical Equipment Preparers,66790.0,66790.0,45280.0,10.9,High school diploma or equivalent
+31-9094,1.06259,Medical Transcriptionists,52420.0,52420.0,37060.0,7.4,Postsecondary nondegree award
+31-9095,-0.1552654,Pharmacy Aides,43830.0,43830.0,36200.0,6.1,High school diploma or equivalent
+31-9096,-0.7735824,Veterinary Assistants and Laboratory Animal Caretakers,115770.0,115770.0,36440.0,22.2,High school diploma or equivalent
+31-9097,-0.2778475,Phlebotomists,137080.0,137080.0,41810.0,18.4,Postsecondary nondegree award
+31-9099,0.1660077,"Healthcare Support Workers, All Other",102230.0,102230.0,44490.0,14.4,High school diploma or equivalent
+33-1011,-0.5584278,First-Line Supervisors of Correctional Officers,52280.0,52280.0,70530.0,4.3,High school diploma or equivalent
+33-1012,-0.1923298,First-Line Supervisors of Police and Detectives,138140.0,138140.0,101750.0,10.9,High school diploma or equivalent
+33-1021,-0.593021,First-Line Supervisors of Firefighting and Prevention Workers,84120.0,84120.0,86220.0,6.5,Postsecondary nondegree award
+33-2011,-1.320232,Firefighters,315460.0,315460.0,57120.0,27.1,Postsecondary nondegree award
+33-2021,0.062793,Fire Inspectors and Investigators,14200.0,14200.0,74160.0,1.5,Postsecondary nondegree award
+33-2022,-0.2144127,Forest Fire Inspectors and Prevention Specialists,2270.0,2270.0,54080.0,0.3,High school diploma or equivalent
+33-3011,-0.5103183,Bailiffs,15900.0,15900.0,53040.0,1.8,High school diploma or equivalent
+33-3012,-0.8875365,Correctional Officers and Jailers,351420.0,351420.0,53300.0,30.1,High school diploma or equivalent
+33-3021,0.2257696,Detectives and Criminal Investigators,106730.0,106730.0,91100.0,7.8,High school diploma or equivalent
+33-3031,-0.4585168,Fish and Game Wardens,6290.0,6290.0,60380.0,0.5,Bachelor's degree
+33-3041,-0.6239931,Parking Enforcement Workers,7420.0,7420.0,46840.0,0.7,High school diploma or equivalent
+33-3051,-0.6681123,Police and Sheriff's Patrol Officers,646310.0,646310.0,72280.0,53.7,High school diploma or equivalent
+33-3052,-0.8205515,Transit and Railroad Police,2360.0,2360.0,72250.0,0.2,High school diploma or equivalent
+33-9011,-0.5946321,Animal Control Workers,11600.0,11600.0,43170.0,1.3,High school diploma or equivalent
+33-9021,0.7483108,Private Detectives and Investigators,34600.0,34600.0,49540.0,3.9,High school diploma or equivalent
+33-9031,0.7283933,Gambling Surveillance Officers and Gambling Investigators,10660.0,10660.0,39210.0,1.3,High school diploma or equivalent
+33-9032,-0.3908421,Security Guards,1202940.0,1202940.0,37070.0,161.0,High school diploma or equivalent
+33-9091,-0.5699511,Crossing Guards and Flaggers,90780.0,90780.0,36370.0,18.0,No formal educational credential
+33-9092,-0.4718385,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",123560.0,123560.0,30380.0,42.7,No formal educational credential
+33-9093,-0.5068558,Transportation Security Screeners,47950.0,47950.0,50020.0,4.7,High school diploma or equivalent
+33-9099,0.0764088,"Protective Service Workers, All Other",82500.0,82500.0,39360.0,23.3,High school diploma or equivalent
+35-1011,-0.2676433,Chefs and Head Cooks,172370.0,172370.0,58920.0,24.4,High school diploma or equivalent
+35-1012,-0.2575492,First-Line Supervisors of Food Preparation and Serving Workers,1176540.0,1176540.0,38520.0,183.9,High school diploma or equivalent
+35-2011,-0.7131837,"Cooks, Fast Food",673490.0,673490.0,29260.0,82.1,No formal educational credential
+35-2012,-0.6360813,"Cooks, Institution and Cafeteria",435640.0,435640.0,35320.0,69.7,No formal educational credential
+35-2013,-0.7867444,"Cooks, Private Household",740.0,740.0,42590.0,5.3,Postsecondary nondegree award
+35-2014,-0.7418264,"Cooks, Restaurant",1412350.0,1412350.0,35780.0,250.7,No formal educational credential
+35-2015,-0.5933817,"Cooks, Short Order",126370.0,126370.0,34130.0,20.6,No formal educational credential
+35-2021,-1.226416,Food Preparation Workers,879610.0,879610.0,32420.0,148.0,No formal educational credential
+35-3011,-0.6159883,Bartenders,711140.0,711140.0,31510.0,129.6,No formal educational credential
+35-3031,-0.9481003,Waiters and Waitresses,2237850.0,2237850.0,31940.0,456.7,No formal educational credential
+35-3041,-0.7270206,"Food Servers, Nonrestaurant",267840.0,267840.0,33110.0,48.0,No formal educational credential
+35-9011,-1.927078,Dining Room and Cafeteria Attendants and Bartender Helpers,483390.0,483390.0,31180.0,99.6,No formal educational credential
+35-9021,-1.738612,Dishwashers,463940.0,463940.0,31200.0,76.8,No formal educational credential
+35-9031,-0.0565477,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",425020.0,425020.0,29220.0,107.7,No formal educational credential
+37-1011,-0.5854128,First-Line Supervisors of Housekeeping and Janitorial Workers,171120.0,171120.0,46650.0,33.0,High school diploma or equivalent
+37-1012,-0.5548871,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",126020.0,126020.0,55740.0,23.2,High school diploma or equivalent
+37-2011,-1.436201,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2172500.0,2172500.0,35020.0,351.3,No formal educational credential
+37-2012,-1.480657,Maids and Housekeeping Cleaners,836230.0,836230.0,33450.0,193.5,No formal educational credential
+37-2021,-0.7255374,Pest Control Workers,93760.0,93760.0,43470.0,13.4,High school diploma or equivalent
+37-3011,-1.824293,Landscaping and Groundskeeping Workers,929930.0,929930.0,37360.0,158.2,No formal educational credential
+37-3012,-0.8847935,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",23520.0,23520.0,44070.0,4.1,High school diploma or equivalent
+37-3013,-1.727035,Tree Trimmers and Pruners,50270.0,50270.0,49070.0,7.4,High school diploma or equivalent
+39-2011,-0.9167759,Animal Trainers,19240.0,19240.0,38810.0,7.1,High school diploma or equivalent
+39-2021,-0.8890408,Animal Caretakers,268830.0,268830.0,31200.0,74.6,High school diploma or equivalent
+39-3011,0.0605832,Gambling Dealers,80570.0,80570.0,32240.0,14.1,High school diploma or equivalent
+39-3012,0.4652752,Gambling and Sports Book Writers and Runners,8700.0,8700.0,29170.0,1.2,High school diploma or equivalent
+39-3021,-0.3786598,Motion Picture Projectionists,2610.0,2610.0,35160.0,0.5,No formal educational credential
+39-3031,-0.2420959,"Ushers, Lobby Attendants, and Ticket Takers",117560.0,117560.0,29780.0,30.8,No formal educational credential
+39-3091,-0.5246153,Amusement and Recreation Attendants,361680.0,361680.0,29390.0,102.4,No formal educational credential
+39-3092,-0.4533608,Costume Attendants,6300.0,6300.0,52370.0,1.8,High school diploma or equivalent
+39-3093,-0.3454376,"Locker Room, Coatroom, and Dressing Room Attendants",14720.0,14720.0,33450.0,4.2,High school diploma or equivalent
+39-4011,-0.7311451,Embalmers,3380.0,3380.0,54090.0,0.6,Associate's degree
+39-4021,-0.5445412,Funeral Attendants,32620.0,32620.0,33850.0,5.7,High school diploma or equivalent
+39-4031,-0.1903759,"Morticians, Undertakers, and Funeral Arrangers",24200.0,24200.0,51030.0,3.2,Associate's degree
+39-5011,-0.7294621,Barbers,15990.0,15990.0,36150.0,8.4,Postsecondary nondegree award
+39-5012,-0.6824517,"Hairdressers, Hairstylists, and Cosmetologists",294840.0,294840.0,34970.0,75.8,Postsecondary nondegree award
+39-5091,-0.4596138,"Makeup Artists, Theatrical and Performance",4130.0,4130.0,47390.0,1.1,Postsecondary nondegree award
+39-5092,0.0335124,Manicurists and Pedicurists,144810.0,144810.0,34250.0,24.8,Postsecondary nondegree award
+39-5093,-0.905371,Shampooers,7360.0,7360.0,29530.0,2.7,No formal educational credential
+39-5094,-0.2628396,Skincare Specialists,65270.0,65270.0,43200.0,14.5,Postsecondary nondegree award
+39-6011,-1.272015,Baggage Porters and Bellhops,28780.0,28780.0,34840.0,4.6,High school diploma or equivalent
+39-6012,0.855832,Concierges,41020.0,41020.0,37150.0,6.8,High school diploma or equivalent
+39-9011,-0.3834794,Childcare Workers,497450.0,497450.0,30370.0,160.2,High school diploma or equivalent
+39-9031,-2.111948,Exercise Trainers and Group Fitness Instructors,279450.0,279450.0,46480.0,74.2,High school diploma or equivalent
+39-9032,-0.2441154,Recreation Workers,281750.0,281750.0,34410.0,68.1,High school diploma or equivalent
+39-9041,0.4746119,Residential Advisors,88700.0,88700.0,37950.0,17.4,High school diploma or equivalent
+41-1011,0.0191826,First-Line Supervisors of Retail Sales Workers,1087890.0,1087890.0,46730.0,125.1,High school diploma or equivalent
+41-1012,1.316195,First-Line Supervisors of Non-Retail Sales Workers,227150.0,227150.0,84570.0,24.8,High school diploma or equivalent
+41-2011,-0.2480887,Cashiers,3298660.0,3298660.0,29720.0,542.6,No formal educational credential
+41-2012,-0.0500926,Gambling Change Persons and Booth Cashiers,20560.0,20560.0,33230.0,4.0,No formal educational credential
+41-2021,0.0784367,Counter and Rental Clerks,390300.0,390300.0,37400.0,45.9,No formal educational credential
+41-2022,-0.1184909,Parts Salespersons,260770.0,260770.0,36860.0,30.2,No formal educational credential
+41-2031,0.0873069,Retail Salespersons,3684740.0,3684740.0,33680.0,555.8,No formal educational credential
+41-3011,1.162588,Advertising Sales Agents,108100.0,108100.0,61270.0,9.3,High school diploma or equivalent
+41-3021,1.341258,Insurance Sales Agents,457510.0,457510.0,59080.0,47.0,High school diploma or equivalent
+41-3031,1.256298,"Securities, Commodities, and Financial Services Sales Agents",479630.0,479630.0,76900.0,38.1,Bachelor's degree
+41-3041,1.133598,Travel Agents,58250.0,58250.0,47410.0,7.1,High school diploma or equivalent
+41-4011,0.8911985,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",311780.0,311780.0,99710.0,27.2,Bachelor's degree
+41-4012,0.8224681,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1288920.0,1288920.0,65630.0,114.8,High school diploma or equivalent
+41-9011,0.1235652,Demonstrators and Product Promoters,50790.0,50790.0,36970.0,14.0,No formal educational credential
+41-9012,-1.122021,Models,3090.0,3090.0,47430.0,1.2,No formal educational credential
+41-9021,1.149681,Real Estate Brokers,51350.0,51350.0,63060.0,9.7,High school diploma or equivalent
+41-9022,0.8649445,Real Estate Sales Agents,197720.0,197720.0,54300.0,36.6,High school diploma or equivalent
+41-9031,1.145416,Sales Engineers,59340.0,59340.0,116950.0,5.0,Bachelor's degree
+41-9041,1.118129,Telemarketers,81580.0,81580.0,34480.0,6.5,No formal educational credential
+41-9091,1.107101,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",6220.0,6220.0,34910.0,2.7,No formal educational credential
+43-1011,1.038688,First-Line Supervisors of Office and Administrative Support Workers,1504570.0,1504570.0,63450.0,144.5,High school diploma or equivalent
+43-2011,0.9832644,"Switchboard Operators, Including Answering Service",43830.0,43830.0,36750.0,2.8,High school diploma or equivalent
+43-2021,1.019712,Telephone Operators,4600.0,4600.0,38080.0,0.3,High school diploma or equivalent
+43-3011,1.271991,Bill and Account Collectors,190910.0,190910.0,44250.0,13.7,High school diploma or equivalent
+43-3021,1.333455,Billing and Posting Clerks,430220.0,430220.0,45590.0,42.2,High school diploma or equivalent
+43-3031,1.039749,"Bookkeeping, Accounting, and Auditing Clerks",1501910.0,1501910.0,47440.0,170.0,"Some college, no degree"
+43-3041,0.4026518,Gambling Cage Workers,12560.0,12560.0,36110.0,1.3,High school diploma or equivalent
+43-3051,1.257632,Payroll and Timekeeping Clerks,157230.0,157230.0,52240.0,13.0,High school diploma or equivalent
+43-3061,1.487838,Procurement Clerks,61580.0,61580.0,46670.0,4.6,High school diploma or equivalent
+43-3071,0.4727723,Tellers,340820.0,340820.0,37640.0,29.8,High school diploma or equivalent
+43-4011,1.144877,Brokerage Clerks,48060.0,48060.0,60150.0,4.1,High school diploma or equivalent
+43-4021,1.149758,Correspondence Clerks,4650.0,4650.0,42120.0,0.7,High school diploma or equivalent
+43-4031,1.166267,"Court, Municipal, and License Clerks",157960.0,157960.0,46110.0,18.5,High school diploma or equivalent
+43-4041,1.440296,"Credit Authorizers, Checkers, and Clerks",14290.0,14290.0,48000.0,1.0,High school diploma or equivalent
+43-4051,0.9562519,Customer Service Representatives,2858710.0,2858710.0,39680.0,341.7,High school diploma or equivalent
+43-4061,1.226286,"Eligibility Interviewers, Government Programs",150190.0,150190.0,50270.0,14.0,High school diploma or equivalent
+43-4071,0.2839743,File Clerks,82290.0,82290.0,38130.0,7.3,High school diploma or equivalent
+43-4081,0.6063127,"Hotel, Motel, and Resort Desk Clerks",263800.0,263800.0,30790.0,43.6,High school diploma or equivalent
+43-4111,1.297031,"Interviewers, Except Eligibility and Loan",160550.0,160550.0,40300.0,15.8,High school diploma or equivalent
+43-4121,0.2038919,"Library Assistants, Clerical",83680.0,83680.0,34020.0,12.8,High school diploma or equivalent
+43-4131,1.364395,Loan Interviewers and Clerks,203940.0,203940.0,47380.0,13.3,High school diploma or equivalent
+43-4141,1.174998,New Accounts Clerks,41180.0,41180.0,44630.0,2.3,High school diploma or equivalent
+43-4151,0.8388861,Order Clerks,91830.0,91830.0,41600.0,8.0,"Some college, no degree"
+43-4161,1.353098,"Human Resources Assistants, Except Payroll and Timekeeping",101440.0,101440.0,47710.0,9.0,Associate's degree
+43-4171,1.013186,Receptionists and Information Clerks,1003820.0,1003820.0,35840.0,128.5,High school diploma or equivalent
+43-4181,0.227312,Reservation and Transportation Ticket Agents and Travel Clerks,119270.0,119270.0,40610.0,14.4,High school diploma or equivalent
+43-5011,1.405415,Cargo and Freight Agents,105220.0,105220.0,48330.0,8.8,High school diploma or equivalent
+43-5021,-0.9591126,Couriers and Messengers,72010.0,72010.0,36710.0,27.9,High school diploma or equivalent
+43-5031,0.9074452,Public Safety Telecommunicators,97820.0,97820.0,48890.0,10.7,High school diploma or equivalent
+43-5032,1.234523,"Dispatchers, Except Police, Fire, and Ambulance",206090.0,206090.0,46860.0,18.5,High school diploma or equivalent
+43-5041,-0.9723772,"Meter Readers, Utilities",19900.0,19900.0,47720.0,1.3,High school diploma or equivalent
+43-5051,-0.5186997,Postal Service Clerks,78130.0,78130.0,59570.0,6.1,No formal educational credential
+43-5052,-1.064715,Postal Service Mail Carriers,331600.0,331600.0,56330.0,20.6,No formal educational credential
+43-5053,-1.185001,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",116540.0,116540.0,53440.0,7.8,No formal educational credential
+43-5061,0.6999103,"Production, Planning, and Expediting Clerks",393980.0,393980.0,53900.0,34.1,High school diploma or equivalent
+43-5071,-0.7463213,"Shipping, Receiving, and Inventory Clerks",844120.0,844120.0,39780.0,69.3,High school diploma or equivalent
+43-5111,-0.1860789,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",51250.0,51250.0,43270.0,5.3,High school diploma or equivalent
+43-6011,1.079643,Executive Secretaries and Executive Administrative Assistants,483570.0,483570.0,70310.0,50.0,High school diploma or equivalent
+43-6012,1.014541,Legal Secretaries and Administrative Assistants,152790.0,152790.0,50680.0,19.6,High school diploma or equivalent
+43-6013,1.217982,Medical Secretaries and Administrative Assistants,749500.0,749500.0,40640.0,85.9,High school diploma or equivalent
+43-6014,1.099056,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1785430.0,1785430.0,44280.0,202.8,High school diploma or equivalent
+43-9021,0.3108081,Data Entry Keyers,154230.0,154230.0,37790.0,9.5,High school diploma or equivalent
+43-9022,0.6219606,Word Processors and Typists,37200.0,37200.0,46450.0,2.2,High school diploma or equivalent
+43-9031,0.3437743,Desktop Publishers,5220.0,5220.0,51290.0,0.4,Associate's degree
+43-9041,1.240201,Insurance Claims and Policy Processing Clerks,241650.0,241650.0,46900.0,20.3,High school diploma or equivalent
+43-9051,-0.8184676,"Mail Clerks and Mail Machine Operators, Except Postal Service",66600.0,66600.0,36880.0,6.9,High school diploma or equivalent
+43-9061,0.9888986,"Office Clerks, General",2496370.0,2496370.0,40480.0,282.4,High school diploma or equivalent
+43-9071,-0.5171404,"Office Machine Operators, Except Computer",27960.0,27960.0,37450.0,2.8,High school diploma or equivalent
+43-9081,1.288375,Proofreaders and Copy Markers,5490.0,5490.0,48790.0,1.9,Bachelor's degree
+43-9111,1.389965,Statistical Assistants,7200.0,7200.0,50510.0,0.8,Bachelor's degree
+45-1011,-0.4791843,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",27150.0,27150.0,57320.0,8.5,High school diploma or equivalent
+45-2011,0.1704867,Agricultural Inspectors,12660.0,12660.0,48010.0,2.2,Bachelor's degree
+45-2021,-1.044292,Animal Breeders,1360.0,1360.0,47540.0,1.2,High school diploma or equivalent
+45-2041,-1.370968,"Graders and Sorters, Agricultural Products",23430.0,23430.0,34360.0,5.1,No formal educational credential
+45-2091,-1.145156,Agricultural Equipment Operators,28910.0,28910.0,39690.0,10.5,No formal educational credential
+45-2092,-1.601349,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",258730.0,258730.0,34470.0,71.7,No formal educational credential
+45-2093,-1.108432,"Farmworkers, Farm, Ranch, and Aquacultural Animals",32590.0,32590.0,35120.0,31.2,No formal educational credential
+45-4011,-1.064205,Forest and Conservation Workers,5750.0,5750.0,33940.0,2.0,High school diploma or equivalent
+45-4021,-1.795407,Fallers,4800.0,4800.0,53170.0,0.7,High school diploma or equivalent
+45-4022,-1.003702,Logging Equipment Operators,23720.0,23720.0,48240.0,4.2,High school diploma or equivalent
+45-4023,-0.4768305,Log Graders and Scalers,3640.0,3640.0,45600.0,0.6,High school diploma or equivalent
+47-1011,-0.3054048,First-Line Supervisors of Construction Trades and Extraction Workers,777420.0,777420.0,76760.0,74.4,High school diploma or equivalent
+47-2011,-1.097532,Boilermakers,11130.0,11130.0,71140.0,0.8,High school diploma or equivalent
+47-2021,-1.75434,Brickmasons and Blockmasons,56830.0,56830.0,59640.0,5.6,High school diploma or equivalent
+47-2022,-1.714759,Stonemasons,9790.0,9790.0,51830.0,0.8,High school diploma or equivalent
+47-2031,-1.323631,Carpenters,700290.0,700290.0,56350.0,74.1,High school diploma or equivalent
+47-2041,-1.564577,Carpet Installers,15560.0,15560.0,47520.0,1.1,No formal educational credential
+47-2042,-1.301024,"Floor Layers, Except Carpet, Wood, and Hard Tiles",25150.0,25150.0,48840.0,2.7,No formal educational credential
+47-2043,-1.748722,Floor Sanders and Finishers,5070.0,5070.0,47760.0,0.4,No formal educational credential
+47-2044,-1.22543,Tile and Stone Setters,42420.0,42420.0,48910.0,4.2,No formal educational credential
+47-2051,-1.777407,Cement Masons and Concrete Finishers,203560.0,203560.0,50720.0,14.3,No formal educational credential
+47-2053,-1.776065,Terrazzo Workers and Finishers,1460.0,1460.0,48900.0,0.1,High school diploma or equivalent
+47-2061,-1.622988,Construction Laborers,1019090.0,1019090.0,45300.0,129.4,No formal educational credential
+47-2071,-1.184739,"Paving, Surfacing, and Tamping Equipment Operators",43080.0,43080.0,48980.0,4.0,High school diploma or equivalent
+47-2072,-1.220009,Pile Driver Operators,3010.0,3010.0,63550.0,0.3,High school diploma or equivalent
+47-2073,-0.8815078,Operating Engineers and Other Construction Equipment Operators,450370.0,450370.0,56160.0,41.9,High school diploma or equivalent
+47-2081,-1.647971,Drywall and Ceiling Tile Installers,90860.0,90860.0,55700.0,7.7,No formal educational credential
+47-2082,-1.540774,Tapers,15560.0,15560.0,63350.0,1.1,No formal educational credential
+47-2111,-0.7796905,Electricians,712580.0,712580.0,61590.0,81.0,High school diploma or equivalent
+47-2121,-1.388901,Glaziers,53390.0,53390.0,51100.0,5.1,High school diploma or equivalent
+47-2131,-1.618772,"Insulation Workers, Floor, Ceiling, and Wall",38510.0,38510.0,47540.0,3.4,No formal educational credential
+47-2132,-1.268615,"Insulation Workers, Mechanical",22850.0,22850.0,53920.0,2.3,High school diploma or equivalent
+47-2141,-1.58799,"Painters, Construction and Maintenance",215910.0,215910.0,47700.0,28.1,No formal educational credential
+47-2142,-1.72753,Paperhangers,1830.0,1830.0,48460.0,0.2,No formal educational credential
+47-2151,-1.225611,Pipelayers,34840.0,34840.0,47330.0,2.4,No formal educational credential
+47-2152,-1.121219,"Plumbers, Pipefitters, and Steamfitters",436160.0,436160.0,61550.0,44.0,High school diploma or equivalent
+47-2161,-1.755588,Plasterers and Stucco Masons,22310.0,22310.0,52640.0,1.9,No formal educational credential
+47-2171,-1.970997,Reinforcing Iron and Rebar Workers,17400.0,17400.0,54850.0,1.5,High school diploma or equivalent
+47-2181,-1.752941,Roofers,135140.0,135140.0,50030.0,12.7,No formal educational credential
+47-2211,-1.174972,Sheet Metal Workers,116190.0,116190.0,58780.0,10.6,High school diploma or equivalent
+47-2221,-1.780065,Structural Iron and Steel Workers,63780.0,63780.0,62760.0,5.5,High school diploma or equivalent
+47-2231,-0.9441692,Solar Photovoltaic Installers,24510.0,24510.0,48800.0,4.1,High school diploma or equivalent
+47-3011,-1.94229,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",16460.0,16460.0,42470.0,1.4,No formal educational credential
+47-3012,-1.425282,Helpers--Carpenters,21770.0,21770.0,39380.0,2.7,No formal educational credential
+47-3013,-1.506896,Helpers--Electricians,68670.0,68670.0,38340.0,6.8,High school diploma or equivalent
+47-3014,-2.04484,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",7700.0,7700.0,37010.0,0.8,No formal educational credential
+47-3015,-1.678876,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",45300.0,45300.0,37650.0,4.9,High school diploma or equivalent
+47-3016,-1.89822,Helpers--Roofers,4540.0,4540.0,38620.0,0.6,No formal educational credential
+47-4011,0.2860245,Construction and Building Inspectors,133640.0,133640.0,67700.0,14.8,High school diploma or equivalent
+47-4021,-0.8604742,Elevator and Escalator Installers and Repairers,23990.0,23990.0,102420.0,2.0,High school diploma or equivalent
+47-4031,-1.902113,Fence Erectors,21470.0,21470.0,44410.0,2.3,No formal educational credential
+47-4041,-0.6887439,Hazardous Materials Removal Workers,49960.0,49960.0,47280.0,5.0,High school diploma or equivalent
+47-4051,-1.27909,Highway Maintenance Workers,150860.0,150860.0,47360.0,12.3,High school diploma or equivalent
+47-4061,-1.39906,Rail-Track Laying and Maintenance Equipment Operators,18770.0,18770.0,67000.0,1.1,High school diploma or equivalent
+47-4071,-1.210591,Septic Tank Servicers and Sewer Pipe Cleaners,27900.0,27900.0,46910.0,2.9,High school diploma or equivalent
+47-5011,-1.415002,"Derrick Operators, Oil and Gas",11510.0,11510.0,58210.0,1.0,No formal educational credential
+47-5012,-0.7737326,"Rotary Drill Operators, Oil and Gas",12180.0,12180.0,61770.0,1.2,No formal educational credential
+47-5013,-0.971916,"Service Unit Operators, Oil and Gas",46150.0,46150.0,55750.0,4.1,No formal educational credential
+47-5041,-1.165492,Continuous Mining Machine Operators,15700.0,15700.0,61420.0,1.6,No formal educational credential
+47-5051,-1.763494,"Rock Splitters, Quarry",3610.0,3610.0,46530.0,0.4,No formal educational credential
+47-5071,-1.518977,"Roustabouts, Oil and Gas",43830.0,43830.0,46340.0,4.3,No formal educational credential
+47-5081,-1.543154,Helpers--Extraction Workers,7360.0,7360.0,45520.0,0.7,High school diploma or equivalent
+49-1011,-0.0205169,"First-Line Supervisors of Mechanics, Installers, and Repairers",589880.0,589880.0,75820.0,52.4,High school diploma or equivalent
+49-2011,-0.3458247,"Computer, Automated Teller, and Office Machine Repairers",77580.0,77580.0,45760.0,7.6,"Some college, no degree"
+49-2021,-0.6335382,"Radio, Cellular, and Tower Equipment Installers and Repairers",11810.0,11810.0,61310.0,1.2,Associate's degree
+49-2022,-0.853048,"Telecommunications Equipment Installers and Repairers, Except Line Installers",159670.0,159670.0,61270.0,13.2,Postsecondary nondegree award
+49-2091,-0.1728535,Avionics Technicians,21280.0,21280.0,77420.0,1.8,Postsecondary nondegree award
+49-2092,-0.8106341,"Electric Motor, Power Tool, and Related Repairers",16010.0,16010.0,49230.0,1.7,High school diploma or equivalent
+49-2093,-0.8303875,"Electrical and Electronics Installers and Repairers, Transportation Equipment",7920.0,7920.0,79160.0,0.6,Postsecondary nondegree award
+49-2094,-0.4632031,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",58320.0,58320.0,66680.0,4.7,Postsecondary nondegree award
+49-2095,-0.5522636,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",24790.0,24790.0,96600.0,2.0,Postsecondary nondegree award
+49-2096,-0.7915968,"Electronic Equipment Installers and Repairers, Motor Vehicles",8900.0,8900.0,45570.0,0.6,High school diploma or equivalent
+49-2097,-0.571284,Audiovisual Equipment Installers and Repairers,24720.0,24720.0,48380.0,2.6,Postsecondary nondegree award
+49-2098,-0.6926484,Security and Fire Alarm Systems Installers,83540.0,83540.0,56430.0,9.4,High school diploma or equivalent
+49-3011,-0.6551197,Aircraft Mechanics and Service Technicians,137630.0,137630.0,75020.0,11.3,Postsecondary nondegree award
+49-3021,-1.180589,Automotive Body and Related Repairers,151910.0,151910.0,48740.0,14.6,High school diploma or equivalent
+49-3022,-1.202285,Automotive Glass Installers and Repairers,16890.0,16890.0,45320.0,1.4,High school diploma or equivalent
+49-3023,-0.9547055,Automotive Service Technicians and Mechanics,676570.0,676570.0,47770.0,70.0,Postsecondary nondegree award
+49-3031,-1.010472,Bus and Truck Mechanics and Diesel Engine Specialists,285030.0,285030.0,58970.0,26.5,High school diploma or equivalent
+49-3041,-1.20703,Farm Equipment Mechanics and Service Technicians,36830.0,36830.0,49210.0,3.7,High school diploma or equivalent
+49-3042,-1.169815,"Mobile Heavy Equipment Mechanics, Except Engines",177280.0,177280.0,61900.0,16.5,High school diploma or equivalent
+49-3043,-1.448102,Rail Car Repairers,19480.0,19480.0,65030.0,1.5,High school diploma or equivalent
+49-3051,-0.8863602,Motorboat Mechanics and Service Technicians,23230.0,23230.0,49990.0,2.6,High school diploma or equivalent
+49-3052,-0.763721,Motorcycle Mechanics,14330.0,14330.0,46270.0,1.5,Postsecondary nondegree award
+49-3053,-0.8941408,Outdoor Power Equipment and Other Small Engine Mechanics,36080.0,36080.0,44140.0,3.5,High school diploma or equivalent
+49-3091,-0.9226068,Bicycle Repairers,13980.0,13980.0,38320.0,1.6,High school diploma or equivalent
+49-3092,-0.9244052,Recreational Vehicle Service Technicians,17360.0,17360.0,47950.0,2.8,High school diploma or equivalent
+49-3093,-1.550724,Tire Repairers and Changers,101520.0,101520.0,35790.0,15.3,High school diploma or equivalent
+49-9011,-1.383152,Mechanical Door Repairers,27800.0,27800.0,48650.0,2.7,High school diploma or equivalent
+49-9012,-0.7606913,"Control and Valve Installers and Repairers, Except Mechanical Door",47780.0,47780.0,70100.0,3.9,High school diploma or equivalent
+49-9021,-0.8491117,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",397450.0,397450.0,57300.0,40.1,Postsecondary nondegree award
+49-9031,-0.9703799,Home Appliance Repairers,29950.0,29950.0,47170.0,3.1,High school diploma or equivalent
+49-9041,-1.133177,Industrial Machinery Mechanics,412650.0,412650.0,61420.0,45.7,High school diploma or equivalent
+49-9043,-0.9735492,"Maintenance Workers, Machinery",58040.0,58040.0,57350.0,4.8,High school diploma or equivalent
+49-9044,-1.266085,Millwrights,37930.0,37930.0,62980.0,3.6,High school diploma or equivalent
+49-9045,-1.237463,"Refractory Materials Repairers, Except Brickmasons",540.0,540.0,48410.0,0.1,High school diploma or equivalent
+49-9051,-1.081398,Electrical Power-Line Installers and Repairers,120170.0,120170.0,85420.0,10.7,High school diploma or equivalent
+49-9052,-1.083883,Telecommunications Line Installers and Repairers,98950.0,98950.0,64640.0,8.9,High school diploma or equivalent
+49-9061,0.0546422,Camera and Photographic Equipment Repairers,2540.0,2540.0,46850.0,0.2,High school diploma or equivalent
+49-9062,-0.2768838,Medical Equipment Repairers,64400.0,64400.0,60670.0,7.3,Associate's degree
+49-9063,-0.5306271,Musical Instrument Repairers and Tuners,6170.0,6170.0,42800.0,0.6,High school diploma or equivalent
+49-9064,-0.2123996,Watch and Clock Repairers,1880.0,1880.0,58140.0,0.1,High school diploma or equivalent
+49-9071,-1.014408,"Maintenance and Repair Workers, General",1503150.0,1503150.0,46700.0,159.8,High school diploma or equivalent
+49-9081,-0.9709935,Wind Turbine Service Technicians,9800.0,9800.0,61770.0,2.3,Postsecondary nondegree award
+49-9091,-0.7233995,"Coin, Vending, and Amusement Machine Servicers and Repairers",36100.0,36100.0,44980.0,3.5,High school diploma or equivalent
+49-9092,-1.102728,Commercial Divers,2790.0,2790.0,61300.0,0.4,Postsecondary nondegree award
+49-9094,-0.8657498,Locksmiths and Safe Repairers,14790.0,14790.0,48380.0,1.7,High school diploma or equivalent
+49-9095,-1.414062,Manufactured Building and Mobile Home Installers,2910.0,2910.0,38980.0,0.3,High school diploma or equivalent
+49-9096,-1.221519,Riggers,23870.0,23870.0,56220.0,2.5,High school diploma or equivalent
+49-9097,-0.858221,Signal and Track Switch Repairers,9200.0,9200.0,82710.0,0.8,High school diploma or equivalent
+49-9098,-1.346555,"Helpers--Installation, Maintenance, and Repair Workers",101890.0,101890.0,36710.0,11.8,High school diploma or equivalent
+49-9099,-0.5900791,"Installation, Maintenance, and Repair Workers, All Other",175860.0,175860.0,46500.0,21.5,High school diploma or equivalent
+51-1011,-0.0845282,First-Line Supervisors of Production and Operating Workers,671160.0,671160.0,65930.0,67.7,High school diploma or equivalent
+51-2011,-0.8684706,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",29810.0,29810.0,61240.0,2.8,High school diploma or equivalent
+51-2021,-0.8289722,"Coil Winders, Tapers, and Finishers",11900.0,11900.0,44890.0,1.2,High school diploma or equivalent
+51-2031,-0.9561453,Engine and Other Machine Assemblers,47960.0,47960.0,50270.0,2.8,High school diploma or equivalent
+51-2041,-1.076307,Structural Metal Fabricators and Fitters,57810.0,57810.0,48480.0,4.1,High school diploma or equivalent
+51-3011,-0.3852989,Bakers,220230.0,220230.0,34950.0,39.9,No formal educational credential
+51-3021,-0.9709924,Butchers and Meat Cutters,136330.0,136330.0,37650.0,16.9,No formal educational credential
+51-3022,-1.10563,"Meat, Poultry, and Fish Cutters and Trimmers",138300.0,138300.0,36300.0,18.4,No formal educational credential
+51-3023,-1.834668,Slaughterers and Meat Packers,71310.0,71310.0,38160.0,8.4,No formal educational credential
+51-3091,-0.758859,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",19570.0,19570.0,39850.0,2.4,No formal educational credential
+51-3092,-0.3791114,Food Batchmakers,169190.0,169190.0,38460.0,24.2,High school diploma or equivalent
+51-3093,-0.5559894,Food Cooking Machine Operators and Tenders,29730.0,29730.0,38550.0,4.4,High school diploma or equivalent
+51-4021,-1.234352,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",63370.0,63370.0,44390.0,6.5,High school diploma or equivalent
+51-4022,-0.8046677,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",9170.0,9170.0,46990.0,0.6,High school diploma or equivalent
+51-4023,-1.08921,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",24750.0,24750.0,47040.0,1.9,High school diploma or equivalent
+51-4031,-1.036569,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",179230.0,179230.0,42400.0,14.4,High school diploma or equivalent
+51-4032,-0.7598132,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",5740.0,5740.0,44620.0,0.4,High school diploma or equivalent
+51-4033,-0.9901662,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",75260.0,75260.0,42610.0,5.5,High school diploma or equivalent
+51-4034,-1.06734,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",19560.0,19560.0,47110.0,1.5,High school diploma or equivalent
+51-4035,-0.8703219,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",13990.0,13990.0,47200.0,1.1,High school diploma or equivalent
+51-4041,-0.8675535,Machinists,290720.0,290720.0,50840.0,29.5,High school diploma or equivalent
+51-4051,-1.167465,Metal-Refining Furnace Operators and Tenders,20870.0,20870.0,50250.0,2.0,High school diploma or equivalent
+51-4052,-1.00914,"Pourers and Casters, Metal",5460.0,5460.0,48690.0,0.6,High school diploma or equivalent
+51-4061,-0.7421977,"Model Makers, Metal and Plastic",2840.0,2840.0,64190.0,0.3,High school diploma or equivalent
+51-4062,-0.6131331,"Patternmakers, Metal and Plastic",2150.0,2150.0,49670.0,0.1,High school diploma or equivalent
+51-4071,-1.740349,Foundry Mold and Coremakers,11780.0,11780.0,44300.0,0.9,High school diploma or equivalent
+51-4072,-1.146139,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",158980.0,158980.0,38870.0,15.9,High school diploma or equivalent
+51-4081,-0.74266,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",127790.0,127790.0,41600.0,12.8,High school diploma or equivalent
+51-4111,-0.5317897,Tool and Die Makers,58150.0,58150.0,61490.0,4.7,Postsecondary nondegree award
+51-4121,-1.197596,"Welders, Cutters, Solderers, and Brazers",421730.0,421730.0,48940.0,45.6,High school diploma or equivalent
+51-4122,-1.002411,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",33020.0,33020.0,45350.0,3.2,High school diploma or equivalent
+51-4191,-1.092486,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",14950.0,14950.0,44240.0,1.2,High school diploma or equivalent
+51-4192,-0.7221353,"Layout Workers, Metal and Plastic",6660.0,6660.0,62270.0,0.5,High school diploma or equivalent
+51-4193,-0.8999876,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",31970.0,31970.0,39740.0,2.5,High school diploma or equivalent
+51-4194,-0.8809238,"Tool Grinders, Filers, and Sharpeners",6660.0,6660.0,46410.0,0.5,High school diploma or equivalent
+51-5111,0.4107973,Prepress Technicians and Workers,23590.0,23590.0,45070.0,2.8,Postsecondary nondegree award
+51-5112,-0.7093881,Printing Press Operators,151450.0,151450.0,41860.0,13.7,High school diploma or equivalent
+51-5113,-0.9062089,Print Binding and Finishing Workers,38880.0,38880.0,38100.0,2.8,High school diploma or equivalent
+51-6011,-1.054399,Laundry and Dry-Cleaning Workers,185000.0,185000.0,31050.0,31.9,No formal educational credential
+51-6021,-1.950063,"Pressers, Textile, Garment, and Related Materials",28700.0,28700.0,32240.0,2.8,No formal educational credential
+51-6031,-0.9639661,Sewing Machine Operators,116130.0,116130.0,34440.0,13.0,No formal educational credential
+51-6041,-0.990912,Shoe and Leather Workers and Repairers,7230.0,7230.0,36020.0,0.9,High school diploma or equivalent
+51-6042,-1.029855,Shoe Machine Operators and Tenders,4630.0,4630.0,36970.0,0.4,High school diploma or equivalent
+51-6051,-0.5987218,"Sewers, Hand",3390.0,3390.0,32240.0,0.7,No formal educational credential
+51-6052,-0.4305268,"Tailors, Dressmakers, and Custom Sewers",14950.0,14950.0,36650.0,5.0,No formal educational credential
+51-6061,-0.8609312,Textile Bleaching and Dyeing Machine Operators and Tenders,6650.0,6650.0,35340.0,0.7,High school diploma or equivalent
+51-6062,-1.022949,"Textile Cutting Machine Setters, Operators, and Tenders",9760.0,9760.0,36620.0,1.0,High school diploma or equivalent
+51-6063,-1.241662,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",15980.0,15980.0,37130.0,1.7,High school diploma or equivalent
+51-6064,-1.392929,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",23550.0,23550.0,35530.0,2.5,High school diploma or equivalent
+51-6091,-0.8596925,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",14520.0,14520.0,44030.0,2.0,High school diploma or equivalent
+51-6092,-0.0831096,Fabric and Apparel Patternmakers,2670.0,2670.0,62510.0,0.3,High school diploma or equivalent
+51-6093,-1.313735,Upholsterers,25740.0,25740.0,42730.0,2.2,High school diploma or equivalent
+51-7011,-1.327489,Cabinetmakers and Bench Carpenters,88460.0,88460.0,43260.0,8.1,High school diploma or equivalent
+51-7021,-1.197727,Furniture Finishers,14380.0,14380.0,39790.0,2.0,High school diploma or equivalent
+51-7031,-0.7278869,"Model Makers, Wood",590.0,590.0,45040.0,0.1,High school diploma or equivalent
+51-7032,-1.057897,"Patternmakers, Wood",260.0,260.0,48630.0,0.0,High school diploma or equivalent
+51-7041,-1.165031,"Sawing Machine Setters, Operators, and Tenders, Wood",43570.0,43570.0,38000.0,4.8,High school diploma or equivalent
+51-7042,-1.130357,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",61250.0,61250.0,38260.0,6.4,High school diploma or equivalent
+51-8011,0.7705302,Nuclear Power Reactor Operators,5760.0,5760.0,120350.0,0.4,High school diploma or equivalent
+51-8012,0.5012214,Power Distributors and Dispatchers,9040.0,9040.0,104750.0,0.8,High school diploma or equivalent
+51-8013,-0.3482779,Power Plant Operators,31490.0,31490.0,97010.0,2.5,High school diploma or equivalent
+51-8021,-0.5032496,Stationary Engineers and Boiler Operators,33840.0,33840.0,67640.0,3.8,High school diploma or equivalent
+51-8031,-0.44501,Water and Wastewater Treatment Plant and System Operators,120710.0,120710.0,54890.0,10.7,High school diploma or equivalent
+51-8091,-0.3831282,Chemical Plant and System Operators,17980.0,17980.0,80030.0,1.6,High school diploma or equivalent
+51-8092,-0.2982082,Gas Plant Operators,15930.0,15930.0,82560.0,1.3,High school diploma or equivalent
+51-8093,-0.370036,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",33360.0,33360.0,94580.0,3.2,High school diploma or equivalent
+51-8099,-0.6702387,"Plant and System Operators, All Other",15370.0,15370.0,56940.0,1.6,High school diploma or equivalent
+51-9011,-0.511521,Chemical Equipment Operators and Tenders,120260.0,120260.0,51720.0,14.4,High school diploma or equivalent
+51-9012,-0.9379141,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",53170.0,53170.0,48120.0,5.4,High school diploma or equivalent
+51-9021,-1.043476,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",26210.0,26210.0,44510.0,2.7,High school diploma or equivalent
+51-9022,-1.146524,"Grinding and Polishing Workers, Hand",12290.0,12290.0,38940.0,0.8,No formal educational credential
+51-9023,-0.819664,"Mixing and Blending Machine Setters, Operators, and Tenders",105740.0,105740.0,46100.0,8.8,High school diploma or equivalent
+51-9031,-0.9479839,"Cutters and Trimmers, Hand",7220.0,7220.0,37040.0,0.6,No formal educational credential
+51-9032,-1.079282,"Cutting and Slicing Machine Setters, Operators, and Tenders",52720.0,52720.0,44310.0,5.3,High school diploma or equivalent
+51-9041,-1.042151,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",57080.0,57080.0,42670.0,5.2,High school diploma or equivalent
+51-9051,-0.9582346,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",14820.0,14820.0,45640.0,1.9,High school diploma or equivalent
+51-9061,-0.0293395,"Inspectors, Testers, Sorters, Samplers, and Weighers",584630.0,584630.0,45850.0,69.9,High school diploma or equivalent
+51-9071,-0.1560197,Jewelers and Precious Stone and Metal Workers,24060.0,24060.0,47450.0,4.0,High school diploma or equivalent
+51-9081,0.0013206,Dental Laboratory Technicians,34190.0,34190.0,47690.0,3.9,High school diploma or equivalent
+51-9082,-0.4949538,Medical Appliance Technicians,12550.0,12550.0,44960.0,1.5,High school diploma or equivalent
+51-9083,-0.5966759,Ophthalmic Laboratory Technicians,18240.0,18240.0,37720.0,2.4,High school diploma or equivalent
+51-9111,-0.978608,Packaging and Filling Machine Operators and Tenders,371600.0,371600.0,38330.0,45.3,High school diploma or equivalent
+51-9123,-0.9705587,"Painting, Coating, and Decorating Workers",10700.0,10700.0,40230.0,0.8,No formal educational credential
+51-9141,-0.6372312,Semiconductor Processing Technicians,26450.0,26450.0,45850.0,3.9,High school diploma or equivalent
+51-9151,-0.3615806,Photographic Process Workers and Processing Machine Operators,5770.0,5770.0,35620.0,1.5,High school diploma or equivalent
+51-9191,-1.311418,Adhesive Bonding Machine Operators and Tenders,12510.0,12510.0,43540.0,1.3,High school diploma or equivalent
+51-9192,-1.141885,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",15210.0,15210.0,39340.0,1.6,High school diploma or equivalent
+51-9193,-0.9604952,Cooling and Freezing Equipment Operators and Tenders,6500.0,6500.0,42420.0,0.8,High school diploma or equivalent
+51-9194,-0.6395226,Etchers and Engravers,8140.0,8140.0,40040.0,0.9,High school diploma or equivalent
+51-9195,-1.183408,"Molders, Shapers, and Casters, Except Metal and Plastic",38480.0,38480.0,43310.0,5.5,High school diploma or equivalent
+51-9196,-0.8740445,"Paper Goods Machine Setters, Operators, and Tenders",96460.0,96460.0,47250.0,8.1,High school diploma or equivalent
+51-9197,-1.610915,Tire Builders,20660.0,20660.0,54080.0,2.5,High school diploma or equivalent
+51-9198,-1.411304,Helpers--Production Workers,181810.0,181810.0,36700.0,23.6,High school diploma or equivalent
+51-9199,-1.290964,"Production Workers, All Other",243500.0,243500.0,37430.0,31.6,High school diploma or equivalent
+53-2011,-0.2070626,"Airline Pilots, Copilots, and Flight Engineers",93670.0,93670.0,219140.0,11.7,Bachelor's degree
+53-2012,-0.1817332,Commercial Pilots,52750.0,52750.0,113080.0,6.6,Postsecondary nondegree award
+53-2021,1.152798,Air Traffic Controllers,22310.0,22310.0,137380.0,2.2,Associate's degree
+53-2022,0.4845738,Airfield Operations Specialists,18320.0,18320.0,51140.0,1.6,High school diploma or equivalent
+53-2031,-0.7621183,Flight Attendants,126020.0,126020.0,68370.0,19.8,High school diploma or equivalent
+53-3011,-0.8298703,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",11520.0,11520.0,32580.0,1.4,High school diploma or equivalent
+53-3031,-0.7293087,Driver/Sales Workers,463120.0,463120.0,35420.0,51.3,High school diploma or equivalent
+53-3032,-1.149057,Heavy and Tractor-Trailer Truck Drivers,2044400.0,2044400.0,54320.0,237.6,Postsecondary nondegree award
+53-3033,-1.120501,Light Truck Drivers,1003960.0,1003960.0,42470.0,120.2,High school diploma or equivalent
+53-4011,-0.4977403,Locomotive Engineers,32390.0,32390.0,74770.0,2.2,High school diploma or equivalent
+53-4013,-0.8320907,"Rail Yard Engineers, Dinkey Operators, and Hostlers",2430.0,2430.0,57070.0,0.2,High school diploma or equivalent
+53-4031,-0.4662731,Railroad Conductors and Yardmasters,46490.0,46490.0,71130.0,3.1,High school diploma or equivalent
+53-4041,-0.6155429,Subway and Streetcar Operators,14860.0,14860.0,84270.0,0.9,High school diploma or equivalent
+53-5011,-1.150001,Sailors and Marine Oilers,29960.0,29960.0,48400.0,3.9,No formal educational credential
+53-5021,-0.4281868,"Captains, Mates, and Pilots of Water Vessels",34520.0,34520.0,88730.0,4.3,Postsecondary nondegree award
+53-5022,-0.8871186,Motorboat Operators,2710.0,2710.0,46420.0,0.3,Postsecondary nondegree award
+53-5031,-0.5264951,Ship Engineers,8860.0,8860.0,94270.0,1.1,Postsecondary nondegree award
+53-6011,-0.6322159,Bridge and Lock Tenders,3460.0,3460.0,49120.0,0.3,High school diploma or equivalent
+53-6021,-0.8353891,Parking Attendants,118130.0,118130.0,32840.0,18.5,No formal educational credential
+53-6031,-1.221489,Automotive and Watercraft Service Attendants,92530.0,92530.0,33820.0,14.4,No formal educational credential
+53-6041,0.3995872,Traffic Technicians,7530.0,7530.0,52240.0,0.8,High school diploma or equivalent
+53-6051,-0.18376,Transportation Inspectors,27670.0,27670.0,87290.0,2.5,High school diploma or equivalent
+53-6061,-0.3752249,Passenger Attendants,20190.0,20190.0,35620.0,4.1,High school diploma or equivalent
+53-7011,-0.7554432,Conveyor Operators and Tenders,24660.0,24660.0,39260.0,2.6,No formal educational credential
+53-7021,-1.030619,Crane and Tower Operators,42260.0,42260.0,64690.0,3.8,High school diploma or equivalent
+53-7031,-1.016648,Dredge Operators,940.0,940.0,50440.0,0.1,High school diploma or equivalent
+53-7041,-0.9781997,Hoist and Winch Operators,2230.0,2230.0,55950.0,0.3,No formal educational credential
+53-7051,-1.39869,Industrial Truck and Tractor Operators,778920.0,778920.0,44470.0,76.4,No formal educational credential
+53-7061,-1.629897,Cleaners of Vehicles and Equipment,365290.0,365290.0,34150.0,56.2,No formal educational credential
+53-7062,-1.709183,"Laborers and Freight, Stock, and Material Movers, Hand",3008300.0,3008300.0,37660.0,384.3,No formal educational credential
+53-7063,-1.037413,Machine Feeders and Offbearers,44500.0,44500.0,39250.0,4.7,No formal educational credential
+53-7064,-1.51362,"Packers and Packagers, Hand",645210.0,645210.0,34830.0,74.0,No formal educational credential
+53-7071,-0.6909992,Gas Compressor and Gas Pumping Station Operators,4400.0,4400.0,61870.0,0.6,High school diploma or equivalent
+53-7072,-0.8422927,"Pump Operators, Except Wellhead Pumpers",11570.0,11570.0,54690.0,1.5,High school diploma or equivalent
+53-7073,-1.091197,Wellhead Pumpers,18230.0,18230.0,71830.0,2.0,High school diploma or equivalent
+53-7081,-1.283373,Refuse and Recyclable Material Collectors,135430.0,135430.0,45760.0,16.9,No formal educational credential
+53-7121,-1.38776,"Tank Car, Truck, and Ship Loaders",11400.0,11400.0,58620.0,1.3,No formal educational credential
