@@ -145,6 +145,11 @@ Then generate the website:
 
    jupyter nbconvert --to html --execute blog.ipynb --output index --ExecutePreprocessor.kernel_name=python3 --no-input
 
+## Version Control
+This project was tracked using Git throughout. All data cleaning, 
+analysis, and output generation steps were committed incrementally 
+as the project developed.
+
 
 ## Website Link
 https://riyachandarana.github.io/Empirical-Project-2026/
