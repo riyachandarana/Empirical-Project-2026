@@ -13,7 +13,6 @@ data/raw/
 # data/processed/ -> tracked
 
 # Ignore large figures if needed
-output/figures/
 
 # Keep regression tables tracked
 # output/tables/ -> tracked
