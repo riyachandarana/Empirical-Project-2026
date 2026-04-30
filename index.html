@@ -7562,6 +7562,7 @@ a.anchor-link {
 <li><p>SOC occupation codes are used to align occupations across datasets, which ensures a consistent and accurate merge.</p>
 </li>
 </ol>
+<p>All BLS data and the AI exposure index reflects occupational conditions/AI capabilities in 2023.</p>
 </div>
 </div>
 </div>
@@ -7987,7 +7988,7 @@ if (outputEl) {{
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="Machine-Learning-Evidence">Machine Learning Evidence<a class="anchor-link" href="#Machine-Learning-Evidence">¶</a></h2><p>To complement the regression analysis, I used a Random Forest model to predict log wages from occupation characteristics. Unlike standard regression, Random Forests can capture nonlinear relationships and interactions between features without requiring them to be specified in advance.</p>
-<p>The cross validated R² ( a measure of how well the model predicts wages on unseen data) is just below zero meaning the model doesn't reliably predict wages on data it hasn't seen before. This is due to the only 670 occupations being used as Random Forests usually  require larger samples to better generalise. However, predictive accuracy is not the main concern here. The real value of this approach is in identifying which factors play the biggest role in determining occupational pay without relying on assumptions of standard regression.</p>
+<p>The cross validated R² ( a measure of how well the model predicts wages on unseen data) is just below zero meaning the model doesn't reliably predict wages on data it hasn't seen before. This is likely due to the small sample of only 670 occupations, as Random Forests usually  require larger samples to generalise well. However, predictive accuracy is not the main concern here. The real value of this approach is in identifying which factors play the biggest role in determining occupational pay without relying on assumptions of standard regression.</p>
 <p>Figure 4 shows each features importance score measured by how much it reduces impurity at each split across all decision trees in the forest. In other words how useful each feature is for separating occupations by wage level.</p>
 </div>
 </div>
