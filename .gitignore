@@ -5,9 +5,6 @@ __pycache__/
 # Mac
 .DS_Store
 
-# Ignore ONLY raw data (large / external files)
-data/raw/
-
 # Keep cleaned and processed data for replication
 # data/interim/  -> tracked
 # data/processed/ -> tracked
