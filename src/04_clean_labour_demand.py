@@ -24,7 +24,7 @@ def main():
     # Assign a reference year for the openings measure
     df["year"] = 2024
 
-    df = df.dropna(subset=["occupation_code", "occupation_name", "adverts"])
+    df = df.dropna(subset=["occupation_code", "occupation_name", "adverts"])  # Drop rows with missing occupation identifiers or advert counts 
 
     df.to_csv(LABOUR_DEMAND_CLEAN, index=False)
 
