@@ -18,7 +18,7 @@ df = df[["occupation_code", "occupation_name", "education_required"]].copy()
 
 df["occupation_code"] = df["occupation_code"].astype(str).str.strip()
 
-df = df.dropna(subset=["occupation_code", "education_required"])
+df = df.dropna(subset=["occupation_code", "education_required"])  # Drop rows which are missing occupation code or education requirements
 
 df.to_csv("data/interim/education_clean.csv", index=False)
 
