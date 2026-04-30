@@ -32,4 +32,4 @@ LABOUR_DEMAND_CLEAN = DATA_INTERIM / "labour_demand_clean.csv"
 CROSSWALK = DATA_INTERIM / "occupation_crosswalk.csv"
 MERGED = DATA_PROCESSED / "merged_data.csv"
 FEATURES = DATA_PROCESSED / "final_analysis_data.csv"
-EDUCATION_CLEAN = DATA_INTERIM / "education_clean.csv
+EDUCATION_CLEAN = DATA_INTERIM / "education_clean.csv"
