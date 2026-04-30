@@ -107,23 +107,26 @@ The project follows a structured pipeline:
 ## How to Replicate
 ## Data Setup
 
-Raw data files are not included due to size and licensing constraints.
-Download the following files and place them in `data/raw/`:
-
-| Dataset | URL | Filename |
-|---|---|---|
-| AI Occupation Exposure | https://www.nber.org/research/data/ai-occupational-exposure | aioe.xlsx |
-| BLS OEWS May 2023 (employment) | https://www.bls.gov/oes/tables.htm | employment.xlsx |
-| BLS OEWS May 2023 (earnings) | https://www.bls.gov/oes/tables.htm | earnings.xlsx |
-| BLS Employment Projections Table 1.10 | https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm | labour_demand.xlsx |
-| BLS Education requirements Table 5.4 | https://www.bls.gov/emp/tables/education-and-training-by-occupation.htm | education.xlsx |
-
+All raw data files are included in data/raw/ and will be available when you clone the repository
 
 ### Run the data pipeline
 
 First install dependencies:
 
     pip install -r requirements.txt
+
+	pandas==2.2.2
+	numpy==1.26.4
+	matplotlib==3.9.2
+	scikit-learn==1.5.1
+	statsmodels==0.14.2
+	seaborn==0.13.2
+	openpyxl==3.1.5
+	scipy==1.13.1
+	beautifulsoup4==4.12.3
+	requests==2.32.3
+	jupyter==1.0.0
+	nbconvert==7.16.4
 
 Then run the following scripts in order:
 
