@@ -7,6 +7,9 @@ seaborn==0.13.2
 openpyxl==3.1.5
 scipy==1.13.1
 beautifulsoup4==4.12.3
-requests==2.32.3
+requests
+plotly
+mistune==2.0.4
 jupyter==1.0.0
 nbconvert==7.16.4
+
