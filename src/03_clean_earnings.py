@@ -22,8 +22,8 @@ def main():
     df = df[df["occupation_code"].str.contains("-", na=False)]
     df["year"] = 2023
 
-    df = df.dropna(subset=["occupation_code", "occupation_name", "weekly_pay"])
-    df = df.drop_duplicates(subset=["occupation_code"])
+    df = df.dropna(subset=["occupation_code", "occupation_name", "weekly_pay"])  # Drop rows missing key identifiers or pay figures 
+    df = df.drop_duplicates(subset=["occupation_code"])  # remove duplicate occupation codes to ensure one row per occupation
 
     df.to_csv(EARNINGS_CLEAN, index=False)
 
