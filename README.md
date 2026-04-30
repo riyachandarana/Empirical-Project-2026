@@ -101,7 +101,7 @@ The project follows a structured pipeline:
 - `data/processed/` merged and final datasets
 - `output/tables/` regression outputs
 - `src/` cleaning, merging, feature construction, and modelling scripts
-- `blog.ipynb` notebook used to generate the website
+- `blog.ipynb` notebook used to generate the website, is in the root directory
 - `index.html` rendered website for GitHub Pages
 
 ## How to Replicate
