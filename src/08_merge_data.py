@@ -22,13 +22,13 @@ def main() -> None:
     # AIOE is already cleaned to occupation-code level
     aioe_mapped = aioe[["occupation_code", "occupation_title", "ai_exposure"]].copy()
 
-    aioe_mapped = aioe_mapped.dropna(subset=["occupation_code", "ai_exposure"])
+    aioe_mapped = aioe_mapped.dropna(subset=["occupation_code", "ai_exposure"])  #Drop any rows where crosswalk mapping failed to be able to produce a valid occupation code or exposure score
     aioe_mapped = (
         aioe_mapped.groupby("occupation_code", as_index=False)["ai_exposure"]
         .mean()
     )
 
-    aioe_mapped = aioe_mapped.dropna(subset=["occupation_code"])
+    aioe_mapped = aioe_mapped.dropna(subset=["occupation_code"])  # Final check to ensure no null occupation codes remain before merging
     aioe_mapped = (
         aioe_mapped.groupby("occupation_code", as_index=False)["ai_exposure"]
         .mean()
