@@ -22,6 +22,7 @@ AIOE_RAW = DATA_RAW / "aioe.xlsx"
 EMPLOYMENT_RAW = DATA_RAW / "employment.xlsx"
 EARNINGS_RAW = DATA_RAW / "earnings.xlsx"
 LABOUR_DEMAND_RAW = DATA_RAW / "labour_demand.xlsx"
+EDUCATION_RAW = DATA_RAW / "education.xlsx"
 
 # Interim files
 AIOE_CLEAN = DATA_INTERIM / "aioe_clean.csv"
@@ -31,3 +32,4 @@ LABOUR_DEMAND_CLEAN = DATA_INTERIM / "labour_demand_clean.csv"
 CROSSWALK = DATA_INTERIM / "occupation_crosswalk.csv"
 MERGED = DATA_PROCESSED / "merged_data.csv"
 FEATURES = DATA_PROCESSED / "final_analysis_data.csv"
+EDUCATION_CLEAN = DATA_INTERIM / "education_clean.csv
