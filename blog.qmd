@@ -305,31 +305,31 @@ and `BeautifulSoup` libraries. These ratings classify occupations as growing
 
 After fuzzy-matching occupation names across datasets, 174 occupations in our 
 sample were successfully matched to a BLS outlook category.
-
 ```{python}
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-outlook_df = pd.read_csv("data/processed/data_with_outlook.csv")
+outlook_df = pd.read_csv("data/processed/final_analysis_data_with_outlook.csv")
+outlook_df = outlook_df[outlook_df["bls_outlook"].isin(
+    ["Faster than average", "Slower than average", "Little or no change"]
+)]
 
-group = outlook_df.groupby("outlook_category")["ai_exposure"].agg(
+group = outlook_df.groupby("bls_outlook")["ai_exposure"].agg(
     mean="mean",
     sem=lambda x: x.std() / np.sqrt(len(x))
 ).reset_index()
 
 order = ["Faster than average", "Slower than average", "Little or no change"]
-group["outlook_category"] = pd.Categorical(group["outlook_category"], categories=order, ordered=True)
-group = group.sort_values("outlook_category")
-
-colors = ["#4A9BAF", "#6B9E8F", "#D4957A"]
+group["bls_outlook"] = pd.Categorical(group["bls_outlook"], categories=order, ordered=True)
+group = group.sort_values("bls_outlook")
 
 fig, ax = plt.subplots(figsize=(9, 5))
 bars = ax.bar(
-    group["outlook_category"],
+    group["bls_outlook"],
     group["mean"],
     yerr=group["sem"] * 1.96,
-    color=colors,
+    color="#4A9BAF",
     edgecolor="white",
     capsize=6,
     width=0.5,
