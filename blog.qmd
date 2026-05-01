@@ -29,7 +29,7 @@ This blog studies the relationship between occupation level AI exposure, pay, em
 
 The main finding is that AI exposure is strongly associated with higher wages in raw comparisons, but when you add education level into the regression, the AI wage effect shrinks hugely. In contrast, AI exposure remains positively associated with employment levels, while labour demand shows no consistent relationship. The evidence suggests that AI follows skill it doesn't create it. The wage premium you see is really just a skill premium in disguise, AI hasn't made workers richer, AI just happens to be prominent in high paid jobs. 
 
-## Research Questions
+# Research Questions
 
 This blog answers the following question: 
 
@@ -59,7 +59,7 @@ df = pd.read_csv("data/processed/final_analysis_data.csv")
 results = pd.read_csv("output/tables/regression_results.csv")
 ```
 
-## Data
+# Data
 
 The analysis is a combination of five occupation level inputs:
 
@@ -188,7 +188,7 @@ plt.show()
 
 Pay increases strongly with occupational skill. Shown in the graph as average weekly pay more than doubles from around 41,000 dollars at skill level 0 to over 100,000 dollars at skill level 6. This is important because if AI exposure is concentrated in occupations with high education requirements, then the apparent AI wage premium may really be a skill premium.
 
-## Regression Results
+# Regression Results
 
 To test this more formally, I estimate occupation level regressions for wages. The baseline specification includes AI exposure only. I then add the skill measure, and finally an interaction between AI exposure and skill.
 
@@ -233,7 +233,7 @@ styled
 
 In the baseline model a one unit increase in AI exposure is associated with around 22% higher weekly pay which is a substantial difference. The baseline model explains around 30% of wage variation (R²=0.295). However, once skill is added this rises to 52% (R²=0.522). Showing that education level alone accounts for a large share of occupational pay differences. The AI exposure coefficient falls sharply from 0.217 to 0.029 and is no longer statistically significant (p=0.056). Meaning we cannot confidently say AI exposure itself is driving higher wages. Skill on the other hand remains strongly significant with a coefficient of 0.146. This tells us that the pay premium that appears to come with AI exposure is largely explained by the fact that AI exposed occupations tend to require higher levels of education and skill. In other words it isn’t AI exposure which makes a job well paid it is the skill required to do it.
 
-## Robustness Checks
+# Robustness Checks
 
 I use two robustness checks for the wage results.
 
@@ -273,13 +273,13 @@ robust_compare.style.format({"AI Exposure Coefficient": "{:.4f}", "P-Value": "{:
 
 The robustness checks broadly support the main findings. Trimming the top 5% of wages leaves the overall pattern intact, although the controlled AI coefficient remains marginally significant (p=0.021), which suggests a small association with pay. The median regression is more conclusive, once skill is controlled for the AI coefficient falls to just 0.007 and becomes statistically insignificant (p=0.718). Overall, the evidence consistently points to skill rather than AI exposure as the main driver of occupational pay. 
 
-## Interpretation
+# Interpretation
 
 The findings suggest that AI is concentrated in occupations that are already advantaged. These occupations tend to require more education, pay more, and in many cases employ large numbers of workers. However, the wage premium associated with AI exposure is mostly explained by skill rather than by AI exposure itself.
 
 This matters for the economic interpretation. The results support a skill biased allocation story more than a pure complementarity story. AI appears to be associated with high skill work, but the evidence doesn't show that AI independently increases wage returns once occupational skill is taken into account.
 
-## Limitations
+# Limitations
 
 This project has several limitations.
 
@@ -293,7 +293,7 @@ Fourth, labour demand is measured using projected occupational openings rather t
 
 These findings should be interpreted with caution. The data reflects occupational conditions in 2023, a period when AI adoption was still in its early stages. It is possible that the labour market effects of AI exposure will become more pronounced over time as adoption accelerates. The AI exposure scores themselves are also based on 2023 AI capabilities, which have since advanced considerably.
 
-## Machine Learning Evidence
+# Machine Learning Evidence
 
 To complement the regression analysis, I used a Random Forest model to predict log wages from occupation characteristics. Unlike standard regression, Random Forests can capture nonlinear relationships and interactions between features without requiring them to be specified in advance.
 
@@ -326,7 +326,7 @@ plt.show()
 
 Figure 4 reinforces the regression findings. Education level dominates with an importance score of 0.722, followed by job advert intensity at 0.192. AI exposure ranks third at 0.048, which confirms that skill is the main driver of occupational pay. The low importance of the AI skill interaction term also suggests that the effect of AI exposure doesn't vary significantly across skill groups.
 
-## AI Exposure and Job Outlook
+# AI Exposure and Job Outlook
 
 To complement the regression analysis, I scraped job outlook ratings for 342 
 occupations from the BLS Occupational Outlook Handbook using Python's `requests` 
@@ -348,7 +348,7 @@ not predict stronger labour market outcomes. If anything, heavily AI-exposed
 occupations face more stagnant employment prospects, consistent with automation 
 displacing rather than complementing workers in these roles.
 
-## Conclusion
+# Conclusion
 
 This project examines whether occupation level AI exposure is associated with wages, employment, and labour demand in the United States.
 
@@ -360,7 +360,7 @@ From a policy perspective, these findings suggest that interventions aimed at im
 
 Overall, the results suggest that AI is concentrated in high skill, high paying occupations, but does not independently raise wage returns once skill is taken into account. The main implication is that AI may reinforce existing occupational inequalities not because it directly rewards exposure, but because it is most prevalent in occupations that are already skill intensive.
 
-## Replication Note
+# Replication Note
 
 All data cleaning, merging, feature construction, regression analysis, and robustness checks are scripted in the `src/` folder of the GitHub repository. The notebook uses the final processed dataset and saved regression outputs generated by that pipeline.
 
