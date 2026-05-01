@@ -9,7 +9,6 @@ import time
 BASE_URL = "https://www.bls.gov"
 HEADERS = {"User-Agent": "student-research-bot/1.0 (university project)"}
 
-# Navigation pages to exclude
 NAV_SLUGS = {
     "home.htm", "a-z-index.htm", "ooh-site-map.htm",
     "occupation-finder.htm", "ooh-faqs.htm"
@@ -28,7 +27,6 @@ def scrape_ooh_index():
     for a in soup.find_all("a", href=True):
         href = a["href"]
         parts = [p for p in href.split("/") if p]
-        # Real occupation pages: /ooh/category/occupation.htm
         if (len(parts) == 3 and parts[0] == "ooh"
                 and parts[2].endswith(".htm")
                 and parts[2] not in NAV_SLUGS
@@ -75,8 +73,8 @@ def main():
     print(f"Found {len(links)} occupation pages")
 
     results = []
-    for i, item in enumerate(links[:80]):
-        print(f"Scraping {i+1}/{min(80,len(links))}: {item['occupation']}")
+    for i, item in enumerate(links):
+        print(f"Scraping {i+1}/{len(links)}: {item['occupation']}")
         outlook = scrape_occupation(item["url"])
         results.append({
             "occupation_name_bls": item["occupation"],
