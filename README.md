@@ -151,7 +151,8 @@ If any package version fails install without the version number (e.g. pip instal
 
 Then run the following scripts in order:
 
-    python src/00_check_data.py        # Optional: checks raw files are in place
+    python src/00_scrape_bls_outlook.py   # Scrapes 342 BLS Occupational Outlook Handbook pages
+    python src/01_merge_outlook.py        # Fuzzy-matches scraped outlook data to main dataset (174/670 matched)
     python src/01_clean_aioe.py
     python src/02_clean_employment.py
     python src/03_clean_earnings.py
@@ -165,6 +166,10 @@ Then run the following scripts in order:
     python src/11_random_forest.py
     python src/12_figures.py
 
+Then generate the website:
+
+    quarto render blog.qmd --to html
+    cp blog.html index.html
 Then generate the website:
 
    jupyter nbconvert --to html --execute blog.ipynb --output index --ExecutePreprocessor.kernel_name=python3 --no-input
