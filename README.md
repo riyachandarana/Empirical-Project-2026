@@ -140,7 +140,7 @@ If pip fails with an OSError install packages individually:
 	pip install openpyxl==3.1.5
 	pip install scipy==1.13.1
 	pip install beautifulsoup4==4.12.3
-	pip install requests
+	pip install requests==2.32.3
 	pip install jupyter==1.0.0
 	pip install nbconvert==7.16.4
 	pip install plotly==5.24.1
