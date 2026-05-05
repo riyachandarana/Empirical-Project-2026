@@ -1,20 +1,35 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # Mac
 .DS_Store
+._*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Quarto
+.quarto/
+_quarto_header.txt
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# VS Code
+.vscode/
+
+# Anaconda
+anaconda_projects/
 
 # Keep cleaned and processed data for replication
 # data/interim/  -> tracked
 # data/processed/ -> tracked
-
-# Ignore large figures if needed
-
-# Keep regression tables tracked
 # output/tables/ -> tracked
-.ipynb_checkpoints/
-anaconda_projects/
-.ipynb_checkpoints/
-anaconda_projects/
+
+# Local project folder reference
 empirical project 2026/
