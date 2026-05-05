@@ -44,17 +44,22 @@ def main():
     plt.gca().invert_yaxis()
     save_plot(FIGURES / "02_top10_ai_exposed.png")
 
-    plt.figure(figsize=(8, 5))
-    plt.scatter(df["ai_exposure"], df["weekly_pay"], color=PRIMARY, alpha=0.5, edgecolors="white", linewidths=0.3)
-    z = np.polyfit(df["ai_exposure"].dropna(), df["weekly_pay"].dropna(), 1)
-    p = np.poly1d(z)
-    x_line = np.linspace(df["ai_exposure"].min(), df["ai_exposure"].max(), 100)
-    plt.plot(x_line, p(x_line), color=ACCENT, linewidth=2, label="Trend")
-    plt.legend()
-    plt.title("AI Exposure and Weekly Pay", fontsize=13, fontweight="bold")
-    plt.xlabel("AI Exposure", fontsize=11)
-    plt.ylabel("Weekly Pay (USD)", fontsize=11)
-    save_plot(FIGURES / "03_exposure_vs_pay.png")
+    clean = df[["ai_exposure", "weekly_pay"]].dropna()
+z = np.polyfit(clean["ai_exposure"], clean["weekly_pay"], 1)
+p = np.poly1d(z)
+x_line = np.linspace(clean["ai_exposure"].min(), clean["ai_exposure"].max(), 100)
+corr = clean["ai_exposure"].corr(clean["weekly_pay"])
+
+plt.figure(figsize=(8, 5))
+plt.scatter(clean["ai_exposure"], clean["weekly_pay"], color=PRIMARY, alpha=0.5, edgecolors="white", linewidths=0.3)
+plt.plot(x_line, p(x_line), color=ACCENT, linewidth=2, label="Trend")
+plt.annotate(f"r = {corr:.2f}", xy=(0.05, 0.92), xycoords="axes fraction", fontsize=10)
+plt.legend()
+plt.title("AI Exposure and Weekly Pay", fontsize=13, fontweight="bold")
+plt.xlabel("AI Exposure", fontsize=11)
+plt.ylabel("Weekly Pay (USD)", fontsize=11)
+save_plot(FIGURES / "03_exposure_vs_pay.png")
+
 
     plt.figure(figsize=(8, 5))
     plt.scatter(df["ai_exposure"], df["employment_growth"], color=SECONDARY, alpha=0.5, edgecolors="white", linewidths=0.3)
@@ -79,7 +84,6 @@ def main():
     plt.gca().invert_yaxis()
     save_plot(FIGURES / "06_ml_feature_importance.png")
 
-    print(f"Saved figures to {FIGURES}")
 
 if __name__ == "__main__":
     main()
