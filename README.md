@@ -114,11 +114,20 @@ src/          		Python scripts 00–12
 
 **Python version:** 3.12.7
 
+## Quickstart
+To reproduce everything from scratch, run:
+```bash
+bash run_all.sh
+```
+
+This installs dependencies, runs all pipeline scripts in order,
+and renders the blog to index.html.
+
 ### Clone the Repository 
 ```bash
 git clone https://github.com/riyachandarana/Empirical-Project-2026.git
 cd Empirical-Project-2026
-
+```
 
 ## Data Setup
 
@@ -128,9 +137,13 @@ All raw data files are included in data/raw/ (aioe.xlsx, earnings.xlsx, educatio
 
 First install dependencies:
 
+```bash
 pip install -r requirements.txt
-	
+```
+
 If pip fails with an OSError install packages individually:
+
+```bash
 	pip install pandas==2.2.2
 	pip install numpy==1.26.4
 	pip install matplotlib==3.9.2
@@ -145,34 +158,36 @@ If pip fails with an OSError install packages individually:
 	pip install nbconvert==7.16.4
 	pip install plotly==5.24.1
 	pip install mistune==2.0.4
+```
 	
 If any package version fails install without the version number (e.g. pip install requests)
 
 
 Then run the following scripts in order:
 
-    python src/00_scrape_bls_outlook.py   # Scrapes 342 BLS Occupational Outlook Handbook pages
-    python src/01_merge_outlook.py        # Fuzzy-matches scraped outlook data to main dataset (174/670 matched)
-    python src/01_clean_aioe.py
-    python src/02_clean_employment.py
-    python src/03_clean_earnings.py
-    python src/04_clean_labour_demand.py
-    python src/05_clean_education.py
-    python src/06_build_crosswalk.py
-    python src/07_standardise_names.py
-    python src/08_merge_data.py
-    python src/09_features.py
-    python src/10_regression.py
-    python src/11_random_forest.py
-    python src/12_figures.py
+```bash
+python src/00_scrape_bls_outlook.py   # Scrapes 342 BLS Occupational Outlook Handbook pages, might take a while to load
+python src/01_merge_outlook.py        # Fuzzy-matches scraped outlook data to main dataset (174/670 matched)
+python src/01_clean_aioe.py
+python src/02_clean_employment.py
+python src/03_clean_earnings.py
+python src/04_clean_labour_demand.py
+python src/05_clean_education.py
+python src/06_build_crosswalk.py
+python src/07_standardise_names.py
+python src/08_merge_data.py
+python src/09_features.py
+python src/10_regression.py
+python src/11_random_forest.py
+python src/12_figures.py
+```
 
 Then generate the website:
 
-    quarto render blog.qmd --to html
-    cp blog.html index.html
-Then generate the website:
-
-   jupyter nbconvert --to html --execute blog.ipynb --output index --ExecutePreprocessor.kernel_name=python3 --no-input
+```bash
+quarto render blog.qmd --to html
+cp blog.html index.html
+```
 
 ## Version Control
 This project was tracked using Git throughout. All data cleaning, 
