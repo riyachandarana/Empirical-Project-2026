@@ -24,7 +24,7 @@ execute:
 
 
 
-AI is reshaping the economy, the question on many peoples minds is whether they will benefit or lose out.  The answer depends almost entirely on one thing. Not how much AI your job uses, but how much skill it requires. This blog uses data on 670 US occupations to show that AI exposure and high wages go together, but skill is the real driver. It reflects the fact that AI is most prevalent in occupations that were already highly skilled and highly paid long before AI arrived. This blog studies the relationship between occupation level AI exposure, pay, employment, and labour demand in the US. Combining an AI exposure index with labour market data from the Bureau of Labor Statistics (BLS) and education information from the National Employment Matrix. These findings reflect associations rather than causal effects.
+AI is reshaping the economy and the question on many peoples minds is whether they will benefit or lose out.  The answer depends almost entirely on one thing. Not how much AI your job uses, but how much skill it requires. This blog uses data on 670 US occupations to show that AI exposure and high wages go together, but skill is what really drives it all. It reflects the fact that AI is most common in occupations that were already highly skilled and paid long before AI. It aims to study the relationship between occupation level, AI exposure, pay, employment, and labour demand in the US. Combining an AI exposure index with labour market data from the Bureau of Labor Statistics (BLS) and education information from the National Employment Matrix. These findings reflect associations rather than causal effects.
 
 
 # Research Questions
@@ -61,18 +61,18 @@ results = pd.read_csv("output/tables/regression_results.csv")
 
 The analysis is a combination of five occupation level inputs:
 
-1. The AI occupation exposure index provides a measure of how exposed occupational tasks are to AI capabilities. Higher values indicate greater task exposure.
+1. The AI occupation exposure index which provides a measure of how exposed occupational tasks are to AI capabilities. Higher values indicate greater task exposure.
 
-2. BLS occupational employment and wage statistics provide employment levels and median annual pay by occupation.
+2. BLS occupational employment and wage statistics which provide employment levels and median annual pay by occupation.
 
-3. BLS employment projections provide average annual occupational openings, which I used as a measure for labour demand.
+3. BLS employment projections provide average annual occupational openings, which is used as a measure for labour demand.
 
 4. BLS data on entry level education requirements are transformed into an ordinal scale, which serves as a measure of occupational skill.
 
 5. SOC occupation codes are used to align occupations across datasets, which ensures a consistent and accurate merge.
 
 All BLS data and the AI exposure index reflects occupational conditions/AI capabilities in 2023.
-The AI exposure index, developed by Felten, Raj and Seamans (2023), measures the degree to which AI progress in specific capabilities such as language processing, reasoning, and image recognition overlaps with the tasks performed in each occupation.
+The AI exposure index, developed by Felten, Raj and Seamans (2023), measures the degree to which AI progress in specific capabilities such as language processing, reasoning, and image recognition overlaps with the tasks performed in each job.
 
 ```{python}
 import pandas as pd
@@ -87,7 +87,9 @@ summary['Weekly Pay (USD)'] = summary['Weekly Pay (USD)'].round(0).astype(int)
 summary['Employment'] = summary['Employment'].round(0).astype(int)
 summary['Skill Level'] = summary['Skill Level'].round(2)
 
-summary.style.set_caption("Summary Statistics").format({
+summary.style.set_caption("Summary of statistics used").set_table_styles([
+    {'selector': 'caption', 'props': [('font-weight', 'bold'), ('font-size', '14px')]}
+]).format({
     'AI Exposure': '{:.3f}',
     'Weekly Pay (USD)': '{:,.0f}',
     'Employment': '{:,.0f}',
@@ -95,7 +97,7 @@ summary.style.set_caption("Summary Statistics").format({
 }).format(subset=pd.IndexSlice['Count', :], formatter='{:.0f}')
 ```
 
-The dataset contains 670 occupations. AI exposure is standardised with a mean near zero (negative values indicate a below average exposure and positive values indicate an above average exposure). Weekly pay and employment are highly skewed, which motivates the use of log transformations in the regression analysis. Skill level is measured on an ordinal scale from 0( no formal education required) to 6( doctoral degree required).
+The dataset contains 670 occupations. AI exposure is standardised with a mean near zero (negative values indicate a below average exposure and positive values indicate an above average exposure). Weekly pay and employment are highly skewed, which motivates the use of log transformations in the regression analysis. Skill level is measured on an ordinal scale from 0 (no formal education required) to 6 (doctoral degree required).
 
 ```{python}
 quartile_summary = (
@@ -106,7 +108,7 @@ quartile_summary = (
 
 order = ["Low", "Lower-middle", "Upper-middle", "High"]
 
-plt.figure(figsize=(12, 6))
+plt.figure(figsize=(10, 6))
 sns.barplot(data=quartile_summary, x="exposure_quantile", y="weekly_pay", 
             color="#4A9BAF", order=order)
 plt.ylim(0, 100000)
@@ -114,6 +116,7 @@ plt.title("Figure 1: Average Weekly Pay by AI Exposure Group", fontsize=13, font
 plt.xlabel("AI exposure quartile", fontsize=11)
 plt.ylabel("Average weekly pay (USD)", fontsize=11)
 sns.despine()
+plt.xticks(rotation=15, ha='right')
 plt.tight_layout()
 plt.savefig("output/figures/07_pay_by_ai_quartile.png", dpi=300, bbox_inches="tight")
 plt.show()
@@ -121,7 +124,7 @@ plt.show()
 
 *Figure 1: Average Weekly Pay Across AI Exposure Groups. Occupations are divided into quartiles based on their AI exposure level. Source: AI Occupation Exposure Index and BLS OEWS.*
 
-Figure 1 shows a clear stepwise increase in average pay across AI exposure groups, with high exposure occupations earning nearly double that of low exposure ones. This initially looks like strong evidence that AI rewards workers. However this pattern is misleading on its own, high AI exposure jobs also tend to require more education and skill. Due to this we are not able to tell whether it is AI or skill driving the wage difference.
+This shows a clear stepwise increase in average pay across AI exposure groups, with high exposure occupations earning nearly double that of low exposure ones. This initially looks like strong evidence that AI rewards workers but this pattern is misleading on its own as high AI exposure jobs also tend to require more education and skill. Due to this it is hard to tell whether it is AI or skill which is driving the wage differences.
 
 ```{python}
 import plotly.express as px
@@ -163,10 +166,10 @@ fig.show()
 
 *Figure 2: AI Exposure and Log Weekly Pay by Occupation. Each point represents one occupation. The x-axis shows standardised AI exposure (higher values indicate greater exposure) and the y-axis shows log weekly pay in USD. Source: AI Occupation Exposure Index and BLS Occupational Employment and Wage Statistics. Hovering over individual points allows you to see which occupations sit where.*
 
-Figure 2 confirms the raw positive relationship occupations with higher AI exposure scores tend to sit higher on the wage distribution. The upward sloping trend line suggests this is not driven by a handful of outliers but holds broadly across all 670 occupations. However, there is a considerable scatter around the trend line. Many low AI exposure occupations are well paid, and many high AI exposure ones are not. This variation hints that something else most likely skill is doing much of the explanatory work.
+This confirms the raw positive relationship that occupations with higher AI exposure scores tend to sit higher on the wage distribution. The upward sloping trend line suggests this is not driven by a handful of outliers but holds broadly across all 670 occupations. However, there is a considerable scatter around the trend line. Many low AI exposure occupations are well paid and many high AI exposure ones are not. This variation implies that something else (most likely skill) is doing alot of the explanatory work.
 
 # Regression Results
-To test this more formally, I estimate occupation level regressions for wages. The baseline specification includes AI exposure only. I then added the skill measure, and finally an interaction between AI exposure and skill.
+To test this more formally, an estimate on occupation level regressions for wages was taken. The baseline specification includes AI exposure only. Then a skill measure was added, and finally an interaction between AI exposure and skill.
 
 In the baseline model AI exposure is positively associated with pay. However, once skill is included the AI coefficient falls sharply, indicating that much of the baseline wage relationship reflects the fact that high AI occupations are also high skill occupations.
 
@@ -201,6 +204,9 @@ styled = wage_summary.style.format({
     "N": "{:,}"
 })
 styled = styled.set_caption("Wage Regression Results (Full Sample)")
+styled = styled.set_table_styles([
+    {'selector': 'caption', 'props': [('font-weight', 'bold'), ('font-size', '14px')]}
+])
 styled = styled.hide(axis="index")
 styled
 ```
@@ -212,11 +218,11 @@ AI exposure is positively associated with employment levels even after controlli
 
 # Robustness Checks
 
-I use two robustness checks for the wage results:
+ Two robustness checks were used for the wage results:
 
-First, I trimmed the top 5% of occupations by weekly pay, removing outliers such as surgeons and CEOs, to test whether the main findings are driven by a small number of extremely highly paid occupations.
+First, the top 5% of occupations by weekly pay was trimmed, removing outliers such as surgeons and CEOs, to test whether the main findings are driven by a small number of extremely highly paid occupations.
 
-Second, I estimated median regressions. These are less sensitive to skewness in the wage distribution and therefore provide a useful check on whether the baseline results are driven by the upper tail.
+Second, median regressions were estimated. These are less sensitive to skewness in the wage distribution and therefore provide a useful check on whether the baseline results are driven by the upper tail.
 
 Both checks reinforce the main findings. The AI exposure coefficient remains small and statistically insignificant once skill is controlled for regardless of whether outliers are excluded or median regression is used. 
 
@@ -245,6 +251,9 @@ robust_compare["p_value"] = robust_compare["p_value"].round(3)
 robust_compare.columns = ["Specification", "AI Exposure Coefficient", "P-Value"]
 robust_compare.style.format({"AI Exposure Coefficient": "{:.4f}", "P-Value": "{:.3f}"}) \
     .set_caption("Robustness Checks — AI Exposure Coefficient on Log Wages") \
+    .set_table_styles([
+        {'selector': 'caption', 'props': [('font-weight', 'bold'), ('font-size', '14px')]}
+    ]) \
     .hide(axis="index")
 ```
 
@@ -271,7 +280,7 @@ These findings should be interpreted with caution. The data reflects occupationa
 
 # Machine Learning Evidence
 
-To complement the regression analysis, I used a Random Forest model to predict log wages from occupation characteristics. Unlike standard regression, Random Forests can capture nonlinear relationships and interactions between features without requiring them to be specified in advance.
+To complement the regression analysis, a Random Forest model was used to predict log wages from occupation characteristics. Unlike standard regression, Random Forests can capture nonlinear relationships and interactions between features without requiring them to be specified in advance.
 
 The cross validated R² ( a measure of how well the model predicts wages on unseen data) is just below zero meaning the model doesn't reliably predict wages on data it hasn't seen before. This is likely due to the small sample of only 670 occupations, as Random Forests usually require larger samples to generalise well. The feature importance scores remain interpretable despite the predictive accuracy. The real value of this approach is identifying which factors play the biggest role in determining occupational pay without relying on assumptions of standard regression. 
 
@@ -298,13 +307,13 @@ plt.show()
 
 *Figure 3: Random Forest Feature Importance for Predicting Log Wages. Importance scores reflect the average reduction in impurity across all trees. Higher values indicate greater predictive contribution.*
 
-Figure 3 reinforces the regression findings. Education level dominates with an importance score of 0.722, followed by job advert intensity at 0.192. AI exposure ranks third at 0.048, which confirms that skill is the main driver of occupational pay. The low importance of the AI skill interaction term also suggests that the effect of AI exposure doesn't vary significantly across skill groups.
+Reinforcing the regression findings. Education level dominates with an importance score of 0.722, followed by job advert intensity at 0.192. AI exposure ranks third at 0.048, which confirms that skill is the main driver of occupational pay. The low importance of the AI skill interaction term also suggests that the effect of AI exposure doesn't vary significantly across skill groups.
 
 # AI Exposure and Job Outlook
 
 If AI is really complementing workers, we would expect the most AI exposed occupations to also be the ones growing fastest more demand for AI capable workers should mean more hiring.
 
-To test this, I collected job growth ratings for 342 occupations from the BLS Occupational Outlook Handbook, a government resource which predicts whether each occupation will grow, stagnate, or shrink over the next decade. Each occupation is rated as growing "Faster than average", "Slower than average", or showing "Little or no change". These ratings were matched to the main dataset using a text similarity algorithm that links occupation names across sources even if they aren’t worded exactly the same. 174 of the 670 occupations in the sample were successfully matched.
+To test this, job growth ratings for 342 occupations were collected from the BLS Occupational Outlook Handbook, a government resource which predicts whether each occupation will grow, stagnate, or shrink over the next decade. Each occupation is rated as growing "Faster than average", "Slower than average", or showing "Little or no change". These ratings were matched to the main dataset using a text similarity algorithm that links occupation names across sources even if they aren’t worded exactly the same. 174 of the 670 occupations in the sample were successfully matched.
 
 ```{python}
 import pandas as pd
