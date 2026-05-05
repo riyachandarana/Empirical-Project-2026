@@ -1,3 +1,6 @@
+# Development script only it was used to explore raw data structure during setup.
+# Not required for replication, to replicate the analysis start from 00_scrape_bls_outlook.py
+
 import pandas as pd
 from pathlib import Path
 
