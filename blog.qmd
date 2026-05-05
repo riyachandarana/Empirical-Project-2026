@@ -364,6 +364,8 @@ plt.show()
 
 Occupations projected to show "Little or no change" in employment have the highest average AI exposure score (1.15), while the fastest-growing occupations have the lowest (0.16). In other words, the jobs most exposed to AI aren’t the ones adding the most workers they are the ones standing still. This is inconsistent with the view that AI complements rather than substitutes labour. Suggesting that in heavily AI exposed roles, AI may be taking on tasks previously done by workers, reducing the need to hire more people rather than making existing workers more productive.
 
+This is interesting because it comes from BLS forward looking projections rather than cross sectional wage data. Implying that the labour market is beginning to price in the substitution effects of AI in the most exposed occupations. If this pattern continues as AI capabilities advance the jobs most transformed by AI may also be the ones offering the fewest new jobs at entry level.
+
 # Conclusion
 
 
