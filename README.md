@@ -78,32 +78,43 @@ Empirical-Project-2026/
 └── run_all.sh
 ```
 
-# Specifies files excluded from version control
-
 ## How to Replicate
 
-**Python version:** 3.12.7
+## Prerequisites
 
-### Clone the Repository 
+Before cloning ensure the following are installed:
+
+**Python**: https://www.python.org/downloads/release/python-3127/
+**Git**: https://git-scm.com/downloads
+**Quarto**: https://quarto.org/docs/get-started/
+
+## Step 1: Clone the repository:
 ```bash
 git clone https://github.com/riyachandarana/Empirical-Project-2026.git
 cd Empirical-Project-2026
 ```
 
-## Quickstart
+## Step 2: Create a virtual environment
+
+```bash
+# Mac/Linux
+python -m venv venv
+source venv/bin/activate
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+```
+
+## Step 3: Quickstart
 To reproduce everything from scratch, run:
 ```bash
 bash run_all.sh
 ```
-
 This installs dependencies, runs all pipeline scripts in order,
 and renders the blog to index.html.
 
-## Data Setup
-
-All raw data files are included in data/raw/ (aioe.xlsx, earnings.xlsx, education.xlsx, employment.xlsx, labour_demand.xlsx) and will be available when you clone the repository
-
-### Run the data pipeline
+### Step 3 (alternative): Run Manually
 
 First install dependencies:
 
