@@ -6,7 +6,7 @@ pip install -r requirements.txt
 
 echo "Running pipeline..."
 python src/00_scrape_bls_outlook.py
-python src/01_merge_outlook.py
+python src/01b_merge_outlook.py
 python src/01_clean_aioe.py
 python src/02_clean_employment.py
 python src/03_clean_earnings.py
