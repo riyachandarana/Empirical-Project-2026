@@ -84,6 +84,12 @@ Empirical-Project-2026/
 
 **Python version:** 3.12.7
 
+### Clone the Repository 
+```bash
+git clone https://github.com/riyachandarana/Empirical-Project-2026.git
+cd Empirical-Project-2026
+```
+
 ## Quickstart
 To reproduce everything from scratch, run:
 ```bash
@@ -92,12 +98,6 @@ bash run_all.sh
 
 This installs dependencies, runs all pipeline scripts in order,
 and renders the blog to index.html.
-
-### Clone the Repository 
-```bash
-git clone https://github.com/riyachandarana/Empirical-Project-2026.git
-cd Empirical-Project-2026
-```
 
 ## Data Setup
 
