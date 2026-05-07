@@ -2,15 +2,7 @@
 ### Evidence from US labour markets
 
 ## Research Question 
-To what extent is occupation-level AI exposure associated with wages in the US labour market, after accounting for skill differences? What does this imply about whether AI complements or substitutes labour?
-
-## Overview
-
-Recent advances in AI are expected to reshape labour markets, but their impacts may differ across occupations depending on task content. This project examines whether occupations with higher exposure to AI exhibit different wage levels, employment patterns and labour demand. 
-
-The analysis combines an occupation-level AI exposure index with US labour market data from the Bureau of Labor Statistics and education requirements from the National Employment Matrix. The empirical approach is cross-sectional and focuses on identifying associations rather than causal effects.
-
-Importantly, AI exposure reflects the susceptibility of occupational tasks to current AI capabilities rather than realised adoption. The goal is to assess whether AI is more closely associated with high-skill complementarity or labour substitution.
+Are occupations with higher AI exposure better paid and does this relationship survive once occupational skill is taken into account?
 
 ## Website Link
 https://riyachandarana.github.io/Empirical-Project-2026/
@@ -20,22 +12,6 @@ https://riyachandarana.github.io/Empirical-Project-2026/
 
 Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high-skill roles. The relationship with employment and labour demand is ambiguous, as AI may both augment productivity and displace routine labour depending on task composition 
 
-
-## Methodology
-The analysis is conducted at the occupation level using cross-sectional regression models. The baseline specification is:
-
-log(wage)_i = β₀ + β₁ AI_exposure_i + ε_i
-
-where AI exposure is measured using occupation-level indices and wages are measured as median annual earnings.
-
-To account for confounding factors, extended specifications include controls for occupation characteristics such as:
-	- education requirements
-	- occupational group fixed effects
-	- employment size
-
-All results are interpreted as associations rather than causal effects
-
----
 
 ## Data Sources
 
