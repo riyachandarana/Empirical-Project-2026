@@ -282,9 +282,9 @@ The data reflects 2023 conditions, when AI adoption was in its early stages. It 
 
 # Machine Learning Evidence
 
-To complement the regression analysis, a Random Forest model was used to predict log wages from occupation characteristics. Unlike standard regression, Random Forests can capture nonlinear relationships and interactions between features without requiring them to be specified in advance.
+A Random Forest model was used to predict log wages from job properties. However unlike standard regression, Random Forests capture nonlinear relationships and interactions between features without needing them to be specified.
 
-The cross validated R² ( a measure of how well the model predicts wages on unseen data) is just below zero meaning the model doesn't reliably predict wages on data it hasn't seen before. This is likely due to the small sample of only 670 occupations, as Random Forests usually require larger samples to generalise well. The feature importance scores remain interpretable despite the predictive accuracy. The real value of this approach is identifying which factors play the biggest role in determining occupational pay without relying on assumptions of standard regression. 
+The cross validated R² ( a measure of how well the model predicts wages on unseen data) is just under zero meaning the model doesn't reliably predict wages on data it hasn't seen before. Likely due to the small sample of only 670 occupations, Random Forests usually require larger samples to generalise well. The feature importance scores are still explainable despite the predictive accuracy. The real value of this is to identify which factors play the biggest role in determining wages without depending on assumptions of standard regression. 
 
 
 ```{python}
@@ -387,6 +387,6 @@ All data cleaning, merging, feature construction, regression analysis and robust
 
 # References
 
-Felten, E., Raj, M., & Seamans, R. (2023). How will Language Modelers like ChatGPT Affect Occupations and Industries? Working paper, March 2023.
+Felten, E. W., Raj, M., & Seamans, R. (2023). How will Language Modelers like ChatGPT Affect Occupations and Industries? https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375268
 
-Frey, C. and Osborne, M. (2017) 'The Future of Employment: How Susceptible Are Jobs to Computerisation?', Technological Forecasting and Social Change, 114, pp. 254–280.
+Frey, C., & Osborne, M. (2013). The Future of Employment Published by the Oxford Martin Programme on Technology and Employment. https://oms-www.files.svdcdn.com/production/downloads/academic/future-of-employment.pdf
