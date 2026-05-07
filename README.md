@@ -148,7 +148,7 @@ Then run the following scripts in order:
 
 ```bash
 python src/00_scrape_bls_outlook.py   # Scrapes 342 BLS Occupational Outlook Handbook pages, might take a while to load
-python src/01_merge_outlook.py        # Fuzzy-matches scraped outlook data to main dataset (174/670 matched)
+python src/01b_merge_outlook.py        # Fuzzy-matches scraped outlook data to main dataset (174/670 matched)
 python src/01_clean_aioe.py
 python src/02_clean_employment.py
 python src/03_clean_earnings.py
