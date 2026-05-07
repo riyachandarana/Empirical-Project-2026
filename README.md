@@ -10,7 +10,7 @@ https://riyachandarana.github.io/Empirical-Project-2026/
 
 ## Working Hypothesis 
 
-Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high-skill roles. The relationship with employment and labour demand is ambiguous, as AI may both augment productivity and displace routine labour depending on task composition 
+Occupations with higher AI exposure are expected to exhibit higher wages reflecting a concentration of AI exposed tasks in cognitive and high skill roles. The relationship with employment and labour demand is unclear as AI may both increase productivity and replace routine jobs depending on the task 
 
 
 ## Data Sources
@@ -44,7 +44,7 @@ Variable:
 
 ### Data Matching
 
-All datasets are harmonised using SOC occupation codes to ensure consistency across sources. 
+All datasets are matched using SOC occupation codes to ensure consistency across sources. 
 
 ### Pipeline
 
@@ -171,9 +171,8 @@ cp blog.html index.html
 ```
 
 ## Version Control
-This project was tracked using Git throughout. All data cleaning, 
-analysis, and output generation steps were committed incrementally 
+This project was tracked using Git throughout. All data cleaning, analysis and output generation steps were committed incrementally 
 as the project developed.
 
 ### Notes 
-The analysis is cross-sectional and doesn't identify causal effects. AI exposure reflects task susceptibility rather than realised adoption, and labour demand is measured using projected openings rather than real time hiring data.
+The analysis is cross sectional and doesn't identify causal effects. AI exposure reflects task sensitivity rather than adoption and labour demand is measured using projected openings rather than real time hiring data.
