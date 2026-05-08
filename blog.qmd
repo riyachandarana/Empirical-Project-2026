@@ -26,7 +26,7 @@ execute:
 
 
 
-AI is reshaping the economy and the question on many peoples minds is whether they will benefit or lose out.  The answer depends almost entirely on one thing. Not how much AI your job uses, but how much skill it requires. This blog uses data on 670 US occupations to show that AI exposure and high wages go together, but skill is what drives it all. It reflects the fact that AI is most common in occupations that were already highly skilled and paid long before AI. These findings reflect associations rather than causal effects.
+AI is reshaping the economy and the question on many peoples minds is whether they will benefit or lose out.  The answer depends almost entirely on one thing. Not how much AI your job uses but how much skill it requires. This blog uses data on 670 US occupations to show that AI exposure and high wages go together but skill is what drives it all. It reflects the fact that AI is most common in occupations that were already highly skilled and paid long before AI. These findings reflect associations rather than causal effects.
 
 # Research Questions
 
@@ -313,7 +313,7 @@ Reinforcing the regression findings, education level dominates with an importanc
 
 # AI Exposure and Job Outlook
 
-If AI is complementing workers, we would expect the most AI exposed occupations to also be the ones growing fastest, more demand for AI capable workers should mean more hiring.
+If AI is complementing workers we would expect the most AI exposed occupations to also be the ones growing fastest, more demand for AI capable workers should mean more hiring.
 
 To test this, job growth ratings for 342 occupations were collected from the BLS Occupational Outlook Handbook, a government resource which predicts whether each occupation will grow, stagnate or shrink over the next decade. Each occupation is rated as growing "Faster than average", "Slower than average" or "Little or no change". These ratings were matched to the main dataset using a text similarity algorithm linking occupation names across sources even if they aren’t worded exactly the same. 174 out of 670 occupations in the sample matched.
 
