@@ -172,7 +172,7 @@ This confirms the raw positive relationship that occupations with higher AI expo
 
 # Regression Results
 
-To test this more formally, an estimate on occupation level regressions for wages was taken. The baseline includes AI exposure only,  a skill measure was added, and finally an interaction between AI exposure and skill.
+To test this more formally an estimate on occupation level regressions for wages was taken. The baseline includes AI exposure only, a skill measure was added and finally an interaction between AI exposure and skill.
 
 In the baseline model AI exposure is positively associated with pay. However, once skill is included the AI coefficient falls sharply, indicating that much of the baseline wage relationship reflects the fact that high AI occupations are also high skill occupations.
 
@@ -213,7 +213,7 @@ styled = styled.set_table_styles([
 styled = styled.hide(axis="index")
 styled
 ```
-In the baseline model a one unit increase in AI exposure is associated with around 22% higher weekly pay which is a substantial difference. The baseline model explains around 30% of wage variation (R²=0.295). However, once skill is added this rises to 52% (R²=0.522). Showing that education level alone accounts for a large share of occupational pay differences. The AI exposure coefficient falls sharply from 0.217 to 0.029 and is no longer statistically significant (p=0.056). Meaning we cannot confidently say AI exposure itself is driving higher wages. Although skill remains strongly significant with a coefficient of 0.146. Telling us that the pay premium that appears to come with AI exposure is largely explained by AI exposed occupations tending to require higher levels of education and skill. In other words it isn’t AI exposure which makes a job well paid it is the skill required to do it.
+In the baseline model a one unit increase in AI exposure is associated with around 22% higher weekly pay which is a substantial difference. The baseline model explains around 30% of wage variation (R²=0.295). However, once skill is added this rises to 52% (R²=0.522). Showing that education level alone accounts for a large share of pay differences in jobs. The AI exposure coefficient falls from 0.217 to 0.029 and is no longer statistically significant (p=0.056). Meaning we cannot confidently say AI exposure itself is driving higher wages. Although skill remains strongly significant with a coefficient of 0.146. Telling us that the pay premium that appears to come with AI exposure is largely explained by AI exposed occupations tending to require higher levels of education and skill. In other words it isn’t AI exposure which makes a job well paid it is the skill required to do it.
 
 AI exposure is positively associated with employment levels even after controlling for skill (coefficient = 0.473, p < 0.001). Implying that AI exposed occupations aren’t shrinking they still employ large numbers of workers. For labour demand, once skill is controlled for, AI exposure shows no significant relationship with average annual job openings (p = 0.947), suggesting that while AI exposed occupations are large, demand for new workers in these roles is growing no faster than in occupations where AI is minimal.
 
@@ -377,7 +377,7 @@ Alternatively, AI exposure remains positively associated with employment levels,
 
 From a policy perspective, these findings suggest that interventions aimed at improving wages in AI exposed occupations may be more effective if they are targeted at expanding access to education and skill development rather than AI adoption alone. If the wage premium associated with AI is primarily a skill premium, then policies focusing on up skilling workers may do more to reduce occupational inequality than those focused on AI specifically. This conclusion is also supported by the Random Forest analysis which identifies education level as the strongest predictor of pay. 
 
-Overall, the results suggest that AI is concentrated in high skill high paying occupations, but doesn’t independently raise wage returns once skill is taken into account. The main implication is that AI may reinforce existing occupational inequalities not because it directly rewards exposure, but because it is most prevalent in occupations that are already skill intensive.
+Overall, the results suggest that AI is concentrated in high skill high paying occupations but doesn’t independently raise wage returns once skill is taken into account. The main implication is that AI may reinforce existing occupational inequalities not because it directly rewards exposure but because it is most prevalent in occupations that are already skill intensive.
 
 There is growing evidence that AI is beginning to reach into tasks once considered safely human. If that extends to lower skill occupations, the wage and employment patterns discussed above could look very different within a decade. The workers who currently sit outside the AI exposure distribution may find themselves inside it without the education levels that have so far meant high skill workers gain from AI rather than lose to it.  
 
